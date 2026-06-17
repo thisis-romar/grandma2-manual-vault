@@ -1,0 +1,106 @@
+name: Sync Branches
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  # ── github-browse: convert [[wikilinks]] → relative markdown links ──────────
+  github-browse:
+    name: Update github-browse branch
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install extractor deps
+        run: |
+          cd scripts
+          npm ci
+
+      - name: Convert wikilinks
+        run: node scripts/convert-links.js .
+
+      - name: Push to github-browse
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Orphan branch or force-push converted content
+          git checkout --orphan github-browse-tmp
+          git add -A
+          git commit -m "ci: sync github-browse from main [$(git rev-parse --short HEAD main)]"
+
+          git push origin HEAD:github-browse --force
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  # ── gh-pages: build Quartz static site ─────────────────────────────────────
+  gh-pages:
+    name: Build and deploy Quartz site
+    runs-on: ubuntu-latest
+    needs: github-browse
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Clone Quartz
+        run: |
+          git clone --depth 1 https://github.com/jackyzha0/quartz.git _quartz
+
+      - name: Install Quartz deps
+        run: |
+          cd _quartz
+          npm ci
+
+      - name: Copy vault into Quartz content
+        run: |
+          rm -rf _quartz/content
+          mkdir -p _quartz/content
+          # Copy everything except scripts, .github, .obsidian internals
+          rsync -a \
+            --exclude='.git' \
+            --exclude='.github' \
+            --exclude='scripts' \
+            --exclude='_quartz' \
+            --exclude='.obsidian' \
+            . _quartz/content/
+
+      - name: Configure Quartz (title + base URL)
+        run: |
+          cd _quartz
+          # Patch quartz.config.ts with vault identity
+          sed -i \
+            "s/pageTitle: .*/pageTitle: \"grandMA2 Manual Vault\",/" \
+            quartz.config.ts || true
+
+      - name: Build Quartz
+        run: |
+          cd _quartz
+          npx quartz build
+
+      - name: Deploy to gh-pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./_quartz/public
+          publish_branch: gh-pages
+          force_orphan: true
