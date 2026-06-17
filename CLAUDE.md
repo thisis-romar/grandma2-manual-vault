@@ -133,3 +133,21 @@ Populated by `npm run stats` after extract. Updated in README.md.
 | `gh-pages` | Auto-generated — Quartz static site |
 
 Both `github-browse` and `gh-pages` update automatically when `main` is pushed.
+
+### Build notes / gotchas
+
+- **Quartz is pinned to `v4.5.2`** in `.github/workflows/sync.yml` (gh-pages job). Quartz **v5**
+  dropped the clone-and-build model this workflow uses (`quartz.config.ts` / `.quartz/plugins`
+  are now scaffolded by `npx quartz create`), so a bare clone of `main` breaks `npx quartz build`.
+  Do **not** un-pin without reworking the job to the `npx quartz create` flow. The workflow runs
+  on **Node 22** (Quartz's engine requirement).
+- **`github-browse` link conversion** (`scripts/convert-links.js`) resolves wikilinks by
+  vault-root-relative path, then case-insensitively. Notes use **path-qualified** links
+  (`[[Sections/Networking]]`, `[[Pages/.../Note]]`); bare links are only the root `[[000 …]]`
+  index files.
+- **`npm run audit`** (`scripts/audit.js`) is a read-only conformance check against this SOP:
+  it reports unresolved wikilinks, structure/`type`-vs-location mismatches, missing required
+  frontmatter, and missing source-callout / nav-footer conventions. Run it after any extract.
+  (Known open issues: ~831 cross-reference links — mostly `key → [[Keywords/<label>]]` and
+  some page prev/next — point at non-existent note names from `extract.js`; ~374 pages lack
+  `ma2_section`/`depth`. These are generation-level and tracked for a future `extract.js` pass.)

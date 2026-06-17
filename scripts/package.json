@@ -7,6 +7,7 @@
     "obsidian": "node extract.js",
     "extract": "node extract.js",
     "links": "node convert-links.js",
+    "audit": "node audit.js",
     "stats": "node stats.js"
   },
   "dependencies": {

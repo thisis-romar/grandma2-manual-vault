@@ -3,6 +3,12 @@
  * Converts Obsidian [[wikilinks]] → relative markdown links [text](path)
  * for the github-browse branch.
  *
+ * Resolution order (Obsidian-compatible):
+ *   1. exact vault-root-relative path  ([[Sections/Networking]] -> Sections/Networking.md)
+ *   2. case-insensitive path match     ([[…/Executor pages]] -> …/Executor Pages.md)
+ * Unresolved links are logged (so broken vault data is visible) and emitted as a
+ * best-effort dead link rather than silently mangled.
+ *
  * Usage: node convert-links.js [vault-root]
  * Called by .github/workflows/sync.yml on push to main.
  */
@@ -15,38 +21,51 @@ const VAULT_ROOT = process.argv[2]
   ? path.resolve(process.argv[2])
   : path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 
-// Build a filename → relative path index from vault root
+// Build vault-root-relative path indexes (key = path without .md, forward-slashed).
+// Path-qualified wikilinks ([[Sections/Networking]]) and bare root links
+// ([[000 Map of Content]]) both resolve against these.
 async function buildIndex(vaultRoot) {
-  const index = new Map(); // "Note Title" → "Folder/Note Title.md"
+  const exact = new Map(); // "Sections/Networking" -> "Sections/Networking.md"
+  const ci = new Map();    // lowercased key -> relPath (first occurrence wins)
   async function walk(dir, rel) {
     const entries = await fs.readdir(dir, { withFileTypes: true });
     for (const e of entries) {
-      const fullPath = path.join(dir, e.name);
-      const relPath = path.join(rel, e.name);
+      const relPath = rel ? `${rel}/${e.name}` : e.name;
       if (e.isDirectory()) {
-        if (!e.name.startsWith('.')) await walk(fullPath, relPath);
+        if (!e.name.startsWith('.')) await walk(path.join(dir, e.name), relPath);
       } else if (e.name.endsWith('.md')) {
-        const key = e.name.replace('.md', '');
-        index.set(key, relPath);
+        const key = relPath.replace(/\.md$/, '');
+        exact.set(key, relPath);
+        const lc = key.toLowerCase();
+        if (!ci.has(lc)) ci.set(lc, relPath);
       }
     }
   }
   await walk(vaultRoot, '');
-  return index;
+  return { exact, ci };
 }
+
+let unresolved = 0;
 
 function convertWikilinks(content, currentRelPath, index) {
   const currentDir = path.dirname(currentRelPath);
 
   return content.replace(/\[\[([^\]]+)\]\]/g, (match, inner) => {
-    // Handle [[Note|Alias]] syntax
-    const [note, alias] = inner.split('|');
-    const displayText = alias || note;
+    // [[Note|Alias]] and [[Note#Heading]] handling
+    const [rawNote, alias] = inner.split('|');
+    const [noteOnly, anchor] = rawNote.split('#');
+    const note = noteOnly.trim();
+    const displayText = (alias || rawNote).trim();
 
-    const target = index.get(note.trim());
-    if (!target) return `[${displayText}](./${note.trim()}.md)`; // best-effort
+    let target = index.exact.get(note) || index.ci.get(note.toLowerCase());
+    if (!target) {
+      unresolved++;
+      console.warn(`  [warn] unresolved: ${currentRelPath} -> [[${inner}]]`);
+      return `[${displayText}](./${note}.md${anchor ? `#${anchor}` : ''})`; // best-effort
+    }
 
-    const relTarget = path.relative(currentDir, target).replace(/\\/g, '/');
+    let relTarget = path.relative(currentDir, target).replace(/\\/g, '/');
+    if (anchor) relTarget += `#${anchor}`;
     return `[${displayText}](${relTarget})`;
   });
 }
@@ -54,7 +73,7 @@ function convertWikilinks(content, currentRelPath, index) {
 async function processVault() {
   console.log(`Converting wikilinks in: ${VAULT_ROOT}`);
   const index = await buildIndex(VAULT_ROOT);
-  console.log(`  Index built: ${index.size} notes`);
+  console.log(`  Index built: ${index.exact.size} notes`);
 
   let count = 0;
 
@@ -62,7 +81,7 @@ async function processVault() {
     const entries = await fs.readdir(dir, { withFileTypes: true });
     for (const e of entries) {
       const fullPath = path.join(dir, e.name);
-      const relPath = path.join(rel, e.name);
+      const relPath = rel ? `${rel}/${e.name}` : e.name;
       if (e.isDirectory()) {
         if (!e.name.startsWith('.')) await walk(fullPath, relPath);
       } else if (e.name.endsWith('.md')) {
@@ -78,6 +97,7 @@ async function processVault() {
 
   await walk(VAULT_ROOT, '');
   console.log(`  Converted ${count} files with wikilinks.`);
+  if (unresolved) console.log(`  ${unresolved} unresolved wikilink(s) emitted as best-effort dead links (see warnings; run "npm run audit").`);
 }
 
 processVault().catch(e => { console.error(e); process.exit(1); });

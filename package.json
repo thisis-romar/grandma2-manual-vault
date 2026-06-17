@@ -8,6 +8,7 @@
     "obsidian":      "cd scripts && npm ci && node extract.js",
     "extract":       "cd scripts && npm ci && node extract.js",
     "links":         "cd scripts && node convert-links.js ..",
+    "audit":         "cd scripts && node audit.js ..",
     "stats":         "cd scripts && node stats.js",
     "moc":           "cd scripts && node generate-moc.js"
   },

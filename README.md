@@ -38,9 +38,11 @@ Open Obsidian → "Open folder as vault" → select the cloned folder.
 npm run obsidian      # full extract (scrapes MA help, generates all notes)
 npm run stats         # print node counts
 npm run moc           # rebuild 000 Map of Content only
+npm run audit         # read-only conformance check (links, structure, frontmatter)
 ```
 
-Requires Node 18+.
+Extractor requires Node 18+. The `sync.yml` workflow (github-browse + Quartz gh-pages site)
+runs on Node 22, and Quartz is pinned to v4.5.2 — see `CLAUDE.md` → Branch structure.
 
 ---
 
