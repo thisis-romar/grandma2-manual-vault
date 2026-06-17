@@ -53,7 +53,9 @@ let unresolved = 0;
 function convertWikilinks(content, currentRelPath, index) {
   const currentDir = path.dirname(currentRelPath);
 
-  return content.replace(/\[\[([^\]]+)\]\]/g, (match, inner) => {
+  // Lazy inner match so targets containing single ] (e.g. "+ [Plus] keyword",
+  // "Square Brackets [ ] Character") are captured, not truncated at the first ].
+  return content.replace(/\[\[(.+?)\]\]/g, (match, inner) => {
     // [[Note|Alias]] and [[Note#Heading]] handling
     const [rawNote, alias] = inner.split('|');
     const [noteOnly, anchor] = rawNote.split('#');

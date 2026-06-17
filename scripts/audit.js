@@ -104,7 +104,9 @@ async function main() {
     if (!files.includes(moc)) findings.structure.push(`MISSING MOC FILE: ${moc}`);
   }
 
-  const wikiRe = /\[\[([^\]]+)\]\]/g;
+  // Lazy inner match so targets containing single ] (bracketed special-char
+  // keyword names) are scanned too — a [^\]]+ class silently skips them.
+  const wikiRe = /\[\[(.+?)\]\]/g;
 
   for (const f of files) {
     const raw = await fs.readFile(path.join(VAULT_ROOT, f), 'utf8');
