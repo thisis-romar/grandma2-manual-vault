@@ -9,21 +9,12 @@
     "links": "node convert-links.js",
     "audit": "node audit.js",
     "stats": "node stats.js",
-    "analytics": "node analytics.js",
-    "semantics": "node semantics.js",
-    "topics": "node nlp.js",
-    "viz": "node viz.js",
-    "graph": "node graph.js",
-    "db": "node db.js",
-    "db:import": "node db.js import",
-    "db:summary": "node db.js summary",
+    "migrate:links": "node migrate-internal-links.js",
     "test": "node --test"
   },
   "dependencies": {
-    "better-sqlite3": "^12.11.1",
     "cheerio": "^1.0.0",
     "gray-matter": "^4.0.3",
-    "neo4j-driver": "^6.1.0",
     "p-limit": "^6.1.0",
     "slugify": "^1.6.6",
     "turndown": "^7.2.0"

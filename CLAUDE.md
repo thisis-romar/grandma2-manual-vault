@@ -88,17 +88,9 @@ QuickStart/          — ~20 Quick Start Guide notes (type: quick-start)
 
 ---
 
-## grandPA2-buddy RAG integration
+## Known gotchas
 
-These notes are the primary knowledge source for the `ma2-onPC-MCP` RAG pipeline.
-
-**Priority tiers for embedding/retrieval:**
-1. **Tier 1 (embed always):** `Keywords/` — all CLI keyword notes
-2. **Tier 2 (embed always):** `Pages/Command Syntax and Keywords/`, `Pages/Presets/`, `Pages/Cues and Sequences/`, `Pages/Executors/`, `Pages/Patching/`
-3. **Tier 3 (embed on demand):** All remaining `Pages/` and `Sections/`
-4. **Tier 4 (skip):** `Keys/` (physical hardware, low RAG value)
-
-**Known gotchas captured in notes:**
+Captured directly in the notes:
 - `Fixture` shortcut = `F`, NOT `Fix` (Fix = freeze/lock)
 - `/global` flag is case-sensitive — not `/Global`, not `/g`
 - `List Preset` "Special=Normal" does NOT indicate Selective after `/global` store
@@ -131,27 +123,21 @@ Populated by `npm run stats` after extract. Updated in README.md.
 
 ---
 
-## Analysis tooling (`scripts/`)
+## Tooling (`scripts/`)
 
-MA2-domain refactor of the `linkedin-learning-extractor` analytics/graph stack
-(no-analog features — instructors, skills, durations, video timestamps — dropped).
-All read the vault via `lib/vault.js` (`loadVault`, `stripBoilerplate`) and run
-in-memory; output goes to the **gitignored** `analytics/`.
+This repository is a **self-contained knowledge resource**: the scripts here only
+build, link, and validate the notes — there is no analytics, graph, or retrieval
+layer in the vault itself.
 
-- `semantics.js` (`npm run semantics`) — MA2 command syntax: prompt examples
-  (`[Channel]> …`), keyword-led inline-code commands, `/flags`, keyword usage.
-- `analytics.js` (`npm run analytics <summary|topics|similar <note>|orphans>`) —
-  counts/link-density/orphans, pages-per-section, Jaccard similarity (MOC links
-  excluded so overlap is meaningful).
-- `nlp.js` (`npm run topics`) — local term+keyword topics; optional `openai`
-  provider via fetch (`NLP_PROVIDER=openai`, no SDK).
-- `viz.js` (`npm run viz`) — standalone `analytics/graph.html` (vis-network CDN).
-- `db.js` (`npm run db <import|summary|search <q>|similar <note>|orphans>`) — SQLite
-  catalog (`better-sqlite3`) in `analytics/vault.db` with an **FTS5** full-text index.
-- `graph.js` (`npm run graph <search|similar|index|serve|cypher>`) — in-memory search +
-  HTTP API (:3100). **Optional Neo4j** (`neo4j-driver`, gated on `NEO4J_URI`/
-  `NEO4J_PASSWORD`): `index` loads the graph, `search` queries its full-text index;
-  `cypher` exports a loadable script. See `docker-compose.yml`.
+- `extract.js` (`npm run obsidian`) — scrape the grandMA2 manual and generate the vault.
+- `convert-links.js` (`npm run links`) — rewrite `[[wikilinks]]` to relative markdown
+  links for the `github-browse` branch.
+- `generate-moc.js` (`npm run moc`) — regenerate the Map of Content / indexes.
+- `stats.js` (`npm run stats`) — write live note counts into `README.md`.
+- `migrate-internal-links.js` (`npm run migrate:links`) — one-shot: rewrite any raw
+  internal `key_*.html` body links to `[[wikilinks]]`.
+- `audit.js` (`npm run audit`) — read-only conformance check (unresolved wikilinks,
+  raw internal links, structure / `type`-vs-location / frontmatter / convention issues).
 
 Dev tooling: ESLint + Prettier (vault markdown excluded via `.prettierignore`),
 Husky (pre-commit lint-staged, commit-msg commitlint, pre-push test+audit), all
