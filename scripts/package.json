@@ -13,6 +13,7 @@
     "semantics": "node semantics.js",
     "topics": "node nlp.js",
     "viz": "node viz.js",
+    "graph": "node graph.js",
     "test": "node --test"
   },
   "dependencies": {

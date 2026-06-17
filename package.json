@@ -15,6 +15,7 @@
     "semantics":     "cd scripts && node semantics.js",
     "topics":        "cd scripts && node nlp.js",
     "viz":           "cd scripts && node viz.js",
+    "graph":         "cd scripts && node graph.js",
     "test":          "cd scripts && node --test"
   },
   "keywords": ["obsidian", "grandma2", "lighting-console", "knowledge-graph", "ma2"],
