@@ -25,7 +25,7 @@ You can also type **Record** or the shortcut **Rec** in the command line.
 
 ## Description
 
-The Record keyword records real time actions as timecodes or macros. For more information, see [record a timecode show](key_timecode_record.html) or [record a macro](key_macro_record.html).
+The Record keyword records real time actions as timecodes or macros. For more information, see [[Pages/Timecode/Record a Timecode Show|record a timecode show]] or [[Pages/Macros/Record a macro|record a macro]].
 
 It toggles between start and stop.
 

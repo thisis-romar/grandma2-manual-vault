@@ -27,7 +27,7 @@ Version 3.9
 
 This section describes some of the more advanced functions regarding the executors.
 
-If you have not read the [Executors](key_exec.html) section, then please have a look at it for the more common uses and details on how to use sequences with executors.
+If you have not read the [[Sections/Executors]] section, then please have a look at it for the more common uses and details on how to use sequences with executors.
 
   
 
@@ -35,11 +35,11 @@ If you have not read the [Executors](key_exec.html) section, then please have a 
 
 #### Sub topics
 
-*   [Executor pages](key_adv_exec_pages.html)
-*   [Channel pages](key_adv_exec_ch_pages.html)
-*   [Executor options](key_adv_exec_options.html)
-*   [Masters window](key_adv_exec_master_window.html)
-*   [Special masters](key_adv_exec_spec_master.html)
+*   [[Pages/Advanced Executor Functionality/Executor Pages|Executor pages]]
+*   [[Pages/Advanced Executor Functionality/Channel Pages|Channel pages]]
+*   [[Pages/Advanced Executor Functionality/Executor Options|Executor options]]
+*   [[Pages/Advanced Executor Functionality/Masters Window|Masters window]]
+*   [[Pages/Advanced Executor Functionality/Special Masters|Special masters]]
 
 ## Pages in This Section
 

@@ -30,11 +30,11 @@ A fixture has at least one **Module** and one **Instance** of this module. There
 
 There might be different modules in the same fixture, for instance a LED moving head might have a "main" module with pan/tilt, zoom, master intensity, and then several RGB modules for different sections of the head.
 
-The modules contains a list of different **Attributes** that are mapped to DMX channels. The modules are added and defined in the [Module Manager](key_adv_fixture_anatomy_modules.html). The module amount and possible physical relationship between the modules is defined in the [Instance Manager](key_adv_fixture_anatomy_instance.html).
+The modules contains a list of different **Attributes** that are mapped to DMX channels. The modules are added and defined in the [[Pages/Advanced Fixture Types/Module Manager]]. The module amount and possible physical relationship between the modules is defined in the [[Pages/Advanced Fixture Types/Instance Manager]].
 
-Inside a module there might be different **Wheels**. A wheel can be color wheels, gobo wheels, animation wheels, or other types of wheels. A color scroller is also often defined as a wheel even though it technically is a roll. All the wheels are defined in the [Wheel Manager](key_adv_fixture_anatomy_wheel.html).
+Inside a module there might be different **Wheels**. A wheel can be color wheels, gobo wheels, animation wheels, or other types of wheels. A color scroller is also often defined as a wheel even though it technically is a roll. All the wheels are defined in the [[Pages/Advanced Fixture Types/Wheel Manager]].
 
-Fixtures can be build or modified in the grandMA2 software. It is possible to import downloaded fixture types. Please read the [Adding fixtures to the show topic](key_patch_add_fixtures.html) for information about this.
+Fixtures can be build or modified in the grandMA2 software. It is possible to import downloaded fixture types. Please read the [[Pages/Patching/Adding fixtures to the show|Adding fixtures to the show topic]] for information about this.
 
 Everything about the fixture types are done in the **Fixture Types Editor**. Open it by pressing Setup then tap Patch & Fixture Schedule followed by taping the Fixture Types button on the top right corner.
 
@@ -44,9 +44,9 @@ This is a list of the fixtures in the show file. Tapping a fixture in the list a
 
 Module view in the fixture type editor
 
-Here is a view of the first module of the fixture. There are four buttons on the right side of this editor. The top three open the three managers mentioned above. The bottom button on the right side opens the RDM Notification - Read about RDM and creating notifications in the [Configure RDM Notifications topic](key_rdm_notifications.html).
+Here is a view of the first module of the fixture. There are four buttons on the right side of this editor. The top three open the three managers mentioned above. The bottom button on the right side opens the RDM Notification - Read about RDM and creating notifications in the [[Pages/RDM/Configure RDM notifications|Configure RDM Notifications topic]].
 
-There are some buttons at the bottom of the editor. There are buttons to Add and Delete rows in the different sections in the editor. Edit Row opens the editor for the selected row, it goes "into" the row. Read below for more information about this. The Enable XYZ and Disable XYZ is used to control if the fixture can use [XYZ programming](key_xyz.html). Diagnostic opens a pop-up that shows errors or warnings for the selected element. In the lower right corner there can be up to four different arrow buttons. Up and Down arrows will move up and down in the rows. Left and Right arrows will change between different elements. The elements can be modules or when editing a row it can change between different row in the upper level (read more below).
+There are some buttons at the bottom of the editor. There are buttons to Add and Delete rows in the different sections in the editor. Edit Row opens the editor for the selected row, it goes "into" the row. Read below for more information about this. The Enable XYZ and Disable XYZ is used to control if the fixture can use [[Sections/XYZ|XYZ programming]]. Diagnostic opens a pop-up that shows errors or warnings for the selected element. In the lower right corner there can be up to four different arrow buttons. Up and Down arrows will move up and down in the rows. Left and Right arrows will change between different elements. The elements can be modules or when editing a row it can change between different row in the upper level (read more below).
 
 Grayed out buttons do not have any functions.
 
@@ -66,7 +66,7 @@ There are several columns in this part of the editor. This is a short descriptio
     _Select an attribute for the module_
     
       
-    This is a long list of all the existing attributes in the show. The list can be edited in the [Attribute & Encoder Grouping](key_adv_fixture_attribute_encoder_grouping.html).
+    This is a long list of all the existing attributes in the show. The list can be edited in the [[Pages/Advanced Fixture Types/Attribute & Encoder Grouping]].
 *   **Break**:  
     Breaks are used if a fixture needs more than one start address.  
     This could be a LED bar with four individually LED instances build in one fixture. Each instance can be address on the back of the fixture, thus there need to be four different DMX start addresses for the fixture. This would be four different DMX breaks.  
@@ -83,9 +83,9 @@ There are several columns in this part of the editor. This is a short descriptio
 *   **Highlight**:  
     This value is used when the **Highlight** function is activated.
 *   **Stage**:  
-    This value is used, if the "Output Stage Value" function is activated in the [Calibrate menu](key_patch_autocalibrate.html). This could be values that makes the fixtures open in full output in open white and with a narrow beam.
+    This value is used, if the "Output Stage Value" function is activated in the [[Pages/Patching/Auto-calibrate fixture positions|Calibrate menu]]. This could be values that makes the fixtures open in full output in open white and with a narrow beam.
 *   **Snap**:  
-    Snap can be turned On. If it is then the attribute will not fade between values - it will jump directly to the new value. When this jump is performed is controlled by the **Snap Percent** value in the cues ([Sequence Executor Sheet](key_cs_cue_sequence.html)).
+    Snap can be turned On. If it is then the attribute will not fade between values - it will jump directly to the new value. When this jump is performed is controlled by the **Snap Percent** value in the cues ([[Pages/Command Syntax and Keywords/Looking at the Cue Sequence|Sequence Executor Sheet]]).
 *   **Invert**:  
     Invert can be turned On. When it is On it will invert the DMX output for the channel.
 *   **React to Master**:  
@@ -95,7 +95,7 @@ There are several columns in this part of the editor. This is a short descriptio
 *   **MIB Fade**:  
     This time is used when this attribute is changing values by the move in black feature. The "Default" value means that it will use the time specified in the Setup -> Show -> Playback  MIB Timing.
 *   **Profile**:  
-    DMX profiles can be added to an attribute. Editing this opens the Select DMX Profile pop that will list all the existing profiles. Profiles can be added or edited in the Graph Editor - read about it in the [DMX Profiles section](key_dmx_profiles.html).
+    DMX profiles can be added to an attribute. Editing this opens the Select DMX Profile pop that will list all the existing profiles. Profiles can be added or edited in the Graph Editor - read about it in the [[Sections/DMX Profiles|DMX Profiles section]].
 *   **Mode**:  
     This indicates if the attribute is depended of a different attribute. Read more about Mode channels [below](#mode_channels).
 *   **React to DIM**:  
@@ -115,7 +115,7 @@ There are several columns in this part of the editor. This is a short descriptio
     This can be turned On. It completely changes the function of the attribute. It will make the value count up each time a cue is triggered in a sequence. This function can be used by some media servers to detect a cue change.
 
 **Hint:**  
-More modules can be added in the [Module Manager](key_adv_fixture_anatomy_modules.html).
+More modules can be added in the [[Pages/Advanced Fixture Types/Module Manager]].
 
 Editing one of the row will move "into" the channel and the editor changes to match. Keep reading for details on the editor for channels.
 
@@ -134,11 +134,11 @@ _Edit channels of modules_
 *   **No.**:  
     This is an internal row number. It cannot be changed.
 *   **SubAttrib**:  
-    Here the subattribute is defined. Editing this cell will open a pop-up much like the **Select Attribute** shown above, but instead it is **Select Subattribute**. Subattributes are defined in the [Attribute & Encoder Grouping](key_adv_fixture_attribute_encoder_grouping.html).
+    Here the subattribute is defined. Editing this cell will open a pop-up much like the **Select Attribute** shown above, but instead it is **Select Subattribute**. Subattributes are defined in the [[Pages/Advanced Fixture Types/Attribute & Encoder Grouping]].
 *   **Name**:  
     This is the name that will be displayed as a tap in the calculator pop-up when editing the value of the attribute.
 *   **Wheel**:  
-    Here it is possible to attach a wheel to the subattribute. Editing this cell will open the **Select Wheel** pop-up that lists the different defined wheels. Wheels can be defined in the [Wheel Manager](key_adv_fixture_anatomy_wheel.html).
+    Here it is possible to attach a wheel to the subattribute. Editing this cell will open the **Select Wheel** pop-up that lists the different defined wheels. Wheels can be defined in the [[Pages/Advanced Fixture Types/Wheel Manager]].
 *   **From**:  
     This value is being shown on the encoders if the sheet readout is "Natural". This is the first or lowest values. This is often "0" or the minimum value for the attribute. It can make sense to defined this values as a negative values for pan and tilt attributes - often half of the complete rotation for instance "-270". 
 *   **To**:  
@@ -168,7 +168,7 @@ Each of the rows here can be edited to add **Channel Sets**.
 
 **Channel Sets** are specific DMX values or ranges of values that has a name.
 
-The channel sets are the basis for information when auto creating presets. The channel sets are shortcuts to easy access to the values. The names are displayed in Fixture Sheets, Channel Sheets, and other places where the attribute values is displayed. The channel sets are also displayed and selectable in the [Smart Window](key_of_smart_view.html).
+The channel sets are the basis for information when auto creating presets. The channel sets are shortcuts to easy access to the values. The names are displayed in Fixture Sheets, Channel Sheets, and other places where the attribute values is displayed. The channel sets are also displayed and selectable in the [[Pages/Operate Fixtures/Using The Smart View|Smart Window]].
 
 When a row is edited in the Channel Editor, it changes to edit the channel sets. It would look like this:
 
@@ -191,7 +191,7 @@ Each row here is a channel set whit a defined values range. The columns have cha
 *   **To DMX**:  
     This is the last (highest) DMX value of the channel set. It can be the same number in the **From DMX**, then it only this specific value that represents the channel set. This is relevant for many sets like the maximum value for an attribute.
 *   **Slot No**:  
-    If the subattribute has a wheel attached, then the slot number in the wheel can be typed here. Read more about wheels in the [Wheel Manager](key_adv_fixture_anatomy_wheel.html).
+    If the subattribute has a wheel attached, then the slot number in the wheel can be typed here. Read more about wheels in the [[Pages/Advanced Fixture Types/Wheel Manager]].
 *   **From Phys**:  
     For some attributes it makes sense to also add physical values. It can be the a specific strobe frequency, a revolution value, or as the example above a way to set a rotation range for a wheel. This is the lowest physical value.
 *   **To Phys**:  
@@ -235,9 +235,9 @@ Virtual attributes are often dimmer attributes that acts as virtual master inten
 
 #### Sub topics
 
-*   [Module manager](key_adv_fixture_anatomy_modules.html)
-*   [Instance manager](key_adv_fixture_anatomy_instance.html)
-*   [Wheel manager](key_adv_fixture_anatomy_wheel.html)
+*   [[Pages/Advanced Fixture Types/Module Manager|Module manager]]
+*   [[Pages/Advanced Fixture Types/Instance Manager|Instance manager]]
+*   [[Pages/Advanced Fixture Types/Wheel Manager|Wheel manager]]
 
 [[Pages/Advanced Fixture Types/Attribute & Encoder Grouping]] →
 

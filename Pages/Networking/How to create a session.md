@@ -34,11 +34,11 @@ Next you will need to select a **session number** that is not already used. Vali
 
 You can also give your session a **name**. This can be very useful in networks with more than one session. If you do not specify a session name, then the name from the show file is used.
 
-A session can also have a **password**. Please read the [Protect the session and your station](key_network_session_protect.html) topic to learn more about this.
+A session can also have a **password**. Please read the [[Pages/Networking/Protecting the session and station|Protect the session and your station]] topic to learn more about this.
 
 Now you can tap the Create Session button.
 
-Your station will create a session and upload the show file to all devices that are linked to your session. Read more about this in the [Adding devices to your session](key_network_session_add_device.html).
+Your station will create a session and upload the show file to all devices that are linked to your session. Read more about this in the [[Pages/Networking/Adding devices to the session|Adding devices to your session]].
 
 [[Pages/Networking/Protecting the session and station]] →
 

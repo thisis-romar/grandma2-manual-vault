@@ -34,7 +34,7 @@ The syntax is:
 
 **Search \[**search for objects\] ( **At** \[search values\] ) **If \[**search in objects\]
 
-The [Search keyword](key_keyword_search.html) has a description of how it is used and some nice examples. The Search command can be reached by pressing and holding the ![ma](../../img/ma_1.png) key while pressing the Move key.
+The [[Keywords/Search|Search keyword]] has a description of how it is used and some nice examples. The Search command can be reached by pressing and holding the ![ma](../../img/ma_1.png) key while pressing the Move key.
 
 ## Searching for values
 
@@ -62,7 +62,7 @@ The title bar of the **Search** pop-up has some special buttons - besides the tw
 *   **Selfix Search Result**:  
     This will take any fixtures represented in the search result as a selection.
 *   **World Search Result**:  
-    This will create a hidden world with the fixtures and attributes in the search result. This world can also be accessed using the [SearchResult command.](key_keyword_searchresult.html)
+    This will create a hidden world with the fixtures and attributes in the search result. This world can also be accessed using the [[Keywords/SearchResult|SearchResult command.]]
 *   **Save**:  
     Tapping this button will open the browser pop-up that allows you to select a location to save a text file (txt) with the result.
 *   **Load**:  

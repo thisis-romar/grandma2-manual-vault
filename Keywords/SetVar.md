@@ -23,7 +23,7 @@ To go to the SetVar keyword, type **SetVar** in the command line or use the shor
 
 ## Description
 
-The SetVar keyword sets global show variables. Every user profile can use these variables. For more information, see [Macros - Use Variables](key_macro_create_variables.html).
+The SetVar keyword sets global show variables. Every user profile can use these variables. For more information, see [[Pages/Macros/Use variables in macros|Macros - Use Variables]].
 
 ## Syntax
 
@@ -36,7 +36,7 @@ SetVar $variablename = ("text")
 SetVar $variablename = nothing
 
 **Hint:**  
-To see the set variables in the command line feedback window, use the [ListVar keyword](key_keyword_listvar.html).
+To see the set variables in the command line feedback window, use the [[Keywords/ListVar|ListVar keyword]].
 
 ## Examples
 

@@ -26,14 +26,14 @@ Version 3.9
 
 You can link objects to stage markers in the MA 3D. 
 
-For more information on the stage markers in MA 3D see the [MA 3D Manual – Moving Paths](ma_3d/key_movingpaths.html).
+For more information on the stage markers in MA 3D see the MA 3D Manual – Moving Paths.
 
 **Requirements:**
 
 *   Add 3D to the session.  
-    For more information on how to add 3D to the session see [Networking – Session Control – Adding devices to your session](key_network_session_add_device.html). 
+    For more information on how to add 3D to the session see [[Pages/Networking/Adding devices to the session|Networking – Session Control – Adding devices to your session]]. 
 *   Take over objects into the 3D show.  
-    For more information on how to take over objects into a 3D show see the [MA 3D Manual – Media Database](ma_3d/key_mediadatabase.html). 
+    For more information on how to take over objects into a 3D show see the MA 3D Manual – Media Database. 
 
 To control the objects in MA 3D via a stage marker in the grandMA2, import the objects into the 3D:
 
@@ -49,7 +49,7 @@ _Drag and drop object into the fixture in the folder Stage Markers_
 
 _Object linked to a stage marker_
 
-For more information on how to control the object via the stage marker see [Use stage markers](key_xyz_use_stage_markers.html#move_stage_marker).
+For more information on how to control the object via the stage marker see [[Pages/XYZ/Use Stage Markers|Use stage markers]].
 
 ← [[Pages/XYZ/Use Stage Markers]]
 

@@ -41,39 +41,39 @@ Description
 
 A
 
-Effect pool objects with an absolute effect. For more information see [effects](key_effects.html).
+Effect pool objects with an absolute effect. For more information see [[Sections/Effects|effects]].
 
 B (green)
 
-Executor page pool objects with an active button page. For more information see [executor pages](key_adv_exec_pages.html).
+Executor page pool objects with an active button page. For more information see [[Pages/Advanced Executor Functionality/Executor Pages|executor pages]].
 
 B (gray)
 
-Executor page pool object with a non-active button page. For more information see [executor pages](key_adv_exec_pages.html).
+Executor page pool object with a non-active button page. For more information see [[Pages/Advanced Executor Functionality/Executor Pages|executor pages]].
 
 C (green)
 
-Channel page pool object with an active channel page. For more information see [channel pages](key_adv_exec_ch_pages.html).
+Channel page pool object with an active channel page. For more information see [[Pages/Advanced Executor Functionality/Channel Pages|channel pages]].
 
 C (gray)
 
-Channel page pool object with a non-active channel page. For more information see [channel pages](key_adv_exec_ch_pages.html).
+Channel page pool object with a non-active channel page. For more information see [[Pages/Advanced Executor Functionality/Channel Pages|channel pages]].
 
 C (red)
 
-Macro pool object with deactivated CLI (= Command Line Interaction). For more information see [macros](key_macro.html).
+Macro pool object with deactivated CLI (= Command Line Interaction). For more information see [[Sections/Macros|macros]].
 
 C (white)
 
-Timer pool object as countdown timer. For more information see [timers](key_timer.html).
+Timer pool object as countdown timer. For more information see [[Sections/Timer|timers]].
 
 U (white)
 
-Sequence pool object with Priority High. For more information see [what are cues and sequences](key_cs_what_are.html). 
+Sequence pool object with Priority High. For more information see [[Pages/Command Syntax and Keywords/What are cues and sequences|what are cues and sequences]]. 
 
 D (white)
 
-Sequence pool object with Priority Low. For more information see [what are cues and sequences](key_cs_what_are.html). 
+Sequence pool object with Priority Low. For more information see [[Pages/Command Syntax and Keywords/What are cues and sequences|what are cues and sequences]]. 
 
 F (green)
 
@@ -85,15 +85,15 @@ Executor page pool object with a non-active fader page.
 
 G (orange)
 
-Preset pool object as global preset. For more information see [presets](key_presets.html).
+Preset pool object as global preset. For more information see [[Sections/Presets|presets]].
 
 G (white)
 
-Timer pool object as global timer. For more information see [timer](key_timer.html).
+Timer pool object as global timer. For more information see [[Sections/Timer|timer]].
 
 H (white)
 
-Sequence pool object with Priority HTP (= Highest Takes Precedence). For more information see [what are cues and sequences](key_cs_what_are.html). 
+Sequence pool object with Priority HTP (= Highest Takes Precedence). For more information see [[Pages/Command Syntax and Keywords/What are cues and sequences|what are cues and sequences]]. 
 
 H
 
@@ -101,7 +101,7 @@ Universes pool object with an HTP (= Highest Takes Precedence) DMX in merge.
 
 L (white)
 
-Timer pool object as local timer. For more information see [timer](key_timer.html).
+Timer pool object as local timer. For more information see [[Sections/Timer|timer]].
 
 L (white)
 
@@ -109,7 +109,7 @@ Universe pool object with a LoTP (= Lowest Takes Precedence) DMX in merge.
 
 L (white) 
 
-Sequence pool object with Priority LTP (=Last Takes Precedence). For more information see [what are cues and sequences](key_cs_what_are.html). 
+Sequence pool object with Priority LTP (=Last Takes Precedence). For more information see [[Pages/Command Syntax and Keywords/What are cues and sequences|what are cues and sequences]]. 
 
 P
 
@@ -121,39 +121,39 @@ Universe pool object not requested.
 
 R (green)
 
-Effect pool object with a relative effect. For more information see [effects](key_effects.html).
+Effect pool object with a relative effect. For more information see [[Sections/Effects|effects]].
 
 S (white)
 
-Sequence pool object with Priority Swap. For more information see [what are cues and sequences](key_cs_what_are.html). 
+Sequence pool object with Priority Swap. For more information see [[Pages/Command Syntax and Keywords/What are cues and sequences|what are cues and sequences]]. 
 
 S (red)
 
-Effect pool object with a selective effect. For more information see [effects](key_effects.html).
+Effect pool object with a selective effect. For more information see [[Sections/Effects|effects]].
 
 S (red)
 
-Preset pool object as selective preset. For more information see [presets](key_presets.html).
+Preset pool object as selective preset. For more information see [[Sections/Presets|presets]].
 
 S (white)
 
-Timer pool object as stopwatch. For more information see [timer](key_timer.html).
+Timer pool object as stopwatch. For more information see [[Sections/Timer|timer]].
 
 T (gray)
 
-Sequence pool object with tracking. For more information see [what is tracking](key_cs_what_is_tracking.html).
+Sequence pool object with tracking. For more information see [[Pages/Command Syntax and Keywords/What is Tracking|what is tracking]].
 
 T (white)
 
-Effect pool object with a template effect. For more information see [effects](key_effects.html).
+Effect pool object with a template effect. For more information see [[Sections/Effects|effects]].
 
 T (red)
 
-Macro pool object with deactivated timing. For more information see [macros](key_macro.html).
+Macro pool object with deactivated timing. For more information see [[Sections/Macros|macros]].
 
 U
 
-Preset pool object with a universal preset. For more information see [presets](key_presets.html).
+Preset pool object with a universal preset. For more information see [[Sections/Presets|presets]].
 
 ## Symbols
 
@@ -163,15 +163,15 @@ Descriptions
 
 ! (white exclamation mark)
 
-Sequence pool object with Priority Super. For more information see [what are cues and sequences](key_cs_what_are.html). 
+Sequence pool object with Priority Super. For more information see [[Pages/Command Syntax and Keywords/What are cues and sequences|what are cues and sequences]]. 
 
 Triangle (white and pointing upward)
 
-Priority High in mini executor of a sequence. For more information see [sequence mini executor](key_cs_sequence_mini_executor.html). 
+Priority High in mini executor of a sequence. For more information see [[Pages/Command Syntax and Keywords/Sequence mini executor|sequence mini executor]]. 
 
 Triangle (white and pointing downward)
 
-Priority Low in mini executor of a sequence. For more information see [sequence mini executor](key_cs_sequence_mini_executor.html).
+Priority Low in mini executor of a sequence. For more information see [[Pages/Command Syntax and Keywords/Sequence mini executor|sequence mini executor]].
 
 ← [[Pages/Workspace/Colors]] | [[Pages/Workspace/Icons]] →
 

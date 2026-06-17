@@ -43,7 +43,7 @@ It is also possible to use the command section:
     6.  Please
 
 **Hint:**  
-It is also possible to use the command line to type in your source and destination objects. For more information see the [keyword Clone](key_keyword_clone.html). 
+It is also possible to use the command line to type in your source and destination objects. For more information see the [[Keywords/Clone keyword|keyword Clone]]. 
 
 After selecting the source and destination objects the pop-up **Prepare Cloning** opens. 
 
@@ -199,7 +199,7 @@ It is also possible to set filters in the window **Cloning**. 
 5.  To perform cloning click on Clone in the lower right corner of the window **Select Filters**. 
 
 **Hint:**  
-It is also possible to set a filter via the Filter Pool. For more information see [What are filters](key_wfm_what_are_filters.html).
+It is also possible to set a filter via the Filter Pool. For more information see [[Pages/Worlds Filters and Masks/What are filters]].
 
 ![](../../img/window_cloning_select-filters_v3-3.png)
 
@@ -218,7 +218,7 @@ _Command filter window_
 **Important:**  
 This is a temporary filter which displays current filtering and allows you to create temporary modifications. However, if you would like to set several filters use the Pool Filter. 
 
-For more information on how to use the Command Filter see [Create filters](key_wfm_create_filters.html).
+For more information on how to use the Command Filter see [[Pages/Worlds Filters and Masks/Create filters]].
 
 * * *
 

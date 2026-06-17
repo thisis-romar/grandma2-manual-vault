@@ -30,7 +30,7 @@ It has the same software and capabilities as the consoles. It is a 19" 3 Unit ra
 
 It functions exactly like a console in the system.
 
-For more information see grandMA2 replay unit (RPU) [general description](key_device_overview_grandma2_replay_unit_rpu.html) and [technical data](<key_technical_data.html#grandMA2 replay unit>).
+For more information see grandMA2 replay unit (RPU) [[Pages/Device Overview/grandMA2 replay unit (RPU)|general description]] and [[Sections/Technical Data|technical data]].
 
 [[Pages/System Overview/What is the Network Processing Unit (NPU)]] →
 

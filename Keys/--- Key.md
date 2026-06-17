@@ -23,17 +23,15 @@ The key <<<  \[GoFastBack\] is located in the command area on the left of the 
 
 ![](../../img/img_go-fast-back-key_v3-2.png)
 
-_Location <<< \[GoFastBack\]_
-
-*   Pressing <<< enters [<<< \[GoFastBack\] keyword](key_keyword_skipminus.html) into the command line.
+_Location <<< \[[Keywords/--- [GoFastBack] keyword]] into the command line.
 
 \[Channel\]> <<<
 
-*   Pressing <<< <<< enters [Black keyword](key_keyword_black.html) into the command line.
+*   Pressing <<< <<< enters [[Keywords/Black keyword]] into the command line.
 
 \[Channel\]> Black
 
-*   Pressing <<< <<< <<< enters [ToZero keyword](key_keyword_tozero.html) into the command line.
+*   Pressing <<< <<< <<< enters [[Keywords/ToZero|ToZero keyword]] into the command line.
 
 \[Channel\]> ToZero
 

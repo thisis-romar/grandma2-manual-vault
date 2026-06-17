@@ -25,7 +25,7 @@ To get the Feature keyword in the command line type **Feature** or the shortcut 
 
 Feature is an object keyword representing features of a fixture.
 
-The default function for features is [Call](key_keyword_call.html). Calling features brings them to the encoders, and select them in the fixture sheet (yellow column header).
+The default function for features is [[Keywords/Call keyword|Call]]. Calling features brings them to the encoders, and select them in the fixture sheet (yellow column header).
 
 Features are organized by PresetType, which means that you can also call features with the PresetType keyword.
 

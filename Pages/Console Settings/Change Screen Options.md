@@ -83,7 +83,7 @@ The mouse follows the touch.
 
 ## Assign External Touch Screens
 
-**Requirement:** [Connected external touchscreen](key_fs_connect_external_screens.html).
+**Requirement:** [[Pages/First Steps/Connect External Screens|Connected external touchscreen]].
 
 To assign an external touch screen:
 
@@ -100,7 +100,7 @@ Screen resolution refers to the acuity of the text and images displayed on your 
 
 The larger the monitor the higher the resolution. Increase of screen resolution depends on the size and capability of your monitor.
 
-**Requirement:** [Connected External Screen](key_fs_connect_external_screens.html).
+**Requirement:** [[Pages/First Steps/Connect External Screens|Connected External Screen]].
 
 To change the screen resolution:
 

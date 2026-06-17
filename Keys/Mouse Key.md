@@ -25,7 +25,7 @@ The key Mouse is located in the left corner above the trackball.
 _Location k__ey_ _Mouse_ 
 
   
-The key Mouse toggles between the selected trackball sequences. To select the trackball sequence see [User Settings](key_single_multi_systems_user_settings.html).
+The key Mouse toggles between the selected trackball sequences. To select the trackball sequence see [[Pages/Single and Multi User Systems/User specific settings|User Settings]].
 
 If the key Mouse is:
 

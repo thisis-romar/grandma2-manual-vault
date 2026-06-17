@@ -46,7 +46,7 @@ The configuration is divided into sections or tabs. The tabs represent each devi
 *   DMX Nodes (MA Nodes only)
 *   Network Switch (MA Network Switch only)
 
-Consoles and grandMA2 onPCs are called **Stations** and are connected to a session using the [MA Network Control](key_network_session_create.html). They cannot be invited or forced to connect from this interface, but the DMX ports and timecode can be configured. Stations in the session will also appear in the MA Network Configuration.
+Consoles and grandMA2 onPCs are called **Stations** and are connected to a session using the [[Pages/Networking/How to create a session|MA Network Control]]. They cannot be invited or forced to connect from this interface, but the DMX ports and timecode can be configured. Stations in the session will also appear in the MA Network Configuration.
 
 ## Status colors
 
@@ -84,14 +84,14 @@ When you have added a console to the list, then you get a table where the rows a
 The columns are:
 
 *   **IP ETHERCON 1 (ETH0)** - This is the IP address of the number 1 EtherCon connector on the back of the console. Changing this number will change the IP address on the console and requires a reboot.
-*   **DHCP ETHERCON 1 (ETH0)** - Editing this cell will give a "Yes". This enables DHCP for Ethernet port 1 and will prompt a reboot. Read more about DHCP in the [Using DHCP in MA devices topic](key_network_dhcp.html).
+*   **DHCP ETHERCON 1 (ETH0)** - Editing this cell will give a "Yes". This enables DHCP for Ethernet port 1 and will prompt a reboot. Read more about DHCP in the [[Pages/Networking/Using DHCP in MA devices|Using DHCP in MA devices topic]].
 *   **IP ETHERCON 2 (ETH1)** - This is the IP address of the number 2 EtherCon connector on the back of the console. This connector is for Art-Net and should have an Art-Net compatible IP address. Changing this number will change the IP address on the console and requires a reboot.
 *   **Hostname** - This is the hostname of the console. This is only for information. It can only be changed in the MA Network Control.
 *   **Type** - This displays the type of console.
-*   **XLR A** to **XLR F** - These are the female DMX connectors on the back of the console. Editing this cell will open a pop-up that allows you to change the settings. It is described in details in the [Getting DMX in and out of the system](key_network_dmx_get_in_out.html) topic.
+*   **XLR A** to **XLR F** - These are the female DMX connectors on the back of the console. Editing this cell will open a pop-up that allows you to change the settings. It is described in details in the [[Pages/Networking/Getting DMX in and out of the system]] topic.
 *   **XLR In** - This is the male DMX port on the back of the console. Editing, works just as the female connectors - see above.
-*   **MIDI TC** - Choose which Timecode slot the incoming MIDI timecode should be sent to. Please read the [Timecode](key_timecode.html) topic for more details about Timecode slots.
-*   **SMPTE TC** - Choose which Timecode slot the incoming LTC/SMPTE timecode should be sent to. Please read the [Timecode](key_timecode.html) topic for more details about Timecode slots.
+*   **MIDI TC** - Choose which Timecode slot the incoming MIDI timecode should be sent to. Please read the [[Sections/Timecode]] topic for more details about Timecode slots.
+*   **SMPTE TC** - Choose which Timecode slot the incoming LTC/SMPTE timecode should be sent to. Please read the [[Sections/Timecode]] topic for more details about Timecode slots.
 *   **Version** - This is the software version the console is currently running.
 *   **Memory Complete/Free** - This displays the amount of memory (RAM) in the console and how much of that is not used. If the console uses all the available memory then it will stop working. You will also need an extra memory capacity to connect to a file server.
 *   **x64** - Here it is displayed if the console is running the 64 -bit version of Linux or the 32-bit. A "Yes" indicates that it is 64-bit.
@@ -103,7 +103,7 @@ The columns are:
 
 ## grandMA2 onPC
 
-grandMA2 onPCs are considered "Stations" and can only be added to a session in the [MA Network Control](key_network_session_create.html).
+grandMA2 onPCs are considered "Stations" and can only be added to a session in the [[Pages/Networking/How to create a session|MA Network Control]].
 
 The onPC section has the [same buttons at the bottom as the console section](<#Standard Control Buttons>) - plus two more. They are called **Identify Fader 1** and **Identify Fader 2**. Each grandMA2 onPC can have one MA onPC command wing and two MA onPC fader wings connected. They are all connected through USB connectors. If you connect two MA onPC fader wings, then you need to tell the computer which fader wing is number 1 and which one is number 2.
 
@@ -133,7 +133,7 @@ Read the description of the columns in the [Console section above](<#Column Desc
 
 The MA 3D visualizer is an integrated part of a MA system. It is a visualizer that communicate with the stations and changes made to the setup will automatically be visible in the MA 3D. It has [the same buttons at the bottom of the screen as the console](<#Standard Control Buttons>).
 
-When a MA 3D visualizer is added to the table then you will have the same **Session Member** column as the MA NPU and the process is the same. When connecting a MA 3D it can be chosen which **User** it should follow. The users in the show each have a [Stage view](key_patch_stage.html). The MA 3D is connected to the Stage view, so changing the angle or location of the virtual camera in the Stage view or the MA 3D visualizer, they will both follow along. A MA 3D visualizer will also follow the user into Blind and Preview mode and show the blind and preview output instead of the live output.
+When a MA 3D visualizer is added to the table then you will have the same **Session Member** column as the MA NPU and the process is the same. When connecting a MA 3D it can be chosen which **User** it should follow. The users in the show each have a [[Pages/Patching/Stage View|Stage view]]. The MA 3D is connected to the Stage view, so changing the angle or location of the virtual camera in the Stage view or the MA 3D visualizer, they will both follow along. A MA 3D visualizer will also follow the user into Blind and Preview mode and show the blind and preview output instead of the live output.
 
 The MA 3D only have one IP address column and no DHCP column. It is the IP address of the computer running the software. Changing the number here will not change the IP address in the computer.
 
@@ -159,7 +159,7 @@ There is only one IP address column - it is the primary IP address used to commu
 
 MA VPUs run on windows computers and changing the IP address in the table will not change the IP address in the MA VPU. DHCP is only possible to activate in the MA VPU Network Settings.
 
-For details about the MA VPU or any of the things mentioned above, please have a look the [VPU Manual](ma_vpu/index.html).
+For details about the MA VPU or any of the things mentioned above, please have a look the [[QuickStart/grandMA2 Quick Start Guide|VPU Manual]].
 
 ## MA NDP
 
@@ -193,12 +193,12 @@ In the new (grandMA2 era) nodes there are two IP addresses with the option to ac
 Speaking of modes. There is a **Mode** column. Here it is possible to select different modes for the node:
 
 *   **MA-Net1** (only in the older Nodes) - This will switch the node to connect with the grandMA1 system.
-*   **MA-Net2** - This is the mode needed to have full control and synchronized DMX output from a MA2 system. This is also needed for the onPC nodes to unlock parameters in an onPC system. Please read more in the [Parameter Expansion topic](key_so_parameter_expansion.html).
+*   **MA-Net2** - This is the mode needed to have full control and synchronized DMX output from a MA2 system. This is also needed for the onPC nodes to unlock parameters in an onPC system. Please read more in the [[Pages/System Overview/Parameter expansion|Parameter Expansion topic]].
 *   **Art-Net** - This will switch the node to Art-Net mode and use the secondary IP address. And a Network number in the Session ID/Network column needs to be assigned. Use the number **1** for Art-Net I and Art-Net II and the first 256 universes in Art-Net III. If you are in doubt, set it to 1.
 *   **sACN** - This will switch the node to sACN mode.
 *   **None** - This will disable the node.
 
-Adding DMX Nodes to the session is different then all the other elements we have looked at so far. They are not invited to join what ever session you are currently in, they are assigned to listen to a specific session number - this is done in the **Session ID/Network** column. They hold their own configuration - it is not a part of the show file. It can however be [imported or exported](key_export_and_import.html). Please read the [Getting DMX in and out of the system](key_network_dmx_get_in_out.html) topics for more about the DMX configuration.
+Adding DMX Nodes to the session is different then all the other elements we have looked at so far. They are not invited to join what ever session you are currently in, they are assigned to listen to a specific session number - this is done in the **Session ID/Network** column. They hold their own configuration - it is not a part of the show file. It can however be [[Sections/Export and Import|imported or exported]]. Please read the [[Pages/Networking/Getting DMX in and out of the system]] topics for more about the DMX configuration.
 
 Since it is possible to have up to 8 DMX ports, then there are "XLR A" to "XLR H" columns.
 
@@ -214,7 +214,7 @@ The last column is called **Remote**. This can turn On or Off (empty cell) the w
 
 MA Network Switches can be added to the system. They are not members of any session. But can be added to allow changing the configuration from a station in the network.
 
-The MA Network Switch has a lot of settings and controlling or configuring it from the console/onPC is all described in the [Control the MA Network Switch](key_control_ma_switch.html) section.
+The MA Network Switch has a lot of settings and controlling or configuring it from the console/onPC is all described in the [[Sections/Control MA Network Switch|Control the MA Network Switch]] section.
 
 ## Bridge
 

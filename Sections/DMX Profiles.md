@@ -26,7 +26,7 @@ Open the the menu DMX Profiles:
 1.  Press Setup.
 2.  Tap Patch & Fixture Schedule.
 3.  **EditSetup** opens.  
-    For more information on patching see [Adding fixtures to your show](key_patch_add_fixtures.html). 
+    For more information on patching see [[Pages/Patching/Adding fixtures to the show|Adding fixtures to your show]]. 
 4.  Tap DMX Profiles on the right of the menu.
 5.  The menu **DMX Profiles** opens. 
 
@@ -53,7 +53,7 @@ _Graph editor – graphic mode_
 9.  Make settings in the DMX profile graph. 
 
 **Hint:**  
-The general settings Add Point, Delete Point, Graphic Mode, Table Mode, Load Predefined, and Label are set in the same manner as in the graph editor in the form pool. For more information on these settings see [Settings in the Graph Editor in Create effect forms](key_effects_create_forms.html#settings_graph_editor). 
+The general settings Add Point, Delete Point, Graphic Mode, Table Mode, Load Predefined, and Label are set in the same manner as in the graph editor in the form pool. For more information on these settings see [[Pages/Effects/Create Effect Forms|Settings in the Graph Editor in Create effect forms]]. 
 
 10.  After the general settings were made, select the mode of display:  
      \-To display the DMX profile graph in percentage, tap Readout Decimal to toggle it to Readout Percent.  

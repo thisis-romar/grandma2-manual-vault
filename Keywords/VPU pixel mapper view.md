@@ -21,8 +21,8 @@ Version 3.9
 
 To access the **VPU Pixel Mapper View**, tap on an empty part of a screen. This must be at least 4 columns wide and 4 rows high. Tap Other and then VPU Pixel Mapper View.
 
-The VPU pixel mapper view is described in the manual for the VPU. For more information about pixelmapping, see the [Pixelmapper](ma_vpu/key_pixelmapper.html) topic.
+The VPU pixel mapper view is described in the manual for the VPU. For more information about pixelmapping, see the Pixelmapper topic.
 
-For more information about the view, see the [Console - VPU Pixel Mapper View](ma_vpu/key_console-vpu-pixelmapper-view.html)
+For more information about the view, see the Console - VPU Pixel Mapper View
 
 Part of [[000 Keyword Index]] · [[000 Map of Content]]

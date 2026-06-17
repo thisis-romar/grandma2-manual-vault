@@ -27,7 +27,7 @@ MA Lighting's dimMA dimming system is used in the grandMA1 series. It can be m
 
 Once the grandMA console or any other control system is switched off, the MA NDP takes over the control and starts operating as the “heart” of the entire network. This functionality provides a detailed overview and control of the entire system. The settings can be centrally organized while the entire control of all parts of the network remains.
 
-For more information on the NDP see [What is the Network Dimmer Processor](key_so_what_is_the_network_dimmer_processor_ndp.html). 
+For more information on the NDP see [[Pages/System Overview/What is the Network Dimmer Processor (NDP)-|What is the Network Dimmer Processor]]. 
 
   
 
@@ -35,9 +35,9 @@ For more information on the NDP see [What is the Network Dimmer Processor](key_s
 
 #### Sub topics
 
-*   [Add the MA NDPs](key_control_ndp_add.html)
-*   [Configure the MA NDPs](key_control_ma_ndp_configure.html)
-*   [Delete the MA NDPs](key_control_ma_ndp_delete.html)
+*   [[Pages/Control MA NDPs/Add the MA NDPs to the Network Configuration|Add the MA NDPs]]
+*   [[Pages/Control MA NDPs/Configure the MA NDPs]]
+*   [[Pages/Control MA NDPs/Delete the MA NDPs in the Network Configuration|Delete the MA NDPs]]
 
 ## Pages in This Section
 

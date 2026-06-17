@@ -32,7 +32,7 @@ The Oops keyword is a function keyword to undo the last:
 
 Oops can undo the last 100 actions.
 
-For more information, see [Oops and undo](key_ws_oops.html).
+For more information, see [[Pages/Workspace/Oops and undo]].
 
 ## Syntax
 

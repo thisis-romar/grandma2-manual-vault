@@ -32,9 +32,9 @@ To create a chaser, create a sequence with at least 2 cues assigned to an execu
 
 The mini executor is now cyan.
 
-It is possible to change the functions of keys and fader associated with the Executor. For more information, see [Assign a function](key_exec_assign.html).
+It is possible to change the functions of keys and fader associated with the Executor. For more information, see [[Pages/Executors/Assign a function]].
 
-All timing and loop information in the sequence is ignored. Commands (CMD) are executed and the **CMD Delay** is the only timing from the sequence that is actually used. For more information, see​ [Commands in cues](key_cs_cmd_in_cues.html).
+All timing and loop information in the sequence is ignored. Commands (CMD) are executed and the **CMD Delay** is the only timing from the sequence that is actually used. For more information, see​ [[Pages/Command Syntax and Keywords/Commands in cues]].
 
 * * *
 

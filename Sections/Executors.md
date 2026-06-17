@@ -25,7 +25,7 @@ Version 3.9
 
 # Executors
 
-This section explains some of the most common executor concepts and functions. The section called [Advanced Executor Functionality](key_adv_exec.html) explains the rest.
+This section explains some of the most common executor concepts and functions. The section called [[Sections/Advanced Executor Functionality]] explains the rest.
 
 Executors are handles used to control and execute stored content.
 
@@ -36,17 +36,17 @@ Executors are arranged in Executor Pages. This enables you to easy get a new set
 **Hint:**  
 Changing page will not load new content into the physical executors, like on some other consoles. Changing page just instructs the console to **display** another set of executors on your physical hardware. This enables you to have executors from multiple pages active and running at the same time.
 
-Read more about this in the [Executor Pages topic](key_adv_exec_pages.html) (Advanced Executor Functionality section).
+Read more about this in the [[Pages/Advanced Executor Functionality/Executor Pages|Executor Pages topic]] (Advanced Executor Functionality section).
 
-A more detailed explanation of the executors are found in the [What are Executors topic](key_exec_what_are.html).
+A more detailed explanation of the executors are found in the [[Pages/Executors/What are executors|What are Executors topic]].
 
-Executors are physical keys and faders, but they can also be represented as virtual executors on the screens - [Executors on the Screens](key_exec_on_screen.html).
+Executors are physical keys and faders, but they can also be represented as virtual executors on the screens - [[Pages/Executors/Executors on the screens|Executors on the Screens]].
 
-There are two ways to see all the active executors, this also provides a fast way to turn Off executors - read about it in the [Looking at the Active Executors topic](key_exec_running_playbacks.html).
+There are two ways to see all the active executors, this also provides a fast way to turn Off executors - read about it in the [[Pages/Executors/Looking at the active executors|Looking at the Active Executors topic]].
 
-Assigning an object to an executor and changing the function on the faders and keys are explained in the [Assign a Function topic](key_exec_assign.html).
+Assigning an object to an executor and changing the function on the faders and keys are explained in the [[Pages/Executors/Assign a function|Assign a Function topic]].
 
-Finally some of the common options that are not already covered in this section and in the [Cues and Sequences section](key_cues_and_sequences.html), are explained in the [Common Executor Options topic](key_exec_common_options.html).
+Finally some of the common options that are not already covered in this section and in the [[Sections/Cues and Sequences|Cues and Sequences section]], are explained in the [[Pages/Executors/Common executor options|Common Executor Options topic]].
 
   
 
@@ -54,11 +54,11 @@ Finally some of the common options that are not already covered in this section 
 
 #### Sub topics
 
-*   [What are executors](key_exec_what_are.html)
-*   [Executors on the screens](key_exec_on_screen.html)
-*   [Assign a function](key_exec_assign.html)
-*   [Looking at the active executors](key_exec_running_playbacks.html)
-*   [Common executor options](key_exec_common_options.html)
+*   [[Pages/Executors/What are executors]]
+*   [[Pages/Executors/Executors on the screens]]
+*   [[Pages/Executors/Assign a function]]
+*   [[Pages/Executors/Looking at the active executors]]
+*   [[Pages/Executors/Common executor options]]
 
 ## Pages in This Section
 

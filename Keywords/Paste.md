@@ -23,7 +23,7 @@ To get the Paste keyword in the command line, type **Paste** or the shortcut **P
 
 ## Description
 
-With the Paste keyword, you will paste previous copied content from the clipboard.xml, or move previous Cut object-lists. If no object type is given and the command line destination is root (no destination) the default object is Cue. For more information, see [Cut keyword](key_keyword_cut.html) and [Copy keyword](key_keyword_copy.html).
+With the Paste keyword, you will paste previous copied content from the clipboard.xml, or move previous Cut object-lists. If no object type is given and the command line destination is root (no destination) the default object is Cue. For more information, see [[Keywords/Cut keyword]] and [[Keywords/Copy keyword]].
 
 The Paste keyword is a function keyword.
 

@@ -25,7 +25,7 @@ The key Freeze is located in the command area on the right of the key Blind.
 
 _Location k__ey_ _Freeze_ 
 
-Pressing Freeze executes the [Freeze keyword](key_keyword_freeze.html) and turns on or off the freeze mode.
+Pressing Freeze executes the [[Keywords/Freeze|Freeze keyword]] and turns on or off the freeze mode.
 
 The command line stays unaffected.
 

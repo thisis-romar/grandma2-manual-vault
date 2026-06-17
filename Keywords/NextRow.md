@@ -29,7 +29,7 @@ NextRow is a function keyword to increase the MAtricks property single y.
 
 If MAtricksInterleave is active, NextRow will increases the MAtricks Single y property, effectively subselecting fixtures row by row.
 
-For more information see [MAtricks](key_matricks.html).
+For more information see [[Sections/MAtricks]].
 
 ## Syntax
 

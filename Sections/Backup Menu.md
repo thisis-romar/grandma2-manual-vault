@@ -70,11 +70,11 @@ There is also the button that can be used to move the menu to a different screen
 
 Below this there are different tabs. There is always minimum three called "Internal", "Demoshows" and "Templates". There might be more. Each software version installed will have its own tab. This allows the option to load a show from a previous version. It is not possible to save a show from a newer software version in one of the tabs from previous versions.
 
-If a USB stick is connect to the console/onPC, then it will get its own tab. Select this tab will change the default storage drive to the USB stick. Read the [Using a USB stick](key_backup_menu_usb_stick.html) to learn more about specific USB stick handling. 
+If a USB stick is connect to the console/onPC, then it will get its own tab. Select this tab will change the default storage drive to the USB stick. Read the [[Pages/Backup Menu/Using a USB stick]] to learn more about specific USB stick handling. 
 
-If a file server is added to the system, then this will also get its own tab. This tab can be selected to save or load shows using the storage space on the server. Read the [Setting up a file server](key_backup_menu_file_server.html) to learn more about server setup. 
+If a file server is added to the system, then this will also get its own tab. This tab can be selected to save or load shows using the storage space on the server. Read the [[Pages/Backup Menu/Setting up a file server]] to learn more about server setup. 
 
-The selected tab is then the selected "drive" and the location where shows will be saved. The selected drive can also be selected using the command line - it is a command called SelectDrive or just SD - read more about it [here](key_keyword_selectdrive.html).  
+The selected tab is then the selected "drive" and the location where shows will be saved. The selected drive can also be selected using the command line - it is a command called SelectDrive or just SD - read more about it [[Keywords/SelectDrive|here]].  
 
 ### Internal
 
@@ -98,7 +98,7 @@ If the console is updated, then the shows in this folder will be overwritten.
 
 The templates tab functions as the Demoshows with the exception that updating the console software will not overwrite the shows in the tab. A format and install still deletes the shows in this tab!
 
-The idea behind this tab is that a place that have basically the same rig but do many shows, can copy a show with the patch and basic setup in this folder. This can then be loaded and stored as a new show in the Internal tab. Thus protecting the basic show from accidental changes. It is only possible to copy the shows into this tab using a [FTP connection](key_network_ftp.html).
+The idea behind this tab is that a place that have basically the same rig but do many shows, can copy a show with the patch and basic setup in this folder. This can then be loaded and stored as a new show in the Internal tab. Thus protecting the basic show from accidental changes. It is only possible to copy the shows into this tab using a [[Pages/Networking/FTP connection to console and NPU|FTP connection]].
 
 ### Server tab
 
@@ -108,7 +108,7 @@ This tab is only visible on the console that is the master in the session.
 
 grandMA2 onPC as Master does not support server backup
 
-Read [here](key_backup_menu_file_server.html) for more about setting up a File Server.
+Read [[Pages/Backup Menu/Setting up a file server|here]] for more about setting up a File Server.
 
 ### USB tabs
 
@@ -118,7 +118,7 @@ It works as the internal tab with the addition that it is possible to do an ASCI
 
 Doing a Quick Save will store the show on the USB stick **and** on the Internal drive.
 
-Read [here](key_backup_menu_usb_stick.html) for more info about USB sticks and what advice and restrictions there might be.
+Read [[Pages/Backup Menu/Using a USB stick|here]] for more info about USB sticks and what advice and restrictions there might be.
 
 ### Version tabs
 
@@ -128,7 +128,7 @@ Previous versions installed on the console or computer will have their own tab. 
 
 The backup options allows access to setup a file server and activate Auto Save.
 
-The server setup can be complicated, so it has it own help topic - please read about it [here](key_backup_menu_file_server.html). 
+The server setup can be complicated, so it has it own help topic - please read about it [[Pages/Backup Menu/Setting up a file server|here]]. 
 
 ### Auto Save
 
@@ -148,16 +148,16 @@ Read the following pages to read about the different operations that can be done
 
 #### Sub topics
 
-*   [New show](key_backup_menu_new_show.html)
-*   [Load show](key_backup_menu_load_show.html)
-*   [Save show](key_backup_menu_save_show.html)
-*   [Save show as...](key_backup_menu_save_show_as.html)
-*   [Delete shows](key_backup_menu_delete_show.html)
-*   [Using a USB stick](key_backup_menu_usb_stick.html)
-*   [Setting up a file server](key_backup_menu_file_server.html)
-*   [Partial show read](key_backup_menu_partial_show_read.html)
-*   [ASCII show read](key_backup_menu_ascii_show_read.html)
-*   [grandMA2 to grandMA3 show file converter](key_backup_menu_save_as_grandMA3.html)
+*   [[Pages/Backup Menu/Create a new show|New show]]
+*   [[Pages/Backup Menu/Loading a show|Load show]]
+*   [[Pages/Backup Menu/Saving a show|Save show]]
+*   [[Pages/Backup Menu/Saving a show with a new name|Save show as...]]
+*   [[Pages/Backup Menu/Deleting a Show|Delete shows]]
+*   [[Pages/Backup Menu/Using a USB stick]]
+*   [[Pages/Backup Menu/Setting up a file server]]
+*   [[Pages/Backup Menu/Partial Show Read|Partial show read]]
+*   [[Pages/Backup Menu/ASCII Show Read|ASCII show read]]
+*   [[Pages/Backup Menu/grandMA2 to grandMA3 Show File Converter|grandMA2 to grandMA3 show file converter]]
 
 ## Pages in This Section
 

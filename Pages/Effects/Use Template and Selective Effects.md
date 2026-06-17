@@ -30,7 +30,7 @@ This topic deals with template and selective effects. 
 **Requirement:**
 
 *   Import predefined effects.  
-    For more information see [Import via user interface](key_ei_export_gui.html). 
+    For more information see [[Pages/Export and Import/Export by using user interface|Import via user interface]]. 
 
 * * *
 
@@ -40,7 +40,7 @@ To apply a template effect:
 
 1.  Create a template effect:  
     Edit an object in the effect pool if no fixtures are selected. The column **QTY** is set to None in the effect editor.  
-    For more information see [Use predefined effects](key_effects_predefined.html#create_template). 
+    For more information see [[Pages/Effects/Use Predefined Effects|Use predefined effects]]. 
 2.  Select fixtures in the fixture sheet.
 3.  To take the effects into the programmer, tap a template effect in the effect pool.
 
@@ -58,7 +58,7 @@ To apply a selective effect:
 
 1.  Create a selective effect:  
     Edit an object in the effect pool if fixtures are selected and tap Take Selection. The column **QTY** displays the number of the fixtures assigned.  
-    For more information see [Use predefined effects](key_effects_predefined.html). 
+    For more information see [[Pages/Effects/Use Predefined Effects|Use predefined effects]]. 
 2.  To select the fixtures, tap a selective effect.
 3.  To take the effect into the programmer, tap the selective effect once again.
 

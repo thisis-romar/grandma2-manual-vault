@@ -27,13 +27,13 @@ Version 3.9
 
 This topic illustrates how to use the Block X based on an example.
 
-For information on the keyword see [MAtricksBlocks](key_keyword_matricksblocks.html). 
+For information on the keyword see [[Keywords/MAtricksBlocks]]. 
 
 **Requirement:**
 
 *   Fixtures are selected via the command line or keys.
 
-For more information on how to select fixtures for the usage of MAtricks see [MAtricks](key_matricks.html). 
+For more information on how to select fixtures for the usage of MAtricks see [[Sections/MAtricks]]. 
 
 ### 1\. Example
 
@@ -45,7 +45,7 @@ For more information on how to select fixtures for the usage of MAtricks see [MA
 
 1.  To apply Block X, tap the button on the left of the ![](../../img/icon_minus_v3-2.png) sign displayed below **Block X** in the MAtricks toolbar. 
 
-For more information on the toolbar see [MAtricks toolbar](key_matricks_toolbar.html). 
+For more information on the toolbar see [[Pages/MAtricks/MAtricks Toolbar|MAtricks toolbar]]. 
 
 2.  The calculator opens.  
     \-Enter 3. 

@@ -27,15 +27,15 @@ _Location k__ey_ _Next_ 
 
 *   If a pop-up dialog is open, for example the pop-up Choose store method, you can set the focus on the following options by pressing the key Next.  
      
-*   Pressing Next executes the [Next keyword](key_keyword_next.html). The fixture with the lowest fixture ID is selected.
+*   Pressing Next executes the [[Keywords/Next|Next keyword]]. The fixture with the lowest fixture ID is selected.
 
 \[time\] : Executing : Next
 
-*   Pressing and holding ![ma](../../img/ma_1.png) + Next executes the [NextRow keyword](key_keyword_nextrow.html). For more information see [MAtricks](key_matricks.html).
+*   Pressing and holding ![ma](../../img/ma_1.png) + Next executes the [[Keywords/NextRow|NextRow keyword]]. For more information see [[Sections/MAtricks]].
 
 \[time\] : Executing : NextRow
 
-*   Pressing Next + Prev executes the [All keyword](key_keyword_all.html).
+*   Pressing Next + Prev executes the [[Keywords/All|All keyword]].
 
 \[time\] : Executing : All
 

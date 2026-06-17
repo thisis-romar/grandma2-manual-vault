@@ -29,13 +29,13 @@ This topic illustrates how to use the wings in the MAtricks with the help of an 
 
 Wings split the selection into parts. Each wing mirrors the opposite wing. For explanation see [2\. Example](#2_example).
 
-For information on the keyword see [MAtricksWings](key_keyword_matrickswings.html).
+For information on the keyword see [[Keywords/MAtricksWings]].
 
 **Requirement:**
 
 *   Fixtures are selected via the command line or keys. 
 
-For more information on how to select fixtures for the usage of MAtricks see [MAtricks](key_matricks.html). 
+For more information on how to select fixtures for the usage of MAtricks see [[Sections/MAtricks]]. 
 
 ### 1\. Example
 
@@ -50,7 +50,7 @@ To move through selection, you usually press Next to jump to the adjacent fixtur
 
 1.  To apply wings, tap the button on the left of the ![](../../img/icon_minus_v3-2.png) sign displayed below **Wing** in the MAtricks toolbar.
 
-For more information see [MAtricks toolbar](key_matricks_toolbar.html). 
+For more information see [[Pages/MAtricks/MAtricks Toolbar|MAtricks toolbar]]. 
 
 2.  The calculator opens.  
     \-Enter 2.

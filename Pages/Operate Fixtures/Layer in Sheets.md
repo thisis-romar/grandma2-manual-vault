@@ -33,8 +33,8 @@ This chapter displays these differences as well as conformities. 
 
 These are the following sheets:
 
-*   [Channel sheet and fixture sheet](key_of_layers_in_sheets_channel_and_fixture.html)
-*   [Sequence content and sequence tracking sheet](key_of_layers_in_sheets_content_and_tracking.html)
+*   [[Pages/Operate Fixtures/Channel Sheet and Fixture Sheet|Channel sheet and fixture sheet]]
+*   [[Pages/Operate Fixtures/Sequence Content Sheet And Sequence Tracking Sheet|Sequence content and sequence tracking sheet]]
 
   
 
@@ -42,8 +42,8 @@ These are the following sheets:
 
 #### Sub topics
 
-*   [Channel sheet and fixture sheet](key_of_layers_in_sheets_channel_and_fixture.html)
-*   [Sequence content and sequence tracking sheet](key_of_layers_in_sheets_content_and_tracking.html)
+*   [[Pages/Operate Fixtures/Channel Sheet and Fixture Sheet|Channel sheet and fixture sheet]]
+*   [[Pages/Operate Fixtures/Sequence Content Sheet And Sequence Tracking Sheet|Sequence content and sequence tracking sheet]]
 
 ← [[Pages/Operate Fixtures/Sheet options]] | [[Pages/Operate Fixtures/What is the Programmer]] →
 

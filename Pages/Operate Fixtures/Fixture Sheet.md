@@ -33,7 +33,7 @@ The fixture sheet is where your attributes with their corresponding values are l
 
 Patch fixtures in **Setup – Patch & Fixture Schedule**. 
 
-For more information on how to patch fixtures see [Adding fixtures to your show](key_patch_add_fixtures.html).
+For more information on how to patch fixtures see [[Pages/Patching/Adding fixtures to the show|Adding fixtures to your show]].
 
 ![](../../img/img_edit-setup_patch-fixtures_v3-3.png)
 
@@ -64,11 +64,11 @@ _Fixture Sheet_
 **Important:**  
 The title bar displays the world name and ![](../../img/icon_world_v3-2.png) if you are in a world. Furthermore, it displays the word "Mask" and ![](../../img/icon_ghost_v3-2.png) if a mask was applied. 
 
-For general information on worlds see [What are worlds](key_wfm_what_are_worlds.html). 
+For general information on worlds see [[Pages/Worlds Filters and Masks/What are Worlds|What are worlds]]. 
 
-For general information on masks see [What are masks](key_wfm_what_are_masks.html).
+For general information on masks see [[Pages/Worlds Filters and Masks/What are masks]].
 
-The fixture sheet also consists of different colors, markers and background colors. For more information see [Marker](key_ws_colors_marker.html) and [System](key_ws_colors_system.html). 
+The fixture sheet also consists of different colors, markers and background colors. For more information see [[Pages/Workspace/Marker Colors|Marker]] and [[Pages/Workspace/System Colors|System]]. 
 
 * * *
 
@@ -76,7 +76,7 @@ The fixture sheet also consists of different colors, markers and background colo
 
 The fixture sheet also comprises a bar of layers, which is located at the bottom of the fixture sheet.
 
-For more information on each layer see [Layers in sheets – Channel sheet and fixture sheet](key_of_layers_in_sheets_channel_and_fixture.html).
+For more information on each layer see [[Pages/Operate Fixtures/Channel Sheet and Fixture Sheet|Layers in sheets – Channel sheet and fixture sheet]].
 
 * * *
 
@@ -92,12 +92,12 @@ _Fixture Sheet Options_
 
 To learn about the single options of the fixture sheet see:
 
-*   [Tools](key_of_sheet_options_tools.html) 
-*   [Layer mask](key_of_sheet_options_layer_mask.html)
-*   [Display](key_of_sheet_options_display.html)
-*   [Title buttons](key_of_sheet_options_title_buttons.html)
-*   [Assign executor](key_of_sheet_options_assign_executor.html)
-*   [Mask (local)](key_of_sheet_options_mask_local.html)
+*   [[Pages/Operate Fixtures/Tools]] 
+*   [[Pages/Operate Fixtures/Layer mask]]
+*   [[Pages/Operate Fixtures/Display]]
+*   [[Pages/Operate Fixtures/Title buttons]]
+*   [[Pages/Operate Fixtures/Assign executor]]
+*   [[Pages/Operate Fixtures/Mask (local)]]
 
 To close the options, tap ![](../../img/icon_close_small_v3-2.png) in the upper right corner of the dialog. 
 

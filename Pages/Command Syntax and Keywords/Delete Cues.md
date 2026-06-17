@@ -72,7 +72,7 @@ _Sequence after a Cue Only delete_
 Cue number 3 is gone. The orange color stored in the cue is now stored in cue number 4. This means that cue number 4 and 5 are still orange.  
  
 
-Tracking is discussed in details in the [What is Tracking topic](key_cs_what_is_tracking.html).
+Tracking is discussed in details in the [[Pages/Command Syntax and Keywords/What is Tracking|What is Tracking topic]].
 
 ← [[Pages/Command Syntax and Keywords/Renumber cues]] | [[Pages/Command Syntax and Keywords/Playing back Cues]] →
 

@@ -24,7 +24,7 @@ To go to the Up keyword type **Up** in the command line.
 
 ## Description
 
-The Up keyword scrolls one page up in focused window. It is the same as press the Up key on the console. See [Up Key](key_key_up.html).
+The Up keyword scrolls one page up in focused window. It is the same as press the Up key on the console. See [[Keys/Up Key]].
 
 The Up keyword is a function keyword.
 

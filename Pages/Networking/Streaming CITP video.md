@@ -26,13 +26,13 @@ Version 3.9
 
 CITP can be used to stream a video feed through the network.
 
-This video stream can be viewed on the MA console and onPC in the **CITP Video Viewer** window - create it using the [Create Basic Windows](key_windows.html#create_basic_window).
+This video stream can be viewed on the MA console and onPC in the **CITP Video Viewer** window - create it using the [[Sections/Windows|Create Basic Windows]].
 
 In MA 3D you can use a CITP stream on a surface, thus mimicking a screen.
 
 For the console or onPC viewer to display a video stream, you need to set it up.
 
-Make sure the CITP is activated in the console/onPC. Have a look at the [Using CITP](key_network_citp.html) topic.
+Make sure the CITP is activated in the console/onPC. Have a look at the [[Pages/Networking/Using CITP]] topic.
 
 Tap the yellow ball in the upper left corner. This opens the Options pop-up. It could look like this:
 

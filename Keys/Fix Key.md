@@ -25,7 +25,7 @@ The key Fix is located in the command area on the left of the key Select.
 
 _Location k__ey_ _Fix_ 
 
-Pressing Fix enters [Fix keyword](key_keyword_fix.html) into the command line.
+Pressing Fix enters [[Keywords/Fix|Fix keyword]] into the command line.
 
 \[Channel\]> Fix
 

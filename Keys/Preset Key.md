@@ -28,19 +28,19 @@ _Location k__ey_ _Preset_
   
  
 
-*   Pressing Preset enters the [Preset keyword](key_keyword_preset.html) into the command line.
+*   Pressing Preset enters the [[Keywords/Preset|Preset keyword]] into the command line.
 
 \[Channel\]> Preset
 
-*   Pressing Preset Preset enters the [Attribute keyword](key_keyword_attribute.html) into the command line.
+*   Pressing Preset Preset enters the [[Keywords/Attribute keyword]] into the command line.
 
 \[Channel\]> Attribute
 
-*   Pressing Preset Preset Preset enters the [Gel keyword](key_keyword_gel.html) into the command line.
+*   Pressing Preset Preset Preset enters the [[Keywords/Gel keyword]] into the command line.
 
 \[Channel\]> Gel
 
-*   Pressing and holding ![ma](../../img/ma_1.png) + Preset enters the [PresetType keyword](key_keyword_presettype.html) into the command line.
+*   Pressing and holding ![ma](../../img/ma_1.png) + Preset enters the [[Keywords/PresetType|PresetType keyword]] into the command line.
 
 \[Channel\]> PresetType
 

@@ -25,10 +25,10 @@ The key Full is located in the command area on the left of the key Highlt.
 
 _Location k__ey_ _Full_ 
 
-*   Pressing Full executes the [Full keyword](key_keyword_full.html). The dimmer values, for the selected fixtures or channels, will be set to 100 % .  
+*   Pressing Full executes the [[Keywords/Full|Full keyword]]. The dimmer values, for the selected fixtures or channels, will be set to 100 % .  
      
 *   Pressing Full Full loads the highlight values, for the selected fixtures or channels, into the programmer.  
      
-*   ![ma](../../img/ma_1.png) + Full executes the [FullHighlight keyword](key_keyword_fullhighlight.html). The highlight values, for the selected fixtures or channels, will be loaded into the programmer.
+*   ![ma](../../img/ma_1.png) + Full executes the [[Keywords/FullHighlight keyword]]. The highlight values, for the selected fixtures or channels, will be loaded into the programmer.
 
 Part of [[000 Key Index]] · [[000 Map of Content]]

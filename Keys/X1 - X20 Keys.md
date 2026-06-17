@@ -27,8 +27,8 @@ The grandMA2 ultra-light has only X1 - X10.
 
 _Location X-Key_
 
-If you press User1 or User2, the X-Keys will work just like [view buttons](key_widget_view_buttons.html).
+If you press User1 or User2, the X-Keys will work just like [[Pages/Workspace/View Buttons|view buttons]].
 
-If you press List, the X-Keys will work just like [executor buttons](key_key_execbuttons.html).
+If you press List, the X-Keys will work just like [[Keys/Executor Buttons|executor buttons]].
 
 Part of [[000 Key Index]] · [[000 Map of Content]]

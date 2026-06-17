@@ -24,13 +24,13 @@ Version 3.9
 
 # Edit a Channel or a Fixture
 
-Contrary to editing in [live patching](key_patch_livepatch.html) where you can edit entire fixture types, here it is possible to edit single objects only. 
+Contrary to editing in [[Pages/Patching/Live patching|live patching]] where you can edit entire fixture types, here it is possible to edit single objects only. 
 
 *   Channels and / or fixtures are patched.
 
 Patch channels and fixtures in **Setup – Patch & Fixture Schedule**. 
 
-For more information on how to patch channels and fixtures see [Adding fixtures to your show](key_patch_add_fixtures.html). 
+For more information on how to patch channels and fixtures see [[Pages/Patching/Adding fixtures to the show|Adding fixtures to your show]]. 
 
 To edit a fixture or a channel:
 
@@ -51,7 +51,7 @@ _Edit Pop-up_
 *   The **lower spreadsheet in the pop-up** displays the attributes of these modules. 
 
 **Important:**  
-It is possible to edit all fields marked in gray. For detailed information see [live patching](key_patch_livepatch.html). 
+It is possible to edit all fields marked in gray. For detailed information see [[Pages/Patching/Live patching|live patching]]. 
 
 **Hint:**  
 To jump between fixtures or channels, tap either Previous or Next in the title of the edit pop-up. 

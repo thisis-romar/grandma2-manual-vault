@@ -27,7 +27,7 @@ Version 3.9
 
 The bitmap fixture has 100 images and 100 layouts by default. If you need more than the 100 images or 100 layouts, you need to edit the bitmap fixture.
 
-**Requirement:** [Imported bitmap fixture.](key_bitmapfixture_import.html)
+**Requirement:** [[Pages/Bitmap Fixture/Import bitmap fixture|Imported bitmap fixture.]]
 
 1.  To select the bitmap fixture, tap at the **bitmap fixture** in the fixture sheet.  
     The bitmap fixture has a yellow font.
@@ -41,7 +41,7 @@ The bitmap fixture has 100 images and 100 layouts by default. If you need more t
     
 4.  Turn the encoder to e.g. 101, press Store and tap at the last **empty object tile** in the smart view.
 
-The bitmap fixture is edited and has 101 images to select. For more information about the smart view, see [using smart view](key_of_smart_view.html).
+The bitmap fixture is edited and has 101 images to select. For more information about the smart view, see [[Pages/Operate Fixtures/Using The Smart View|using smart view]].
 
 ← [[Pages/Bitmap Fixture/Control bitmap fixture]] | [[Pages/Bitmap Fixture/Example for bitmap fixture]] →
 

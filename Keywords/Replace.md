@@ -25,7 +25,7 @@ You can also type **Replace**  or the shortcut **Rep** in the command line.
 
 ## Description
 
-The replace keyword replaces object and values. For more information, see [search and replace](key_search_replace.html).
+The replace keyword replaces object and values. For more information, see [[Sections/Search and Replace|search and replace]].
 
 The replace keyword is a function keyword.
 

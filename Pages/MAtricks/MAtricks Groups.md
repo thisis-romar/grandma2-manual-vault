@@ -26,13 +26,13 @@ Version 3.9
 
 This topic illustrates how to use MAtricksGroups based on an example. 
 
-For information on the keyword see [MAtricksGroups](key_keyword_matricksgroups.html). 
+For information on the keyword see [[Keywords/MAtricksGroups]]. 
 
 **Requirement:**
 
 *   Fixtures are selected via the command line or keys. 
 
-For more information on how to select fixtures for the usage of MAtricks see [MAtricks](key_matricks.html). 
+For more information on how to select fixtures for the usage of MAtricks see [[Sections/MAtricks]]. 
 
 ### 1\. Example
 
@@ -111,7 +111,7 @@ The fan function starts in the upper corner on the left and fans out toward the 
 
 *   Align groups with an interleave on the x or the y-axis using periods  
 
-For the example on the alignment of the x-axis see the [example Align Group X in the MAtricks toolba](key_matricks_toolbar.html#align_x_axis)[r](key_matricks_toolbar.html#align_x_axis).
+For the example on the alignment of the x-axis see the [[Pages/MAtricks/MAtricks Toolbar|example Align Group X in the MAtricks toolba]][[Pages/MAtricks/MAtricks Toolbar|r]].
 
 1.  To apply 3 groups on the y-axis and setting the fan function within this group, successively type the following into the command line:
 

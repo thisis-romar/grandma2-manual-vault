@@ -25,6 +25,6 @@ The key ![encoder](../../img/encoder_1.png) is located between the four attribu
 _Location k__ey_ _Encoder_ 
 
 *   Pressing the key ![encoder](../../img/encoder_1.png) toggles the focus of the right screen encoder between screen 2 and screen 1.
-*   Pressing and holding the key ![encoder](../../img/encoder_1.png) opens the [encoder settings](key_ws_encoder_settings.html).
+*   Pressing and holding the key ![encoder](../../img/encoder_1.png) opens the [[Pages/Workspace/Encoder Settings|encoder settings]].
 
 Part of [[000 Key Index]] · [[000 Map of Content]]

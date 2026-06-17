@@ -39,6 +39,6 @@ If the executor 2 stands in cue 5, LoadPrev loads cue 4. "Loaded 4" starts flas
 
 If cue 4 was loaded on the executor 2, LoadPrev loads cue 3. "Loaded 3" starts flashing in red at the bottom of the mini executor.
 
-For more information see the [keyword Load](key_keyword_load.html) and the [keyword LoadNext](key_keyword_loadnext.html).
+For more information see the [[Keywords/Load|keyword Load]] and the [[Keywords/LoadNext|keyword LoadNext]].
 
 Part of [[000 Keyword Index]] · [[000 Map of Content]]

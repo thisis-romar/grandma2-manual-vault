@@ -31,6 +31,6 @@ The ClearSelection function clears the selection (deselects all fixtures).
 
 To clear the selection press the button Clear once. 
 
-For more information on further functions of the keyword [Clear](key_keyword_clear.html) see [ClearActive](key_keyword_clearactive.html) and [ClearAll](key_keyword_clearall.html).
+For more information on further functions of the keyword [[Keywords/Clear keyword|Clear]] see [[Keywords/ClearActive keyword|ClearActive]] and [[Keywords/ClearAll keyword|ClearAll]].
 
 Part of [[000 Keyword Index]] · [[000 Map of Content]]

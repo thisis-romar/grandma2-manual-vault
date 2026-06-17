@@ -27,11 +27,11 @@ Another way is to type **Filter** or the shortcut **Fil** directly in the comman
 
 Filter is an object keyword representing attribute filter and layer filter from the filter pool.
 
-The default function for this object is [Call](key_keyword_call.html). Calling a filter applies the filter temporary and limits the next programmer action.
+The default function for this object is [[Keywords/Call keyword|Call]]. Calling a filter applies the filter temporary and limits the next programmer action.
 
 Selecting a filter limits all programmer actions until filter 1 is selected.
 
-For more information see [worlds, filters, and masks](key_wfm_world_filter_mask.html).
+For more information see [[Sections/Worlds Filters and Masks|worlds, filters, and masks]].
 
 ## Syntax
 

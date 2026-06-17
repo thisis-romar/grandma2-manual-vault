@@ -38,8 +38,8 @@ A shaper dialog is used to manipulate the beam of a fixture with the help of sha
 To open the shaper:
 
 1.  Select fixtures with the attribute of blades in the fixture sheet. 
-2.  Tap Shapers in the [Preset Control Bar](key_ws_preset_control_bar.html). 
-3.  Next, tap Special Dialog in the [Encoder Toolbar](key_ws_encoder_toolbar.html) right below Shapers in the preset control bar. 
+2.  Tap Shapers in the [[Pages/Workspace/Preset Control Bar]]. 
+3.  Next, tap Special Dialog in the [[Pages/Workspace/Encoder Toolbar]] right below Shapers in the preset control bar. 
 4.  The dialog **Shaper** opens. 
 
 ![](../../img/img_shaper-dialog_corner-mode_v3-3.png)

@@ -28,7 +28,7 @@ You can also type **Executor** or the shortcut **Ex** directly in the command li
 
 Executor is an object keyword acting as a control handle for other objects.
 
-The default function for Executor objects is [SelFix](key_keyword_selfix.html). This means that calling executors without any function specified selects the fixtures of the executor in programmer.
+The default function for Executor objects is [[Keywords/SelFix]]. This means that calling executors without any function specified selects the fixtures of the executor in programmer.
 
 If you apply a function or reference a property not supported by the Executor object, the command will be passed on its child: Button/fader or the object assigned to the executor.
 
@@ -84,7 +84,7 @@ BreakingGo
 
 "on", "off"
 
-Assigns if Loop Breaking Go is on or off. For more information see [Looping Cues](key_adv_seq_loop.html).
+Assigns if Loop Breaking Go is on or off. For more information see [[Pages/Advanced Sequence Functionality/Looping cues|Looping Cues]].
 
 Chaser
 
@@ -98,13 +98,13 @@ Crossfade
 
 on = AB XFade  
 off = Split XFade  
-Assigns if the executor is an AB XFade or a Split XFade. For more information see [Advanced executor functionality - Executor options](key_adv_exec_options.html#xfade).
+Assigns if the executor is an AB XFade or a Split XFade. For more information see [[Pages/Advanced Executor Functionality/Executor Options|Advanced executor functionality - Executor options]].
 
 CmdDisable
 
 "on", "off"
 
-Assigns if CMD (= command) disable is on or off. For more information see [Advanced executor functionality - Executor options](key_adv_exec_options.html#cmd_disable).
+Assigns if CMD (= command) disable is on or off. For more information see [[Pages/Advanced Executor Functionality/Executor Options|Advanced executor functionality - Executor options]].
 
 EffectSpeed
 
@@ -116,31 +116,31 @@ IgnoreExecTime
 
 "on", "off"
 
-Assigns if ignore exec time is on or off. For more information see [Advanced executor functionality - Executor options](key_adv_exec_options.html#ignore_exec_time).
+Assigns if ignore exec time is on or off. For more information see [[Pages/Advanced Executor Functionality/Executor Options|Advanced executor functionality - Executor options]].
 
 KillProtect
 
 "on", "off"
 
-Assigns if kill protect is on or off. For more information see [Advanced executor functionality - Executor options](key_adv_exec_options.html#kill_protect).
+Assigns if kill protect is on or off. For more information see [[Pages/Advanced Executor Functionality/Executor Options|Advanced executor functionality - Executor options]].
 
 MasterGo
 
 "on", "off", "go", "top"
 
-Assigns the action that is executed if the master fader is above zero. For more information see [Common executor options](key_exec_common_options.html).
+Assigns the action that is executed if the master fader is above zero. For more information see [[Pages/Executors/Common executor options]].
 
 MIBAlways
 
 "on", "off"
 
-Assigns if MIB always is on or off. For more information see [Advanced executor functionality - Executor options.](key_adv_exec_options.html#mib_always)
+Assigns if MIB always is on or off. For more information see [[Pages/Advanced Executor Functionality/Executor Options|Advanced executor functionality - Executor options.]]
 
 MIBNever
 
 "on", "off"
 
-Assigns if MIB never is on or off. For more information see [Advanced executor functionality - Executor options.](key_adv_exec_options.html#mib_never)
+Assigns if MIB never is on or off. For more information see [[Pages/Advanced Executor Functionality/Executor Options|Advanced executor functionality - Executor options.]]
 
 OffTime
 
@@ -153,7 +153,7 @@ OoO
 "on", "off"
 
 Assigns if off on overwritten is on or off.  
-For more information see [Executors - Common executor options](key_exec_common_options.html#on_off_overwritten).
+For more information see [[Pages/Executors/Common executor options|Executors - Common executor options]].
 
 PlaybackMaster
 
@@ -161,13 +161,13 @@ PlaybackMaster
   
 0 = No Playback Master
 
-Assigns the executor to the specified playback master. For more information see [Advanced executor functionality - special masters - playback masters](key_adv_exec_spec_master_playback.html).
+Assigns the executor to the specified playback master. For more information see [[Pages/Advanced Executor Functionality/Playback Masters|Advanced executor functionality - special masters - playback masters]].
 
 Prepos
 
 "on", "off"
 
-Assigns if Auto Prepos is on or off. For more information see [Advanced executor functionality - executor options](key_adv_exec_options.html#prepos).
+Assigns if Auto Prepos is on or off. For more information see [[Pages/Advanced Executor Functionality/Executor Options|Advanced executor functionality - executor options]].
 
 Priority
 
@@ -178,14 +178,14 @@ Priority
 "ltp" or 5  
 "low" or 6
 
-Assigns the executor priority. For more information see [Cues and sequences - Playing back cues](key_cs_playback.html#priority).
+Assigns the executor priority. For more information see [[Pages/Command Syntax and Keywords/Playing back Cues|Cues and sequences - Playing back cues]].
 
 RateMaster
 
 0 - 16,  
 0 = Rate Individual
 
-Assigns the rate master. For more information see [Advanced executor functionality - Executor options](key_adv_exec_options.html#rate_master).
+Assigns the rate master. For more information see [[Pages/Advanced Executor Functionality/Executor Options|Advanced executor functionality - Executor options]].
 
 Restart
 
@@ -193,13 +193,13 @@ Restart
 "Current"  
 "Next"
 
-Assigns the restart mode. For more information see [Common executor options](key_exec_common_options.html).
+Assigns the restart mode. For more information see [[Pages/Executors/Common executor options]].
 
 SoftLTP
 
 "on", "off"
 
-Assigns if soft LTP is on or off. For more information see [Cues and sequences - Playing back cues](key_cs_playback.html#soft_ltp).
+Assigns if soft LTP is on or off. For more information see [[Pages/Command Syntax and Keywords/Playing back Cues|Cues and sequences - Playing back cues]].
 
 Speed
 
@@ -215,38 +215,38 @@ Speed
 "Div16"  
 "Div32"
 
-Assigns the speed factor. For more information see [Advanced executor functionality - Executor options](key_adv_exec_options.html#speed_factor).
+Assigns the speed factor. For more information see [[Pages/Advanced Executor Functionality/Executor Options|Advanced executor functionality - Executor options]].
 
 Speedmaster
 
 0 - 16,  
 0 = Speed individual
 
-Assigns the speed master. For more information see [Advanced executor functionality - Executor options](key_adv_exec_options.html#speed_master).
+Assigns the speed master. For more information see [[Pages/Advanced Executor Functionality/Executor Options|Advanced executor functionality - Executor options]].
 
 SwopProtect
 
 "on", "off"
 
-Assigns if swop protect is on or off. For more information see [Advanced executor functionality - Executor options](key_adv_exec_options.html#swop_protect).
+Assigns if swop protect is on or off. For more information see [[Pages/Advanced Executor Functionality/Executor Options|Advanced executor functionality - Executor options]].
 
 TriggerIsGo
 
 "on", "off"
 
-Assigns if trigger is go is on or not. For more information see [Advanced executor functionality - Executor options](key_adv_exec_options.html#trigger_is_go).
+Assigns if trigger is go is on or not. For more information see [[Pages/Advanced Executor Functionality/Executor Options|Advanced executor functionality - Executor options]].
 
 Width
 
 1 - 5
 
-Assigns the width of the executor. For more information see [Executors - Assign a function - Change the Width of Executors](key_exec_assign.html#executor_width).
+Assigns the width of the executor. For more information see [[Pages/Executors/Assign a function|Executors - Assign a function - Change the Width of Executors]].
 
 Wrap
 
 "on", "off"
 
-Assigns if Wrap Around is on or off. For more information see [What is tracking](key_cs_what_is_tracking.html#release_first_step).
+Assigns if Wrap Around is on or off. For more information see [[Pages/Command Syntax and Keywords/What is Tracking|What is tracking]].
 
 ## Examples
 

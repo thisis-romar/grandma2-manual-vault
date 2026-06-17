@@ -32,7 +32,7 @@ Variables may be used to store phrases of text, for later reuse by command line 
 
 ## SetVar
 
-Variables are defined using the [SetVar keyword](key_keyword_setvar.html) and the [$ character](key_keyword_dollar.html):
+Variables are defined using the [[Keywords/SetVar|SetVar keyword]] and the [[Keywords/Dollar $ Character|$ character]]:
 
 SetVar $nameofvariable="content of variable"
 
@@ -58,7 +58,7 @@ Variables can also contain numbers. If you create the variable and the content i
 
 ### Example
 
-This is an example of using a variable in a cue list. See the [Example macros topic](key_macro_examples.html) for more examples of using variables in macros.
+This is an example of using a variable in a cue list. See the [[Pages/Macros/Example macros|Example macros topic]] for more examples of using variables in macros.
 
 A common way to program lighting for a song is to create a sequence of cues holding the base looks and major changes for each verse and chorus, and additionally trigger different chasers on and off via the command (CMD) column in the main sequence:
 
@@ -90,7 +90,7 @@ Your console will only process valid commands. If none of the Executors exist, t
 
 ## SetUserVar
 
-Similar to the SetVar keyword is the [SetUserVar keyword](key_keyword_setuservar.html).
+Similar to the SetVar keyword is the [[Keywords/SetUserVar|SetUserVar keyword]].
 
 The only difference is that a variable defined with the SetVar is a global variable for all users, while variables defined with SetUserVar applies to the current user only.
 
@@ -144,7 +144,7 @@ Even though these are listed as "Global" some are actually user variables. Two d
 
 ## Additions with Variables
 
-There are two commands that allow you to do a little addition with variables: [AddVar](key_keyword_addvar.html) and [AddUserVar](key_keyword_adduservar.html).
+There are two commands that allow you to do a little addition with variables: [[Keywords/AddVar]] and [[Keywords/AddUserVar keyword|AddUserVar]].
 
 You can do math with numbers and you can append text to text or numbers (this will convert a number to text).
 
@@ -204,7 +204,7 @@ AddVar $text\_num = 42
 
 The result is a text that reads: **The answer is 42**.
 
-For more practical examples please read the [Example macros topic](key_macro_examples.html).
+For more practical examples please read the [[Pages/Macros/Example macros|Example macros topic]].
 
 [[Pages/Macros/Create pop-ups in macros]] →
 

@@ -25,7 +25,7 @@ To get the EffectForm keyword in the command line type **EffectForm** or the sho
 
 EffectForm is a helping keyword to indicate individual effect form values.
 
-For more information on effect form values see [effects](key_effects.html).
+For more information on effect form values see [[Sections/Effects|effects]].
 
 ## Syntax
 

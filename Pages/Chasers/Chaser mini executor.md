@@ -36,7 +36,7 @@ The cyan colored frame indicates that a chaser has been assigned to this executo
 
 The Mini Executor is divided into tree sections: a top part, a middle part and a lower part.
 
-The top part and the lower part is similar to **Sequence Mini Executors**. Read more about [Sequence\_Mini\_Executor](key_cs_sequence_mini_executor.html).
+The top part and the lower part is similar to **Sequence Mini Executors**. Read more about [[Pages/Command Syntax and Keywords/Sequence mini executor|Sequence\_Mini\_Executor]].
 
 The middle part is divided into three lines.
 

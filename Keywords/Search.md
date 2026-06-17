@@ -25,7 +25,7 @@ You can also type **Search** or the shortcut **Sea** in the command line.
 
 ## Description
 
-The Search Keyword searches for objects and values in the show. For more information see [search and replace](key_search_replace.html).
+The Search Keyword searches for objects and values in the show. For more information see [[Sections/Search and Replace|search and replace]].
 
 **Information:**  
 If you search only for a value, it will be searched for dimmer attributes.
@@ -48,6 +48,6 @@ The Search keyword is a function keyword.
 
 _Search results_
 
-For more information on the search function and further examples see [Search](key_search_replace_search.html).
+For more information on the search function and further examples see [[Pages/Search and Replace/Search]].
 
 Part of [[000 Keyword Index]] · [[000 Map of Content]]

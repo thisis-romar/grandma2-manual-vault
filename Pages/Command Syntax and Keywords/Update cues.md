@@ -72,13 +72,13 @@ The following is an explanation of the different options.
 
 If you have the Update menu visible on screen 1 then you might be able to use the X-keys and the U1 , U2, and U3 to selected the different options and buttons.
 
-Please read details about Presets and Effects in the [Preset section](key_presets.html) and the [Effect section](key_effects.html). These include explanations of the different relevant options.
+Please read details about Presets and Effects in the [[Sections/Presets|Preset section]] and the [[Sections/Effects|Effect section]]. These include explanations of the different relevant options.
 
 For updating a cue, tap the sequence you want to update or if you have selected the sequence using the screen encoder you can tap the Update Cue button or the screen encoder.
 
 ## Updating or editing in the Sheets
 
-It is also possible to change the values directly in the Sequence Tracking Sheet and the Sequence Content Sheet. These two sheets and the editing process are described in the [Looking at the Cue Content topic](key_cs_cue_content.html).
+It is also possible to change the values directly in the Sequence Tracking Sheet and the Sequence Content Sheet. These two sheets and the editing process are described in the [[Pages/Command Syntax and Keywords/Looking at the cue content|Looking at the Cue Content topic]].
 
 ← [[Pages/Command Syntax and Keywords/Looking at the cue content]] | [[Pages/Command Syntax and Keywords/What is Tracking]] →
 

@@ -37,11 +37,11 @@ There are different timing levels. They are:
 *   **Rate**
 *   **Executor Time**
 
-There is also manual cross fading. This overwrites any timing. Read more about cross fading in the [Playing back Cues topic](key_cs_playback.html#crossfade).
+There is also manual cross fading. This overwrites any timing. Read more about cross fading in the [[Pages/Command Syntax and Keywords/Playing back Cues|Playing back Cues topic]].
 
 ## General Cue Timing
 
-This is the general timing columns that can be seen in the [Sequence Executor Sheet](key_cs_cue_sequence.html).
+This is the general timing columns that can be seen in the [[Pages/Command Syntax and Keywords/Looking at the Cue Sequence|Sequence Executor Sheet]].
 
 These timings have the lowest priority. If a value has a different Preset Type Timing or an Individual Timing then they have a higher priority.
 
@@ -109,11 +109,11 @@ _Encoder Toolbar - Fade Layer with active fade times_
 
 When the individual time is in the programmer then it needs to be stored like any other value.
 
-Depending on what is stored with individual times, please consider if using [Part Cues](key_cs_store.html) might be a better solution for you.
+Depending on what is stored with individual times, please consider if using [[Pages/Command Syntax and Keywords/Storing cues|Part Cues]] might be a better solution for you.
 
 ## Rate Fader
 
-All executors have a Rate Fader. This fader might not be assigned to a physical fader but it is still there. For details about this please have a look at the [Executors section](key_exec.html).
+All executors have a Rate Fader. This fader might not be assigned to a physical fader but it is still there. For details about this please have a look at the [[Sections/Executors|Executors section]].
 
 A Rate fader is used to modulate or dynamically adjust the stored times. It does not change the stored times, it simply adjust the time to be faster or slower. 
 
@@ -137,7 +137,7 @@ Or by having the "Rate1" function assigned to one of the associated executor key
 
 ## Exec Time faders
 
-The "Exec Time" or "Executor Time" fader can be used to override the stored times in the cues. It is a fader visible in the lower right corner of screen 2 (unless you are on a grandMA2 onPC with the "CmdWing Bar" turned on). It can also be assigned to a physical fader - read about it in the [Special Masters topic](key_adv_exec_spec_master.html).
+The "Exec Time" or "Executor Time" fader can be used to override the stored times in the cues. It is a fader visible in the lower right corner of screen 2 (unless you are on a grandMA2 onPC with the "CmdWing Bar" turned on). It can also be assigned to a physical fader - read about it in the [[Pages/Advanced Executor Functionality/Special Masters|Special Masters topic]].
 
 If the Exec Time fader is On, then all the stored cue timing is ignored and the time set on the Exec Time fader is used instead. The default range for the fader is 0 seconds to 10 seconds. The maximum is a user setting and it can be changed in Setup -> User -> Settings. It it called "Max. Exec Time".
 
@@ -145,7 +145,7 @@ The Exec Time fader also has a "Manual XFade" function. This will allow you to u
 
 Exec Time ignores any individual times. The Rate Fader is effecting the Exec Time, except when doing the Manual XFade.
 
-It is possible to activate **Ignore Exec Time** in the options for each Executor - see the [Executor Options topic](key_adv_exec_options.html). This will exclude the executor from being effected by the Exec Time.
+It is possible to activate **Ignore Exec Time** in the options for each Executor - see the [[Pages/Advanced Executor Functionality/Executor Options|Executor Options topic]]. This will exclude the executor from being effected by the Exec Time.
 
 * * *
 

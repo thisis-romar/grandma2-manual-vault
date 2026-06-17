@@ -1,7 +1,7 @@
 /**
  * audit.js
  * Read-only conformance audit of the vault against the SOP (CLAUDE.md):
- *   (a) Links       — every [[wikilink]] resolves to a real note
+ *   (a) Links       — every [[wikilink]] resolves; no raw internal .html links remain
  *   (b) Structure   — required folders + MOC files exist; type matches location
  *   (c) Frontmatter — required fields present per `type`
  *   (d) Conventions — source callout + nav footer present
@@ -16,6 +16,7 @@ import { promises as fs } from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
 import matter from 'gray-matter';
+import { INTERNAL_HTML_LINK_RE } from './lib/internal-links.js';
 
 const VAULT_ROOT = process.argv[2]
   ? path.resolve(process.argv[2])
@@ -88,6 +89,7 @@ export async function auditVault(root = VAULT_ROOT) {
   const findings = {
     brokenLinks: [], // unresolvable even case-insensitively (target note absent)
     caseLinks: [], // resolve only case-insensitively (broken on case-sensitive FS / github-browse)
+    rawLinks: [], // raw internal key_*.html links — dead in Obsidian, 404 on github-browse
     structure: [], // missing folder/MOC or type/location mismatch
     frontmatter: [], // missing required fields
     conventions: [], // missing source callout / nav footer
@@ -164,6 +166,11 @@ export async function auditVault(root = VAULT_ROOT) {
       }
       findings.brokenLinks.push(loc);
     }
+
+    // (a2) raw internal `.html` links — must be [[wikilinks]] (see internal-links.js)
+    for (const mm of raw.matchAll(new RegExp(INTERNAL_HTML_LINK_RE.source, 'g'))) {
+      findings.rawLinks.push(`${f}:${lineOf(raw, mm.index)}  [${mm[1]}](${mm[2]}.html)`);
+    }
   }
 
   return { root, files, linkTotal, findings };
@@ -192,6 +199,10 @@ export function printReport({ root, files, linkTotal, findings }) {
     `  UNRESOLVABLE:          ${findings.brokenLinks.length}  (target note does not exist)`,
   );
   if (findings.brokenLinks.length) console.log(show(findings.brokenLinks));
+  console.log(
+    `  RAW INTERNAL .html:    ${findings.rawLinks.length}  (must be [[wikilinks]] — dead in Obsidian / 404 on github-browse)`,
+  );
+  if (findings.rawLinks.length) console.log(show(findings.rawLinks));
 
   console.log(`\n(b) STRUCTURE — ${findings.structure.length} issue(s)`);
   if (findings.structure.length) console.log(show(findings.structure, 30));
@@ -220,6 +231,7 @@ export function printReport({ root, files, linkTotal, findings }) {
   const hardFail =
     findings.brokenLinks.length +
     findings.caseLinks.length +
+    findings.rawLinks.length +
     findings.structure.length +
     findings.frontmatter.length;
   console.log(`\n=== ${hardFail ? `FAIL — ${hardFail} hard issue(s)` : 'PASS'} ===\n`);

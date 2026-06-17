@@ -23,7 +23,7 @@ To get the $ character in the command line, press and hold Shift + 4.
 
 ## Description
 
-The $ character indicates variables in the command line. For more information about variables, see [use variables](key_macro_create_variables.html).
+The $ character indicates variables in the command line. For more information about variables, see [[Pages/Macros/Use variables in macros|use variables]].
 
 ## Examples
 
@@ -41,7 +41,7 @@ Create and use a variable to turn the chaser executor off.
 
 Executor 11 trough 15 are turned off by using the variable $mychasers.
 
-For more information to the SetVar keyword, see [SetVar keyword](key_keyword_setvar.html).
+For more information to the SetVar keyword, see [[Keywords/SetVar|SetVar keyword]].
 
 * * *
 

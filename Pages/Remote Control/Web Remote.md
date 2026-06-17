@@ -73,7 +73,7 @@ On the phone version there are two buttons with arrows that allows the user to t
 
 On the tablet version the two buttons are replaced by a bar with buttons for the different views. There is a blue are in the left side. tapping this opens the [Main Menu.](#main_menu)
 
-At the bottom of almost every window there are three buttons with the [Set](key_key_set.html), [Next](key_key_next.html), and [Previous](key_key_previous.html) functions.
+At the bottom of almost every window there are three buttons with the [[Keys/Set Key|Set]], [[Keys/Next Key|Next]], and [[Keys/Prev (Previous) Key|Previous]] functions.
 
 ## CMD 1 and CMD 2
 
@@ -101,7 +101,7 @@ _CMD - Tablet mode_
 
 ## Fixture sheet
 
-The fixture sheet displays the fixture information. For details about the **Fixture Sheet** please follow this link to the [Fixture Sheet topic](key_of_fixture_sheet.html).
+The fixture sheet displays the fixture information. For details about the **Fixture Sheet** please follow this link to the [[Pages/Operate Fixtures/Fixture Sheet|Fixture Sheet topic]].
 
 There are some special buttons at the top of the window in the phone mode and they are added at to bottom on the tablet mode. The following is a show description of them:
 
@@ -116,7 +116,7 @@ There are some special buttons at the top of the window in the phone mode and th
 *   **Prg Only:**  
     This toggles a **Programmer Only** mask.
 *   **Preset Value selector:**  
-    Tapping this swipe button toggles through the following layers: **Value**, **Fade**, **Delay**, and **Output**. Swiping it opens a small pop-up that allows you to select the desired layer directly. Read about the layers in the [Layers in Sheets topics](key_of_layers_in_sheets.html).
+    Tapping this swipe button toggles through the following layers: **Value**, **Fade**, **Delay**, and **Output**. Swiping it opens a small pop-up that allows you to select the desired layer directly. Read about the layers in the [[Pages/Operate Fixtures/Layer in Sheets|Layers in Sheets topics]].
 
 **Phone mode:**
 
@@ -134,7 +134,7 @@ The tablet mode provides easy access to change the preset type.
 
 ## Channel Sheet
 
-The channel sheet displays the channel information. For details about the **Channel Sheet** please follow this link to the [Channel Sheet topic](key_of_channel_sheet.html).
+The channel sheet displays the channel information. For details about the **Channel Sheet** please follow this link to the [[Pages/Operate Fixtures/Channel Sheet|Channel Sheet topic]].
 
 As described above about the fixture sheet, there are some special buttons also in the channel sheet.
 
@@ -159,7 +159,7 @@ _Channel Sheet - Tablet mode_
 
 ## Group Pool
 
-The group pool displays the groups. Read details about it in the [Groups topics](key_groups.html).
+The group pool displays the groups. Read details about it in the [[Sections/Groups|Groups topics]].
 
 There are two special buttons here: Clear and Highlight. They have the same functions as the real hard keys.
 
@@ -177,7 +177,7 @@ _Group Pool - Tablet mode_
 
 ## Preset Pool
 
-This is the different preset pools. The windows works as the **Dynamic** pool in the console - read about it in the [Dynamic preset topic](key_presets_dynamic_pool.html). The preset types can be selected on the left hand side in both modes.
+This is the different preset pools. The windows works as the **Dynamic** pool in the console - read about it in the [[Pages/Presets/Preset Pool -Dynamic-|Dynamic preset topic]]. The preset types can be selected on the left hand side in both modes.
 
 There is currently no access to the **All Presets**.
 
@@ -195,7 +195,7 @@ _Preset Pools - Tablet mode_
 
 ## Macro Pool
 
-This is the macro pool - read about it in the [Macro topics](key_macro.html). It displays all the macros. It is not possible to edit macros using the remote.
+This is the macro pool - read about it in the [[Sections/Macros|Macro topics]]. It displays all the macros. It is not possible to edit macros using the remote.
 
 **Phone mode:**
 
@@ -211,7 +211,7 @@ _Macro Pool - Tablet mode_
 
 ## World Pool
 
-This is the world pool - learn about worlds in the [What are Worlds topic](key_wfm_what_are_worlds.html).
+This is the world pool - learn about worlds in the [[Pages/Worlds Filters and Masks/What are Worlds|What are Worlds topic]].
 
 **Phone mode:**
 
@@ -227,7 +227,7 @@ _World Pool - Tablet mode_
 
 ## Executor Sheet
 
-The Executor Sheet displays the [Sequence Executor Sheet](key_cs_cue_sequence.html).
+The Executor Sheet displays the [[Pages/Command Syntax and Keywords/Looking at the Cue Sequence|Sequence Executor Sheet]].
 
 There is no playback control in this window. It only shows the sequence status of the selected executor (remember this can be different for each user).
 
@@ -247,7 +247,7 @@ _Executor Sheet - Tablet mode_
 
 ## Playbacks
 
-This windows shows the virtual executors - read more about it in the [Executors on the Screens topic](key_exec_on_screen.html).
+This windows shows the virtual executors - read more about it in the [[Pages/Executors/Executors on the screens|Executors on the Screens topic]].
 
 On the left hand side there are some special buttons:
 

@@ -27,7 +27,7 @@ ManualXFade activates the function Crossfade of the Special Masters "Exec Time
 
 The green marker starts flashing if Crossfade is active. 
 
-For more information see [Time control](key_ws_time_control.html). 
+For more information see [[Pages/Workspace/Time Control|Time control]]. 
 
 ## Syntax
 

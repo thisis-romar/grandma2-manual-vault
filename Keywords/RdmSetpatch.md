@@ -29,7 +29,7 @@ If no Unique ID is given, the fixture selection will be used.
 
 The RdmSetPatch keyword is a function keyword.
 
-For more information, see [RDM](key_rdm.html).
+For more information, see [[Sections/RDM]].
 
 ## Syntax
 

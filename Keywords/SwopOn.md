@@ -30,7 +30,7 @@ The executor stays tuned on.
 
 If SwopOn is used standalone, SwopOn toggles between SwopOn On and SwopOn Off.
 
-To protect an executor from the swop function, assign Swop Protect in the [Assign Menu](key_exec_assign.html). 
+To protect an executor from the swop function, assign Swop Protect in the [[Pages/Executors/Assign a function|Assign Menu]]. 
 
 The Swop keyword do not react to any assigned timing.
 
@@ -50,7 +50,7 @@ To get a list of all options of the keyword SwopOn, type the following into the 
 
 The keyword SwopOn has the exact same options as the keyword Goto. 
 
-For further information see keyword [Goto](key_keyword_goto.html). 
+For further information see keyword [[Keywords/Goto]]. 
 
 ## Example
 

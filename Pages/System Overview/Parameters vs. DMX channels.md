@@ -117,7 +117,7 @@ But if 3-party visualizers are used, then the hardware might be needed to give a
 
 MA Lighting is working with many visualizer manufactures to allow them to read the DMX data without hardware.
 
-Learn more about parameter expansion [here](key_so_parameter_expansion.html).
+Learn more about parameter expansion [[Pages/System Overview/Parameter expansion|here]].
 
 ← [[Pages/System Overview/Network systems]] | [[Pages/System Overview/Parameter expansion]] →
 

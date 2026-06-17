@@ -25,11 +25,11 @@ The keys V1 through V10 are located on the right of screen 2.
 _Location V-Keys_
 
   
-If you press a V-Key, the [ViewButton keyword](key_keyword_viewbutton.html) will be executed.
+If you press a V-Key, the [[Keywords/ViewButton|ViewButton keyword]] will be executed.
 
-The displayed view on the [view button](key_widget_view_buttons.html) will be called.
+The displayed view on the [[Pages/Workspace/View Buttons|view button]] will be called.
 
-If you press and hold ![ma](../../img/ma_1.png) and a V-Key, the [ViewPage keyword](key_keyword_viewpage.html) will be executed.  
+If you press and hold ![ma](../../img/ma_1.png) and a V-Key, the [[Keywords/ViewPage|ViewPage keyword]] will be executed.  
 The view page corresponding the V-Key number you have pressed, will be called.
 
 Part of [[000 Key Index]] · [[000 Map of Content]]

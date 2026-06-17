@@ -32,7 +32,7 @@ The SNMP is enbled by default. 
 
 **Requirement:**
 
-*   [Add MA Network Switch to the network configuration](key_control_ma_switch_add.html)
+*   [[Pages/Control MA Network Switch/Add the MA Network Switch to the network configuration|Add MA Network Switch to the network configuration]]
 
 To disable SNMP:
 

@@ -27,7 +27,7 @@ Another way is to type **FaderPage** or one of the shortcuts **FP** or **FaderP*
 
 FaderPage is an object keyword representing the fader executor part of a page.
 
-The default function for this object is [Call](key_keyword_call.html). Calling a FaderPage changes the physical executors to that page.
+The default function for this object is [[Keywords/Call keyword|Call]]. Calling a FaderPage changes the physical executors to that page.
 
 If you apply a function not supported by the FaderPage object, the function will be passed on to the executor child objects of the FaderPage.
 

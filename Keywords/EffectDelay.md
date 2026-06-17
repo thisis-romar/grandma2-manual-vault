@@ -25,7 +25,7 @@ To get the EffectDelay keyword in the command line type **EffectDelay** or the s
 
 EffectDelay is a helping keyword to indicate individual effect delay times.
 
-For more information on effect delay see [effects](key_effects.html).
+For more information on effect delay see [[Sections/Effects|effects]].
 
 ## Syntax
 

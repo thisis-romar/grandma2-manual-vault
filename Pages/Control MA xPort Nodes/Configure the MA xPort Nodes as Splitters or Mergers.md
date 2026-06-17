@@ -31,7 +31,7 @@ To do so:
 
 *   Configure the node on the console or in a browser first. 
 
-For information on how to configure nodes see [Configure nodes on the console](key_control_ma_xport_node_configure_on_console.html) or [Configure nodes in a browser](key_control_ma_xport_node_configure_in_browser.html). 
+For information on how to configure nodes see [[Pages/Control MA xPort Nodes/Configure the MA xPort Nodes in the Console|Configure nodes on the console]] or [[Pages/Control MA xPort Nodes/Configure the MA xPort Nodes in a Browser|Configure nodes in a browser]]. 
 
 The following example displays how to configure the nodes as splitters or mergers on a console. 
 
@@ -43,9 +43,9 @@ If the node is used as a merger, it is possible to merge one or two DMX inputs 
 
 1.  To configure the node as a merger:  
     \-Add an MA xPort Node to the network configuration.  
-     For more information see [Adding devices to your session](key_network_session_add_device.html). 
+     For more information see [[Pages/Networking/Adding devices to the session|Adding devices to your session]]. 
 2.  Select the same universe for all ports in the pop-up **Configure DMX Port (MA-Net2 Mode)**.  
-    For more information see [Configure nodes on the console](key_control_ma_xport_node_configure_on_console.html#configureDMX_universe).   
+    For more information see [[Pages/Control MA xPort Nodes/Configure the MA xPort Nodes in the Console|Configure nodes on the console]].   
     \-Then, set a maximum of 2 ports to the port mode "IN" and 1 port to the port mode "OUT".
 
 ![](../../img/menu_configure-node-as-merger_v3-3.png)
@@ -63,9 +63,9 @@ You have successfully configured the node as a merger.  
 
 1.  To configure the node as a splitter:  
     \-Add an MA xPort Node to the network configuration.  
-    For more information see [Adding devices to your session](key_network_session_add_device.html).
+    For more information see [[Pages/Networking/Adding devices to the session|Adding devices to your session]].
 2.  Select the same universe for all ports in the pop-up **Configure DMX Port (MA-Net2 Mode)**.  
-    For more information see [Configure nodes on the console](key_control_ma_xport_node_configure_on_console.html#configureDMX_universe).   
+    For more information see [[Pages/Control MA xPort Nodes/Configure the MA xPort Nodes in the Console|Configure nodes on the console]].   
     \-Then, set at least 3 ports to the port mode "OUT" and 1 port to the port mode "IN". 
 
 ![](../../img/menu_configure-node-as-splitter_v3-3.png)

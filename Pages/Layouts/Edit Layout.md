@@ -98,7 +98,7 @@ _Pop-up Edit Layout Element_
 \-Then, tap Please.  
 \-To import a new image into the image pool, tap Load image. 
 
-For more information on the image viewer see [Import images and videos](key_image_import.html). 
+For more information on the image viewer see [[Pages/Image Pool/Import Images and Videos|Import images and videos]]. 
 
 11.  To define the angular degree of the rotation of an image or an icon, tap the drop-down button below **Image/Icon Rotation**.
 12.  To apply the settings directly, tap Please. 
@@ -190,7 +190,7 @@ The button Select selects the objects via "Lasso". 
 To select several objects, press and hold **Ctrl** on the keyboard in the drawer or an external keyboard and tap the objects you would like to add to your selection. 
 
  **Important:**  
-It is possible to use the Double tap mode here. For more information see [Layout view options](key_layouts_view_options.html).
+It is possible to use the Double tap mode here. For more information see [[Pages/Layouts/Layout View Options|Layout view options]].
 
 * * *
 

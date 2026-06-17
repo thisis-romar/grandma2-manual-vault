@@ -29,22 +29,22 @@ They can substitute terms or complement the syntax in the command line.
 
 For more information see the corresponding characters.
 
-[Asterisk \*](key_keyword_asterisk.html)
+[[Keywords/Asterisk -|Asterisk \*]]
 
-[At @](key_keyword_at_@.html)
+[[Keywords/At @ Character|At @]]
 
-[Dollar $](key_keyword_dollar.html)
+[[Keywords/Dollar $ Character|Dollar $]]
 
-[Dot .](key_keyword_dot.html)
+[[Keywords/Dot . Character|Dot .]]
 
-[Parentheses ( )](key_keyword_parentheses.html)
+[[Keywords/Parentheses ( ) Character|Parentheses ( )]]
 
-[Quotation marks " "](key_keyword_marks.html)
+[[Keywords/Quotation Marks - - Character|Quotation marks " "]]
 
-[Semicolon ;](key_keyword_semicolon.html)
+[[Keywords/Semicolon ; Character|Semicolon ;]]
 
-[Slash /](key_keyword_slash.html)
+[[Keywords/Slash - Character|Slash /]]
 
-[Square brackets \[ \]](key_keyword_square_brackets.html)
+[[Keywords/Square Brackets [ ] Character]]
 
 Part of [[Sections/Command Syntax and Keywords]] · [[000 Map of Content]]

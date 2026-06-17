@@ -35,11 +35,11 @@ For more information on the various settings see the links below:
 
 #### Sub topics
 
-*   [Adjust the intensity of desk lights](key_window_desklights.html)
-*   [Change screen options](key_window_screenoptions.html)
-*   [Local settings](key_local_settings.html)
-*   [Wing &amp; monitor setup](key_window_faderwing_commandwing_setup.html)
-*   [Date & Time](key_date_time.html)
+*   [[Pages/Console Settings/Adjust Intensity of Desk Lights|Adjust the intensity of desk lights]]
+*   [[Pages/Console Settings/Change Screen Options|Change screen options]]
+*   [[Pages/Console Settings/Local settings]]
+*   [[Pages/Console Settings/Wing & Monitor Setup|Wing &amp; monitor setup]]
+*   [[Pages/Console Settings/Date & Time]]
 
 ## Pages in This Section
 

@@ -25,7 +25,7 @@ To enter the keyword, type **Or** into the command line. 
 
 Or is a helping keyword and is usually used along with the keyword If. 
 
-For more information see [keyword If](key_keyword_if.html). 
+For more information see [[Keywords/If|keyword If]]. 
 
 ## Syntax
 

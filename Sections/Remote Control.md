@@ -29,15 +29,15 @@ There are several ways to remote control grandMA2.
 
 This section describes them.
 
-There is a [Remote Input](key_remote_control_input.html) part in the setup that allows simple DMX, Contact Closure and MIDI notes to trigger actions.
+There is a [[Pages/Remote Control/Remote Inputs|Remote Input]] part in the setup that allows simple DMX, Contact Closure and MIDI notes to trigger actions.
 
-A more complex method is to use [MIDI Show Control - MSC](key_remote_control_msc.html). This can be used to trigger cues, macros, control faders, and turn off executors.
+A more complex method is to use [[Pages/Remote Control/MIDI Show Control (MSC)|MIDI Show Control - MSC]]. This can be used to trigger cues, macros, control faders, and turn off executors.
 
-There is a description of the [Web Remote](key_remote_control_web_remote.html) - a browser interface that allows control and visualization of information - fixture and cue feedback.
+There is a description of the [[Pages/Remote Control/Web Remote]] - a browser interface that allows control and visualization of information - fixture and cue feedback.
 
-The [Telnet](key_remote_control_telnet.html) connection allows the execution of any command in grandMA2. This can be very useful with 3rd party controllers - for instance a house control system.
+The [[Pages/Remote Control/Telnet Remote|Telnet]] connection allows the execution of any command in grandMA2. This can be very useful with 3rd party controllers - for instance a house control system.
 
-Finally this section also has a very useful [Decimal, Hex, ASCII conversion table](key_remote_control_hex_table.html).
+Finally this section also has a very useful [[Pages/Remote Control/Decimal – Hex Table|Decimal, Hex, ASCII conversion table]].
 
   
 
@@ -45,11 +45,11 @@ Finally this section also has a very useful [Decimal, Hex, ASCII conversion tabl
 
 #### Sub topics
 
-*   [Remote input](key_remote_control_input.html)
-*   [MIDI show control (MSC)](key_remote_control_msc.html)
-*   [Web remote](key_remote_control_web_remote.html)
-*   [Telnet remote](key_remote_control_telnet.html)
-*   [Decimal – hex table](key_remote_control_hex_table.html)
+*   [[Pages/Remote Control/Remote Inputs|Remote input]]
+*   [[Pages/Remote Control/MIDI Show Control (MSC)|MIDI show control (MSC)]]
+*   [[Pages/Remote Control/Web Remote|Web remote]]
+*   [[Pages/Remote Control/Telnet Remote|Telnet remote]]
+*   [[Pages/Remote Control/Decimal – Hex Table|Decimal – hex table]]
 
 ## Pages in This Section
 

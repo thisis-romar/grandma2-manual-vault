@@ -32,7 +32,7 @@ To create groups you'll need to select some fixtures first.
 
 When you have a selection of fixtures, then you can store it as a group.
 
-For more information on how to store group objects see [Manage pool objects](key_pools_manage.html). 
+For more information on how to store group objects see [[Pages/Pools/Manage pool objects]]. 
 
 ## Store a group on an existing group
 
@@ -57,15 +57,15 @@ The grandMA2 will try to give the group a name when you store it. But if your se
 
 Immediately after you have stored the group, you can start typing on the keyboard. This will name the group you just stored.
 
-If you wish to name the group later then you can use the [Label command](key_keyword_label.html).
+If you wish to name the group later then you can use the [[Keywords/Label|Label command]].
 
-For more information on how to label the groups see [Manage pool objects](key_pools_manage.html). 
+For more information on how to label the groups see [[Pages/Pools/Manage pool objects]]. 
 
 ## Editing groups
 
 When you are in the edit mode, then you get the group content as selected fixtures in your programmer. You can then change this selection. If you want to save the new selection then you press the Update key and confirm that you want to update the group in the small confirmation pop-up.
 
-For more information on how to edit groups see [Manage pool objects](key_pools_manage.html).
+For more information on how to edit groups see [[Pages/Pools/Manage pool objects]].
 
 [[Pages/Groups/Auto Create groups]] →
 

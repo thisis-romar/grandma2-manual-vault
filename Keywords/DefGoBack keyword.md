@@ -38,6 +38,6 @@ Calls the previous cue in the selected executor.  
 **Hint:**  
 It is also possible to enter this command by pressing the large Go - button on the console. 
 
-For more information on the key Go - see [Go - (large)](key_key_defgominus.html).
+For more information on the key Go - see [[Keys/Go - (large) Key|Go - (large)]].
 
 Part of [[000 Keyword Index]] · [[000 Map of Content]]

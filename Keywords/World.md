@@ -44,6 +44,6 @@ Label a world.
 
 ## Related Links
 
-*   [World, Filters, and Masks](key_wfm_world_filter_mask.html)
+*   [[Sections/Worlds Filters and Masks|World, Filters, and Masks]]
 
 Part of [[000 Keyword Index]] · [[000 Map of Content]]

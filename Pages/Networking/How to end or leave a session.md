@@ -29,7 +29,7 @@ Version 3.9
 
 ## Leave a session
 
-Leaving the session can be done using the [LeaveSession command](key_keyword_leavesession.html). This will remove the station, where the command is executed, from the session.
+Leaving the session can be done using the [[Keywords/LeaveSession|LeaveSession command]]. This will remove the station, where the command is executed, from the session.
 
 You can also open the **MA Network Control** (in Setup) and tap the Leave Session button.
 
@@ -37,7 +37,7 @@ This only takes one console out of the session - the one you are operating. If t
 
 ## Disconnect / Dismiss a station
 
-A station can be removed from the session by using the [DisconnectStation command](key_keyword_disconnectstation.html).
+A station can be removed from the session by using the [[Keywords/DisconnectStation keyword|DisconnectStation command]].
 
 You can also open the **MA Network Control** (in Setup) select the station you want to remove and tap the Dismiss Session button.
 
@@ -45,7 +45,7 @@ This will take the selected station out of the session.
 
 ## End Session
 
-You can end the session your are a part of using the [EndSession command](key_keyword_endsession.html).
+You can end the session your are a part of using the [[Keywords/EndSession|EndSession command]].
 
 You can also open the **MA Network Control** (in Setup) and tap the End Session button.
 

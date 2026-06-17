@@ -35,7 +35,7 @@ If no name is given, you will be prompted with a dialog to enter the name.
 
 Label \[Object-list\] "Name"
 
-For more information on quotes see [Special Characters - Quotes](key_keyword_marks.html).
+For more information on quotes see [[Keywords/Quotation Marks - - Character|Special Characters - Quotes]].
 
 ## Examples
 

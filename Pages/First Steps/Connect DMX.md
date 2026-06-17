@@ -31,7 +31,7 @@ The console has six DMX OUT ports (A - F) and one DMX IN port.
 
 You can configure the DMX ports in the network configuration. 
 
-For more information see [Configure the DMX ports on MA devices](key_network_dmx_configure_ports.html). 
+For more information see [[Pages/Networking/Setting up DMX ports on MA devices|Configure the DMX ports on MA devices]]. 
 
 ![](../../img/img_grandma2_dmx_connector_3_2.png)
 

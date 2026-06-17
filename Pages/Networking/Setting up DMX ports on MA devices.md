@@ -31,7 +31,7 @@ If a session is running and other MA devices are in the session, then it is also
 
 The operation is the same no matter the size of the system. It is done from the **MA Network Configuration**. This can be done by pressing the Setup key and then the MA Network Configuration button under "Network".
 
-The MA Network Configuration is separated into different sections. One for each type of MA device. Read more about these section and adding devices in the [Adding devices to your session](key_network_session_add_device.html) topic.
+The MA Network Configuration is separated into different sections. One for each type of MA device. Read more about these section and adding devices in the [[Pages/Networking/Adding devices to the session|Adding devices to your session]] topic.
 
 The station you are using is always in the system, no matter if it is a console or onPC.
 
@@ -56,7 +56,7 @@ _Configure DMX port pop-up - DMX node version_
 The "Port Mode" is a drop down list that has the following options:
 
 *   **Off** - The DMX port is turned off and the device will not input or output any DMX.
-*   **In** - The DMX port is functioning as an DMX input. It will merge values into the universe number typed in the green universe field - If "DMX In Merge" is activated in the Setup->Show->Patch only->[DMX List](key_patch_dmx_parameter_list.html#dmx_list).
+*   **In** - The DMX port is functioning as an DMX input. It will merge values into the universe number typed in the green universe field - If "DMX In Merge" is activated in the Setup->Show->Patch only->[[Pages/Patching/DMX and Parameter lists|DMX List]].
 *   **Out** - The DMX port is outputting the DMX universe set in the green universe field.
 
 All DMX ports can be an Input or an Output. It is just a matter of maybe adding a XLR gender changer to the physical connector. The **exceptions** are:
@@ -100,7 +100,7 @@ The **Timeout** options are similar except the time. They will hold the DMX valu
 
 The **Hold** option will make the node continue to send the DMX values as long as it got power.
 
-Read more about configuring the MA Nodes in the [Control the MA Node section](key_control_ma_xport_node.html).
+Read more about configuring the MA Nodes in the [[Sections/Control MA xPort Nodes|Control the MA Node section]].
 
 ### Timeout outfade time
 
@@ -133,13 +133,13 @@ Please remember the limitations mentioned [above](#input_limitation).
 
 ## Where are the settings stored?
 
-Changes to the DMX ports on Consoles, onPCs and NPUs are stored as a part of the show file. The settings will be loaded into the devices when a show is loaded, but only if the "Network Config" settings are included when loading from the show file. For more info on loading show files, please have a look at the [Using the Backup Menu](key_backup_menu.html) topics.
+Changes to the DMX ports on Consoles, onPCs and NPUs are stored as a part of the show file. The settings will be loaded into the devices when a show is loaded, but only if the "Network Config" settings are included when loading from the show file. For more info on loading show files, please have a look at the [[Sections/Backup Menu|Using the Backup Menu]] topics.
 
 The DMX nodes (MA nodes) and MA switches are different. Their settings are stored locally in the devices and a not loaded or changed with the show file.
 
 The configuration of the DMX nodes and switches can be exported and imported. This can be done to/from the hard drive or a USB stick.
 
-Please read the [Export and Import topics](key_export_and_import.html) for more information about this.
+Please read the [[Sections/Export and Import|Export and Import topics]] for more information about this.
 
 [[Pages/Networking/Network DMX protocols]] →
 

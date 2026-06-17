@@ -79,7 +79,7 @@ The command entered is missing an argument.
 
 \# 12 Expected name
 
-The console expects a name, for example if the [keyword Label](key_keyword_label.html) was canceled. 
+The console expects a name, for example if the [[Keywords/Label|keyword Label]] was canceled. 
 
 \# 13 Illegal name
 

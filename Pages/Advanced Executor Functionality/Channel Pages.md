@@ -42,7 +42,7 @@ The static Channel pages are organized in a Channel Pool. The pool could look li
 
 _Channel page pool_
 
-This works as any of the pool - if you have not read the [Pools in General section](key_pools.html), then please read it.
+This works as any of the pool - if you have not read the [[Sections/Pools|Pools in General section]], then please read it.
 
 This is what it looks like in Sheet Style:
 
@@ -52,7 +52,7 @@ _Channel page pool - Sheet Style_
 
 The green **C** indicates that this Channel Page is currently active. A gray **C** indicates that this is the last viewed page (It is probably back to en Executor page).
 
-Tapping one of the objects in the pool will change to the Channel page. It is also possible to change the page using the Ch Pg + and Ch Pg - keys or the [ChannelPage](key_keyword_channelpage.html) command. Keeping the Ch Pg -  key pressed for a second will jump back to page number 1.
+Tapping one of the objects in the pool will change to the Channel page. It is also possible to change the page using the Ch Pg + and Ch Pg - keys or the [[Keywords/ChannelPage keyword|ChannelPage]] command. Keeping the Ch Pg -  key pressed for a second will jump back to page number 1.
 
 ## Assigning fixtures
 
@@ -148,9 +148,9 @@ The Create Next Page will also do a create action but it will start at the next 
 
 The Dynamic Channel Pages are channel pages that are created based on the selection of fixtures and the currently active Feature.
 
-The Dynamic Channel Pages can be accessed when the [Channel Sheets](key_of_channel_sheet.html) and the [Fixture Sheets](key_of_fixture_sheet.html) have activated the **Link Faders** option. Read more about activating this in the [Title Buttons topic](key_of_sheet_options_title_buttons.html).
+The Dynamic Channel Pages can be accessed when the [[Pages/Operate Fixtures/Channel Sheet|Channel Sheets]] and the [[Pages/Operate Fixtures/Fixture Sheet|Fixture Sheets]] have activated the **Link Faders** option. Read more about activating this in the [[Pages/Operate Fixtures/Title buttons|Title Buttons topic]].
 
-Dynamic Channel Pages can also be called using the [ChannelLink](key_keyword_channellink.html) command.
+Dynamic Channel Pages can also be called using the [[Keywords/ChannelLink keyword|ChannelLink]] command.
 
 This allows you to turn On or Off the Dynamic Channel Page.
 

@@ -34,12 +34,12 @@ This section takes a look at the different possibilities with a standalone conso
 
 #### Sub topics
 
-*   [Standalone systems](key_so_standalone_systems.html)
-*   [Network systems](key_so_network_systems.html)
-*   [Parameters vs. DMX channels](key_so_parameters_vs_dmx_channels.html)
-*   [Parameter expansion](key_so_parameter_expansion.html)
-*   [Big systems](key_so_big_systems.html)
-*   [Media systems and CITP](key_so_media_systems_and_citp.html)
+*   [[Pages/System Overview/Standalone systems]]
+*   [[Pages/System Overview/Network systems]]
+*   [[Pages/System Overview/Parameters vs. DMX channels]]
+*   [[Pages/System Overview/Parameter expansion]]
+*   [[Pages/System Overview/Big systems]]
+*   [[Pages/System Overview/Media systems and CITP]]
 
 ## Pages in This Section
 

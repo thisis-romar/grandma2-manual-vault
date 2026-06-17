@@ -39,7 +39,7 @@ The grandMA2 fader wing is connected to the console.
 
 _grandMA2 full-size MA-LINK connector_
 
-To configure the wings see [wing & monitor setup](key_window_faderwing_commandwing_setup.html).
+To configure the wings see [[Pages/Console Settings/Wing & Monitor Setup|wing & monitor setup]].
 
 ← [[Pages/First Steps/Connect Analog Remote Control]] | [[Pages/First Steps/Setup your PC]] →
 

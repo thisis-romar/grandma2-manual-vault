@@ -216,7 +216,7 @@ grandMA2 supports 7 different command types:
 
 As stated above: This is interpreted as a GOTO command. A cue number needs to be specified. The cue number also needs to be transmitted in hex octets and the complete cue number including the decimals needs to be transmitted. If cue number 4 is to be triggered then the complete number is **4.000** - the number with all decimal numbers separated by a dot (Hex value 2E). Decimal numbers in hex is some of the easiest to convert. It needs a "3" in front. This means that decimal **4** becomes **34** in hex. The complete cue number including the dot is then: **34 2E 30 30 30**.
 
-See [this table](key_remote_control_hex_table.html) for a complete decimal to hex translation.
+See [[Pages/Remote Control/Decimal – Hex Table|this table]] for a complete decimal to hex translation.
 
 If the station is set to **Default Only** in the Send MSC In Exec option, then this all that needs to be added after the command.
 

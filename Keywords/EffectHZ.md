@@ -25,7 +25,7 @@ To get the EffectHZ keyword in the command line type **EffectHZ** or the shortcu
 
 EffectHZ is a helping keyword to indicate individual effect speed in Hertz.
 
-For more information see [Effects](key_effects.html).
+For more information see [[Sections/Effects]].
 
 ## Syntax
 

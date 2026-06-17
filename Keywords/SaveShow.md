@@ -23,7 +23,7 @@ To go to the SaveShow keyword, type **SaveShow** in the command line or use the 
 
 ## Description
 
-The SaveShow keyword saves the show on the selected drive. For more information, see [SelectDrive Keyword](key_keyword_selectdrive.html).
+The SaveShow keyword saves the show on the selected drive. For more information, see [[Keywords/SelectDrive|SelectDrive Keyword]].
 
 If no show name is entered, the show will be saved with the current show name.
 

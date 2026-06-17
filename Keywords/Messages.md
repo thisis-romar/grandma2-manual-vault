@@ -29,7 +29,7 @@ With the Messages keyword you can
 *   export messages as a messages.xml file.
 *   delete messages from the message center, for example, from previous show files.
 
-For more information to export files, see [general export function](key_ei_export_commandline.html).
+For more information to export files, see [[Pages/Export and Import/Export by using command line|general export function]].
 
 The Messages keyword is an object keyword.
 

@@ -31,7 +31,7 @@ Cut \[Object-list\]
 
 The given object list is temporarily stored for later use as source objects for the following Paste command.
 
-For more information on cut and paste see [Paste](key_keyword_paste.html). 
+For more information on cut and paste see [[Keywords/Paste]]. 
 
 **Important:**  
 Cut & Paste does not work in cue objects. To move cues, use the Move keyword.

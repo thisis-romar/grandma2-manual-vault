@@ -26,11 +26,11 @@ Version 3.9
 # Layout Pool Options
 
 **Important:**  
-This section comprises the description of functions specific for the layout pool. Please see all the general settings in [Adjust pool options](key_pools_options.html). 
+This section comprises the description of functions specific for the layout pool. Please see all the general settings in [[Pages/Pools/Adjust pool options]]. 
 
 ## Open the Options
 
-1.  Open the layout pool first. For more information on how to open the layout pool see [Create a layout](key_layouts_create.html).
+1.  Open the layout pool first. For more information on how to open the layout pool see [[Pages/Layouts/Create a Layout|Create a layout]].
 2.  Then, tap ![](../../img/icon_yellow-ball_3_2.png) in the upper left corner of the layout pool. 
 3.  The option dialog opens.
 
@@ -38,7 +38,7 @@ This section comprises the description of functions specific for the layout pool
 
 _Layout pool options_
 
-4.  To adjust the frame color, reset colors or to apply a different style and font size see [Adjust pool options](key_pools_options.html).
+4.  To adjust the frame color, reset colors or to apply a different style and font size see [[Pages/Pools/Adjust pool options]].
 5.  To display the single layouts in the layout view, tap and swipe the button to Select below the button Frame Color. 
 6.  If you want to set the layout for the bitmap fixture, tap and swipe the button to At below the button Frame Color. 
 7.  If you have adjusted the options of the layout pool to your liking, leave the options:  

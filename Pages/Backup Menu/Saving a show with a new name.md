@@ -35,7 +35,7 @@ Pressing the ![](../../img/icon_cross_v3-2.png) button will open the on-screen k
 
 ## Using the Command Line
 
-The show file can also be saved, with a new name, using the command line. The command is SaveShow \[new name\]. Read about it [here](key_keyword_saveshow.html).
+The show file can also be saved, with a new name, using the command line. The command is SaveShow \[new name\]. Read about it [[Keywords/SaveShow|here]].
 
 ← [[Pages/Backup Menu/Saving a show]] | [[Pages/Backup Menu/Deleting a Show]] →
 

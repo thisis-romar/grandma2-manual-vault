@@ -32,7 +32,7 @@ Attributes are organized in the grandMA2 into a structure. The top level of this
 
 The grandMA2 have a lot of predefined attributes. You can make your own and you can edit the ones that are there.
 
-For more details about all this please have a look at [What are attributes, features & preset types](key_basic_fixture_attribute_feature_preset.html) under the [Basic Fixture types](key_basic_fixture.html) topic.
+For more details about all this please have a look at [[Pages/Basic Fixture Types/What are Attributes, Features & Preset Types|What are attributes, features & preset types]] under the [[Sections/Basic Fixture Types|Basic Fixture types]] topic.
 
 [[Pages/Patching/What are DMX breaks]] →
 

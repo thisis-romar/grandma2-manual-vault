@@ -43,7 +43,7 @@ To get a list of all available options to the top keyword, type in the command l
 The top keyword has the following options.
 
 **Important:**  
-The cue mode options along with the top keyword are only necessary if the cue zero mode is set to on, all, dimmers only, or effects. For more information, see [Using cue modes](key_adv_seq_cue_modes.html).
+The cue mode options along with the top keyword are only necessary if the cue zero mode is set to on, all, dimmers only, or effects. For more information, see [[Pages/Advanced Sequence Functionality/Using Cue Modes|Using cue modes]].
 
 Option
 

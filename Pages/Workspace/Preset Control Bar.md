@@ -28,8 +28,8 @@ The preset control bar is a part of the encoder bar.
 
 You can also turn the preset control bar on or off for the:
 
-*   [Fixture Sheet](key_of_fixture_sheet.html)
-*   [Channel Sheet](key_of_channel_sheet.html)
+*   [[Pages/Operate Fixtures/Fixture Sheet]]
+*   [[Pages/Operate Fixtures/Channel Sheet]]
 *   Sequence Content Sheet
 *   Sequence Tracking Sheet
 
@@ -39,7 +39,7 @@ _Preset Control Bar_
 The preset control bar displays the available presets types in the show, according to the patched fixtures or channels.  
 If only fixture or channels with dimmer attributes are patched in the show, there is only the Dimmer preset type in the preset control bar.
 
-The preset control bar follows the fixtures or channels according to the selected world. For more information, see [World, Filters, and Masks](key_wfm_world_filter_mask.html).
+The preset control bar follows the fixtures or channels according to the selected world. For more information, see [[Sections/Worlds Filters and Masks|World, Filters, and Masks]].
 
 Each preset has a preset type number.
 
@@ -69,7 +69,7 @@ To select a preset type in the preset control bar:
 
 The preset type is selected. The encoder toolbar changes according to the selected preset type. The preset type number and name are displayed yellow.
 
-You can also select the preset type by using the keys, see [MA key](key_key_ma.html).
+You can also select the preset type by using the keys, see [[Keys/MA Key|MA key]].
 
 * * *
 
@@ -88,14 +88,14 @@ The red indicator is visible.
 
 You can change programmer values by using the preset type bar for these functions:
 
-*   [On](key_keyword_on.html)
-*   [Off](key_keyword_off.html)
-*   [Park](key_keyword_park.html)
-*   [Unpark](key_keyword_unpark.html)
-*   [Remove](key_keyword_remove.html)
-*   [Release](key_keyword_release.html)
-*   [Stomp](key_keyword_stomp.html)
-*   [Default](key_keyword_default.html)
+*   [[Keywords/On]]
+*   [[Keywords/Off]]
+*   [[Keywords/Park]]
+*   [[Keywords/Unpark]]
+*   [[Keywords/Remove]]
+*   [[Keywords/Release]]
+*   [[Keywords/Stomp]]
+*   [[Keywords/Default]]
 
 ### Example
 

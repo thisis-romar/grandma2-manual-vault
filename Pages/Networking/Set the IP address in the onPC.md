@@ -41,9 +41,9 @@ If you are using DHCP, then you will need to make sure that the IP range is the 
 
 ## Set the IP address using the command line
 
-When you have set the IP address in the computer, then you can use the [SetIP command](key_keyword_setip.html) to set the IP address. It is important that you write the same IP address as the one set in the computer.
+When you have set the IP address in the computer, then you can use the [[Keywords/SetIP|SetIP command]] to set the IP address. It is important that you write the same IP address as the one set in the computer.
 
-Follow the link to read more about using the [SetIP command](key_keyword_setip.html).
+Follow the link to read more about using the [[Keywords/SetIP|SetIP command]].
 
 ## Set the IP address using the GUI
 

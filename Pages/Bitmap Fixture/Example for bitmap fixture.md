@@ -27,7 +27,7 @@ Version 3.9
 
 This topic describes the bitmap fixtures on an example.
 
-This example requires a few basic functions, like [storing cues](key_cues_and_sequences.html), [create presets](key_presets_create.html), and [assign effects](key_effects_assign_to_executor.html). If you are not familiar with these functions, read the manual for these functions first.
+This example requires a few basic functions, like [[Sections/Cues and Sequences|storing cues]], [[Pages/Presets/Create Presets|create presets]], and [[Pages/Effects/Assign effect to executor|assign effects]]. If you are not familiar with these functions, read the manual for these functions first.
 
 **Initial situation:**  
 A stage with many fixtures. The task is to create a pan tilt effect for these fixtures.
@@ -38,8 +38,8 @@ _Stage view_
 
 **Requirement:**
 
-*   [An imported bitmap fixture](key_bitmapfixture_import.html).
-*   [A created layout including the fixtures for using the bitmap fixture](key_bitmapfixture_layout.html).
+*   [[Pages/Bitmap Fixture/Import bitmap fixture|An imported bitmap fixture]].
+*   [[Pages/Bitmap Fixture/Apply bitmap fixture in the layout view|A created layout including the fixtures for using the bitmap fixture]].
 
 **Important:**  
 Position presets have to have the values of pan tilt, since the values X, Y and Z are not supported. 
@@ -53,7 +53,7 @@ Position presets have to have the values of pan tilt, since the values X, Y and 
     _Image white bar_
     
     **Note:**  
-    It is possible to use predefined images and videos also. For more information on how to import predefined images and videos see [Import an image](key_image_import.html).
+    It is possible to use predefined images and videos also. For more information on how to import predefined images and videos see [[Pages/Image Pool/Import Images and Videos|Import an image]].
     
 4.  Create two position presets in the position preset pool, the first with the lowest pan 0 and tilt 30, the second position preset with pan 0 and tilt -5.
 5.  Program the bitmap fixture in the programmer with the following values:  

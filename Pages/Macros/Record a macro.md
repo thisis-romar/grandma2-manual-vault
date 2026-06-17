@@ -37,7 +37,7 @@ The recording only contains commands that are visible in the Command Line Feedba
 
 It does not record fader movement and screen presses (unless they trigger a command).
 
-The [Record command](key_keyword_record.html) is needed to start and stop the recording of macros. You can easily reach the Record keyword by pressing the MA key together with the Store key.
+The [[Keywords/Record|Record command]] is needed to start and stop the recording of macros. You can easily reach the Record keyword by pressing the MA key together with the Store key.
 
 When you have the Record keyword in your command line then you press the Macro key and then type the macro number you want to record to - execute the command with a Please.
 

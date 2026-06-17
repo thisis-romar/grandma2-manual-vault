@@ -127,7 +127,7 @@ The Edit Color pop-up opens.
 Preset object 1 has a red frame around it.
 
 **Hint:**  
-Executors display the appearance of objects assigned. To view the appearance of objects on executors, open **Playback big**. For more information see [Executors on the screens](key_exec_on_screen.html#playback_big). 
+Executors display the appearance of objects assigned. To view the appearance of objects on executors, open **Playback big**. For more information see [[Pages/Executors/Executors on the screens]]. 
 
 ## Example: 2 - Change Frame Color of Several Objects
 
@@ -143,7 +143,7 @@ Group objects 1 thru 5 have a blue frame around them.
 
 ## Example: 3 - Change Background Color of Cues
 
-Change the background color of cue 1 of the selected executor. For more information see [change cue color](key_cs_renumber_cues.html#cue_color).
+Change the background color of cue 1 of the selected executor. For more information see [[Pages/Command Syntax and Keywords/Renumber cues|change cue color]].
 
 **Important:**  
 Cue color columns have to be enabled in the option menu. 

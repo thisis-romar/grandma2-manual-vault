@@ -54,7 +54,7 @@ If you do not want to update the preset you have edited or you would like to clo
 
 *   2\. Way of editing presets:
 
- See [Update presets](key_presets_update.html).
+ See [[Pages/Presets/Update Presets|Update presets]].
 
 ← [[Pages/Presets/Embedded Presets]] | [[Pages/Presets/Update Presets]] →
 

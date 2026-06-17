@@ -27,7 +27,7 @@ The RdmInfo keyword opens the RDM info pop-up with the actual RDM information to
 
 The RdmInfo keyword is a function keyword.
 
-For more information, see [RDM](key_rdm.html).
+For more information, see [[Sections/RDM]].
 
 ## Syntax
 

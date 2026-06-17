@@ -37,7 +37,7 @@ Quite simply, tracking is the idea that once a parameter is set to a level, it s
 
 Fixture number 1 is stored in a blue color, at 100 percent dimmer value in cue number 1. If the are 8 cues and fixture number 1 does not get any new information then it will stay at 100% in blue color in all 8 cues.
 
-The best way to see this information is the [Tracking Sheet](key_cs_cue_content.html#tracking_sheet). It would look like this:
+The best way to see this information is the [[Pages/Command Syntax and Keywords/Looking at the cue content|Tracking Sheet]]. It would look like this:
 
 ![](../../img/window_sequence-tracking-sheet_eight-cues_cue-1_v3-3.png)
 
@@ -111,11 +111,11 @@ It is possible to store using the **Release** option. This will put an **(R)** i
 
 When an attribute is released in the sequence then it is the same as the sequence no longer sending any information to the attribute.
 
-If a different sequence is sending values to the attribute then these values are now used. Sequence priority can be important in this case - read about priorities in the [Playing back Cues topic](key_cs_playback.html#priority). 
+If a different sequence is sending values to the attribute then these values are now used. Sequence priority can be important in this case - read about priorities in the [[Pages/Command Syntax and Keywords/Playing back Cues|Playing back Cues topic]]. 
 
 ## Release First Step
 
-There is an option in the [Executor Options](key_adv_exec_options.html) that is called **Release Firststep**. This becomes relevant if another option called **Wrap Around** is active. 
+There is an option in the [[Pages/Advanced Executor Functionality/Executor Options]] that is called **Release Firststep**. This becomes relevant if another option called **Wrap Around** is active. 
 
 You can enter the Executor options by pressing the Assign key and then one of the keys associated with an executor using a sequence - this opens the **Assign Menu**. Tap the Options button on the right side of the menu.
 

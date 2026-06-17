@@ -27,7 +27,7 @@ PSRPrepare prepares a showfile for PartialShowRead.
 
 The PSRPrepare keyword used standalone opens the Partial Show Read Prepare Window.
 
-For more information, see [Partial Show Read (PSR)](key_psr.html).
+For more information, see [[Sections/Partial Show Read|Partial Show Read (PSR)]].
 
 The PSPPrepare keyword is a function keyword.
 

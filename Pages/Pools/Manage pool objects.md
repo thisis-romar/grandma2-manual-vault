@@ -26,7 +26,7 @@ Version 3.9
 
 The following examples explains on the group pool how to manage and organize pool objects in pools. These examples are valid for all pool objects.
 
-Every of the following actions is oopsable. For more information see [oops and undo](key_ws_oops.html).
+Every of the following actions is oopsable. For more information see [[Pages/Workspace/Oops and undo|oops and undo]].
 
 * * *
 
@@ -34,7 +34,7 @@ Every of the following actions is oopsable. For more information see [oops and u
 
 Empty pool objects are useful for preprogramming and to fill them later with content in the venue. You can also use them to organize the pool as a label for the following pool objects.
 
-**Requirement:** [Open groups pool](key_windows.html).
+**Requirement:** [[Sections/Windows|Open groups pool]].
 
 To store new empty pool objects:
 
@@ -51,9 +51,9 @@ _Groups pool - empty pool object_
 An empty group pool object is stored in the group pool. An empty pool object is indicated by a gray font.
 
 **Hint:**  
-You can also use the [Store command](key_keyword_store.html) to store new empty pool objects.
+You can also use the [[Keywords/Store|Store command]] to store new empty pool objects.
 
-Pool object numbers may also differ in color. For more information see [Workspace - Colors - System](key_ws_colors_system.html). 
+Pool object numbers may also differ in color. For more information see [[Pages/Workspace/System Colors|Workspace - Colors - System]]. 
 
 * * *
 
@@ -63,7 +63,7 @@ Clear and unique pool object labels will help you and other people running the s
 
 **Requirements:**
 
-*   [Open groups pool](key_windows.html)
+*   [[Sections/Windows|Open groups pool]]
 *   Existing groups pool object
 
 To label pool objects:
@@ -86,7 +86,7 @@ _Group pool - labeled empty pool object_
 The group is labeled as Backtruss.
 
 **Hint:**  
-You can also use the [Label command](key_keyword_label.html) to label pool objects.
+You can also use the [[Keywords/Label|Label command]] to label pool objects.
 
 * * *
 
@@ -94,7 +94,7 @@ You can also use the [Label command](key_keyword_label.html) to label pool objec
 
 **Requirements:**
 
-*   [Open groups pool](key_windows.html)
+*   [[Sections/Windows|Open groups pool]]
 *   Existing groups pool object
 
 To move pool objects around in a pool:
@@ -110,7 +110,7 @@ If the destination of the pool object is already taken the pool objects will swi
 The group pool object is moved.
 
 **Hint:**  
-You can also use the [Move command](key_keyword_move.html) to move pool objects.
+You can also use the [[Keywords/Move|Move command]] to move pool objects.
 
 * * *
 
@@ -118,7 +118,7 @@ You can also use the [Move command](key_keyword_move.html) to move pool objects.
 
 **Requirements:**
 
-*   [Open groups pool](key_windows.html)
+*   [[Sections/Windows|Open groups pool]]
 *   Existing groups pool object
 
 To copy pool objects in a pool:
@@ -136,7 +136,7 @@ _Group pool - copied pool object_
 Group 16 is copied at group 17. The copied group is indicated by a **#2**.
 
 **Hint:**  
-You can also use the [Copy keyword](key_keyword_copy.html) to copy pool objects.
+You can also use the [[Keywords/Copy keyword]] to copy pool objects.
 
 * * *
 
@@ -147,7 +147,7 @@ The Pages Channel Pool, the Pages Exec Pool, and the Views Pool does not support
 
 **Requirements:**
 
-*   [Open groups pool](key_windows.html)
+*   [[Sections/Windows|Open groups pool]]
 *   Existing groups pool object
 
 To edit pool objects:
@@ -161,7 +161,7 @@ To edit pool objects:
 The respective edit mode or editor opens.
 
 **Hint:**  
-You can also use the [Edit command](key_keyword_edit.html) to edit pool objects.
+You can also use the [[Keywords/Edit keyword|Edit command]] to edit pool objects.
 
 * * *
 
@@ -169,7 +169,7 @@ You can also use the [Edit command](key_keyword_edit.html) to edit pool objects.
 
 **Requirements:**
 
-*   [Open groups pool](key_windows.html)
+*   [[Sections/Windows|Open groups pool]]
 *   Existing groups pool object
 
 To insert an existing pool object between two other pool objects:
@@ -183,7 +183,7 @@ To insert an existing pool object between two other pool objects:
 Group 8 is moved at Group 2. All other groups are moved to the next empty pool object.
 
 **Hint:**  
-You can also use the [Insert command](key_keyword_insert.html) to insert pool objects.
+You can also use the [[Keywords/Insert|Insert command]] to insert pool objects.
 
 * * *
 
@@ -191,7 +191,7 @@ You can also use the [Insert command](key_keyword_insert.html) to insert pool ob
 
 **Requirements:**
 
-*   [Open groups pool](key_windows.html)
+*   [[Sections/Windows|Open groups pool]]
 *   Existing groups pool object
 
 To lock pool objects in a pool:
@@ -201,7 +201,7 @@ To lock pool objects in a pool:
 Group 17 is locked. A locked pool object is indicated by a **yellow lock** ![](../../img/icon_yellow-lock_small_v3-2.png).
 
 **Hint:**  
-You can also use the [Lock keyword](key_keyword_lock.html) to lock pool objects.
+You can also use the [[Keywords/Lock|Lock keyword]] to lock pool objects.
 
 * * *
 
@@ -212,7 +212,7 @@ You can unlock only pool objects indicated by a yellow lock ![](../../img/icon_y
 
 **Requirements:**
 
-*   [Open groups pool](key_windows.html)
+*   [[Sections/Windows|Open groups pool]]
 *   Existing locked group pool object
 
 To unlock pool objects in a pool:
@@ -230,7 +230,7 @@ You can also use the Unlock keyword to unlock pool objects.
 
 **Requirements:**
 
-*   [Open groups pool](key_windows.html)
+*   [[Sections/Windows|Open groups pool]]
 *   Existing groups pool object
 
 To delete pool objects in a pool:
@@ -248,7 +248,7 @@ To delete pool objects in a pool:
 Group 17 is deleted.
 
 **Hint:**  
-You can also use the [Delete command](key_keyword_delete.html) to delete pool objects.
+You can also use the [[Keywords/Delete keyword|Delete command]] to delete pool objects.
 
 [[Pages/Pools/Adjust pool options]] →
 

@@ -25,7 +25,7 @@ To enter the keyword, type **MediaServer** or the shortcut **Med** into the comm
 
 The keyword MediaServer is an object keyword and is used in connection with CITP. 
 
-For more information see [Streaming CITP](key_network_citp_stream.html). 
+For more information see [[Pages/Networking/Streaming CITP video|Streaming CITP]]. 
 
 ## Syntax
 

@@ -23,7 +23,7 @@ To go to the LoadShow keyword, type **LoadShow** or the shortcut **Loa** in the 
 
 ## Description
 
-The LoadShow keyword loads a show from the selected drive. For more information, see [SelectDrive keyword](key_keyword_selectdrive.html).
+The LoadShow keyword loads a show from the selected drive. For more information, see [[Keywords/SelectDrive|SelectDrive keyword]].
 
 If the show file does not exist on the selected drive, a new empty show file will be loaded.
 

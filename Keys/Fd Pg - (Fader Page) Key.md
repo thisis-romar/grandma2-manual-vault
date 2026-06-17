@@ -24,7 +24,7 @@ The key Fd Pg - is located on the left of the 100 mm fader.
 
 _Location k__ey_ _Fd Pg -_ 
 
-Pressing Fd Pg - executes the [FaderPage keyword](key_keyword_faderpage.html).
+Pressing Fd Pg - executes the [[Keywords/FaderPage|FaderPage keyword]].
 
 If you are on a channel page, press Fd Pg - to open the fader pages.
 

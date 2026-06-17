@@ -41,11 +41,11 @@ _Options of the effect pool_
 
 _Options of the form pool_
 
-*   To open and to adjust the pool options, see [Pools in General – Adjust pool options](key_pools_options.html). 
+*   To open and to adjust the pool options, see [[Pages/Pools/Adjust pool options|Pools in General – Adjust pool options]]. 
 
 Additionally to the general settings, the effect pool has also the setting of different call modes. 
 
-For more information see [Pools in General – Call modes](key_pools_call_modes.html).
+For more information see [[Pages/Pools/Call Modes|Pools in General – Call modes]].
 
 ← [[Pages/Effects/Create Effect Forms]] | [[Pages/Effects/Effects in a Cue]] →
 

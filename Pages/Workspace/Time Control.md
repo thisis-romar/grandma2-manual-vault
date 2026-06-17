@@ -34,15 +34,15 @@ It could look like this:
 
 _Time Control_
 
-The faders can be assigned to any Fader Executor. This will give physical fader control. Please read the [Grand Masters topic](key_adv_exec_spec_master_grand.html).
+The faders can be assigned to any Fader Executor. This will give physical fader control. Please read the [[Pages/Advanced Executor Functionality/Grand Masters|Grand Masters topic]].
 
-The two faders can be used to set a time. The default maximum is 10 seconds. This maximum value can be changed in Setup->User->[Settings](key_single_multi_systems_user_settings.html#settings).
+The two faders can be used to set a time. The default maximum is 10 seconds. This maximum value can be changed in Setup->User->[[Pages/Single and Multi User Systems/User specific settings|Settings]].
 
-The bottom of screen 2 can be changed on the grandMA2 onPC. This will make it fit the hardware on a grandMA2 onPC Command Wing. This will hide the Time Control. Please read the [grandMA2 onPC details topic](key_onpc_details.html) for details about turning this On or Off.
+The bottom of screen 2 can be changed on the grandMA2 onPC. This will make it fit the hardware on a grandMA2 onPC Command Wing. This will hide the Time Control. Please read the [[Sections/grandMA2 onPC Details|grandMA2 onPC details topic]] for details about turning this On or Off.
 
 The fader can still be assigned to physical faders.
 
-The virtual control can be created on any screen using the **CMD Section window**. This can be found in the **Other** tab in the [Create Basic Windows pop-up](key_windows.html).
+The virtual control can be created on any screen using the **CMD Section window**. This can be found in the **Other** tab in the [[Sections/Windows|Create Basic Windows pop-up]].
 
 ## Program Time
 
@@ -64,7 +64,7 @@ It is also possible to use the fader as a manual cross fade from old to new valu
 
 Tap or press the same button to deactivate the manual cross fade - green marker disappears.
 
-An Executor can be set to ignore the Exec Time. This is done in the [Executor Options](key_adv_exec_options.html). This will make the Executor run as normal using the stored cue timings.
+An Executor can be set to ignore the Exec Time. This is done in the [[Pages/Advanced Executor Functionality/Executor Options]]. This will make the Executor run as normal using the stored cue timings.
 
 ← [[Pages/Workspace/Master Section]]
 

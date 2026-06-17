@@ -28,7 +28,7 @@ There are two ways to log into a station.
 
 Before logging in, you will need to know a User name.
 
-To learn more about the Users and the creation of Users and User Profiles, please read the [Create User Profiles and Users](key_single_multi_systems_create.html) topic.
+To learn more about the Users and the creation of Users and User Profiles, please read the [[Pages/Single and Multi User Systems/Create user profiles and users|Create User Profiles and Users]] topic.
 
 **Important:**  
 There are two default users in every show file. You can always login as "Guest" with limited access or as Administrator (password: admin) with full access.
@@ -47,7 +47,7 @@ One other option is when in the User & Profile Setup (follow link above) then yo
 
 ## Log in using the command line
 
-Login can also be done using the [Login](key_keyword_login.html) command. Follow the link to read the details about it.
+Login can also be done using the [[Keywords/Login]] command. Follow the link to read the details about it.
 
 The general use is that "Login" is typed followed by the user name and the password (if any) and then executes the command with Please/Enter.
 

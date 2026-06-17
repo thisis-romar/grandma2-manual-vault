@@ -31,6 +31,6 @@ The ClearAll function clears the selection and discards all values in the progra
 
 Press the button Clear for slightly over two seconds to clear the selection and to discard all programmer values. 
 
-For more information on how to use further functions of the keyword [Clear](key_keyword_clear.html) see [ClearActive](key_keyword_clearactive.html) and [ClearSelection](key_keyword_clearselection.html).
+For more information on how to use further functions of the keyword [[Keywords/Clear keyword|Clear]] see [[Keywords/ClearActive keyword|ClearActive]] and [[Keywords/ClearSelection keyword|ClearSelection]].
 
 Part of [[000 Keyword Index]] · [[000 Map of Content]]

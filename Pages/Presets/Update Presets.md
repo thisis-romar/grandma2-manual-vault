@@ -50,7 +50,7 @@ _Update preset_
 12.  The preset has now been updated. 
 
 **Hint:**  
-For more information on filter, selective, global, universal and default see [Create presets](key_presets_create.html#preset_filter).
+For more information on filter, selective, global, universal and default see [[Pages/Presets/Create Presets|Create presets]].
 
 ← [[Pages/Presets/Edit Presets]] | [[Pages/Presets/Delete Presets]] →
 

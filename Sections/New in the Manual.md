@@ -27,7 +27,7 @@ Topic
 
 Description
 
-[grandMA3 Screen Layout](grandma3_mode2/key_mode2_screen_layout.html)
+grandMA3 Screen Layout
 
 It is possible to run a grandMA3 compact and compact XT in Mode2.
 

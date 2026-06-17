@@ -25,7 +25,7 @@ To execute the keyword, type **ResetGuid** or the shortcut **Rese** into the com
 
 ResetGuid resets the identifiers that are unique in every object. This command is mainly used with the Partial Show Read.
 
-For more information see [How to do a PSR](key_psr_how_to.html). 
+For more information see [[Pages/Partial Show Read/How to do a Partial Show Read|How to do a PSR]]. 
 
 **Important:**  
 Note that once executed, there is no opportunity to reverse this command! 

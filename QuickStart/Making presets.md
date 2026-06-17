@@ -77,6 +77,6 @@ _Final Presets_
 
 There are many details about presets. There is lot of information on a preset pool button and they can be used for many things - but it is outside the scope of this Quick Start Guide. Use the menu on the left side to read more about presets - but wait till you are done with this guide :-)
 
-This is the presets we need for making our new second sequence. Go to the [next page](key_14_second_sequence.html) to do that.
+This is the presets we need for making our new second sequence. Go to the [[QuickStart/A second sequence|next page]] to do that.
 
 Part of [[000 Map of Content]]

@@ -31,7 +31,7 @@ If the dimmer value is 0, it stores only the dimmer value because there is no fu
 **Hint:**  
 To exclude channels or fixtures from StoreLook, deactivate **React to Master** in the Patch & Fixtures Schedule.
 
-For more information, see [What are the store options?](key_cs_store_options_default.html).
+For more information, see [[Pages/Command Syntax and Keywords/Store Options and Defaults|What are the store options?]].
 
 StoreLook is a function keyword.
 

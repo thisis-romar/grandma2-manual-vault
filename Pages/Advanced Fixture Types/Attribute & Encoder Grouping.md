@@ -53,19 +53,19 @@ There are three columns that are common for all four squares:
 
 ### Preset Types
 
-The preset types are the highest structural level regarding the attributes and the control of fixtures. When something is added to the fixture schedule, then there is automatically created 10 different preset types. Depending on the functions of the fixtures patched and the current world they can be visible in the [Preset Control Bar](key_ws_preset_control_bar.html) present most of the time on screen 2.
+The preset types are the highest structural level regarding the attributes and the control of fixtures. When something is added to the fixture schedule, then there is automatically created 10 different preset types. Depending on the functions of the fixtures patched and the current world they can be visible in the [[Pages/Workspace/Preset Control Bar]] present most of the time on screen 2.
 
-There is a special column in the preset type. It is called **Default Scope**. Each preset type has a default scope to be used when storing values in the preset pools. Read more about it in the [Preset Pool Options](key_presets_pool_options.html).
+There is a special column in the preset type. It is called **Default Scope**. Each preset type has a default scope to be used when storing values in the preset pools. Read more about it in the [[Pages/Presets/Preset Pool Options]].
 
 ### Features
 
-In each preset type there is at least one feature. The features are visible most of the time in the [Encoder Toolbar](key_ws_encoder_toolbar.html).
+In each preset type there is at least one feature. The features are visible most of the time in the [[Pages/Workspace/Encoder Toolbar]].
 
 There are no special columns in the feature.
 
 ### Attributes
 
-In each feature there is at least one attribute. The attributes are often controllable and visible at the bottom of the [Encoder Toolbar](key_ws_encoder_toolbar.html). The values can often be changed using the four encoders below screen 2.
+In each feature there is at least one attribute. The attributes are often controllable and visible at the bottom of the [[Pages/Workspace/Encoder Toolbar]]. The values can often be changed using the four encoders below screen 2.
 
 There are several special columns in the attributes.
 
@@ -85,7 +85,7 @@ An attribute can only be in one encoder grouping. If a group does not have any a
 
 **Encoder Resolution**
 
-Each attribute can have a default encoder resolution. The resolution can always be changed when needed. Changing the resolution in the [Encoder Toolbar](key_ws_encoder_toolbar.html) or the [Encoder Settings](key_ws_encoder_settings.html#adjust_encoder_resolution) will also change this default setting.
+Each attribute can have a default encoder resolution. The resolution can always be changed when needed. Changing the resolution in the [[Pages/Workspace/Encoder Toolbar]] or the [[Pages/Workspace/Encoder Settings]] will also change this default setting.
 
 Editing the cell opens the Select Encoder Resolution pop-up. It looks like this:
 

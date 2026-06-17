@@ -31,7 +31,7 @@ In the following example is a macro that has to be imported from a USB stick. Bu
 
 **Requirement:**
 
-To be able to import an object it is needed to have the object exported to  an .XML file. Please read the [Export by using commandline](key_ei_export_commandline.html) to learn how to do this.
+To be able to import an object it is needed to have the object exported to  an .XML file. Please read the [[Pages/Export and Import/Export by using command line|Export by using commandline]] to learn how to do this.
 
 If the object is stored on a USB stick, plug the USB stick into the console or onPC.
 

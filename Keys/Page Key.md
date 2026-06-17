@@ -25,19 +25,19 @@ The key Page is located in the command area on the left of the key Macro.
 
 _Location k__ey_ _Page_ 
 
-*   Pressing Page enters the [Page keyword](key_keyword_page.html) into the command line.
+*   Pressing Page enters the [[Keywords/Page|Page keyword]] into the command line.
 
 \[Channel\]> Page
 
-*   Pressing Page Page enters the [ChannelPage keyword](key_keyword_channelpage.html) into the command line.
+*   Pressing Page Page enters the [[Keywords/ChannelPage keyword]] into the command line.
 
 \[Channel\]>ChannelPage
 
-*   Pressing Page Page Page enters the [FaderPage keyword](key_keyword_faderpage.html) into the command line.
+*   Pressing Page Page Page enters the [[Keywords/FaderPage|FaderPage keyword]] into the command line.
 
 \[Channel\]>FaderPage
 
-*   Pressing Page Page Page Page enters the [ButtonPage keyword](key_keyword_buttonpage.html) into the command line.
+*   Pressing Page Page Page Page enters the [[Keywords/ButtonPage keyword]] into the command line.
 
 \[Channel\]>ButtonPage
 

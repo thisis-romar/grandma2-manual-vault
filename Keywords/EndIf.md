@@ -23,7 +23,7 @@ To get the EndIf keyword in the command line type **EndIf** or the shorcut **En*
 
 ## Description
 
-EndIf is a helping keyword to indicate the end of an If statement. For more information see [If keyword](key_keyword_if.html).
+EndIf is a helping keyword to indicate the end of an If statement. For more information see [[Keywords/If|If keyword]].
 
 The EndIf keyword enables If statements to be entered in the middle of a syntax. Upon processing, the If statement is moved to the end of the syntax, and is used as a filter/condition. This enables If syntax to be used in conjunction with pool items.
 

@@ -25,15 +25,15 @@ The key Fixture is located in the command area on the right of the key Channe
 
 _Location k__ey_ _Fixture_ 
 
-*   Pressing Fixture enters [Fixture keyword](key_keyword_fixture.html) into the command line.
+*   Pressing Fixture enters [[Keywords/Fixture|Fixture keyword]] into the command line.
 
 \[Channel\]> Fixture
 
-*   Pressing Fixture Fixture enters [Selection keyword](key_keyword_selection.html) into the command line.
+*   Pressing Fixture Fixture enters [[Keywords/Selection|Selection keyword]] into the command line.
 
 \[Channel\]> Selection
 
-*   Pressing and holding ![ma](../../img/ma_1.png) + Fixture enters [FixtureType keyword](key_keyword_fixturetype.html) into the command line.
+*   Pressing and holding ![ma](../../img/ma_1.png) + Fixture enters [[Keywords/FixtureType|FixtureType keyword]] into the command line.
 
 \[Channel\]> FixtureType
 

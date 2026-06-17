@@ -30,7 +30,7 @@ This topic describes how to update the grandMA2 software or do a factory reset v
 **Important:**  
 Before you start to update your grandMA2 software or doing a factory reset, save your show files and any other user created data on a USB stick. If you do not save the show files first, the show files can be deleted or broken and cannot be recoverd anymore.
 
-**Requirements:** A Linux formatted USB stick with a software vesion. For more information, see [format a USB stick](key_update_format.html).
+**Requirements:** A Linux formatted USB stick with a software vesion. For more information, see [[Pages/Update the Software/Format a USB stick for Linux|format a USB stick]].
 
 1.  Insert the formatted USB stick at a USB port on the grandMA2 console or grandMA2 RPU.
 2.  To turn the console on, press the power button.

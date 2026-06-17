@@ -26,13 +26,13 @@ Version 3.9
 
 The grandMA2 system can handle small and big systems, with one or many user at the same time.
 
-This section deal with the [difference between a system with a single user and one with multiple users](key_single_multi_systems_difference.html).
+This section deal with the [[Pages/Single and Multi User Systems/What is the difference between a single-user and a multi-user system|difference between a system with a single user and one with multiple users]].
 
-There is a topic about how to [create User Profiles and Users](key_single_multi_systems_create.html).
+There is a topic about how to [[Pages/Single and Multi User Systems/Create user profiles and users|create User Profiles and Users]].
 
-A page about the [different User Settings](key_single_multi_systems_user_settings.html).
+A page about the [[Pages/Single and Multi User Systems/User specific settings|different User Settings]].
 
-And finally a look at [different ways to login](key_single_multi_systems_login.html).
+And finally a look at [[Pages/Single and Multi User Systems/Login on a station|different ways to login]].
 
   
 
@@ -40,10 +40,10 @@ And finally a look at [different ways to login](key_single_multi_systems_login.h
 
 #### Sub topics
 
-*   [The difference between a single user and a multi user system](key_single_multi_systems_difference.html)
-*   [Create user profiles and users](key_single_multi_systems_create.html)
-*   [User settings](key_single_multi_systems_user_settings.html)
-*   [Login](key_single_multi_systems_login.html)
+*   [[Pages/Single and Multi User Systems/What is the difference between a single-user and a multi-user system|The difference between a single user and a multi user system]]
+*   [[Pages/Single and Multi User Systems/Create user profiles and users]]
+*   [[Pages/Single and Multi User Systems/User specific settings|User settings]]
+*   [[Pages/Single and Multi User Systems/Login on a station|Login]]
 
 ## Pages in This Section
 

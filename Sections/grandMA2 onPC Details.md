@@ -34,7 +34,7 @@ This menu has the following elements:
 *   **Clear All Screens**:  
     This will clear all the virtual screens.
 *   **Debug Window**:  
-    This opens a new window that shows the [System Monitor](key_ost_system_monitor.html) as a separate window (not a part of the onPC windows).
+    This opens a new window that shows the [[Pages/Other System Tools/System monitor|System Monitor]] as a separate window (not a part of the onPC windows).
 *   **Cascade Windows**:  
     This will cascade all the open onPC windows (if there is more than one).
 *   **Reset Size of Windows**:  
@@ -87,7 +87,7 @@ The **Windows Frames** option is an On or Off option. It will display or hide th
 
 There are two options for setting the **resolution** on the two **external screens**. Tapping the resolution will open a list of all the available resolution options. 
 
-The **CmdWing Bar** option can be turned On or Off. It changes how the bottom of screen 2 looks. It can match the look of the consoles or it can change to match the physical controls on the MA onPC Command Wing. See more in the [Command Wing Bar topic](key_ws_command_wing_bar.html).
+The **CmdWing Bar** option can be turned On or Off. It changes how the bottom of screen 2 looks. It can match the look of the consoles or it can change to match the physical controls on the MA onPC Command Wing. See more in the [[Pages/Workspace/Command wing bar|Command Wing Bar topic]].
 
 ### Misc. Tab
 
@@ -112,7 +112,7 @@ The **MIDI Out Device** can be used to choose the MIDI device that will output t
 
 ## Keyboard shortcuts
 
-It is possible to activate the keyboard shortcuts by tapping the "Ins" key. Read more in the [Keyboard shortcuts topics](key_ws_keyboard_shortcuts.html).
+It is possible to activate the keyboard shortcuts by tapping the "Ins" key. Read more in the [[Pages/Workspace/Keyboard shortcuts|Keyboard shortcuts topics]].
 
 ## The Wings
 
@@ -132,12 +132,12 @@ _Second Original hardware Confirm pop-up_
 
 The connected wing cannot be used unless the first pop-up is accepted.
 
-It is possible to connect 1 [grandMA2 onPC Command Wing](key_device_overview_ma_onpc_command_wing.html) and 2 [grandMA2 onPC Fader Wings](key_device_overview_ma_onpc_fader_wing.html) to 1 grandMA2 onPC.
+It is possible to connect 1 [[Pages/Device Overview/MA onPC command wing|grandMA2 onPC Command Wing]] and 2 [[Pages/Device Overview/MA onPC fader wing|grandMA2 onPC Fader Wings]] to 1 grandMA2 onPC.
 
 If there are 2 Fader Wings connected then they need to be identified. This is done in Setup->MA Network Configuration->onPC.
 
 Here are two buttons called Identify Fader 1 and Identify Fader 2. Tapping one of these followed by one of the keys on the Fader Wings will identify the wing in the system. It is only necessary if there are 2 Fader Wings connected to same onPC.
 
-It can be changed what block of 15 executors each wing should handle in the [Wing & Monitor Setup](key_window_faderwing_commandwing_setup.html). There is a green check mark in the detected hardware.
+It can be changed what block of 15 executors each wing should handle in the [[Pages/Console Settings/Wing & Monitor Setup]]. There is a green check mark in the detected hardware.
 
 Part of [[000 Map of Content]]

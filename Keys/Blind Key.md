@@ -25,10 +25,10 @@ The key Blind is located in the command area on the left of the key Freeze.
 
 _Location k__ey_ _Blind_ 
 
-Pressing Blind executes the [Blind keyword](key_keyword_blind.html). It toggles Blind on or off.
+Pressing Blind executes the [[Keywords/Blind keyword]]. It toggles Blind on or off.
 
-Pressing and holding Blind for 2 seconds executes [BlindEdit keyword](key_keyword_blindedit.html). It toggles BlindEdit on or off.
+Pressing and holding Blind for 2 seconds executes [[Keywords/BlindEdit keyword]]. It toggles BlindEdit on or off.
 
-To change the function of the Blind key see [User Settings](key_single_multi_systems_user_settings.html).
+To change the function of the Blind key see [[Pages/Single and Multi User Systems/User specific settings|User Settings]].
 
 Part of [[000 Key Index]] · [[000 Map of Content]]

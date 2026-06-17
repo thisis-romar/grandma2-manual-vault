@@ -55,9 +55,9 @@ condition
 
 cnd
 
-See [messages keyword](key_keyword_messages.html).
+See [[Keywords/Messages|messages keyword]].
 
-See [messages keyword](key_keyword_messages.html).
+See [[Keywords/Messages|messages keyword]].
 
 noconfirm
 

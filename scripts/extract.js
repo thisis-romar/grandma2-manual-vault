@@ -20,6 +20,7 @@ import pLimit from 'p-limit';
 import { promises as fs } from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
+import { rewriteInternalLinks } from './lib/internal-links.js';
 
 // ─── Config ──────────────────────────────────────────────────────────────────
 
@@ -681,6 +682,29 @@ async function main() {
       cur = parent;
     }
     return null;
+  }
+
+  // Rewrite raw internal `key_*.html` body links → [[wikilinks]] before any note
+  // is built. The slug→relpath map uses the canonical fileName/sectionName each
+  // target will be written to (PASS 1), so links match the on-disk filenames.
+  const slugToRel = new Map();
+  for (const e of allEntries) {
+    if (!e.content) continue;
+    const rel =
+      e.type === 'keyword'
+        ? `Keywords/${e.fileName}`
+        : e.type === 'key'
+          ? `Keys/${e.fileName}`
+          : e.type === 'section'
+            ? `Sections/${e.fileName}`
+            : e.type === 'quick-start'
+              ? `QuickStart/${e.fileName}`
+              : `Pages/${e.sectionName}/${e.fileName}`;
+    slugToRel.set(e.slug.toLowerCase(), rel);
+  }
+  for (const e of allEntries) {
+    if (e.content && e.content.bodyMarkdown)
+      e.content.bodyMarkdown = rewriteInternalLinks(e.content.bodyMarkdown, slugToRel).text;
   }
 
   // ── PASS 2: build & write notes ─────────────────────────────────────────────

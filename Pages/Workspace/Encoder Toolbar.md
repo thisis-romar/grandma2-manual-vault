@@ -39,9 +39,9 @@ _Encoder Toolbar_
 3.  Displays the value. To change the value, turn the encoder left or right. To open the calculator, tap in the field or press the encoder.
 4.  Choose the encoder resolution.
 5.  Choose between value layer or effect layer.
-6.  Select the layer. For more information, see [control fixtures and channels (value layer)](key_operate_fixtures.html) or [live edit an effect (effect layer)](key_effects_live_edit.html).
-7.  Select the Align mode. For more information to the Align mode, see [Align key](key_key_align.html).
-8.  Opens the MAtricks Toolbar. For more information, see [MAtricks toolbar](key_matricks_toolbar.html).
+6.  Select the layer. For more information, see [[Sections/Operate Fixtures|control fixtures and channels (value layer)]] or [[Pages/Effects/Live Edit an Effect|live edit an effect (effect layer)]].
+7.  Select the Align mode. For more information to the Align mode, see [[Keys/Align Key|Align key]].
+8.  Opens the MAtricks Toolbar. For more information, see [[Pages/MAtricks/MAtricks Toolbar|MAtricks toolbar]].
 9.  Opens the Special Dialog. If its grayed out, there is no special dialog available.
 
 * * *

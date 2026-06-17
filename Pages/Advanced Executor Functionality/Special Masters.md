@@ -28,11 +28,11 @@ The Special Masters are five groups of masters. They are physical representation
 
 The masters needs to be assigned to Fader Executors or to the 100mm master faders.
 
-They can all be assigned using the [Assign Menu](key_exec_assign.html). They are found in the Special Masters section. Selecting this in the Assign Menu will reveal a tree structure separated into the five groups of Special Masters.
+They can all be assigned using the [[Pages/Executors/Assign a function|Assign Menu]]. They are found in the Special Masters section. Selecting this in the Assign Menu will reveal a tree structure separated into the five groups of Special Masters.
 
-They can also be assigned (or adjusted) using the [SpecialMaster](key_keyword_specialmaster.html) keyword.
+They can also be assigned (or adjusted) using the [[Keywords/SpecialMaster]] keyword.
 
-Assigning Special Masters to the 100mm faders are done by tapping the label above the faders. For more information see the [Master Section topic](key_widget_master_section.html).
+Assigning Special Masters to the 100mm faders are done by tapping the label above the faders. For more information see the [[Pages/Workspace/Master Section|Master Section topic]].
 
 There are no options for the Special Masters and they have a limited selection of different functions to assign to the keys.
 
@@ -46,11 +46,11 @@ Please read about the Special Masters in the subtopics.
 
 #### Sub topics
 
-*   [Default masters](key_adv_exec_spec_master_default.html)
-*   [Grand masters](key_adv_exec_spec_master_grand.html)
-*   [Speed masters](key_adv_exec_spec_master_speed.html)
-*   [Rate masters](key_adv_exec_spec_master_rate.html)
-*   [Playback masters](key_adv_exec_spec_master_playback.html)
+*   [[Pages/Advanced Executor Functionality/Default Masters|Default masters]]
+*   [[Pages/Advanced Executor Functionality/Grand Masters|Grand masters]]
+*   [[Pages/Advanced Executor Functionality/Speed Masters|Speed masters]]
+*   [[Pages/Advanced Executor Functionality/Rate Masters|Rate masters]]
+*   [[Pages/Advanced Executor Functionality/Playback Masters|Playback masters]]
 
 ← [[Pages/Advanced Executor Functionality/Masters Window]]
 

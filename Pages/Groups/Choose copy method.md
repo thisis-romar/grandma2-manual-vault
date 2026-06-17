@@ -30,7 +30,7 @@ Version 3.9
 *   Copy a group object in the group pool
 *   Target group object has to be occupied
 
-For more information how to copy pool objects see [Manage pool objects](key_pools_manage.html).
+For more information how to copy pool objects see [[Pages/Pools/Manage pool objects]].
 
 When you copy a group to a location where there's already a group then a pop-up opens. This pop-up shows three options:
 

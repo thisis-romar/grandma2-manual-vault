@@ -32,7 +32,7 @@ Channel \[ID\].\[Sub-ID\]
 
 The default function for channel objects is SelFix. This means that entering channels without any specific function will select the channels in programmer.
 
-For more information on default function for channel objects see [SelFix](key_keyword_selfix.html). 
+For more information on default function for channel objects see [[Keywords/SelFix]]. 
 
 ## Examples
 

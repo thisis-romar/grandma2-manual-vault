@@ -33,11 +33,11 @@ Cue is the only object type that accepts numerical ID as decimal fractions. The 
 
 The default function for cue objects is SelFix. This means that calling cues without any specific function selects the fixtures of the cue.
 
-For more information on the default function for cue objects see [SelFix](key_keyword_selfix.html).
+For more information on the default function for cue objects see [[Keywords/SelFix]].
 
 Cues are arranged in sequences and are divided in parts. If only cue ID is entered, you are applying functions to all parts of cues of the sequence assigned to the selected executor.
 
-For more information see [Sequence](key_keyword_sequence.html).
+For more information see [[Keywords/Sequence]].
 
 To access cues of unselected sequences/executors add a parent object to the syntax, i.e., Cue 3.001 Executor 1 or Sequence 5 Cue 3.999
 

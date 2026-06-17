@@ -31,7 +31,7 @@ It shows a list of all the executors with assigned sequences.
 
 Tapping one of the executors in the list will make this the assigned executor for the sheet. This means that "Link Mode" is now set to "Not Linked", which means that the sheet is locked to the executor you have tapped in this list.
 
-Read more about the Link Mode in the [Layer Mask topic](key_of_sheet_options_layer_mask.html).
+Read more about the Link Mode in the [[Pages/Operate Fixtures/Layer mask|Layer Mask topic]].
 
 ← [[Pages/Operate Fixtures/Title buttons]] | [[Pages/Operate Fixtures/Mask (local)]] →
 

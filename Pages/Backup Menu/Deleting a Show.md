@@ -58,7 +58,7 @@ Tapping the Delete Show(s) button will delete the selected show files. Deleting 
 
 ## Using the Command Line
 
-Show files can be deleted using the command line. The command is called DeleteShow. Read more about it [here](key_keyword_deleteshow.html).
+Show files can be deleted using the command line. The command is called DeleteShow. Read more about it [[Keywords/DeleteShow keyword|here]].
 
 ← [[Pages/Backup Menu/Saving a show with a new name]] | [[Pages/Backup Menu/Using a USB stick]] →
 

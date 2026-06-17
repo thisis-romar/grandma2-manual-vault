@@ -32,7 +32,7 @@ Assign wings to an executor or assign external displays to internal screens in W
 *   The resolution of the external screen has to be set to 1280 x 800 before assigning the internal screen to it.
 *   The external screen has to be calibrated before assigning the internal screen. 
 
-For more information on how to set the resolution see [Change Screen Resolution for External Screens](key_window_screenoptions.html#resolution_external_screen).
+For more information on how to set the resolution see [[Pages/Console Settings/Change Screen Options|Change Screen Resolution for External Screens]].
 
 Open the Wing & Monitor Setup:
 
@@ -75,7 +75,7 @@ _Display of a current surface in grandMA2 – graphic mode_
     \-To return to the previous surface, tap Previous Surface.  
     \-To jump to the next surface, tap Next Surface.
 
-You can also call a surface using the command line. For more information see the [Surface keyword](key_keyword_surface.html). 
+You can also call a surface using the command line. For more information see the [[Keywords/Surface|Surface keyword]]. 
 
 10.  To delete a surface, tap Delete Surface.
 

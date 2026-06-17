@@ -131,7 +131,7 @@ If the VLAN IDs of groups are not the same, they do not communicate with each ot
 
 ## Edit Groups
 
-**Requirement:** [Added MA Network Switch to the network configuration](key_control_ma_switch_add.html).
+**Requirement:** [[Pages/Control MA Network Switch/Add the MA Network Switch to the network configuration|Added MA Network Switch to the network configuration]].
 
 To edit groups:
 

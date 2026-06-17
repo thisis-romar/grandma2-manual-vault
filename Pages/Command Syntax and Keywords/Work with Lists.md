@@ -26,11 +26,11 @@ Version 3.9
 
 There are several lists you can work with:
 
-*   [Object list](key_cs_object_list.html)
-*   [Selection list](key_cs_selection_list.html)
-*   [Executor list](key_cs_executor_list.html)
-*   [Attribute list](key_cs_attribute_list.html)
-*   [Station list](key_cs_station_list.html)
+*   [[Pages/Command Syntax and Keywords/Object List|Object list]]
+*   [[Pages/Command Syntax and Keywords/Selection List|Selection list]]
+*   [[Pages/Command Syntax and Keywords/Executor List|Executor list]]
+*   [[Pages/Command Syntax and Keywords/Attribute List|Attribute list]]
+*   [[Pages/Command Syntax and Keywords/Station List|Station list]]
 
 For more information see the the single topics on the existing lists. 
 
@@ -40,11 +40,11 @@ For more information see the the single topics on the existing lists. 
 
 #### Sub topics
 
-*   [Object list](key_cs_object_list.html)
-*   [Selection list](key_cs_selection_list.html)
-*   [Executor list](key_cs_executor_list.html)
-*   [Attribute list](key_cs_attribute_list.html)
-*   [Station list](key_cs_station_list.html)
+*   [[Pages/Command Syntax and Keywords/Object List|Object list]]
+*   [[Pages/Command Syntax and Keywords/Selection List|Selection list]]
+*   [[Pages/Command Syntax and Keywords/Executor List|Executor list]]
+*   [[Pages/Command Syntax and Keywords/Attribute List|Attribute list]]
+*   [[Pages/Command Syntax and Keywords/Station List|Station list]]
 
 ← [[Pages/Command Syntax and Keywords/All keywords]]
 

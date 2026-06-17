@@ -25,7 +25,7 @@ Version 3.9
 
 # What is the Network Processing Unit (NPU)
 
-A **MA Network Processing Unit (NPU)** is for [parameter expansion](key_so_parameter_expansion.html) and to add DMX ports in a network solution.
+A **MA Network Processing Unit (NPU)** is for [[Pages/System Overview/Parameter expansion|parameter expansion]] and to add DMX ports in a network solution.
 
 It is a 19" 3 Unit rack mount processor.
 

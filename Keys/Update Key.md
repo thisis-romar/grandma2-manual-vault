@@ -25,7 +25,7 @@ The key Update is located in the command area on the left of the key Clear.
 
 _Location_ _Key_ _Update_ 
 
-Pressing Update, enters the [Update keyword](key_keyword_update.html) into the [command line](key_widget_command_line.html).
+Pressing Update, enters the [[Keywords/Update|Update keyword]] into the [[Pages/Workspace/Command Line|command line]].
 
 Pressing Update while a sequence or an effect is running, or while a preset is being called, plus when active different values are in the programmer, opens the pop-up Update. 
 
@@ -35,8 +35,8 @@ _Pop-up Update_
 
 Related Links
 
-*   [Update Presets](key_presets_update.html)
-*   [Update Cues](key_cs_update_cues.html)
-*   [Update Effects](key_effects_update.html)
+*   [[Pages/Presets/Update Presets]]
+*   [[Pages/Command Syntax and Keywords/Update cues|Update Cues]]
+*   [[Pages/Effects/Update Effects]]
 
 Part of [[000 Key Index]] · [[000 Map of Content]]

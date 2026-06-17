@@ -27,7 +27,7 @@ Version 3.9
 
 The grandMA2 supports a lot of executors. Most system are not set up for physical control of all these executors. They are still reachable as virtual executors on the screens.
 
-The different virtual executors are windows that can be created using the [Create Basic Windows pop-up](key_windows.html). They are all in the **Playbacks** tab.
+The different virtual executors are windows that can be created using the [[Sections/Windows|Create Basic Windows pop-up]]. They are all in the **Playbacks** tab.
 
 ## Action Buttons
 
@@ -43,7 +43,7 @@ In the title bar there is the yellow ball that opens the options. The title bar 
 
 Direct Action changes how the executor buttons work.
 
-If it is disabled, then they work as described in the [Sequence Mini Executor](key_cs_sequence_mini_executor.html), but in relation to what is assigned to the executor. Please also have a look at the [Mini Executor Bar topic](key_ws_mini_executor_bar.html). This window functions more as a label and indicator when Direct Action is disabled.
+If it is disabled, then they work as described in the [[Pages/Command Syntax and Keywords/Sequence mini executor|Sequence Mini Executor]], but in relation to what is assigned to the executor. Please also have a look at the [[Pages/Workspace/Mini executor bar|Mini Executor Bar topic]]. This window functions more as a label and indicator when Direct Action is disabled.
 
 With Direct Action enabled, then the entire button will perform the action assigned to the Executor Button, or physical key, when it is tapped on the screen.
 
@@ -63,7 +63,7 @@ Here you can choose to lock the Action Buttons to a specific Button page.
 
 ## Playback Big
 
-The Playback Big window displays what is assigned to the executors. It also provide virtual faders and buttons. The button and fader label area, known from the [Mini Executor Bar](key_ws_mini_executor_bar.html), is replaced by labeled buttons and faders providing the same information but with better control. Tapping the buttons will perform the action. Touching and moving the virtual faders will be the same as moving the real faders.
+The Playback Big window displays what is assigned to the executors. It also provide virtual faders and buttons. The button and fader label area, known from the [[Pages/Workspace/Mini executor bar|Mini Executor Bar]], is replaced by labeled buttons and faders providing the same information but with better control. Tapping the buttons will perform the action. Touching and moving the virtual faders will be the same as moving the real faders.
 
 The window adapts to the size. The width can span from a minimum of 5 through the maximum amount of available squares. It can display up to three groups (of 5) executors. The height can be from 4 through the maximum amount of squares. If the height is  only 4 or 5 squares then the window will only display the Fader Executors. From 6 and more i height it will also display the corresponding Button Executors.
 
@@ -82,7 +82,7 @@ The title bar have the yellow ball that opens the options. The title bar shows w
 *   **Channels Never**:  
     This will prevent the virtual Fader Executors to ever change to Channel Faders.
 
-Read about the Channel Faders in the [Channels Pages topic](key_adv_exec_ch_pages.html).
+Read about the Channel Faders in the [[Pages/Advanced Executor Functionality/Channel Pages|Channels Pages topic]].
 
 ### Options
 
@@ -102,7 +102,7 @@ The Fader Executors group  has an extra button. This is the same as the one in 
 
 ## Playback Small
 
-The small playback window is the same as the [Mini Executor Bar](key_ws_mini_executor_bar.html). It is fixed in 3 squares height but can be extended from minimum 5 and up to the maximum about of possible squares.
+The small playback window is the same as the [[Pages/Workspace/Mini executor bar|Mini Executor Bar]]. It is fixed in 3 squares height but can be extended from minimum 5 and up to the maximum about of possible squares.
 
 It will adapt to the about of groups (of 5 executors) displayed depending on the width of the window.
 
@@ -121,7 +121,7 @@ The title bar have the yellow ball that opens the options. The title bar shows w
 *   **Channels Never**:  
     This will prevent the virtual Fader Executors to ever change to Channel Faders.
 
-Read about the Channel Faders in the [Channels Pages topic](key_adv_exec_ch_pages.html).
+Read about the Channel Faders in the [[Pages/Advanced Executor Functionality/Channel Pages|Channels Pages topic]].
 
 ### Options
 

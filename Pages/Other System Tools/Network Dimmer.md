@@ -28,16 +28,16 @@ Version 3.9
 Monitor and configure a dimMA system in the window **MA Dimmer Network**. 
 
 **Important:**  
-This section deals with the configuration of MA NDPs in the view **MA Dimmer Network**. The configuration of MA NDPs in the window **MA Network Configuration** is dealt with in [Control the MA NDP](key_control_ndp_add.html). 
+This section deals with the configuration of MA NDPs in the view **MA Dimmer Network**. The configuration of MA NDPs in the window **MA Network Configuration** is dealt with in [[Pages/Control MA NDPs/Add the MA NDPs to the Network Configuration|Control the MA NDP]]. 
 
 **Requirement:**
 
 *   Add MA NDPs to the network configuration
 
-For more information see [Adding devices to your session](key_network_session_add_device.html).
+For more information see [[Pages/Networking/Adding devices to the session|Adding devices to your session]].
 
 1.  Open the **MA Dimmer Network**.  
-    \-Open **Create Basic Window**. For more information see [Manage windows](key_windows.html).  
+    \-Open **Create Basic Window**. For more information see [[Sections/Windows|Manage windows]].  
     \-Tap System and then tap Network Dimmer.   
     ​-**MA Dimmer Network** opens.
 
@@ -100,11 +100,11 @@ A dimmer holds all the corresponding configuration data. 
 
 #### Sub topics
 
-*   [Views](key_ost_views.html)
-*   [Errors](key_ost_errors.html)
-*   [Readout](key_ost_readout.html)
-*   [Edit properties of a rack](key_ost_edit_properties_of_rack.html)
-*   [Edit a module](key_ost_edit_module.html)
+*   [[Pages/Other System Tools/Views]]
+*   [[Pages/Other System Tools/Errors]]
+*   [[Pages/Other System Tools/Readout]]
+*   [[Pages/Other System Tools/Edit Properties of a Rack|Edit properties of a rack]]
+*   [[Pages/Other System Tools/Edit a Module|Edit a module]]
 
 ← [[Pages/Other System Tools/Sound input window]] | [[Pages/Other System Tools/Desk status]] →
 

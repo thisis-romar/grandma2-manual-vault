@@ -23,7 +23,7 @@ To get the ( ) parentheses in the command line, press and hold Shift + 9 or Shif
 
 ## Description
 
-With the ( ) parentheses you create pop-up dialog in macros, to get user input. The user will be prompted with the text inside the round brackets, and a text input field. The macro line will be executed with the user input. For more information, see [create pop-ups in macros](key_macro_create_popup.html).
+With the ( ) parentheses you create pop-up dialog in macros, to get user input. The user will be prompted with the text inside the round brackets, and a text input field. The macro line will be executed with the user input. For more information, see [[Pages/Macros/Create pop-ups in macros|create pop-ups in macros]].
 
 ## Example
 

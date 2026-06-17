@@ -25,7 +25,7 @@ To get the ListEffectLibrary keyword in the command line, type **ListEffectLibra
 
 The ListEffectLibrary is a function keyword to displays the .xml files in effects folder of the selected drive in the command line feedback window.
 
-To change the drive, see [SelectDrive keyword](key_keyword_selectdrive.html).
+To change the drive, see [[Keywords/SelectDrive|SelectDrive keyword]].
 
 ## Syntax
 

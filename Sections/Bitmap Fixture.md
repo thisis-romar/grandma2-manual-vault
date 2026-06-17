@@ -46,7 +46,7 @@ If you want to use a video for the bitmap fixture here´s what it takes:
 *   Only video data without audio data
 *   Constant bit rate (= CBR)
 
-Make sure to use the supported image and video formats only. For more details see [supported file formats](key_image_supported_file_formats.html).
+Make sure to use the supported image and video formats only. For more details see [[Pages/Image Pool/Supported file formats|supported file formats]].
 
 We recommend to test the videos during the show preparation before using them in a show situation.
 
@@ -56,13 +56,13 @@ We recommend to test the videos during the show preparation before using them in
 
 #### Sub topics
 
-*   [Import bitmap fixture](key_bitmapfixture_import.html)
-*   [Apply bitmap fixture in the layout](key_bitmapfixture_layout.html)
-*   [Control bitmap fixture](key_bitmapfixture_control.html)
-*   [Edit bitmap fixture](key_bitmapfixture_edit.html)
-*   [Example](key_bitmapfixture_example.html)
-*   [Priorities for bitmap effects](key_bitmapfixture_priorities.html)
-*   [Disable bitmap for fixtures](key_bitmapfixture_disable.html)
+*   [[Pages/Bitmap Fixture/Import bitmap fixture]]
+*   [[Pages/Bitmap Fixture/Apply bitmap fixture in the layout view|Apply bitmap fixture in the layout]]
+*   [[Pages/Bitmap Fixture/Control bitmap fixture]]
+*   [[Pages/Bitmap Fixture/Edit bitmap fixture]]
+*   [[Pages/Bitmap Fixture/Example for bitmap fixture|Example]]
+*   [[Pages/Bitmap Fixture/Priorities for bitmap effects]]
+*   [[Pages/Bitmap Fixture/Disable bitmap for fixtures]]
 
 ## Pages in This Section
 

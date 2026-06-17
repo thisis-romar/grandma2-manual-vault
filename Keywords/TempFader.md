@@ -25,7 +25,7 @@ To get the TempFader keyword in the command line, type **TempFader** or the shor
 
 The TempFader keyword, is a function that crossfades the cue on when pulled up, and crossfades the cue off when pulled down.
 
-For more information, see [executors - assign a function](key_exec_assign.html).
+For more information, see [[Pages/Executors/Assign a function|executors - assign a function]].
 
 ## Syntax
 

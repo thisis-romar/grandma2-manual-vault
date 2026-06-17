@@ -76,7 +76,7 @@ Black background indicates that there is no object to be edited. 
 
 _Lavender background color_
 
-Lavender background indicates fixtures or channels that are limited by a group master. For more information see [group masters](key_groups_master.html).
+Lavender background indicates fixtures or channels that are limited by a group master. For more information see [[Pages/Groups/Group Master on Executors|group masters]].
 
 **Dark Purple:**
 
@@ -84,7 +84,7 @@ Lavender background indicates fixtures or channels that are limited by a group m
 
 _Dark purple background color_
 
-Dark purple background indicates fixtures or channels that are limited by an additive group master. For more information see [group masters](key_groups_master.html).
+Dark purple background indicates fixtures or channels that are limited by an additive group master. For more information see [[Pages/Groups/Group Master on Executors|group masters]].
 
 **Blue:**
 
@@ -100,9 +100,9 @@ Blue background indicates fixtures or channels with the option **React to Master
 
 The values of attributes from fixtures or channels can have six different system colors. Some of the value colors are also displayed as background colors if the layer **Value Exec ID** or **Effect Exec ID** is selected.
 
-For more information on the layers see [control channels and fixtures](key_operate_fixtures.html).
+For more information on the layers see [[Sections/Operate Fixtures|control channels and fixtures]].
 
-Furthermore, values and background can have cue colors. For more information about cue colors see [cue colors](key_ws_colors_cue.html).
+Furthermore, values and background can have cue colors. For more information about cue colors see [[Pages/Workspace/Cue Colors|cue colors]].
 
 **Gray:**
 
@@ -198,7 +198,7 @@ White value along with gray background indicate values in the programmer from an
 
 _Dark blue value_
 
-Dark blue values indicate attributes that cannot be controlled. For more information see [TakeControl keyword](key_keyword_takecontrol.html).
+Dark blue values indicate attributes that cannot be controlled. For more information see [[Keywords/TakeControl|TakeControl keyword]].
 
 * * *
 

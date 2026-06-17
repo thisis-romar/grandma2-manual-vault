@@ -25,15 +25,15 @@ The key Assign is located in the command area on the right of the key Prvw.
 
 _Location k__ey_ _Assign_ 
 
-*   Pressing Assign enters [Assign keyword](key_keyword_assign.html) into the command line.
+*   Pressing Assign enters [[Keywords/Assign keyword]] into the command line.
 
 \[Channel\]> Assign
 
-*   Pressing Assign Assign enters [Label keyword](key_keyword_label.html) into the command line.
+*   Pressing Assign Assign enters [[Keywords/Label|Label keyword]] into the command line.
 
 \[Channel\]> Label
 
-*   Pressing Assign Assign Assign enters [Appearance keyword](key_keyword_appearance.html) into the command line.
+*   Pressing Assign Assign Assign enters [[Keywords/Appearance keyword]] into the command line.
 
 \[Channel\]> Appearance
 

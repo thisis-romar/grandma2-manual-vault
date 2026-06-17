@@ -59,7 +59,7 @@ _DVI connectors for external screens_
 
 The external screens are connected.
 
-For more information see [change screen options](key_window_screenoptions.html).
+For more information see [[Pages/Console Settings/Change Screen Options|change screen options]].
 
 ← [[Pages/First Steps/Connect Desk Lamps]] | [[Pages/First Steps/Connect USB Mouse and USB Keyboad]] →
 

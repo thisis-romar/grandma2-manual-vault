@@ -33,7 +33,7 @@ The LED fixture is usually set up with different colored LEDs.
 
 The grandMA2 will expect it to be colored LEDs and have their default value at 100%. If the fixture do not have an intensity attribute, then it is customary to add a virtual dimmer to the fixture. The Virtual dimmer will make the color attribute fade up and down when the dimmer attribute is changed.
 
-Having only the red, green, and blue MixColor attributes and no (virtual or real) intensity attribute makes the color attributes fade up and down. This is not the behavior most users expect. Read about adding virtual attributes in the [Anatomy of a Fixture Type](key_adv_fixture_anatomy.html#virtual_attributes) topic.
+Having only the red, green, and blue MixColor attributes and no (virtual or real) intensity attribute makes the color attributes fade up and down. This is not the behavior most users expect. Read about adding virtual attributes in the [[Pages/Advanced Fixture Types/Anatomy of a Fixture Type]] topic.
 
 ← [[Pages/Basic Fixture Types/Conventional fixture type]] | [[Pages/Basic Fixture Types/Mirror]] →
 

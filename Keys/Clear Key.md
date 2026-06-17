@@ -25,7 +25,7 @@ The key Clear is located in the command area right beside the key Update.
 
 _Location k__ey_ _Clear_ 
 
-*   Pressing Clear executes the [Clear keyword](key_keyword_clear.html).
+*   Pressing Clear executes the [[Keywords/Clear keyword]].
 
 If fixtures are selected in the programmer, pressing Clear deselects the fixtures.
 
@@ -35,6 +35,6 @@ If only inactive values are in the programmer, pressing Clear removes the value
 
 If fixtures are selected and active values are in the programmer, pressing Clear once deselects the fixtures. Pressing Clear two times deactivates the values. Pressing Clear three times removes the values in the programmer.
 
-Pressing and holding Clear for 2 seconds executes the [ClearAll keyword](key_keyword_clearall.html).
+Pressing and holding Clear for 2 seconds executes the [[Keywords/ClearAll keyword]].
 
 Part of [[000 Key Index]] · [[000 Map of Content]]

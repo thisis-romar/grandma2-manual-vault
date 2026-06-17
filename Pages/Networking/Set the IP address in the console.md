@@ -25,15 +25,15 @@ Version 3.9
 
 # Set the IP address in the console
 
-An IP address in a matching range is needed to be able to connect devices. This page is about setting a static IP address in the console. If you need to set the IP in the onPC, please [follow this link](key_network_set_ip_onpc.html).
+An IP address in a matching range is needed to be able to connect devices. This page is about setting a static IP address in the console. If you need to set the IP in the onPC, please [[Pages/Networking/Set the IP address in the onPC|follow this link]].
 
-If you have a network using DHCP, then you can might want to allow a DHCP server to set the IP address in the console. You can read more about this in the [Using DHCP in MA devices topic](key_network_dhcp.html).
+If you have a network using DHCP, then you can might want to allow a DHCP server to set the IP address in the console. You can read more about this in the [[Pages/Networking/Using DHCP in MA devices|Using DHCP in MA devices topic]].
 
 There are three ways to set the IP address in the console. No matter what way you choose, you will need to reboot the console for the change to take affect.
 
 ## Set the IP address using the command line
 
-Use the [SetIP command](key_keyword_setip.html) to see and change the IP addresses of the console. This command can be used to change both Ethernet connectors and even set a gateway. Follow the link to read about using the command.
+Use the [[Keywords/SetIP|SetIP command]] to see and change the IP addresses of the console. This command can be used to change both Ethernet connectors and even set a gateway. Follow the link to read about using the command.
 
 ## Set the IP address using MA Network Control
 
@@ -51,7 +51,7 @@ In this menu you need to select the Consoles tab. Here are all the consoles in y
 
 The second IP address should always be an Art-Net address. The Art-Net addresses have two ranges that are allowed - one starting with 2 and one starting with 10. Other manufacturers and networks specifiers often uses the "10" range for their primary address scheme. For this reason it is a good practice to keep the Art-Net in the "2" range. That could avoid problems in networks that are not only MA devices and not completely under your control.
 
-There is a column for activating DHCP. Read more about DHCP in the [Using DHCP in MA devices topic](key_network_dhcp.html).
+There is a column for activating DHCP. Read more about DHCP in the [[Pages/Networking/Using DHCP in MA devices|Using DHCP in MA devices topic]].
 
 ← [[Pages/Networking/What is networking]] | [[Pages/Networking/Set the IP address in the onPC]] →
 

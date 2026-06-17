@@ -25,7 +25,7 @@ Version 3.9
 
 # Instance Manager
 
-If you have arrived at this topic from a link without reading the previous topic, then please read [Anatomy of a Fixture Type](key_adv_fixture_anatomy.html) first.
+If you have arrived at this topic from a link without reading the previous topic, then please read [[Pages/Advanced Fixture Types/Anatomy of a Fixture Type]] first.
 
 The **Instance Manager** is used to add and arrange existing **Modules** to the fixture.
 

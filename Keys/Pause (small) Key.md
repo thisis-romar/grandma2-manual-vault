@@ -25,11 +25,11 @@ The small key Pause is located in the command area on the right of the small k
 
 _Location k__ey_ _Pause (small)_
 
-*   Pressing Pause enters the [Pause keyword](key_keyword_pause.html) into the command line.
+*   Pressing Pause enters the [[Keywords/Pause|Pause keyword]] into the command line.
 
 \[Channel\]> Pause
 
-*   Pressing Pause Pause enters the [Park keyword](key_keyword_park.html) into the command line.
+*   Pressing Pause Pause enters the [[Keywords/Park|Park keyword]] into the command line.
 
 \[Channel\]> Park
 

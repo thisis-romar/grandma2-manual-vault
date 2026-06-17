@@ -31,11 +31,11 @@ You can edit the properties of racks. 
 
 *   Add MA NDPs to the network configuration
 
-For more information see [Adding devices to your session](key_network_session_add_device.html). 
+For more information see [[Pages/Networking/Adding devices to the session|Adding devices to your session]]. 
 
 *   Open **MA Dimmer Network**
 
-For more information on how to open the **MA Dimmer Network** see [Network dimmer](key_ost_network_dimmer.html). 
+For more information on how to open the **MA Dimmer Network** see [[Pages/Other System Tools/Network Dimmer|Network dimmer]]. 
 
 1.  To edit the properties of a rack, press Edit and tap a rack. The window **Rack Properties** opens.
     

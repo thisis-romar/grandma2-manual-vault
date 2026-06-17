@@ -147,11 +147,11 @@ Line 3 and 6 re-labels the macro.
 
 All line are have a "Follow" in the wait column except line 3. This is the one that separates the "on" and "off" parts, so this is where the macro needs to halt and wait for a new "Go".
 
-If the "[Top](key_keyword_top.html)" command is sent to the macro then it will run the macro from the first line.
+If the "[[Keywords/Top]]" command is sent to the macro then it will run the macro from the first line.
 
-"[GoBack](key_keyword_goback.html)" will execute the previous macro line in a multi line macro. Looking at the example above it will run line 2 if the macro is at line 3 waiting for a Go. If the macro is not active then "GoBack" will run the last macro line.  
+"[[Keywords/GoBack]]" will execute the previous macro line in a multi line macro. Looking at the example above it will run line 2 if the macro is at line 3 waiting for a Go. If the macro is not active then "GoBack" will run the last macro line.  
   
-Running macros can be paused using the "[Pause](key_keyword_pause.html)" command. This only makes sense for timed macros with enough time to actually pause it before it is done. You need to do a Go command for the macro to continue.
+Running macros can be paused using the "[[Keywords/Pause]]" command. This only makes sense for timed macros with enough time to actually pause it before it is done. You need to do a Go command for the macro to continue.
 
 ← [[Pages/Macros/Conditional expressions]]
 

@@ -33,7 +33,7 @@ In addition to **normal**, there are three different special modes in the preset
     Highlight is used to modify the highlight values of attributes in single fixtures. 
 
 *   **Stage:**  
-    Stage is used to modify the stage values of attributes in single fixtures. Stage values are enabled and disabled in the dialog **Calibrate Fixture Pos**. For more information see [Auto calibrate fixture positions](key_patch_autocalibrate.html).  
+    Stage is used to modify the stage values of attributes in single fixtures. Stage values are enabled and disabled in the dialog **Calibrate Fixture Pos**. For more information see [[Pages/Patching/Auto-calibrate fixture positions|Auto calibrate fixture positions]].  
      
 *   **Normal:**  
     Normal reverts the special mode of a preset.

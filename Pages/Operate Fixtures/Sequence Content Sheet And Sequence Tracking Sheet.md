@@ -29,7 +29,7 @@ Fundamentally, the value layers and the effect layers in sequence content and se
 **Important:**  
 The layers in the sheets **Sequence Content** and **Sequence Tracking**, however, refer to values that are stored in a sequence. 
 
-For detailed information on value layers and effect layers see [Layers in sheets – channel sheet and fixture sheet](key_of_layers_in_sheets_channel_and_fixture.html). 
+For detailed information on value layers and effect layers see [[Pages/Operate Fixtures/Channel Sheet and Fixture Sheet|Layers in sheets – channel sheet and fixture sheet]]. 
 
 * * *
 

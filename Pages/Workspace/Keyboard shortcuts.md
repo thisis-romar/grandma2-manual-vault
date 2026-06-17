@@ -27,7 +27,7 @@ Version 3.9
 **Important:**  
 1\. Keyboard shortcuts are only available on a grandMA2 onPC.  
 2\. Keyboards that have a different keyboard layout, as opposed to German keyboards, do not support all default keyboard shortcuts.   
-If this should be the case with your keyboard, adjust the shortcuts affected. To transfer these to other show files and/or stations, use the Import/Export function. For more information on how adjust the shortcuts see [export or import keyboard shortcuts](key_ws_keyboard_shortcuts_export_import.html). 
+If this should be the case with your keyboard, adjust the shortcuts affected. To transfer these to other show files and/or stations, use the Import/Export function. For more information on how adjust the shortcuts see [[Pages/Workspace/Export or import keyboard shortcuts|export or import keyboard shortcuts]]. 
 
 The go to the keyboard shortcuts press the Setup and under tab **Console** tap Edit Keyboard Shortcuts.
 
@@ -539,10 +539,10 @@ The keyboard shortcuts are reset to their defaults.
 
 #### Sub topics
 
-*   [Turn on or turn off the keyboard shortcuts](key_ws_keyboard_shortcuts_on_off.html)
-*   [Edit keyboard shortcuts](key_ws_keyboard_shortcuts_edit.html)
-*   [Add or delete keyboard shortcuts](key_ws_keyboard_shortcuts_add_delete.html)
-*   [Export or import keyboard shortcuts](key_ws_keyboard_shortcuts_export_import.html)
+*   [[Pages/Workspace/Turn on or turn off the keyboard shortcuts]]
+*   [[Pages/Workspace/Edit keyboard shortcuts]]
+*   [[Pages/Workspace/Add or delete keyboard shortcuts]]
+*   [[Pages/Workspace/Export or import keyboard shortcuts]]
 
 ← [[Pages/Workspace/Icons]]
 

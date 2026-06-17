@@ -203,7 +203,7 @@ Filters or enables value times layer.
 
 ## Example
 
-1\. Update current cue of the selected executor, according to the update defaults. For more information, see [Update a Cue](key_cs_update_cues.html).
+1\. Update current cue of the selected executor, according to the update defaults. For more information, see [[Pages/Command Syntax and Keywords/Update cues|Update a Cue]].
 
 \[Channel\]> Update
 
@@ -211,7 +211,7 @@ Filters or enables value times layer.
 
 \[Channel\]> Update Cue 4 /originalcontent /cueonly
 
-3\. Update color preset 2 with global values, keep them active in the programmer, and without confirmation pop-up. For more information, see [Update Presets](key_presets_update.html).
+3\. Update color preset 2 with global values, keep them active in the programmer, and without confirmation pop-up. For more information, see [[Pages/Presets/Update Presets]].
 
 \[Channel\]> Update Preset 4.2 /global /keepactive=true /noconfirm
 

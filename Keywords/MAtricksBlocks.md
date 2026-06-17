@@ -27,7 +27,7 @@ MAtricksBlocks is a function to set the MAtricks Blocks values.
 
 With the function MAtricksBlocks, x fixtures are treated as one block when aligning or sub selecting.
 
-For more information on MAtricks see [MAtricks](key_matricks.html).
+For more information on MAtricks see [[Sections/MAtricks]].
 
 ## Syntax
 

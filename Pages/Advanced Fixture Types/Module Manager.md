@@ -24,7 +24,7 @@ Version 3.9
 
 # Module Manager
 
-If you have arrived at this topic from a link without reading the previous topic, then please read [Anatomy of a Fixture Type](key_adv_fixture_anatomy.html) first.
+If you have arrived at this topic from a link without reading the previous topic, then please read [[Pages/Advanced Fixture Types/Anatomy of a Fixture Type]] first.
 
 All fixtures needs a minimum of one **Module**. Some fixtures have more than one. For instance a fixture that has one pan attribute but several tilt attributes (several small heads mounted on same yoke). Or more commonly one module with pan, tilt, zoom, master intensity, and other common functions and then another module for each LED pixel in a wash moving head.
 
@@ -47,7 +47,7 @@ The module manager displays the different modules in rows and several columns ar
 *   **BeamIntensity**:  
     Here it is possible to set a lumen intensity. This value is used in MA 3D.
 *   **MIB Delay**:  
-    The module can have a custom MIB delay value. The "Default" value will use the **MIB Delay** time defined in the **Playback & MIB Timing** settings in the **Setup**. Read more about MIB in the [Working with MIB topic](key_adv_seq_mib.html).
+    The module can have a custom MIB delay value. The "Default" value will use the **MIB Delay** time defined in the **Playback & MIB Timing** settings in the **Setup**. Read more about MIB in the [[Pages/Advanced Sequence Functionality/Working with MIB|Working with MIB topic]].
 *   **Class**:  
     The **Class** describes the type of module. Editing this cell will open the **Select Class pop-up**. Please read more [below](#class).
 *   **Beam**:  
@@ -60,7 +60,7 @@ The module manager displays the different modules in rows and several columns ar
       
     The options are: **None**, **Spot**, **Wash**, **Effect**, and **Fiber**. Be aware that the LED class does not display a beam - no matter what is selected in this option. Often it is only the **Spot** and **Wash** beam types that are used and visualized correctly in MA 3D.
 *   **Model**:  
-    The model is the 3D model used in MA 3D. Editing this cell opens the **Model pop-up**. It list all the different 3D models in the show file. To read more about custom 3D models please read the [3D Modeling and Import topics](ma_3d/key_3d-modeling-and-import.html) in the MA 3D manual.
+    The model is the 3D model used in MA 3D. Editing this cell opens the **Model pop-up**. It list all the different 3D models in the show file. To read more about custom 3D models please read the 3D Modeling and Import topics in the MA 3D manual.
 *   **Size X**, **Size Y**, **Size Z**, **Axis X**, **Axis Y**, and **Axis Z**:  
     The size and the axis column describe the physical size of the fixture and where the movement axis are for the fixture. Editing one of these cells opens the **Body Description pop-up**. It looks different depending on the selected Class. Most classes do not have a body description and the cells are locked for editing.
 *   **Local**:  
@@ -101,7 +101,7 @@ This is a show description of the different classes:
 *   **Video Master**:  
     This class is used by some media servers. There is no 3D model associated with the class.
 *   **Grandma Bitmap Layer**:  
-    This class is used by the **Bitmap** fixture from MA Lighting. This virtual fixture can be used to apply values to other fixtures - Read more in the [Bitmap Fixture section](key_bitmapfixture.html). There is no 3D model associated with the class.
+    This class is used by the **Bitmap** fixture from MA Lighting. This virtual fixture can be used to apply values to other fixtures - Read more in the [[Sections/Bitmap Fixture|Bitmap Fixture section]]. There is no 3D model associated with the class.
 *   **Marker**:  
     This class is used by the **Stage Marker** fixtures from MA Lighting. These virtual fixtures can be used to move a marker around the 3D space. There is no 3D model associated with the class.
 *   **Camera Controller**:  

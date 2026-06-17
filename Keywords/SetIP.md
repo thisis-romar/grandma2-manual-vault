@@ -33,7 +33,7 @@ A grandMA2 console has two network interfaces, **eth0** and **eth1**, which are 
 To apply the changed IP address, a reboot is necessary.
 
 **Hint:**  
-Another way to change the IP address of the Ethernet-interfaces of the console or station is, press Setup I tap MA Network Configuration  I column **IP ETHERCON 1(ETH0)** or **IP ETHERCON 2 (ETH1)**. For more information see [Networking - Set the IP address in onPC](key_network_set_ip_onpc.html). 
+Another way to change the IP address of the Ethernet-interfaces of the console or station is, press Setup I tap MA Network Configuration  I column **IP ETHERCON 1(ETH0)** or **IP ETHERCON 2 (ETH1)**. For more information see [[Pages/Networking/Set the IP address in the onPC|Networking - Set the IP address in onPC]]. 
 
 ## Syntax
 
@@ -108,8 +108,8 @@ Lists available Ethernet interfaces along with their IP addresses in the command
 **Important:**  
 Do not use DHCP on eth1, unless you are a skilled network operator. 
 
-For more information on what DHCP is see the [Glossary](key_glossary.html). 
+For more information on what DHCP is see the [[Sections/Glossary]]. 
 
-For more information on how to use DHCP see [Using DHCP in MA devices](key_network_dhcp.html).
+For more information on how to use DHCP see [[Pages/Networking/Using DHCP in MA devices]].
 
 Part of [[000 Keyword Index]] · [[000 Map of Content]]

@@ -25,9 +25,9 @@ Version 3.9
 
 # Control bitmap fixture
 
-After you imported a bitmap fixture in your show, you can control the bitmap fixture in the fixture sheet. For more information, see [fixture sheet](key_of_fixture_sheet.html).
+After you imported a bitmap fixture in your show, you can control the bitmap fixture in the fixture sheet. For more information, see [[Pages/Operate Fixtures/Fixture Sheet|fixture sheet]].
 
-The following table describes the specific bitmap fixture attributes. For more basic information about control fixtures or channels, see [control channels and fixtures](key_operate_fixtures.html).
+The following table describes the specific bitmap fixture attributes. For more basic information about control fixtures or channels, see [[Sections/Operate Fixtures|control channels and fixtures]].
 
 Attribute
 
@@ -47,12 +47,12 @@ Controls hue shift, saturation, and brightness. HSB is a color correction of the
 
 VObj (= Video Object) Images
 
-Select the image from the image pool, used for the bitmap fixture. For more information, see [import image](key_image_import.html).  
+Select the image from the image pool, used for the bitmap fixture. For more information, see [[Pages/Image Pool/Import Images and Videos|import image]].  
 **Important:** By default are 100 images displayed, even if less images are in the image pool.
 
 VObj Output
 
-Select the layout from the layout pool, used for the bitmap fixture. For more information, see [layouts](key_layouts.html).  
+Select the layout from the layout pool, used for the bitmap fixture. For more information, see [[Sections/Layouts|layouts]].  
 **Important:** By default are 100 layouts displayed, even if less layouts are in the layout pool.
 
 VPos (= Video Position)
@@ -107,7 +107,7 @@ Set the preset pool index of the high value (white), e.g. 2 (= green color).
 **Important:**  
 If you pause a video clip in the VPlayer and subsequently tap Play or Loop, the clip is played back from the start. 
 
-After you have modified all the attributes, you can store the look in a cue. For more information, see [cues and sequences](key_cues_and_sequences.html).
+After you have modified all the attributes, you can store the look in a cue. For more information, see [[Sections/Cues and Sequences|cues and sequences]].
 
 ## Examples for VImg Attributes
 

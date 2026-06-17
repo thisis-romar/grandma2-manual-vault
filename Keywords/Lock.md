@@ -25,7 +25,7 @@ To get the Lock keyword in the command line, type **Lock** or the shortcut **Loc
 
 The lock keyword is a function keyword to lock objects.
 
-A locked object is indicated by a **yellow lock icon** ![](../../img/icon_yellow-lock_v3-2.png). A locked cue is indicated by a **black background** and a **red font** in the sequence executor sheet. A locked executor or sequence is indicated by a **red executor number** or **red sequence number** in the [mini executor bar](key_ws_mini_executor_bar.html).
+A locked object is indicated by a **yellow lock icon** ![](../../img/icon_yellow-lock_v3-2.png). A locked cue is indicated by a **black background** and a **red font** in the sequence executor sheet. A locked executor or sequence is indicated by a **red executor number** or **red sequence number** in the [[Pages/Workspace/Mini executor bar|mini executor bar]].
 
 A locked object can not be changed or deleted.
 

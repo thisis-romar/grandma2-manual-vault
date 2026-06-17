@@ -25,7 +25,7 @@ To enter the keyword Exit into the console, type **Exit** or the shortcut **Exi*
 
 Exit disconnects the connection to Telnet. 
 
-For more information see the keyword [Telnet](key_keyword_telnet.html). 
+For more information see the keyword [[Keywords/Telnet]]. 
 
 ## Syntax
 

@@ -27,13 +27,13 @@ Version 3.9
 
 It is possible to a assign 15 different Speed Masters to executors.
 
-This group of masters also include the BMP Master. This master is controlled by the incoming sound and will adjust to the detected Beats Per Minute. Read more about it in the [Sound Input topic](key_ost_sound_input_window.html).
+This group of masters also include the BMP Master. This master is controlled by the incoming sound and will adjust to the detected Beats Per Minute. Read more about it in the [[Pages/Other System Tools/Sound input window|Sound Input topic]].
 
 The Speed Masters can be assigned to Sequence executors, chasers or effects. This makes it possible to sync multiple elements to the same speed.
 
-Read more about assigning masters to executors in the [Executor Options](key_adv_exec_options.html) topic. Read about assigning a Speed Master to an effect in the [Assign Effect to Executor topic](key_effects_assign_to_executor.html). 
+Read more about assigning masters to executors in the [[Pages/Advanced Executor Functionality/Executor Options]] topic. Read about assigning a Speed Master to an effect in the [[Pages/Effects/Assign effect to executor|Assign Effect to Executor topic]]. 
 
-All the Speed Masters can be seen and adjusted in the [Masters window](key_adv_exec_master_window.html).
+All the Speed Masters can be seen and adjusted in the [[Pages/Advanced Executor Functionality/Masters Window|Masters window]].
 
 ← [[Pages/Advanced Executor Functionality/Grand Masters]] | [[Pages/Advanced Executor Functionality/Rate Masters]] →
 

@@ -25,15 +25,15 @@ The key Del (= Delete) is located in the command area on the right of the key 
 
 _Location key Delete_ 
 
-Pressing Del enters the [Delete keyword](key_keyword_delete.html) into the command line.
+Pressing Del enters the [[Keywords/Delete keyword]] into the command line.
 
 \[Channel\]> Delete
 
-Pressing Del Del enters the [Remove keyword](key_keyword_remove.html) into the command line.
+Pressing Del Del enters the [[Keywords/Remove|Remove keyword]] into the command line.
 
 \[Channel\]> Remove
 
-Pressing Del Del Del enters the [Release keyword](key_keyword_release.html) into the command line.
+Pressing Del Del Del enters the [[Keywords/Release|Release keyword]] into the command line.
 
 \[Channel\]> Release
 

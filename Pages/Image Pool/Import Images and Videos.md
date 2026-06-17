@@ -27,7 +27,7 @@ Version 3.9
 To import images or videos:
 
 1.  Open the image pool first.  
-    For information on how to open the image pool see [Image Pool](key_image.html). 
+    For information on how to open the image pool see [[Sections/Image Pool]]. 
 2.  Then press Edit and tap the pool object you would like to store your image or video to. 
 3.  The **Image Viewer** opens. 
 
@@ -52,7 +52,7 @@ _Image viewer – open file_
 11.  The image or video you have imported is now in the image pool. 
 
 **Important:**  
-The MA software provides the capability to use additional proprietary third-party software which allows the usage of diverse media content. Proprietary third-party software is subject to license terms included with its documentation. If you decide to install the MA software package including the third-party software, you agree to be alone responsible to fulfill the terms of such license terms including proper licensing. If you install the MA software package without the third-party software, you can still use non-proprietary media software (VP8, VP9 etc.). For more information on the file formats see [Supported file formats](key_image_supported_file_formats.html).   
+The MA software provides the capability to use additional proprietary third-party software which allows the usage of diverse media content. Proprietary third-party software is subject to license terms included with its documentation. If you decide to install the MA software package including the third-party software, you agree to be alone responsible to fulfill the terms of such license terms including proper licensing. If you install the MA software package without the third-party software, you can still use non-proprietary media software (VP8, VP9 etc.). For more information on the file formats see [[Pages/Image Pool/Supported file formats]].   
 To use the proprietary third-party software:  
 \-Check the box during the initial startup.  
 \-or-  

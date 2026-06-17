@@ -27,7 +27,7 @@ The Remote keyword is an object keyword to access the remote input types.
 
 You can store or delete remote input types and assign parameters.
 
-For more information, see [What are Remote Inputs?](key_remote_control_input.html) and [Set up Remote Inputs](20f90287-abfe-47a7-b198-fe08e5e1f2b1.html).
+For more information, see [[Pages/Remote Control/Remote Inputs|What are Remote Inputs?]] and Set up Remote Inputs.
 
 ## Syntax
 
@@ -57,7 +57,7 @@ If you store a remote input type, the IDs needs to be in an order and beginning 
 
 ## Parameter
 
-The following table displays the assignable parameter via the command line, using the [Assign keyword](key_keyword_assign.html).
+The following table displays the assignable parameter via the command line, using the [[Keywords/Assign keyword]].
 
 Parameter
 

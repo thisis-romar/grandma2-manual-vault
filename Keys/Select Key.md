@@ -25,11 +25,11 @@ The key Select is located in the command area on the left of the key Off.
 
 _Location_ _Key_ _Select_
 
-*   Pressing Select enters the [Select keyword](key_keyword_select.html) into the command line.
+*   Pressing Select enters the [[Keywords/Select|Select keyword]] into the command line.
 
 \[Channel\]> Select
 
-*   Pressing Select Select enters the [SelFix keyword](key_keyword_selfix.html) into the command line.
+*   Pressing Select Select enters the [[Keywords/SelFix|SelFix keyword]] into the command line.
 
 \[Channel\]> SelFix
 

@@ -78,7 +78,7 @@ When the desired selection is made, then tap the Please button in the pop-up. 
 
 ## New show using the command line
 
-It is possible to create a new show using the command line. The command is called NewShow. Read more about it [here](key_keyword_newshow.html).
+It is possible to create a new show using the command line. The command is called NewShow. Read more about it [[Keywords/NewShow|here]].
 
 [[Pages/Backup Menu/Loading a show]] →
 

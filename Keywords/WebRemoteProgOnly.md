@@ -23,7 +23,7 @@ To go to the WebRemoteProgOnly keyword, type **WebRemoteProgOnly** in the comman
 
 ## Description
 
-The WebRemoteProgOnly keyword, selects in the [web remote](key_remote_control_web_remote.html) fixture sheet the option **Prg Only** (= Programmer Only).
+The WebRemoteProgOnly keyword, selects in the [[Pages/Remote Control/Web Remote|web remote]] fixture sheet the option **Prg Only** (= Programmer Only).
 
 The WebRemoteProgOnly is a function keyword.
 

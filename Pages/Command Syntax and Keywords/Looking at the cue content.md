@@ -29,11 +29,11 @@ There are two sheets that can be used to look at the content stored in cues - th
 
 They are the Sequence Content Sheet and the Sequence Tracking Sheet. Both are windows that can be created and stored as views using the Create Basic Window pop-up. 
 
-Both sheets can be configured using the [Sheet Options](key_of_sheet_options.html) - access by tapping the yellow ball in the upper left corner.
+Both sheets can be configured using the [[Pages/Operate Fixtures/Sheet options|Sheet Options]] - access by tapping the yellow ball in the upper left corner.
 
 ## Sequence Content Sheet
 
-The Sequence Content Sheets is used to see the fixtures and values stored in cues. It looks a lot like the [Fixture Sheet](key_of_fixture_sheet.html), but it has a masking function that only displays what is stored in a cue. It is like a combined Sequence Tracking (read below) and Fixture Sheet.
+The Sequence Content Sheets is used to see the fixtures and values stored in cues. It looks a lot like the [[Pages/Operate Fixtures/Fixture Sheet]], but it has a masking function that only displays what is stored in a cue. It is like a combined Sequence Tracking (read below) and Fixture Sheet.
 
 It could look like this:
 
@@ -47,13 +47,13 @@ The Title Bar show the number of the executor and the name and number of the seq
 
 _Sequence Content Sheet - Title Bar example_
 
-There can be many [Title Buttons](key_of_sheet_options_title_buttons.html) in the Title Bar. These can be shown or hidden using the [Sheet Options](key_of_sheet_options.html) - they are access by tapping the yellow ball in the upper left corner.
+There can be many [[Pages/Operate Fixtures/Title buttons|Title Buttons]] in the Title Bar. These can be shown or hidden using the [[Pages/Operate Fixtures/Sheet options|Sheet Options]] - they are access by tapping the yellow ball in the upper left corner.
 
 Some of these buttons and their functions are specific for the Content Sheet. Some are shared with the Sequence Tracking Sheet (reed below). This is short description of their function.
 
 ### Edit Cue Only
 
-This function is shared with the Tracking Sheet. Turning it On will make any changes you make to values as cue only changes - otherwise it will be made as tracking changes. If you are in doubt about what this means then please read the [What is Tracking topic](key_cs_what_is_tracking.html).
+This function is shared with the Tracking Sheet. Turning it On will make any changes you make to values as cue only changes - otherwise it will be made as tracking changes. If you are in doubt about what this means then please read the [[Pages/Command Syntax and Keywords/What is Tracking|What is Tracking topic]].
 
 ### Cue Mode
 
@@ -72,7 +72,7 @@ It has four different options:
 
 ### Tracking
 
-This toggle button is also a setting in the Sheet Options in the [Layer Mask tab](key_of_sheet_options_layer_mask.html).
+This toggle button is also a setting in the Sheet Options in the [[Pages/Operate Fixtures/Layer mask|Layer Mask tab]].
 
 This function will hide or show tracked values. If it is On then the tracked values will be shown. If a fixture only has tracked values, then it will also be shown in the sheet.
 
@@ -85,11 +85,11 @@ The Link Mode swipe button is shared with the Tracking and Executor Sheets. It i
 *   **Link Selected:**  
     This means that the sheet displays the sequence assigned to the selected executor.
 *   **Not Linked:**  
-    This will stop automatic linking and display the sequence assigned to the executor selected in the [Assign Executor tab](key_of_sheet_options_assign_executor.html) in the sheet options.
+    This will stop automatic linking and display the sequence assigned to the executor selected in the [[Pages/Operate Fixtures/Assign executor|Assign Executor tab]] in the sheet options.
 *   **Link Last Go:**  
     This will display the sequence assigned to the executor where you last performed a Go.
 
-It is also in the sheets options. In the [Layer Mask tab](key_of_sheet_options_layer_mask.html) - here it is described in a little more details.
+It is also in the sheets options. In the [[Pages/Operate Fixtures/Layer mask|Layer Mask tab]] - here it is described in a little more details.
 
 Values can be edited directly in the sheet. This will immediately change the values stored in the cues without using the programmer.
 
@@ -111,11 +111,11 @@ The Title bar of the Tracking Sheet functions exactly as the Title Bar of the Co
 
 This toggle button is a masking button that will hide non-selected fixtures in the sheet - but it also hides cues where the selected fixture only have tracked values. The result is that you only see the selected fixtures and where they have active stored values.
 
-This function is also accessible in the [Layer Mask tab](key_of_sheet_options_layer_mask.html) in the Sheet Options. Remember that the Sheet Options can be access by tapping the yellow ball in the upper left corner.
+This function is also accessible in the [[Pages/Operate Fixtures/Layer mask|Layer Mask tab]] in the Sheet Options. Remember that the Sheet Options can be access by tapping the yellow ball in the upper left corner.
 
 ### Editing values in the Tracking Sheet
 
-The cue numbers can be renumbered by editing the number. Read more about this function the [Looking at the cue sequence topic](key_cs_cue_sequence.html).
+The cue numbers can be renumbered by editing the number. Read more about this function the [[Pages/Command Syntax and Keywords/Looking at the Cue Sequence|Looking at the cue sequence topic]].
 
 The names can also be edited in this sheet.
 

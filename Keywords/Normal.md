@@ -31,7 +31,7 @@ You can also type **Normal** or the shortcut **No** in the command line.
 
 With the Normal keyword you set the dimmer of the fixtures to the defined Normal value.
 
-To change the Normal percent, see [user settings](key_single_multi_systems_user_settings.html).
+To change the Normal percent, see [[Pages/Single and Multi User Systems/User specific settings|user settings]].
 
 Normal is an object keyword.
 

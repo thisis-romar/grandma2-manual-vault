@@ -90,7 +90,7 @@ In the title bar it is possible to toggle the information button. It looks like 
 
 When it is active then the information about the selected show are displayed at the bottom. It is information about the different software versions it has been through and when it was last saved in those versions.
 
-It is also possible to see the information that has been saved into the show by the users. Read more about this in [Save Show topic](key_backup_menu_save_show.html).
+It is also possible to see the information that has been saved into the show by the users. Read more about this in [[Pages/Backup Menu/Saving a show|Save Show topic]].
 
 When the desired show file and the wanted data type is selected, then tap the Load Show button.
 
@@ -107,7 +107,7 @@ Executing onPC.exe with parameter -s allows to specify a show file for loading.
 
 ## Using the Command Line
 
-Show files can be loaded using the command line. The command is called LoadShow. Read more about it [here](key_keyword_loadshow.html).
+Show files can be loaded using the command line. The command is called LoadShow. Read more about it [[Keywords/LoadShow|here]].
 
 ← [[Pages/Backup Menu/Create a new show]] | [[Pages/Backup Menu/Saving a show]] →
 

@@ -21,7 +21,7 @@ Version 3.9
 
 To go to the UpdateSoftware keyword, type **UpdateSoftware** in the command line or use the shortcut **UpdateS**.
 
-You can also update the software in the Setup. For more information, see [update the software](key_update.html).
+You can also update the software in the Setup. For more information, see [[Sections/Update the Software|update the software]].
 
 ## Description
 

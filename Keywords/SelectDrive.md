@@ -23,12 +23,12 @@ To get the SelectDrive keyword in the command line, type **SelectDrive** or the
 
 ## Description
 
-The SelectDrive keyword select the drive in the [Backup Menu](key_backup_menu.html), for the following functions:
+The SelectDrive keyword select the drive in the [[Sections/Backup Menu]], for the following functions:
 
-*   [SaveShow](key_keyword_saveshow.html)
-*   [LoadShow](key_keyword_loadshow.html)
-*   [Import](key_keyword_import.html)
-*   [Export](key_keyword_export.html)
+*   [[Keywords/SaveShow]]
+*   [[Keywords/LoadShow]]
+*   [[Keywords/Import]]
+*   [[Keywords/Export]]
 
 If the SelectDrive keyword is executed standalone, the available showfile drives, mounted USB-sticks and earlier software installations will be listed along with their ID in the command line feedback window.
 

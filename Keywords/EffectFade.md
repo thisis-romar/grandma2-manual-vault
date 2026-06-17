@@ -25,7 +25,7 @@ To get the EffectFade keyword in the command line type **EffectFade** or the sho
 
 EffectFade is a helping keyword to indicate individual effect fade times.
 
-For more information on effect fade times see [effects](key_effects.html).
+For more information on effect fade times see [[Sections/Effects|effects]].
 
 ## Syntax
 

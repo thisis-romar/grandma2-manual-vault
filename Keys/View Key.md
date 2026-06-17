@@ -25,19 +25,19 @@ The key View is located in the command area on the left of the key Effect.
 
 _Location_ _Key_ _View_ 
 
-*   Pressing View, enters the [View keyword](key_keyword_view.html) into the command line.
+*   Pressing View, enters the [[Keywords/View|View keyword]] into the command line.
 
 \[Channel\]> View
 
-*   Pressing View View, enters the [ViewButton keyword](key_keyword_viewbutton.html) into the command line.
+*   Pressing View View, enters the [[Keywords/ViewButton|ViewButton keyword]] into the command line.
 
 \[Channel\]>ViewButton
 
-*   Pressing View View View, enters the [ViewPage keyword](key_keyword_viewpage.html) into the command line.
+*   Pressing View View View, enters the [[Keywords/ViewPage|ViewPage keyword]] into the command line.
 
 \[Channel\]>ViewPage
 
-*   Pressing and holding ![ma](../../img/ma_1.png) and View, enters the [Screen keyword](key_keyword_screen.html) into the command line.
+*   Pressing and holding ![ma](../../img/ma_1.png) and View, enters the [[Keywords/Screen|Screen keyword]] into the command line.
 
 \[Channel\]>Screen
 

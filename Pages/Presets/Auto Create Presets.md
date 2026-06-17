@@ -52,7 +52,7 @@ Auto-created presets are always global since they are generated in fixture types
 8.  To create presets for single fixture types, tap Add global Preset. 
 9.  To merge presets for several fixture types, tap Merge global Preset.
 10.  To determine that presets come from channel sets of a fixture type, tap From Channelsets.
-11.  To determine that presets refer to fixture types that were previously stored, tap From Reference. For more information see [Create preset reference](key_presets_create_preset_reference.html). 
+11.  To determine that presets refer to fixture types that were previously stored, tap From Reference. For more information see [[Pages/Presets/Create Preset Reference|Create preset reference]]. 
 12.  To add the name of a subattribute to the name of a channel set, tap Add Name of Subattribute. 
 13.  To close the menu, tap ![](../../img/icon_close_small_v3-2.png) in the upper right corner of the window.
 

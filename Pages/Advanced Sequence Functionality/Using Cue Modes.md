@@ -25,7 +25,7 @@ Version 3.9
 
 # Using Cue Modes
 
-Each cue has a mode that can be changed in the [Sequence Executor Sheet](key_cs_cue_sequence.html).
+Each cue has a mode that can be changed in the [[Pages/Command Syntax and Keywords/Looking at the Cue Sequence|Sequence Executor Sheet]].
 
 The cells in the Mode column can be edited.
 
@@ -69,7 +69,7 @@ In some scenarios, you may want this tracking behavior to stop. When starting th
 The Break mode of a cue will make sure that any later addition or changes in **earlier** cues is reverted back to its original state in the break cue, similar to how a Cue Only store would work for the next cue.
 
 **Hint:**  
-A **Break** is indicated in both [Sequence Executor Sheet](key_cs_cue_sequence.html) and [Sequence Tracking Sheet](key_cs_cue_content.html) with a white line above the cue.
+A **Break** is indicated in both [[Pages/Command Syntax and Keywords/Looking at the Cue Sequence|Sequence Executor Sheet]] and [[Pages/Command Syntax and Keywords/Looking at the cue content|Sequence Tracking Sheet]] with a white line above the cue.
 
 By default when calling a cue with a normal "Go", only the content of the cue is called, not the tracking state. If you are only using one executor/playback this behavior is irrelevant, however if you have other executors that might have overwritten the state of the fixtures, you might in some scenarios want the called cue to also call the tracking state. This may be achieved with the cue mode **Assert**. Assert will call the state of the sequence, by using the basic cue timing from where the value is stored. This will affect any ongoing fades (for example a 30 minutes sunset still on its way out).
 

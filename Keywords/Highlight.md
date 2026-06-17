@@ -34,9 +34,9 @@ Highlight is a function to apply the defined highlight values on selected fixtur
 
 Highlight is a toggle function. This means entering Highlight without a helping keyword toggles the Highlight mode on or off.
 
-If Highlight is on the **highlight icon** ![](../../img/icon_highlight_v3-2.png) is displayed in the command line. For more information see [icons](key_ws_icons.html).
+If Highlight is on the **highlight icon** ![](../../img/icon_highlight_v3-2.png) is displayed in the command line. For more information see [[Pages/Workspace/Icons|icons]].
 
-For more information see [Highlight key](key_key_highlight.html).
+For more information see [[Keys/Highlt (Highlight) Key|Highlight key]].
 
 ## Syntax
 

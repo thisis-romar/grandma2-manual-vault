@@ -31,7 +31,7 @@ The first port joining an LAG sets its settings – group, speed, etc., – to d
 
 **Requirement:**
 
-*   [Add MA Network Switch to the network configuration](key_control_ma_switch_add.html)
+*   [[Pages/Control MA Network Switch/Add the MA Network Switch to the network configuration|Add MA Network Switch to the network configuration]]
 
 To edit LAGs:
 

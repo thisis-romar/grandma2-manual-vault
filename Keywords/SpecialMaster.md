@@ -27,7 +27,7 @@ Type **SpecialMaster** into the command line or use the shortcut **SM**.
 
 Specialmaster is an object type that holds predefined objects for global control.
 
-For more information on the 5 special master groups see [Special masters](key_adv_exec_spec_master.html). 
+For more information on the 5 special master groups see [[Pages/Advanced Executor Functionality/Special Masters|Special masters]]. 
 
 ## Syntax
 

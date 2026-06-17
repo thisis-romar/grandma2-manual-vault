@@ -25,7 +25,7 @@ Version 3.9
 
 # DMX and Parameter lists
 
-In this topic we are going to have a look at two list that is available from the [Live Setup menu](key_patch_livepatch.html).
+In this topic we are going to have a look at two list that is available from the [[Pages/Patching/Live patching|Live Setup menu]].
 
 You can open these list by pressing the Setup key and then tap Patch Only (Live).
 
@@ -43,7 +43,7 @@ The DMX List is separated into two sides.
 
 The left side lists all the universes and the property for each universe.
 
-The right side displays all the DMX addresses in the, on the left side, selected universe. You can see what is patched to each address and you can assign a DMX profile to the DMX address. It only displays information for you. You cannot change anything except the DMX profile. Editing the DMX Profile cells will give you a small select pop-up with all the available DMX Profiles. Read more about DMX profiles following [this link](key_dmx_profiles.html).
+The right side displays all the DMX addresses in the, on the left side, selected universe. You can see what is patched to each address and you can assign a DMX profile to the DMX address. It only displays information for you. You cannot change anything except the DMX profile. Editing the DMX Profile cells will give you a small select pop-up with all the available DMX Profiles. Read more about DMX profiles following [[Sections/DMX Profiles|this link]].
 
 The left side has a lot of columns and many of them can be edited - everything with a gray background can be changed. The following is a short description of each column on the left side:
 
@@ -71,7 +71,7 @@ Here you have three options: **Off**, **HTP**, and **LoTP**.
 
 **RDM:**
 
-Here you can turn RDM functionality On or Off for the DMX universe. Read more about [RDM here](key_rdm.html).
+Here you can turn RDM functionality On or Off for the DMX universe. Read more about [[Sections/RDM|RDM here]].
 
 **RDM Devices:**
 
@@ -118,7 +118,7 @@ Next is a short description of each editable column.
 *   **Highlight:**  
     This is the value that the parameter will get when you have activated the Highlight function. Many parameters (other than Dimmer) have a "None" value here. This means that the parameter will not be overwritten by the Highlight function.
 *   **Stage:**  
-    The Stage value is used when you are in the [Auto-calibration of fixture position mode](key_patch_autocalibrate.html). This is typically not defined (None value).
+    The Stage value is used when you are in the [[Pages/Patching/Auto-calibrate fixture positions|Auto-calibration of fixture position mode]]. This is typically not defined (None value).
 *   **Snap:**  
     Here you can activate the Snap function for the parameter. Snap means that you cannot fade between values. The parameter will change to the new value defined by the "Snap Percent" in each cue.
 *   **Invert:**  
@@ -126,7 +126,7 @@ Next is a short description of each editable column.
 *   **MIB disable:**  
     Here you can turn off the MIB (Move In Black) functionality for the parameters. This might be a good idea for some scrollers. You set On, to disable MIB.
 *   **Profile:**  
-    Here you can assign a DMX profile for the parameter. Editing the cell will open the Small Select DMX Profile pop-up. It will list all available DMX profiles. Read more about DMX profiles following [this link](key_dmx_profiles.html).
+    Here you can assign a DMX profile for the parameter. Editing the cell will open the Small Select DMX Profile pop-up. It will list all available DMX profiles. Read more about DMX profiles following [[Sections/DMX Profiles|this link]].
 
 The changes you make here are executed immediately.
 

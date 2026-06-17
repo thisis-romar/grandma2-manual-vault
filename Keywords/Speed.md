@@ -27,7 +27,7 @@ With the Speed keyword, you assign faders the function speed. Speed adjust the e
 
 The unit for the value is depending on the selected speed mode (BPM/Hz/Sec) in the **Setup I User I Settings I Speed Mode**.
 
-For more information see [executors - assign a function](key_exec_assign.html).
+For more information see [[Pages/Executors/Assign a function|executors - assign a function]].
 
 The Speed keyword is a function keyword.
 

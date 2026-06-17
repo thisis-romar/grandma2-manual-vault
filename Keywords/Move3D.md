@@ -23,7 +23,7 @@ To go to the Move3D keyword, type **Move3D** in the command line or use the shor
 
 ## Description
 
-The Move3D keyword moves 3D objects in the [Stage View](key_patch_stage.html).
+The Move3D keyword moves 3D objects in the [[Pages/Patching/Stage View]].
 
 If the Move3D keyword is used without values, the selected fixtures will be reset to zero.
 
@@ -37,7 +37,7 @@ Move3D At \[x y z\] /relative
 
 ## Example
 
-Move the selected 3D object in the [Stage View](key_patch_stage.html).
+Move the selected 3D object in the [[Pages/Patching/Stage View]].
 
 \[Channel\]> Move3D At 2.5 -5 3.3
 

@@ -30,7 +30,7 @@ The executor stays tuned on.
 
 If SwopGo is used standalone, it toggles between SwopGo On and SwopGo Off.
 
-To protect an executor from the swop function, assign Swop Protect in the [Assign Menu](key_exec_assign.html). 
+To protect an executor from the swop function, assign Swop Protect in the [[Pages/Executors/Assign a function|Assign Menu]]. 
 
 The SwopGo keyword do not react to any assigned timing.
 
@@ -50,7 +50,7 @@ To get a list of all options of the keyword SwopGo, type the following into the 
 
 The keyword SwopGo has the exact same options as the keyword Goto. 
 
-For further information see keyword [Goto](key_keyword_goto.html). 
+For further information see keyword [[Keywords/Goto]]. 
 
 ## Example
 

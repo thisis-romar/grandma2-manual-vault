@@ -38,7 +38,7 @@ UserProfile is an object keyword.
 
 _Keyword UserProfile_
 
-For more information see [create user profiles](key_single_multi_systems_create.html).
+For more information see [[Pages/Single and Multi User Systems/Create user profiles and users|create user profiles]].
 
 ## Syntax
 

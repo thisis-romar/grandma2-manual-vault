@@ -132,6 +132,6 @@ _Completed group pool_
   
  
 
-On the [next page](key_06_store_the_first_cue.html) we will make the first cue.
+On the [[QuickStart/Storing the first cue|next page]] we will make the first cue.
 
 Part of [[000 Map of Content]]

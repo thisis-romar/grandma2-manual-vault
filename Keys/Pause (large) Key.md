@@ -24,11 +24,11 @@ The large key    Pause    is located above the large key    Go -   .
 
 _Location k__ey_ _Pause (large)_
 
-*   Pressing    Pause    executes the [DefGoPause keyword](key_keyword_defgopause.html). The executors selected will be paused.
+*   Pressing    Pause    executes the [[Keywords/DefGoPause keyword]]. The executors selected will be paused.
 
 \[time\] : Macro : DefGoPause
 
-*   Pressing    Pause    again executes the [DefGoPause keyword](key_keyword_defgopause.html) again. The pause of the selected executors ends.
+*   Pressing    Pause    again executes the [[Keywords/DefGoPause keyword]] again. The pause of the selected executors ends.
 
 \[time\] : Macro : DefGoPause
 

@@ -23,9 +23,7 @@ The key + is located next to the numeric keys in the command area.
 
 ![](../../img/img_plus_key_3_2.png)
 
-_Location k__ey_ _\[Plus\] +_ 
-
-*   Pressing + enters [\+ \[Plus\] keyword](key_keyword_plus.html) into the command line.
+_Location k__ey_ _\[[Keywords/+ [Plus] keyword]] into the command line.
 
 \[Channel\]> +
 

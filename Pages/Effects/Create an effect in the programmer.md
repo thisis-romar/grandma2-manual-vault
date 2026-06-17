@@ -30,20 +30,20 @@ It is possible to generate an effect in the programmer. 
 **Requirements:**
 
 *   Patch fixtures or channels.  
-    For more information on patching see [Adding fixtures to your show](key_patch_add_fixtures.html). 
+    For more information on patching see [[Pages/Patching/Adding fixtures to the show|Adding fixtures to your show]]. 
 *   Enable Auto in the fixture or channel sheet so that it obeys the encoder bar. 
 
 To create an effect in the programmer:
 
 1.  Select fixtures.
 2.  Then, select a preset type in the preset control bar.  
-    For more information see [Preset control bar](key_ws_preset_control_bar.html). 
+    For more information see [[Pages/Workspace/Preset Control Bar|Preset control bar]]. 
 3.  Then, tap Effect Layers in the layer bar.  
-    For more information see [Layers in sheets – Channel sheet and fixture sheet](key_of_layers_in_sheets_channel_and_fixture.html).
+    For more information see [[Pages/Operate Fixtures/Channel Sheet and Fixture Sheet|Layers in sheets – Channel sheet and fixture sheet]].
 4.  Select a layer. 
 5.  Now, select the attribute of your effect:  
     To select, tap and swipe Link Feature.  
-    For more information on the different link settings see [Encoder toolbar](key_ws_encoder_toolbar.html#link_settings).
+    For more information on the different link settings see [[Pages/Workspace/Encoder Toolbar|Encoder toolbar]].
 
 **Important:**  
 An effect starts as soon as it has been select, since all effect layers have default values.

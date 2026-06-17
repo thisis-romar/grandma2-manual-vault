@@ -30,9 +30,9 @@ There are two kinds of view buttons in the grandMA2 user interface:
 *   [View Buttons on the Right Screen Side](<#View Buttons on the Right Screen Side>)
 *   [X-Keys as View Buttons](<#X-Keys as View Buttons>)
 
-If you tap on a view button, the [ViewButton keyword](key_keyword_viewbutton.html) will be executed.
+If you tap on a view button, the [[Keywords/ViewButton|ViewButton keyword]] will be executed.
 
-For more information about the function of the view buttons, see [use view buttons](key_ws_work_with_views.html).
+For more information about the function of the view buttons, see [[Pages/Workspace/Work with views|use view buttons]].
 
 * * *
 
@@ -44,7 +44,7 @@ The view buttons are located on the right side of screen 2 through screen 6.
 
 _View Buttons on the right side of screen 2 trough screen 6._
 
-To change the view page, see [ViewPage keyword](key_keyword_viewpage.html).
+To change the view page, see [[Keywords/ViewPage|ViewPage keyword]].
 
 On screen 2 are the view buttons \[viewpage\].1 through \[viewpage\].10.  
 On screen 3 are the view buttons \[viewpage\].11 through \[viewpage\].20.  
@@ -62,13 +62,13 @@ A view button is structured in three areas:
 2.  View Pool Number
 3.  View Pool Label
 
-For more information about views, see [work with views](key_ws_work_with_views.html).
+For more information about views, see [[Pages/Workspace/Work with views|work with views]].
 
 * * *
 
 ## X-Keys as View Buttons
 
-If you press User1 or User2, the [X-Keys](key_key_xkey.html) works as view buttons as well.
+If you press User1 or User2, the [[Keys/X1 - X20 Keys|X-Keys]] works as view buttons as well.
 
 These view buttons are located at the bottom of screen 1.
 
@@ -91,7 +91,7 @@ The view button X-Key is structured in four areas.
 3.  View Pool Number
 4.  Screenshot as the view was stored
 
-For more information about views, see [work with views](key_ws_work_with_views.html).
+For more information about views, see [[Pages/Workspace/Work with views|work with views]].
 
 ← [[Pages/Workspace/X-Key Labels]] | [[Pages/Workspace/Master Section]] →
 

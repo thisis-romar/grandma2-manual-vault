@@ -26,9 +26,9 @@ Version 3.9
 
 Most of the Sheets have the option to add "Sets" title bar buttons.
 
-For the [Channel Sheet](key_of_channel_sheet.html), [Fixture Sheet](key_of_fixture_sheet.html), [Sequence Content Sheet](key_cs_cue_content.html#content_sheet), [Sequence Tracking Sheet](key_cs_cue_content.html#tracking_sheet) they offer fast access to masks - please read the [Use Masks in the Sheets topic](key_wfm_use_masks.html) for more details on this.
+For the [[Pages/Operate Fixtures/Channel Sheet]], [[Pages/Operate Fixtures/Fixture Sheet]], [[Pages/Command Syntax and Keywords/Looking at the cue content|Sequence Content Sheet]], [[Pages/Command Syntax and Keywords/Looking at the cue content|Sequence Tracking Sheet]] they offer fast access to masks - please read the [[Pages/Worlds Filters and Masks/Use masks in the sheets and windows|Use Masks in the Sheets topic]] for more details on this.
 
-The [Sequence Executor Sheet](key_cs_cue_sequence.html) is different. It has 5 Sets that can be accessed as [Title Buttons](key_of_sheet_options_title_buttons.html).
+The [[Pages/Command Syntax and Keywords/Looking at the Cue Sequence|Sequence Executor Sheet]] is different. It has 5 Sets that can be accessed as [[Pages/Operate Fixtures/Title buttons|Title Buttons]].
 
 In an empty Sequence Executor Sheet with only the Set button visible it could look like this:
 

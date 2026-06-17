@@ -36,7 +36,7 @@ The following characters are allowed.
 *   Numbers 0...9
 *   Spaces, minus (-), plus (+), underscore (\_)
 
-**Requirement:** [Added MA Network Switch in the network configuration](key_control_ma_switch_add.html).
+**Requirement:** [[Pages/Control MA Network Switch/Add the MA Network Switch to the network configuration|Added MA Network Switch in the network configuration]].
 
 1.   Open the MA Network Configuration.  
     \- Press Setup, and tap under **Network** MA Network Configuration.  
@@ -57,7 +57,7 @@ The front end display of the MA Network Switch displays the new name.
 
 **Hint:**  
 You can change the hostname by using the command line.  
-\- Change the destination of the command line to NetConfig/Network Switch 8. For more information see [ChangeDest keyword](key_keyword_changedest.html).  
+\- Change the destination of the command line to NetConfig/Network Switch 8. For more information see [[Keywords/ChangeDest keyword]].  
 \- Type in the command line Assign 1 / Hostname = "Stage Left".  
 The hostname of the NetworkSwitch 1 is changed.
 

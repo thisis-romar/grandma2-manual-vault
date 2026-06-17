@@ -24,11 +24,11 @@ The key Go + (small) is located in the command area on the right of the key P
 
 _Location k__ey_ _Go + (small)_
 
-*   Pressing Go + enters the [Go keyword](key_keyword_go.html) into the command line.
+*   Pressing Go + enters the [[Keywords/Go|Go keyword]] into the command line.
 
 \[Channel\]> Go
 
-*   Pressing Go + Go + enters the [Unpark keyword](key_keyword_unpark.html) into the command line.
+*   Pressing Go + Go + enters the [[Keywords/Unpark|Unpark keyword]] into the command line.
 
 \[Channel\]> Unpark
 

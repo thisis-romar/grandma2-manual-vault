@@ -30,7 +30,7 @@ XYZ adds [virtual channels](#virtual_channels) to the fixtures. 
 
 *   Patch fixtures that have pan and tilt attributes.
 
-For more information on patching see [Adding fixtures to your show](key_patch_add_fixtures.html). 
+For more information on patching see [[Pages/Patching/Adding fixtures to the show|Adding fixtures to your show]]. 
 
 **Activate XYZ in fixture types:**
 
@@ -58,7 +58,7 @@ _Enable XYZ_
 7.  The changes are now saved.
 8.  Select fixtures.
 9.  Tap Position in the preset control bar.  
-    For more information see [Preset control bar](key_ws_preset_control_bar.html). 
+    For more information see [[Pages/Workspace/Preset Control Bar|Preset control bar]]. 
 10.  Tap the feature Position below the preset **Position**.  
      \-If you tap Position, the button toggles between the features **Position**, **Stage A**, and **Stage B**.
 11.  Adjust the attributes of **Stage A** for example.  
@@ -95,7 +95,7 @@ If XYZ is enabled, the following virtual channels are added to the fixtures:
 *   **PosMode:**  
     Switches over between the XYZ and pan/tilt values.
 
-For information on different combinations of pan/tilt see [the Flip keyword](key_keyword_flip.html). 
+For information on different combinations of pan/tilt see [[Keywords/Flip|the Flip keyword]]. 
 
   
 
@@ -103,10 +103,10 @@ For information on different combinations of pan/tilt see [the Flip keyword](key
 
 #### Sub topics
 
-*   [XYZ vs. pan/tilt](key_xyz_vs_pan_tilt.html)
-*   [XYZ and pan/tilt in cues and sequences](key_xyz_pan_tilt_in_cues_sequences.html)
-*   [Use stage markers](key_xyz_use_stage_markers.html)
-*   [Link objects to stage markers in MA 3D](key_xyz_link_object_to_stage_markers.html)
+*   [[Pages/XYZ/XYZ vs. Pan-Tilt|XYZ vs. pan/tilt]]
+*   [[Pages/XYZ/XYZ and Pan-Tilt in cues and sequences|XYZ and pan/tilt in cues and sequences]]
+*   [[Pages/XYZ/Use Stage Markers|Use stage markers]]
+*   [[Pages/XYZ/Link Objects to Stage Markers in MA 3D|Link objects to stage markers in MA 3D]]
 
 ## Pages in This Section
 

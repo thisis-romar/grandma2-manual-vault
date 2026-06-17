@@ -25,7 +25,7 @@ To get the EffectDecay keyword in the command line type **EffectDecay** or the s
 
 EffectDecay is a helping keyword to indicate individual EffectDecay of a pulse width modulation form.
 
-For more information on effect decay see [effects](key_effects.html).
+For more information on effect decay see [[Sections/Effects|effects]].
 
 ## Syntax
 

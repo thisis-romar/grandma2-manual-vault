@@ -24,7 +24,7 @@ The key Bt Pg - is located left the 100 mm fader.
 
 _Location key Bt Pg -_
 
-*   Pressing Bt Pg - executes the [ButtonPage command](key_keyword_buttonpage.html). That is: jumping to the previous ButtonPage.   
+*   Pressing Bt Pg - executes the [[Keywords/ButtonPage keyword|ButtonPage command]]. That is: jumping to the previous ButtonPage.   
      
 *   If you press and hold Bt Pg -, you will automatically jump to the first ButtonPage.
 

@@ -25,7 +25,7 @@ The key Setup is located in the command area on the right of the key Tools.
 
 _Location_ _Key_ _Setup_ 
 
-Pressing Setup executes the [Setup keyword](key_keyword_setup.html) and opens the setup on the screen which was opened last.
+Pressing Setup executes the [[Keywords/Setup|Setup keyword]] and opens the setup on the screen which was opened last.
 
 ![](../../img/menu_setup_v3.4.png)
 

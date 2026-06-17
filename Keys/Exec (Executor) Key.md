@@ -25,11 +25,11 @@ The key Exec is located in the command area on the right of the key Cue.
 
 _Location key_ _Exec_ 
 
-*   Pressing Exec enters the [Executor keyword](key_keyword_executor.html) into the command line.
+*   Pressing Exec enters the [[Keywords/Executor|Executor keyword]] into the command line.
 
 \[Channel\]> Executor
 
-*   Pressing Exec Exec enters the [SpecialMaster keyword](key_keyword_specialmaster.html) into the command line.
+*   Pressing Exec Exec enters the [[Keywords/SpecialMaster|SpecialMaster keyword]] into the command line.
 
 \[Channel\]> SpecialMaster
 

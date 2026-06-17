@@ -25,9 +25,9 @@ To execute the keyword Mask press and hold 
 
 ## Description
 
-The Mask keyword is an object keyword to access Masks in the Mask pool. The default function is [Select](key_keyword_select.html).
+The Mask keyword is an object keyword to access Masks in the Mask pool. The default function is [[Keywords/Select]].
 
-For more information, see [worlds, filters, and masks](key_wfm_world_filter_mask.html).
+For more information, see [[Sections/Worlds Filters and Masks|worlds, filters, and masks]].
 
 ## Syntax
 

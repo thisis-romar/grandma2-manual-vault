@@ -33,7 +33,7 @@ And it can be the commands in the macros that interact with the command line - T
 
 ## CLI
 
-You can turn on or off the CLI when you create or edit a macro - read more about this in the [Manually create a macro topic](key_macro_create.html) and the [Edit a macro topic](key_macro_edit.html).
+You can turn on or off the CLI when you create or edit a macro - read more about this in the [[Pages/Macros/Manually create a macro|Manually create a macro topic]] and the [[Pages/Macros/Edit a macro|Edit a macro topic]].
 
 When CLI is turned off for a macro, the actual press of the macro will no longer interact with your command line, but directly execute its commands. This means that if you, for instance, want to edit or delete a macro, you cannot just press the command key and then the macro button, you will need to type the actual keyword and ID - using keys or type in the command line. For example, Edit Macro 5 will allow you to edit macro 5 if CLI is off. Delete ViewButton 11.5 will remove a macro from the User1 X5 key. By disabling the command line interaction of the current button or key press, you can make the commands of the macro lines interact by the use of the @ character.
 
@@ -130,9 +130,9 @@ CMD
 
 @ Layout @
 
-Now you can assign this macro to an executor or view button and just press that whenever you want to use the layout command. Read more about assigning macros in the [Assign a macro to a key topic](key_macro_assign.html).
+Now you can assign this macro to an executor or view button and just press that whenever you want to use the layout command. Read more about assigning macros in the [[Pages/Macros/Assign a macro to a key|Assign a macro to a key topic]].
 
-You can read more about the @ command in the [At @ topic](key_keyword_at_@.html).
+You can read more about the @ command in the [[Keywords/At @ Character|At @ topic]].
 
 ← [[Pages/Macros/Edit a macro]] | [[Pages/Macros/Assign a macro to a key]] →
 

@@ -24,7 +24,7 @@ Version 3.9
 
 # Cue path
 
-Each cue and cue part can have a path assigned. It is done in the [Sequence Executor Sheet](key_cs_cue_sequence.html), where there is a **Path** column.
+Each cue and cue part can have a path assigned. It is done in the [[Pages/Command Syntax and Keywords/Looking at the Cue Sequence|Sequence Executor Sheet]], where there is a **Path** column.
 
 The path is used by attributes fading from a value and into the value stored in the cue where the path is assigned. The path defines the transition form/path.
 
@@ -44,7 +44,7 @@ Assign Fadepath \[path number\] (At) Cue \[cue number\] (Part \[par number\] )
 
 Once a fade path is assigned to a cue, then it cannot be removed. Assigning the **Linear** path will give the same result as not having a path defined.
 
-Custom paths can be made in the [DMX Profiles Graph Editor](key_dmx_profiles.html). If there are customs paths, then they will appear at the bottom of the **Select Fade Path pop-up**.
+Custom paths can be made in the [[Sections/DMX Profiles|DMX Profiles Graph Editor]]. If there are customs paths, then they will appear at the bottom of the **Select Fade Path pop-up**.
 
 * * *
 

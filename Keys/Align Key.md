@@ -25,7 +25,7 @@ The key Align is located in the command area on the right of the key Assign.
 
 _Location k__ey A__lign_ 
 
-Pressing Align toggles between the five align modes for the encoders. The [Align command](key_keyword_align.html) will be executed.
+Pressing Align toggles between the five align modes for the encoders. The [[Keywords/Align keyword|Align command]] will be executed.
 
 By default, the align mode is off.
 

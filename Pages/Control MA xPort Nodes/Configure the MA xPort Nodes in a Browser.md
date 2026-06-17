@@ -28,7 +28,7 @@ Version 3.9
 Besides configuring nodes on the console, it is also possible to configure MA xPort Nodes in a browser. 
 
 **Important:**  
-This topic treats subject areas that are important for the configuration of nodes in a browser. General settings are treated in the topics [Adding devices to your session](key_network_session_add_device.html)​ and [Configure the DMX ports on MA devices](key_network_dmx_configure_ports.html).  
+This topic treats subject areas that are important for the configuration of nodes in a browser. General settings are treated in the topics [[Pages/Networking/Adding devices to the session|Adding devices to your session]]​ and [[Pages/Networking/Setting up DMX ports on MA devices|Configure the DMX ports on MA devices]].  
 
 **Requirement:**
 
@@ -82,10 +82,10 @@ _Node Configuration_
      \-Enter the name of the node, the two IP addresses and the ID of the session in the corresponding input fields.  
      \-Select the mode and light mode in the corresponding drop-down menus.  
      \-Check the checkbox **DHCP**.  
-     For more information on DHCP see [Using DHCP in MA devices](key_network_dhcp.html).
+     For more information on DHCP see [[Pages/Networking/Using DHCP in MA devices]].
 11.   Adjust the ports in **XLR A**, **XLR B**, **XLR C**, and **XLR D**:  
      \-Select the port in the drop-down menu **Port Dir.**  
-     For more information on the port and merge modes see [Configure the DMX ports on MA devices – Port Mode](key_network_dmx_configure_ports.html#port_modes) and [Configure the DMX ports on MA devices – Merge Mode](key_network_dmx_configure_ports.html#merge_modes).  
+     For more information on the port and merge modes see [[Pages/Networking/Setting up DMX ports on MA devices|Configure the DMX ports on MA devices – Port Mode]] and [[Pages/Networking/Setting up DMX ports on MA devices|Configure the DMX ports on MA devices – Merge Mode]].  
      \-Enter the number of the universe.  
      \-Then, select the merge mode in the drop-down menu **Merge Mode**.  
      \-Select the DMX fail mode in the corresponding drop-down menu.  

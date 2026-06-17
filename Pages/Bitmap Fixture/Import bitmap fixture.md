@@ -24,7 +24,7 @@ Version 3.9
 
 # Import bitmap fixture
 
-To use the bitmap fixture it is necessary to import it in the show. The bitmap fixture is a virtual fixture. A DMX address is not required. For more general information about patch a fixture or channel, see [patching](key_patch.html).
+To use the bitmap fixture it is necessary to import it in the show. The bitmap fixture is a virtual fixture. A DMX address is not required. For more general information about patch a fixture or channel, see [[Sections/Patching|patching]].
 
 To import the bitmap fixture:
 
@@ -49,7 +49,7 @@ To import the bitmap fixture:
 
 The MA Lighting Bitmap fixture is imported in the show and visible in the fixture sheet.
 
-Now, you can control the bitmap fixture. For more information, see [control bitmap fixture](key_bitmapfixture_control.html).
+Now, you can control the bitmap fixture. For more information, see [[Pages/Bitmap Fixture/Control bitmap fixture|control bitmap fixture]].
 
 [[Pages/Bitmap Fixture/Apply bitmap fixture in the layout view]] →
 

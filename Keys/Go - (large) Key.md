@@ -24,7 +24,7 @@ The large key    Go -    is located above the large key    Go +    .
 
 _Location k__ey L__arge Go -_ 
 
-*   Pressing    Go -    executes [DefGoBack keyword](key_keyword_defgoback.html) for the selected executor.
+*   Pressing    Go -    executes [[Keywords/DefGoBack keyword|DefGoBack keyword]] for the selected executor.
 
 \[time\] : Macro: DefGoBack
 

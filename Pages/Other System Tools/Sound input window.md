@@ -57,11 +57,11 @@ This section is a BMP (Beats per minute) counter. This section shows how the inc
 This is the fader and button section. There are three faders:
 
 *   **Snd In** sets the gain of the incoming sound signal
-*   The **Snd Fade** fader is used with effects. When assigning one of the **Sound Forms** (form 20.x) to an effect, this fader will adjust how "hard" the effect will follow the sound. If **Snd Fade** is at 0 it will be hard and will smoothly fade up to be softer and softer, until the fader is set to 100. To read more about effects, see the [Effect](key_effects.html) topic.
+*   The **Snd Fade** fader is used with effects. When assigning one of the **Sound Forms** (form 20.x) to an effect, this fader will adjust how "hard" the effect will follow the sound. If **Snd Fade** is at 0 it will be hard and will smoothly fade up to be softer and softer, until the fader is set to 100. To read more about effects, see the [[Sections/Effects|Effect]] topic.
 *   The **BPM fader** will adjust itself to the BPM from the incoming sound signal.
 
 Hint:  
-These three faders can also be assigned to executor faders as **Special Masters**. To read more about Special Master, see the [Special Master](key_adv_exec_spec_master.html) topic.
+These three faders can also be assigned to executor faders as **Special Masters**. To read more about Special Master, see the [[Pages/Advanced Executor Functionality/Special Masters|Special Master]] topic.
 
 The three buttons to the right are responding to the BPM.
 

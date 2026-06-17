@@ -25,7 +25,7 @@ To get the StepOutFade keyword, type **StepOutFade** or the shortcut **StepO** i
 
 With the StepOutFade keyword, you assign executors as a step out fader. A step out fader controls the step out time of each step of a chaser.
 
-For more information, see [executors - assign a function](key_exec_assign.html).
+For more information, see [[Pages/Executors/Assign a function|executors - assign a function]].
 
 The StepOutFade keyword is a function keyword.
 

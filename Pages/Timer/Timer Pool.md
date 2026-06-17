@@ -27,7 +27,7 @@ Version 3.9
 Manage the stopwatch and the countdowns in the timer pool. 
 
 1.  Open the timer pool:  
-    \-Tap Pools in **Create Basic Window**. For more information on how to open a basic window see [Manage windows](key_windows.html).  
+    \-Tap Pools in **Create Basic Window**. For more information on how to open a basic window see [[Sections/Windows|Manage windows]].  
     \-Tap Time and the timer pool opens.
 
 ![](../../img/window_timer-pool_v3-3.png)
@@ -114,7 +114,7 @@ _Open the timer pool_
 The current time of the timer can be assigned as the timing of a cue. Use the following syntax "Assign fade $timer1 cue 1 please" or Assign Time TimerPoolObject Cue 1 Please.
 
 **Hint:**  
-You can play back a stopwatch or a countdown saved in the timer pool in the Clock. For more information see [Other System Tools - Clock](key_ost_clock.html).
+You can play back a stopwatch or a countdown saved in the timer pool in the Clock. For more information see [[Pages/Other System Tools/Clock|Other System Tools - Clock]].
 
 [[Pages/Timer/Timer Pool Options]] →
 

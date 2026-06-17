@@ -25,7 +25,7 @@ Version 3.9
 
 # User-Defined Area
 
-The user defined area is available on every screen. To manage windows in the user defined area see [manage windows](key_windows.html).
+The user defined area is available on every screen. To manage windows in the user defined area see [[Sections/Windows|manage windows]].
 
 ![](../../img/img_user_defined_area_3_2.png)
 

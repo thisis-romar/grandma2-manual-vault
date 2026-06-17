@@ -26,7 +26,7 @@ You can also type **Sequence** or the shortcut **Seq** in the command line .
 
 ## Description
 
-The default function of the sequence keyword is [SelFix](key_keyword_selfix.html).
+The default function of the sequence keyword is [[Keywords/SelFix]].
 
 If the Sequence keyword is used with an ID, all fixtures in the sequence will be selected.  
 If the Sequence keyword is used with a function, the function will be passed on to the object child cue.

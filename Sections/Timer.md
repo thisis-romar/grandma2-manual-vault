@@ -24,7 +24,7 @@ Version 3.9
 
 Use Timer to set and manage stopwatches and countdowns. 
 
-Control the timers using the [Timer keyword](key_keyword_timer.html). 
+Control the timers using the [[Keywords/Timer|Timer keyword]]. 
 
   
 
@@ -32,8 +32,8 @@ Control the timers using the [Timer keyword](key_keyword_timer.html). 
 
 #### Sub topics
 
-*   [Timer pool](key_timers_timer_pool.html)
-*   [Timer pool options](key_timers_timer_pool_options.html)
+*   [[Pages/Timer/Timer Pool|Timer pool]]
+*   [[Pages/Timer/Timer Pool Options|Timer pool options]]
 
 ## Pages in This Section
 

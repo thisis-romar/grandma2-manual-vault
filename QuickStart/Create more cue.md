@@ -85,6 +85,6 @@ Clear your programmer.
 
 It was hopefully fast and painless.
 
-The [next page](key_08_edit_a_sequence.html) we are going to make some changes to the sequence.
+The [[QuickStart/Editing a sequence|next page]] we are going to make some changes to the sequence.
 
 Part of [[000 Map of Content]]

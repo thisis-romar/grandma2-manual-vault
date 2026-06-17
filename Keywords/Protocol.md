@@ -27,7 +27,7 @@ The Protocol keyword is an object keyword to access the network protocols.
 
 You can store or delete network protocols and assign parameters.
 
-For more information, see [Network DMX Protocols](key_network_dmx_protocols.html).
+For more information, see [[Pages/Networking/Network DMX protocols|Network DMX Protocols]].
 
 ## Syntax
 

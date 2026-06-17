@@ -23,7 +23,7 @@ To enter square brackets \[ \] into the command line press \[ or \].
 
 ## Description
 
-Square brackets \[ \] are used in macros. For more information see [macros](key_macro.html).
+Square brackets \[ \] are used in macros. For more information see [[Sections/Macros|macros]].
 
 Using square brackets in macros sets a conditional expression which has to have the solution "True" to be able to execute the following commands. The expression takes user defined variables and logical operators.
 

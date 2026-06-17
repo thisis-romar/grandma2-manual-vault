@@ -61,21 +61,21 @@ Windows and views can be resized and moved. 
 
 #### Sub topics
 
-*   [User interface](key_ws_user_interface.html)
-*   [Encoder bar](key_ws_encoder_bar.html)
-*   [Encoder settings](key_ws_encoder_settings.html)
-*   [Command wing bar](key_ws_command_wing_bar.html)
-*   [Command section](key_ws_command_section.html)
-*   [Mini executor bar](key_ws_mini_executor_bar.html)
-*   [Work with views](key_ws_work_with_views.html)
-*   [Touch gestures](key_ws_touch_gestures.html)
-*   [Calculator](key_ws_calculator.html)
-*   [Info](key_ws_info.html)
-*   [Oops and undo](key_ws_oops.html)
-*   [Colors](key_ws_colors.html)
-*   [Text indicators and symbols](key_ws_text_indicators.html)
-*   [Icons](key_ws_icons.html)
-*   [Keyboard shortcuts](key_ws_keyboard_shortcuts.html)
+*   [[Pages/Workspace/User Interface|User interface]]
+*   [[Pages/Workspace/Encoder Bar|Encoder bar]]
+*   [[Pages/Workspace/Encoder Settings|Encoder settings]]
+*   [[Pages/Workspace/Command wing bar]]
+*   [[Pages/Workspace/Command Section|Command section]]
+*   [[Pages/Workspace/Mini executor bar]]
+*   [[Pages/Workspace/Work with views]]
+*   [[Pages/Workspace/Touch gestures]]
+*   [[Pages/Workspace/Calculator]]
+*   [[Pages/Workspace/Info]]
+*   [[Pages/Workspace/Oops and undo]]
+*   [[Pages/Workspace/Colors]]
+*   [[Pages/Workspace/Text indicators and symbols]]
+*   [[Pages/Workspace/Icons]]
+*   [[Pages/Workspace/Keyboard shortcuts]]
 
 ## Pages in This Section
 

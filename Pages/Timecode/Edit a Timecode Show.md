@@ -126,7 +126,7 @@ These buttons control the playback and record state of the timecode show.
 *   **Forward (to the end)**:  
     Moves the time marker to the end of the show.
 *   **Play**:  
-    Plays the timecode show. Read more in the [Playing Back a Timecode Show topic](key_timecode_playing.html).
+    Plays the timecode show. Read more in the [[Pages/Timecode/Playing Back a Timecode Show|Playing Back a Timecode Show topic]].
 
 ### Track Functions
 

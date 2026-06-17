@@ -25,23 +25,23 @@ The key Macro is located in the command area on the right of the key Page.
 
 _Location k__ey_ _Macro_ 
 
-*   Pressing Macro enters the [Macro keyword](key_keyword_macro.html) into the command line.
+*   Pressing Macro enters the [[Keywords/Macro|Macro keyword]] into the command line.
 
 \[Channel\]> Macro
 
-*   Pressing Macro Macro enters the [Timecode keyword](key_keyword_timecode.html) into the command line.
+*   Pressing Macro Macro enters the [[Keywords/Timecode|Timecode keyword]] into the command line.
 
 \[Channel\]> Timecode
 
-*   Pressing Macro Macro Macro enters the [Agenda keyword](key_keyword_agenda.html) into the command line.
+*   Pressing Macro Macro Macro enters the [[Keywords/Agenda|Agenda keyword]] into the command line.
 
 \[Channel\]> Agenda
 
-*   Pressing and holding ![ma](../../img/ma_1.png) + Macro enters the [Timer keyword](key_keyword_timer.html) into the command line.
+*   Pressing and holding ![ma](../../img/ma_1.png) + Macro enters the [[Keywords/Timer|Timer keyword]] into the command line.
 
 \[Channel\]> Timer
 
-*   Pressing and holding ![ma](../../img/ma_1.png) + Macro Macro enters the [Plugin keyword](key_keyword_plugin.html) into the command line.
+*   Pressing and holding ![ma](../../img/ma_1.png) + Macro Macro enters the [[Keywords/Plugin|Plugin keyword]] into the command line.
 
 \[Channel\]> Plugin
 

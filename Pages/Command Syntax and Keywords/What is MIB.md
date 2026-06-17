@@ -25,14 +25,14 @@ Version 3.9
 
 # What is MIB
 
-This topic is about the concept of Move In Black (MIB). See the [Working with MIB topic](key_adv_seq_mib.html) for information on how to actually use MIB.
+This topic is about the concept of Move In Black (MIB). See the [[Pages/Advanced Sequence Functionality/Working with MIB|Working with MIB topic]] for information on how to actually use MIB.
 
 MIB (Move In Black) is a function which in a tracking sequence will look ahead and preposition attributes of fixtures that are fading the dimmer in from zero, to automatically prevent "ugly" transitions where you would normally see the fixture move the attributes into position, while the fixture is fading in.
 
 MIB is enabled on a cue-per-cue basis, by giving the MIB-property of the cue a value which tells the console when it should do the prepositioning.
 
 *   A zero or positive MIB-value indicates an specific cue number from where MIB is allowed
-*   A negative MIB-value indicates a relative cue number from where MIB is allowed - please read more about this in the [Working with MIB topic](key_adv_seq_mib.html).
+*   A negative MIB-value indicates a relative cue number from where MIB is allowed - please read more about this in the [[Pages/Advanced Sequence Functionality/Working with MIB|Working with MIB topic]].
 
 ## Example:
 

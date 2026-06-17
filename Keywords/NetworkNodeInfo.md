@@ -27,7 +27,7 @@ The NetworkNodeInfo keyword displays all in the network available MA Nodes in th
 
 To get only the MA Nodes of the session, use the option **number**.
 
-For more information, see [Configure DMX ports](key_network_dmx_configure_ports.html).
+For more information, see [[Pages/Networking/Setting up DMX ports on MA devices|Configure DMX ports]].
 
 ## Syntax
 

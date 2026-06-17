@@ -37,7 +37,7 @@ Other elements in media servers could be pixel mappers, 3D mapping/warping, soun
 
 It can be very complex to create good fixture profiles for media servers.
 
-Selecting the **Media Server** fixture type does not necessary assign a class to the fixture profile. Since the server is not visualized as a fixture in MA 3D, then this OK. The video output from the server might be used as a CITP stream into the MA 3D (read more about CITP in the [Using CITP topics](key_network_citp.html)).
+Selecting the **Media Server** fixture type does not necessary assign a class to the fixture profile. Since the server is not visualized as a fixture in MA 3D, then this OK. The video output from the server might be used as a CITP stream into the MA 3D (read more about CITP in the [[Pages/Networking/Using CITP|Using CITP topics]]).
 
 ← [[Pages/Basic Fixture Types/Moving Lights]] | [[Pages/Basic Fixture Types/Virtual Fixtures]] →
 

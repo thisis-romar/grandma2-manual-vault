@@ -24,7 +24,7 @@ The large key    Go +    is located below the large key    Go -   .
 
 _Location k__ey_ _Go + (large)_ 
 
-*   Pressing    Go +    executes [DefGoForward keyword](key_keyword_defgoforward.html) for the selected executor.
+*   Pressing    Go +    executes [[Keywords/DefGoForward keyword|DefGoForward keyword]] for the selected executor.
 
 \[time\] : Macro: DefGoForward
 

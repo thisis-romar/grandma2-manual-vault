@@ -25,7 +25,7 @@ To get the AllRows keyword in the command line type **AllRows** or the shortcut 
 
 AllRows is a function used to set the MAtricks property Single Y to _none (0)_, which means to reselect all rows of fixtures in a virtual array created with MAtricksInterleave.
 
-For more information see [MAtricks](key_matricks.html).
+For more information see [[Sections/MAtricks]].
 
 ## Syntax
 

@@ -27,7 +27,7 @@ _Location k__ey_ _Oops_ 
 
 *   Pressing Oops deletes the last keyword or number you entered in the command line.  
      
-*   If the command line is empty, pressing Oops executes the [Oops keyword](key_keyword_oops.html).  
+*   If the command line is empty, pressing Oops executes the [[Keywords/Oops|Oops keyword]].  
     The pop-up Confirm Undo opens.
 
 ![](../../img/popup_confirm-undo_v3-2.png)

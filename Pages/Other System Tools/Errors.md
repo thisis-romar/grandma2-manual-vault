@@ -33,13 +33,13 @@ The following demonstrates an error in the Normal View.
 
 *   Add MA NDPs to the network configuration
 
-For more information see [Adding devices to your session](key_network_session_add_device.html).
+For more information see [[Pages/Networking/Adding devices to the session|Adding devices to your session]].
 
 *   Open **MA Dimmer Network** 
 
-For more information on how to access the different views see [Network dimmer](key_ost_network_dimmer.html). 
+For more information on how to access the different views see [[Pages/Other System Tools/Network Dimmer|Network dimmer]]. 
 
-For more information on the display of various views see [Views](key_ost_views.html). 
+For more information on the display of various views see [[Pages/Other System Tools/Views]]. 
 
 ![](../../img/window_error_normal-view_v3-3.png)
 
@@ -61,7 +61,7 @@ _Error in module 1 and 2_
 
 _Error in dimmers 1 and 2_
 
-For more information on how to navigate in the hierarchy see [Network dimmer](key_ost_network_dimmer.html). 
+For more information on how to navigate in the hierarchy see [[Pages/Other System Tools/Network Dimmer|Network dimmer]]. 
 
 * * *
 
@@ -70,7 +70,7 @@ For more information on how to navigate in the hierarchy see [Network dimmer](ke
 Confirm Errors is displayed in the title bar of the window **MA Network Dimmer** and is used to temporarily mask errors.
 
 **Hint:**  
-To view the error messages, set No Load, Fuse, Overload, Excess DC to **On** when editing. For more information see the [setting Fuse in Views](key_ost_views.html#fuse). 
+To view the error messages, set No Load, Fuse, Overload, Excess DC to **On** when editing. For more information see the [[Pages/Other System Tools/Views|setting Fuse in Views]]. 
 
 1.  To mask an error in the view, select the rack that displays the error. 
 2.  Tap Confirm Errors. 

@@ -35,7 +35,7 @@ It creates a backup of the previous saved show. Each show file (or unique file n
 
 ### Using the command line
 
-A show file can be saved with the same name using the command line. The command is SaveShow. Read about it [here](key_keyword_saveshow.html).
+A show file can be saved with the same name using the command line. The command is SaveShow. Read about it [[Keywords/SaveShow|here]].
 
 ### Using the Quick Save function
 

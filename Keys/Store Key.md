@@ -27,7 +27,7 @@ The key Store is located in the command area on the left of the key
 
 _Location_ _Key_ _Store_ 
 
-*   Pressing Store enters the [Store keyword](key_keyword_store.html) into the command line and changes the encoder bar to the [store encoder bar](key_ws_encoder_bar.html).
+*   Pressing Store enters the [[Keywords/Store|Store keyword]] into the command line and changes the encoder bar to the [[Pages/Workspace/Encoder Bar|store encoder bar]].
 
 \[Channel\]> Store
 
@@ -44,7 +44,7 @@ _Pop-up Temporary Store Options_ 
   
  
 
-*   Pressing and holding ![ma](../../img/ma_1.png) and Store enters the [Record keyword](key_keyword_record.html) into the command line.
+*   Pressing and holding ![ma](../../img/ma_1.png) and Store enters the [[Keywords/Record|Record keyword]] into the command line.
 
 \[Channel\]> Record
 

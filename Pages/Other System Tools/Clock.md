@@ -35,7 +35,7 @@ _Clock window_
 
 ## System Clock
 
-As default, the **Clock** will open as System Clock (yellow digits). This will display the current time, according to the console time. For more information see the [Date and Time](key_date_time.html) topic.
+As default, the **Clock** will open as System Clock (yellow digits). This will display the current time, according to the console time. For more information see the [[Pages/Console Settings/Date & Time|Date and Time]] topic.
 
 It is possible to change the settings and readout of the clock by tapping the yellow ball in the upper left corner of the clock window.
 
@@ -57,7 +57,7 @@ In the System Clock there are different readout options. To list these, tap the 
 *   **Sunset** counts up or counts down until sunset.
 *   **Dusk** counts up or counts down until dusk.
 
-For more information about dawn, dusk, sunrise and sunset see the [Date and Time](key_date_time.html) topic.
+For more information about dawn, dusk, sunrise and sunset see the [[Pages/Console Settings/Date & Time|Date and Time]] topic.
 
 It is also possible to offset the clock compared to the system time. To do this, tap the green square labeled **Offset from System Clock Time**. This will open a calculator where the time can be offset from -23.59. 995 hours to +23.59.995 hours. This setting is individual for every clock, so it is possible to have different clocks with different time zones for example.
 
@@ -80,7 +80,7 @@ This will display the selected timecode in gray digits. If the timecode is r
 
 _Timecode window_
 
-For more information about **Timecodes** see the [Timecode](key_timecode.html) topic.
+For more information about **Timecodes** see the [[Sections/Timecode]] topic.
 
 In the top of the window, there are four different action buttons:
 
@@ -97,7 +97,7 @@ These can be used to control the internal **Timecode** generator.
 
 Use **Link Selected Timecode** button to select one of the 8 timecode slots as default or the selected slot.
 
-For more information about timecodes see the [Timecode](key_timecode.html) topic.
+For more information about timecodes see the [[Sections/Timecode]] topic.
 
 ## Timer
 
@@ -117,7 +117,7 @@ To **Reset** the timer, tap the reset key or enter the following syntax in the c
 
 \[Fixture\]> Reset Timer 1
 
-For more information about Timers see the [Timers](key_timer.html) topics
+For more information about Timers see the [[Sections/Timer|Timers]] topics
 
 ← [[Pages/Other System Tools/Help]] | [[Pages/Other System Tools/Sound input window]] →
 

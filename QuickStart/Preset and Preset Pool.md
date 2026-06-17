@@ -58,6 +58,6 @@ When you are done, your view could look something like this:
 _Colored but empty preset pools_
 
   
-On the [](5688c1e9-a14f-4ccb-8ed9-8ce4f8ba1a1c.html)[next page](key_13_making_presets.html) we are going to look at creating presets.
+On the [[QuickStart/Making presets|next page]] we are going to look at creating presets.
 
 Part of [[000 Map of Content]]

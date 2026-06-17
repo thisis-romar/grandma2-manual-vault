@@ -28,7 +28,7 @@ Version 3.9
 Manage the MAtricks of your show in the MAtricks pool. 
 
 1.  Open the MAtricks pool:  
-    \-Tap Pools in **Create Basic Window**. For more information on how to open a basic window see [Manage windows](key_windows.html).  
+    \-Tap Pools in **Create Basic Window**. For more information on how to open a basic window see [[Sections/Windows|Manage windows]].  
     \-Tap MAtricks and the Matricks pool opens. 
 
 ![](../../img/window_matricks-pool_v3-3.png)
@@ -57,7 +57,7 @@ _Open the MAtricks pool_
     \-The pop-up closes and the MAtricks you have selected are now applied.
 
 **Hint:**  
-You can also import predefined MAtricks in Setup – Import Export – Import – MAtricks. For more information on import see [Import using user interface](key_ei_import_gui.html).
+You can also import predefined MAtricks in Setup – Import Export – Import – MAtricks. For more information on import see [[Pages/Export and Import/Import by using user interface|Import using user interface]].
 
 4.  Label the MAtricks:  
     ​-Tap Label and a calculator opens.  
@@ -68,7 +68,7 @@ You can also import predefined MAtricks in Setup – Import Export – Import �
 By default, **Reset** is always displayed in the first pool object of the MAtricks pool. You can set the MAtricks without selecting an object in the MAtricks pool. These settings can also be reset by tapping the pool object **Reset**. 
 
 **Hint:**  
-For information on how to access the MAtricks pool options and how to use them see [Adjust pool options](key_pools_options.html).
+For information on how to access the MAtricks pool options and how to use them see [[Pages/Pools/Adjust pool options]].
 
 ← [[Pages/MAtricks/MAtricks Toolbar]] | [[Pages/MAtricks/MAtricks Interleave]] →
 

@@ -84,7 +84,7 @@ _Mini executor in the effect pool_
 
 _Direct action – enabled_
 
-For more information see [Assign effect to executor](key_effects_assign_to_executor.html).
+For more information see [[Pages/Effects/Assign effect to executor]].
 
 ← [[Pages/Pools/Adjust pool options]]
 

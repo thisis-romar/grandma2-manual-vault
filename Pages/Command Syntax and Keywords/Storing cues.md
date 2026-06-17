@@ -41,7 +41,7 @@ This will automatically be cue number 1 - nothing else was specified.
 
 Storing cues obeys Worlds and Filters. This enables a control of what is stored. Filters and Worlds can also be assigned to the sequence. This will function as an input filter allowing only the elements in the worlds and filters to be stored in the sequence.
 
-Read more about then in the [World, Filters, and Mask section](key_wfm_world_filter_mask.html).
+Read more about then in the [[Sections/Worlds Filters and Masks|World, Filters, and Mask section]].
 
 ## Cue numbers
 
@@ -75,7 +75,7 @@ _Choose store method pop-up with second cue option_
 
 The right most button is called Create Second Cue - tapping this will store a cue with the next whole number.
 
-Over write and the two merge options are explained below. Remove and Release are covered in the [What is Tracking topic](key_cs_what_is_tracking.html).
+Over write and the two merge options are explained below. Remove and Release are covered in the [[Pages/Command Syntax and Keywords/What is Tracking|What is Tracking topic]].
 
 ## Store into cues that are not empty
 
@@ -85,9 +85,9 @@ If the store operation is used to store into already existing cues then a pop-up
 
 _Choose store method pop-up_
 
-It only appears if you have not specified what should happen. Have a look at the [Store Options and Defaults topic](key_cs_store_options_default.html) for information about specifying this while storing.
+It only appears if you have not specified what should happen. Have a look at the [[Pages/Command Syntax and Keywords/Store Options and Defaults|Store Options and Defaults topic]] for information about specifying this while storing.
 
-"Cue Only", "Tracking Shield", "Remove", and "Release" are described in the [What is Tracking topic](key_cs_what_is_tracking.html).
+"Cue Only", "Tracking Shield", "Remove", and "Release" are described in the [[Pages/Command Syntax and Keywords/What is Tracking|What is Tracking topic]].
 
 The three relevant options are:
 
@@ -100,7 +100,7 @@ The three relevant options are:
 
 ### Examples
 
-In the following examples we have a cue list with the following two cues (looking at the Sequence Tracking Sheet - read about it [here](key_cs_cue_content.html#tracking_sheet)):
+In the following examples we have a cue list with the following two cues (looking at the Sequence Tracking Sheet - read about it [[Pages/Command Syntax and Keywords/Looking at the cue content|here]]):
 
 ![](../../img/window_sequence-tracking-sheet_two-cues-before-merge_v3-3.png)
 
@@ -134,7 +134,7 @@ The (tracked) value from fixture 1 is stored into cue 2.
 
 ## Store cues with timings
 
-When storing a cue it is possible to also store the different cue timings. This is described in detail the [Cue Timings topic](key_cs_cue_timings.html), but here is the short version.
+When storing a cue it is possible to also store the different cue timings. This is described in detail the [[Pages/Command Syntax and Keywords/Cue timings|Cue Timings topic]], but here is the short version.
 
 The Fade key will add different timing keywords to the command when storing.
 
@@ -202,7 +202,7 @@ Storing something in a part is almost as easy as storing the main cue. Using the
 
 Store Cue 2 Cue 1 Please
 
-The second press on the cue key will result in the [Part keyword](key_keyword_part.html) and the command line feedback looks like this:
+The second press on the cue key will result in the [[Keywords/Part|Part keyword]] and the command line feedback looks like this:
 
 \[time\] : Executing : Store Cue 2 Part 1
 
@@ -210,9 +210,9 @@ The second press on the cue key will result in the [Part keyword](key_keyword_pa
 
 In the example using the cue labels to store, there was a command that showed some of the other possibilities while storing cues.
 
-The command line gives access to all the store options that can be found in the GUI Store Options - read about them in the [Store Options and Defaults topic](key_cs_store_options_default.html).
+The command line gives access to all the store options that can be found in the GUI Store Options - read about them in the [[Pages/Command Syntax and Keywords/Store Options and Defaults|Store Options and Defaults topic]].
 
-All the different elements are described in the [Store Keyword topic](key_keyword_store.html).
+All the different elements are described in the [[Keywords/Store|Store Keyword topic]].
 
 ### Examples
 
@@ -244,7 +244,7 @@ This will remove the stored values for the attributes that currently have active
 
 The values in the programmer are irrelevant in this case. They are simply an indicator of what attributes you want to remove from the cue.
 
-For removal of a few values, the Sequence Tracking Sheet or Sequence Content Sheets might be good tools. Read about them in the [Looking at the Cue Content topic](key_cs_cue_content.html).
+For removal of a few values, the Sequence Tracking Sheet or Sequence Content Sheets might be good tools. Read about them in the [[Pages/Command Syntax and Keywords/Looking at the cue content|Looking at the Cue Content topic]].
 
 ← [[Pages/Command Syntax and Keywords/Looking at the Cue Sequence]] | [[Pages/Command Syntax and Keywords/Store Options and Defaults]] →
 

@@ -72,7 +72,7 @@ It is possible to use the images in the grandMA2:
 
 To open the options of the image pool, tap ![](../../img/icon_yellow-ball_3_2.png) in the upper left corner of the pool. 
 
-The options of the image pool generally behave the same as in the most pools. Hence, see [adjust pool options](key_pools_options.html). 
+The options of the image pool generally behave the same as in the most pools. Hence, see [[Pages/Pools/Adjust pool options|adjust pool options]]. 
 
   
 
@@ -80,10 +80,10 @@ The options of the image pool generally behave the same as in the most pools. He
 
 #### Sub topics
 
-*   [Import images and videos](key_image_import.html)
-*   [Image limitations & guidelines for symbols](key_imag_limitations_guidelines.html)
-*   [Supported file formats](key_image_supported_file_formats.html)
-*   [Delete images and videos](key_image_delete.html)
+*   [[Pages/Image Pool/Import Images and Videos|Import images and videos]]
+*   [[Pages/Image Pool/Image Limitations and Guidelines for Symbols|Image limitations & guidelines for symbols]]
+*   [[Pages/Image Pool/Supported file formats]]
+*   [[Pages/Image Pool/Delete Images and Videos|Delete images and videos]]
 
 ## Pages in This Section
 

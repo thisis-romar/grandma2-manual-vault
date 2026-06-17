@@ -233,7 +233,7 @@ not available
 
 x coordinate in the layout view, e.g. -9.17441
 
-Sets the x coordinate in the layout view. For more information, see [Layouts](key_layouts.html).
+Sets the x coordinate in the layout view. For more information, see [[Sections/Layouts]].
 
 y
 
@@ -241,15 +241,15 @@ not available
 
 y coordinate in the layout view, e.g. 7.93822
 
-Sets the y coordinate in the layout view. For more information, see [Layouts](key_layouts.html).
+Sets the y coordinate in the layout view. For more information, see [[Sections/Layouts]].
 
 ## Example
 
-1\. Store cue 7 in the sequence of the selected executor. For more information, see [Store Cues](key_cs_store.html).
+1\. Store cue 7 in the sequence of the selected executor. For more information, see [[Pages/Command Syntax and Keywords/Storing cues|Store Cues]].
 
 \[Channel\]> Store 7
 
-2\. Store dimmer preset 3 with all attributes and keep the values active in the programmer. For more information, see [Store Presets](key_presets_create.html).
+2\. Store dimmer preset 3 with all attributes and keep the values active in the programmer. For more information, see [[Pages/Presets/Create Presets|Store Presets]].
 
 \[Channel\]> Store Preset 1.3 /presetfilter=false /ka
 

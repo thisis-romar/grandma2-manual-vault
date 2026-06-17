@@ -35,7 +35,7 @@ There are few limitations regarding the size of images and the pool there. 
 
 ## Guidelines for symbols:
 
-*   Use the supported file formats (for more information see [supported file formats](key_image_supported_file_formats.html)).
+*   Use the supported file formats (for more information see [[Pages/Image Pool/Supported file formats|supported file formats]]).
 *   Maximum size of the canvas is 240 x 240.
 *   Maximum size of the image is 180 x 180.
 *   Outline of the symbol has to be 2 pixels in 50 % gray.

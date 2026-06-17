@@ -58,7 +58,7 @@ A grandMA2 show file saved as a grandMA3 show file exports the following element
 
 **Important:**  
 The option "Save as grandMA3" works only on a grandMA2 onPC or in Mode2 on a grandMA3 console. For more information, see [Mode2](/Page/grandMA2/mode2_introduction/en).  
-If the button Save as grandMA3 x.x.x is not visible, the system requirements for this feature are not fulfilled. For more information, see [system requirements](key_introduction_system_requirements_grandma2_onpc.html).
+If the button Save as grandMA3 x.x.x is not visible, the system requirements for this feature are not fulfilled. For more information, see [[Pages/Introduction/System Requirements grandMA2 onPC|system requirements]].
 
 **Requirements:** A created grandMA2 show file.
 

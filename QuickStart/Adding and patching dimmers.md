@@ -111,6 +111,6 @@ Close the two setup screens using the yellow X. Do not worry to much about their
 
 You are asked to confirm the changes you have made. This means if we want to save what we did in the fixture schedule. Please save it.
 
-On the [next page](key_03_use_screens_and_windows.html) we are going to look at controlling those channels.
+On the [[QuickStart/Using the screens and windows|next page]] we are going to look at controlling those channels.
 
 Part of [[000 Map of Content]]

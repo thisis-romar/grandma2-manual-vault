@@ -24,7 +24,7 @@ You can also use the commandline and type ViewButton or use the shortcut **VB**.
 
 ## Description
 
-The ViewButton keyword calls the assigned function on the [view button](key_widget_view_buttons.html). The call function works only if the assigned object supports a call.
+The ViewButton keyword calls the assigned function on the [[Pages/Workspace/View Buttons|view button]]. The call function works only if the assigned object supports a call.
 
 The ViewButton keyword is an object keyword.
 
@@ -50,9 +50,9 @@ Store a view at key X1.
 
 ## Related Links
 
-*   [ViewPage Keyword](key_keyword_viewpage.html)
-*   [View Key](key_key_view.html)
-*   [V-Keys](key_key_v1-v10.html)
-*   [X-Keys](key_key_xkey.html)
+*   [[Keywords/ViewPage|ViewPage Keyword]]
+*   [[Keys/View Key]]
+*   [[Keys/V1 - V10 Keys|V-Keys]]
+*   [[Keys/X1 - X20 Keys|X-Keys]]
 
 Part of [[000 Keyword Index]] · [[000 Map of Content]]

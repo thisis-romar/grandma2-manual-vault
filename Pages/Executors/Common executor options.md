@@ -24,7 +24,7 @@ Version 3.9
 
 # Common executor options
 
-The executors most common options, and their associated options, are explained in this topic. The rest are explained in the [Executor Options topic](key_adv_exec_options.html).
+The executors most common options, and their associated options, are explained in this topic. The rest are explained in the [[Pages/Advanced Executor Functionality/Executor Options|Executor Options topic]].
 
 There are many options available for executors - especially sequences assigned to executors. They are accessed using the Assign Menu. One way to open the menu is to press the Assign key followed by a key associated with the executor you want to change.
 
@@ -88,11 +88,11 @@ There are three options here:
 
 ## Priority
 
-The priorities are one of the common options to change. The description of the priorities are found in the [Playing Back Cues topic](key_cs_playback.html#priority).
+The priorities are one of the common options to change. The description of the priorities are found in the [[Pages/Command Syntax and Keywords/Playing back Cues|Playing Back Cues topic]].
 
 ## Tracking
 
-Explanations about tracking and how to turn it On or Off is found in the [What is Tracking topic](key_cs_what_is_tracking.html). Here are also the explanations about **Release Firststep** and **Wrap Around**.
+Explanations about tracking and how to turn it On or Off is found in the [[Pages/Command Syntax and Keywords/What is Tracking|What is Tracking topic]]. Here are also the explanations about **Release Firststep** and **Wrap Around**.
 
 ## Off On Overwritten
 

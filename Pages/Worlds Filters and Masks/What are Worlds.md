@@ -26,7 +26,7 @@ Version 3.9
 
 Worlds are a functionality in the grandMA2 that allows you to limit what is possible to access and what is displayed in windows.
 
-Worlds are organized in a World pool. Since it is a pool, it might be a good idea to read the [Pools in General section](key_pools.html).
+Worlds are organized in a World pool. Since it is a pool, it might be a good idea to read the [[Sections/Pools|Pools in General section]].
 
 It could look like this:
 
@@ -50,7 +50,7 @@ If a world, other than number one (Full), is selected, then there is a World Ico
 
 Worlds can contain a selection of fixtures and/or a selection of Attributes.
 
-If a world only have some (not all) Attributes then the pool object will display the [Preset Type Marker](key_ws_colors_system.html#preset_type_marker) at the bottom of the pool object.
+If a world only have some (not all) Attributes then the pool object will display the [[Pages/Workspace/System Colors|Preset Type Marker]] at the bottom of the pool object.
 
 Using different worlds can be a big help in multi user environment. It can be used to separate the lighting rig into different parts for different programmers.
 
@@ -58,15 +58,15 @@ Another good use is to be in a world without the attributes that is undesired to
 
 Selecting a world will hide fixtures, that are not a part of this world, in sheets and stage view/MA 3D. Attributes that are not in the world will not be visible in sheets.
 
-It is important to know that you can only affect the fixtures and attributes in your selected world. This is valid for programming actions. Read more in the [Use worlds when programming topic](key_wfm_use_worlds.html).
+It is important to know that you can only affect the fixtures and attributes in your selected world. This is valid for programming actions. Read more in the [[Pages/Worlds Filters and Masks/Use worlds when programming|Use worlds when programming topic]].
 
 Playback actions (executors and sequences) are not directly affected by your selected world.
 
-You can assign a world to an executor or a sequence - but it is not linked to the worlds your user has selected. Read more in the [Apply worlds or filters to executors and sequences topic](key_wfm_apply_to_exec_seq.html).
+You can assign a world to an executor or a sequence - but it is not linked to the worlds your user has selected. Read more in the [[Pages/Worlds Filters and Masks/Apply worlds or filters to executors and sequences|Apply worlds or filters to executors and sequences topic]].
 
-Worlds can be assigned to User Profiles. Then the users, with this User Profile, will be limited to only the assigned world and cannot select a different world. Read about it in the [Create User Profiles and Users topic](key_single_multi_systems_create.html).
+Worlds can be assigned to User Profiles. Then the users, with this User Profile, will be limited to only the assigned world and cannot select a different world. Read about it in the [[Pages/Single and Multi User Systems/Create user profiles and users|Create User Profiles and Users topic]].
 
-Read the next page for more on how to [Create worlds](key_wfm_create_worlds.html).
+Read the next page for more on how to [[Pages/Worlds Filters and Masks/Create worlds]].
 
 [[Pages/Worlds Filters and Masks/Create worlds]] →
 

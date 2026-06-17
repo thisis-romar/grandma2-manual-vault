@@ -30,7 +30,7 @@ The smart view displays default-defined channel sets of an attribute. These chan
 ## Open the Smart View 
 
 **Important:**  
-To see the default-defined channel sets of a fixture in the smart view, select a fixture and tap a preset in the [preset control bar](key_ws_preset_control_bar.html) first. 
+To see the default-defined channel sets of a fixture in the smart view, select a fixture and tap a preset in the [[Pages/Workspace/Preset Control Bar|preset control bar]] first. 
 
 To open the smart view: 
 

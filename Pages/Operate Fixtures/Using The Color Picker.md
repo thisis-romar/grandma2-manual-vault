@@ -31,7 +31,7 @@ Based on the field you work in, the color picker provides the opportunity of dis
 
 *   Fixtures are patched.
 
-For more information on how to patch fixtures see [Adding fixtures to your show](key_patch_add_fixtures.html). 
+For more information on how to patch fixtures see [[Pages/Patching/Adding fixtures to the show|Adding fixtures to your show]]. 
 
 * * *
 
@@ -155,7 +155,7 @@ _Bar Highlighted In HSB – Special Dialog_
 
 The swatch book displays manufacturers and their corresponding gels. 
 
-For more information on gel see the keyword [Gel](key_keyword_gel.html). 
+For more information on gel see the keyword [[Keywords/Gel keyword|Gel]]. 
 
 ![](../../img/img_color-picker_swatch-book_v3-3.png)
 

@@ -35,7 +35,7 @@ _Command Line_
 
 ## Set the Cursor in the Command Line
 
-To enter keywords into the command line set the cursor in the command line first. For more information see [Command Syntax and Keywords](key_command_syntax_and_keywords.html).
+To enter keywords into the command line set the cursor in the command line first. For more information see [[Sections/Command Syntax and Keywords]].
 
 To set the cursor into the command line:
 
@@ -62,7 +62,7 @@ To open the command line feedback:
 *   Tap ![](../../img/icon_yellow-ball_3_2.png) on the left of the the command line.
 *   Or tap Command Line in **Create Basic Window**. 
 
-For more Information see [Create and manage basic window](key_windows_create_manage.html). 
+For more Information see [[Pages/Windows/Create and Manage Basic Windows|Create and manage basic window]]. 
 
 The window Command Line Feedback opens.
 
@@ -76,7 +76,7 @@ To close the pop-up tap the ![](../../img/icon_yellow-ball_3_2.png) once again 
 
 ## Open the Message Center
 
-To have an overview of the messages and descriptions of the icons in the command line open the message center. For more information see [Message Center](key_message_center.html).
+To have an overview of the messages and descriptions of the icons in the command line open the message center. For more information see [[Pages/Other System Tools/Message center|Message Center]].
 
 To open the message center:
 

@@ -79,7 +79,7 @@ The internal fixture library are found in the "library" folder.
 
 It can happen that a device crashes. If this should happen then a crashlog is written and stored in the "temp" folder.
 
-On the consoles it is also possible to get these crash logs using the [CrashLogCopy](key_keyword_crashlogcopy.html) keyword. This is not possible on the NPUs.
+On the consoles it is also possible to get these crash logs using the [[Keywords/CrashLogCopy keyword|CrashLogCopy]] keyword. This is not possible on the NPUs.
 
 ## Screenshots
 

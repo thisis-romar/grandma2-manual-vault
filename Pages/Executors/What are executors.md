@@ -28,14 +28,14 @@ Executors are the handles that are usually preferred when controlling sequences 
 
 The different elements that can be assigned to an executor are:
 
-*   [Sequences](key_cues_and_sequences.html)
-*   [Group Masters](key_groups_master.html) (only Fader Executors)
-*   [Special Masters](key_adv_exec_spec_master.html) (only Fader Executors)
-*   [Effects](key_effects_assign_to_executor.html)
-*   [Macros](key_macro_assign.html)
-*   [Timers](key_timer.html)
+*   [[Sections/Cues and Sequences|Sequences]]
+*   [[Pages/Groups/Group Master on Executors|Group Masters]] (only Fader Executors)
+*   [[Pages/Advanced Executor Functionality/Special Masters]] (only Fader Executors)
+*   [[Pages/Effects/Assign effect to executor|Effects]]
+*   [[Pages/Macros/Assign a macro to a key|Macros]]
+*   [[Sections/Timer|Timers]]
 
-Read the [Assign a Function topic](key_exec_assign.html) to learn how to assign the different elements to the executors.
+Read the [[Pages/Executors/Assign a function|Assign a Function topic]] to learn how to assign the different elements to the executors.
 
 Executors exist in two variations.
 
@@ -53,9 +53,9 @@ A grandMA2 ultra light has 15 Fader Executors (numbered 1 through 15) and 15 But
 
 The X-keys can be changed to Executors by pressing the List key.
 
-If there is a screen above your executors on your console, then the bottom part of the screen will show the [Mini Executor Bar](key_ws_mini_executor_bar.html). This functions as labeling and information about what is assigned to the executors. The different Mini Executor Bars are described in the relevant topics - depending on the function assigned to the executor.  
+If there is a screen above your executors on your console, then the bottom part of the screen will show the [[Pages/Workspace/Mini executor bar|Mini Executor Bar]]. This functions as labeling and information about what is assigned to the executors. The different Mini Executor Bars are described in the relevant topics - depending on the function assigned to the executor.  
 
-The Executors can also be represented virtually on the screens - please read about this in the [Executors on the Screens topic](key_exec_on_screen.html).
+The Executors can also be represented virtually on the screens - please read about this in the [[Pages/Executors/Executors on the screens|Executors on the Screens topic]].
 
 * * *
 
@@ -69,7 +69,7 @@ _Selected Executor number 1_
 
 In the image above the left executor is the selected executor.
 
-The selected executor is used by the Master Section and the two 100mm faders - see more in the [Master section topic](key_widget_master_section.html).
+The selected executor is used by the Master Section and the two 100mm faders - see more in the [[Pages/Workspace/Master Section|Master section topic]].
 
 The selected executor is also often used in sheets.
 
@@ -91,13 +91,13 @@ This toolbar appears if you have opened the sequence editor and closes the edito
 
 The top row have some buttons and information.
 
-Starting from the left there is an information "button" that shows the executor number, the sequence number and name. It is not actually a button. Next to this is a button that enters or exits the Sequence Editor - This will also change the Encoder Toolbar. Next are six buttons that can be used to control the sequence playback - please read more about these controls in the [Playing back Cues topic](key_cs_playback.html). 
+Starting from the left there is an information "button" that shows the executor number, the sequence number and name. It is not actually a button. Next to this is a button that enters or exits the Sequence Editor - This will also change the Encoder Toolbar. Next are six buttons that can be used to control the sequence playback - please read more about these controls in the [[Pages/Command Syntax and Keywords/Playing back Cues|Playing back Cues topic]]. 
 
 The bottom encoder row gives access to change the: Master, Rate, and Off Time. They are each assigned to one of the four encoders.
 
-The **Master** is the same as a Master fader - this control the intensity level. The **Rate** is the same as the Rate master - this manipulates the fade times in the cues. Read about Rate in the [Cue Timings topic](key_cs_cue_timings.html#rate_fader).
+The **Master** is the same as a Master fader - this control the intensity level. The **Rate** is the same as the Rate master - this manipulates the fade times in the cues. Read about Rate in the [[Pages/Command Syntax and Keywords/Cue timings|Cue Timings topic]].
 
-The **OFF Time** is used when the executor is turned off. This can be used to fade out the intensity and keep other attributes (color, position, and so on) until the fade out is complete. The Off time can also be set using a **MFade** fader - read the [Assign a Function topic](key_exec_assign.html) to learn more about assigning a fader function or read more about the MFade in the [Default Masters topic](key_adv_exec_spec_master_default.html).
+The **OFF Time** is used when the executor is turned off. This can be used to fade out the intensity and keep other attributes (color, position, and so on) until the fade out is complete. The Off time can also be set using a **MFade** fader - read the [[Pages/Executors/Assign a function|Assign a Function topic]] to learn more about assigning a fader function or read more about the MFade in the [[Pages/Advanced Executor Functionality/Default Masters|Default Masters topic]].
 
 [[Pages/Executors/Executors on the screens]] →
 

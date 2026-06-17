@@ -25,11 +25,11 @@ The key Top is located in the command area on the right of the key Temp.
 
 _Location Key Top_ 
 
-*   Pressing Top enters the [Top keyword](key_keyword_top.html) into the command line.
+*   Pressing Top enters the [[Keywords/Top|Top keyword]] into the command line.
 
 \[Channel\]> Top
 
-*   Pressing Top Top enters the [Kill keyword](key_keyword_kill.html) into the command line.
+*   Pressing Top Top enters the [[Keywords/Kill|Kill keyword]] into the command line.
 
 \[Channel\]> Kill
 

@@ -32,13 +32,13 @@ This chapter gives you an understanding of the grandMA2 user interface, the diff
 
 #### Sub topics
 
-*   [Screen layout](key_ws_screen_layout.html)
-*   [User-defined area](key_widget_user_defined_area.html)
-*   [Command line](key_widget_command_line.html)
-*   [X-Key labels](key_widget_x_key_labels.html)
-*   [View buttons](key_widget_view_buttons.html)
-*   [Master section](key_widget_master_section.html)
-*   [Time control](key_ws_time_control.html)
+*   [[Pages/Workspace/Screen Layout|Screen layout]]
+*   [[Pages/Workspace/User-Defined Area|User-defined area]]
+*   [[Pages/Workspace/Command Line|Command line]]
+*   [[Pages/Workspace/X-Key Labels|X-Key labels]]
+*   [[Pages/Workspace/View Buttons|View buttons]]
+*   [[Pages/Workspace/Master Section|Master section]]
+*   [[Pages/Workspace/Time Control|Time control]]
 
 [[Pages/Workspace/Encoder Bar]] →
 

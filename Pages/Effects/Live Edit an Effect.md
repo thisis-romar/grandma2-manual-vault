@@ -62,7 +62,7 @@ If the value Low is set to 0, tapping Prop. to toggle it to Incr. enables the e
 6.  **Edit Program.** indicates that editing currently takes places in the programmer.  
     To open the effect editor, tap Edit Progr. It is then possible to edit the actual effect. 
 
-For more information see [Use predefined effects – effect editor](key_effects_predefined.html#effect_editor). 
+For more information see [[Pages/Effects/Use Predefined Effects|Use predefined effects – effect editor]]. 
 
 7.  To toggle between different modes, tap Low/High Mode.
 8.  To toggle between relative and absolute values, tap Relative <> Absolute. 
@@ -73,7 +73,7 @@ For more information see [Use predefined effects – effect editor](key_effects_
 12.  To take stomp values into the programmer, tap Stomp Effect. 
 13.  To toggle the functionality of encoders, tap Basics 1 of 2. 
 
-For more information on the different functionalities see [Use predefined effects](key_effects_predefined.html). 
+For more information on the different functionalities see [[Pages/Effects/Use Predefined Effects|Use predefined effects]]. 
 
 **Important:**  
 If you accidentally tap anywhere, the encoder toolbar for live edit disappears. To regain it, tap the cell with displaying the name of the effect pool.

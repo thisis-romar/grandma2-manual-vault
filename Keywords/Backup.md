@@ -24,7 +24,7 @@ To get the Backup keyword in the command line, type **Backup** or the shortcut *
 
 ## Description
 
-The Backup keyword opens and close the Backup menu. For more information, see [Using the Backup Menu](key_backup_menu.html).
+The Backup keyword opens and close the Backup menu. For more information, see [[Sections/Backup Menu|Using the Backup Menu]].
 
 ![](../../img/menu_backup_v3-4.png)
 

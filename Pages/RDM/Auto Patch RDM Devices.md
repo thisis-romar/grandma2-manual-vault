@@ -48,7 +48,7 @@ The patched DMX address will be sent via RDM to the RDM fixture. The selected fi
 _Auto-patched RDM fixture_
 
 **Hint:**  
-You can also auto-patch fixtures by using the [RdmAutopatch keyword](key_keyword_rdmautopatch.html).
+You can also auto-patch fixtures by using the [[Keywords/RdmAutopatch|RdmAutopatch keyword]].
 
 ← [[Pages/RDM/Match RDM devices]] | [[Pages/RDM/Work with RDM parameters]] →
 

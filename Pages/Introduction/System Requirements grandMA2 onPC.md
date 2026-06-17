@@ -116,7 +116,7 @@ IBM® compatible PC or notebook is necessary.
 Additional requirements:
 
 *   Make sure your Windows® always runs using the latest service pack and updates.
-*   To save a grandMA2 show file as a grandMA3 show file, Windows® 10 is required. For more information see [Save as grandMA3](key_backup_menu_save_as_grandma3.html).
+*   To save a grandMA2 show file as a grandMA3 show file, Windows® 10 is required. For more information see [[Pages/Backup Menu/grandMA2 to grandMA3 Show File Converter|Save as grandMA3]].
 *   To use the online help and to download the latest version of grandMA2 onPC, you need internet access.
 *   To save to a USB stick, you need a USB 2.0 or 3.0 port.
 

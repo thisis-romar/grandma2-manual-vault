@@ -26,7 +26,7 @@ Version 3.9
 
 The Tools tab contains a lot of different settings that turns on or off tools in the sheets. The tools can allow you to work more efficient.
 
-The last part of the options described here, is also available as [Title Buttons](key_of_sheet_options_title_buttons.html).
+The last part of the options described here, is also available as [[Pages/Operate Fixtures/Title buttons|Title Buttons]].
 
 ## Preset Control
 
@@ -36,7 +36,7 @@ The Preset Control turn on or off the visibility of the Preset Control Bar at th
 
 It is used to select different Preset Types. The bar is similar to to Preset Control Bar visible in the Encoder Bar.
 
-Read more about it in the [Preset Control Bar subtopic](key_ws_preset_control_bar.html).
+Read more about it in the [[Pages/Workspace/Preset Control Bar|Preset Control Bar subtopic]].
 
 **Restriction:**  
 If Multi Control is on, then this control bar is hidden.
@@ -49,7 +49,7 @@ The Layer Control option turn on or off the Layer Control Bar at the bottom of t
 
 The Layer Control Bar gives access to the different data layers for the fixtures.
 
-Read more about layers in the [Layers in the programmer topic](key_of_layers_in_sheets_channel_and_fixture.html).
+Read more about layers in the [[Pages/Operate Fixtures/Channel Sheet and Fixture Sheet|Layers in the programmer topic]].
 
 **Restriction:**  
 If Multi Control is on, then this control bar is hidden.
@@ -66,7 +66,7 @@ It could look like this:
 
 _Mask Control Bar_
 
-The Masks are described in the [Mask topics](key_wfm_what_are_masks.html).
+The Masks are described in the [[Pages/Worlds Filters and Masks/What are masks|Mask topics]].
 
 **Restriction:**  
 If Multi Control is on, then this control bar is hidden.
@@ -108,19 +108,19 @@ The scroll bar is only visible if it is needed.
 
 **Link Encoders** is an option in DMX, Content, Executor, and Tracking Sheets.
 
-If this option is on then activating the sheet (by tapping inside the sheet) will change the [Encoder Toolbar](key_ws_encoder_toolbar.html). The result is different depending on the type of sheet.
+If this option is on then activating the sheet (by tapping inside the sheet) will change the [[Pages/Workspace/Encoder Toolbar]]. The result is different depending on the type of sheet.
 
 ### DMX Sheet
 
-The Encoder Toolbar will turn into the DMX tester. Read more about it in the [DMX Testing topic](key_patch_dmx_testing.html).
+The Encoder Toolbar will turn into the DMX tester. Read more about it in the [[Pages/Patching/DMX testing in the DMX Sheet|DMX Testing topic]].
 
 ### Content Sheet and Tracking Sheet
 
-The Encoder Toolbar will turn into the Executor Toolbar. Read more about it in the [What are executors topic](key_exec_what_are.html).
+The Encoder Toolbar will turn into the Executor Toolbar. Read more about it in the [[Pages/Executors/What are executors|What are executors topic]].
 
 ### Executor Sheet
 
-It is bit hidden as an option for the Executor Sheet. You need to add it as a [title button](key_of_sheet_options_title_buttons.html) to enable or disable it.
+It is bit hidden as an option for the Executor Sheet. You need to add it as a [[Pages/Operate Fixtures/Title buttons|title button]] to enable or disable it.
 
 It also opens the Executor Toolbar. Follow the link in the "Content Sheet" above to read about it.
 
@@ -128,7 +128,7 @@ It also opens the Executor Toolbar. Follow the link in the "Content Sheet" above
 
 **Edit CueOnly** is an option in Content and Tracking Sheets.
 
-With this option **on**, any changes made to values in the sheet are stored as Cue Only. Read more about editing values in the two sheets in the [Looking at your cue content topic](key_cs_cue_content.html).
+With this option **on**, any changes made to values in the sheet are stored as Cue Only. Read more about editing values in the two sheets in the [[Pages/Command Syntax and Keywords/Looking at the cue content|Looking at your cue content topic]].
 
 ## DMX Readout Absolute
 

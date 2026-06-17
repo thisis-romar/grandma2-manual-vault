@@ -23,11 +23,11 @@ To get the Plugin keyword in the command line, type **Plugin** or the shortcut *
 
 ## Description
 
-The Plugin keyword is an object keyword to access Plugins. The default function for the Plugin keyword is [Go+](key_keyword_go.html).
+The Plugin keyword is an object keyword to access Plugins. The default function for the Plugin keyword is [[Keywords/Go|Go+]].
 
 Plugin 1 is a predefined plugin and not editable.
 
-For more information, see [Plugins](key_plugins.html).
+For more information, see [[Sections/Plugins]].
 
 ## Syntax
 

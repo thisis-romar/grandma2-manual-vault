@@ -90,13 +90,13 @@ Tap to clear the values from the programmer.
 Tap to deactivate the values in the programmer. The value is not active anymore in the programmer.
 
 **Remove:**  
-Tap to enter remove values in the programmer. For more information, see [Remove keyword](key_keyword_remove.html).
+Tap to enter remove values in the programmer. For more information, see [[Keywords/Remove|Remove keyword]].
 
 **Release:**  
-Tap to enter release values in the programmer. For more information, see [Release keyword](key_keyword_release.html).
+Tap to enter release values in the programmer. For more information, see [[Keywords/Release|Release keyword]].
 
 **Default Link:**  
-Tap that the attribute links to their default values. For more information, see [Default keyword](key_keyword_default.html).
+Tap that the attribute links to their default values. For more information, see [[Keywords/Default|Default keyword]].
 
 ← [[Pages/Workspace/Touch gestures]] | [[Pages/Workspace/Info]] →
 

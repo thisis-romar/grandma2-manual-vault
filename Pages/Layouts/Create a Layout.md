@@ -27,7 +27,7 @@ Version 3.9
 It is possible to create layouts for each part of the stage.
 
 **Important:**  
-Create a layout in the layout pool and edit the layout in the layout view. For more information see [Edit layout](key_layouts_edit.html). 
+Create a layout in the layout pool and edit the layout in the layout view. For more information see [[Pages/Layouts/Edit Layout|Edit layout]]. 
 
 To create a layout:
 

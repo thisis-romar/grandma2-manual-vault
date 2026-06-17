@@ -29,7 +29,7 @@ Mini executor bars are visible at the bottom of screen 3 (grandMA2 light and gra
 
 The mini executor displays valuable information about the content and functions of the executor.
 
-You can assign functions to the executors using the **Assign Menu**, or you can use the Assign key. For more information, see [Assign key](key_key_assign.html).To open the Assign Menu by using the mini executor, tap in the upper area of the mini executor.
+You can assign functions to the executors using the **Assign Menu**, or you can use the Assign key. For more information, see [[Keys/Assign Key|Assign key]].To open the Assign Menu by using the mini executor, tap in the upper area of the mini executor.
 
 ![](../../img/img_mini-executor-assign-menu_v3_2.png)
 
@@ -43,11 +43,11 @@ _Mini executor bar or command wing bar_
 
 For more information, see:
 
-*   [Sequence mini executor](key_cs_sequence_mini_executor.html)
-*   [Assign effect to executor](key_effects_assign_to_executor.html)
-*   [Assign macro to a button](key_macro_assign.html)
-*   [Chaser mini executor](key_chaser_mini_executer.html)
-*   [Group master mini executor](key_groups_master.html)
+*   [[Pages/Command Syntax and Keywords/Sequence mini executor]]
+*   [[Pages/Effects/Assign effect to executor]]
+*   [[Pages/Macros/Assign a macro to a key|Assign macro to a button]]
+*   [[Pages/Chasers/Chaser mini executor]]
+*   [[Pages/Groups/Group Master on Executors|Group master mini executor]]
 
 ← [[Pages/Workspace/Command Section]] | [[Pages/Workspace/Work with views]] →
 

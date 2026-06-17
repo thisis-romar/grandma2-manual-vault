@@ -43,7 +43,7 @@ _Preset pool options_
 **Hint:**  
 All preset pools have the same pool options. 
 
-3.  To adjust the frame color, to reset colors or apply a different style and font see [Adjust pool options](key_pools_options.html#preset_options). 
+3.  To adjust the frame color, to reset colors or apply a different style and font see [[Pages/Pools/Adjust pool options]]. 
 
  **Hint:**  
 To reset the colors in all preset pools, press Setup and tap User Settings – Window Settings – Presets and then subsequently tap Reset All Preset Pool Colors. 
@@ -72,8 +72,8 @@ _Option – all active and some active_
 
 * * *
 
-6.  To change the modes Normal Call and Fast Call see [Call modes](key_pools_call_modes.html). 
-7.  To choose the default store option of the preset, tap Default Store Universal. This mode is usually the default for the preset type **Dimmer**. For more information on the store options of presets see [Create presets](key_presets_create.html). 
+6.  To change the modes Normal Call and Fast Call see [[Pages/Pools/Call Modes|Call modes]]. 
+7.  To choose the default store option of the preset, tap Default Store Universal. This mode is usually the default for the preset type **Dimmer**. For more information on the store options of presets see [[Pages/Presets/Create Presets|Create presets]]. 
 
 **Hint:**  
 It is also possible to set the default of the preset type via **Setup**:  

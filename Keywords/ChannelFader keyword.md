@@ -28,11 +28,11 @@ To execute this keyword type ChannelFader or one of the shortcuts – **CF** or
 ChannelFader \[ID\]
 
 **Important:**  
-To use ChannelFader create a ChannelPage first. For more information on how to create a channel page see [ChannelPage](key_keyword_channelpage.html).
+To use ChannelFader create a ChannelPage first. For more information on how to create a channel page see [[Keywords/ChannelPage keyword|ChannelPage]].
 
 The default function for ChannelFader is Call. Calling a ChannelFader will change the executor faders to Channel mode.
 
-For more information on call see [Call](key_keyword_call.html). 
+For more information on call see [[Keywords/Call keyword|Call]]. 
 
 ## Example:
 

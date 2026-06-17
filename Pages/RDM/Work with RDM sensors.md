@@ -54,7 +54,7 @@ The following example explains how to monitor RDM sensors.
 In default the transmitted sensor data are displayed at the far right of the RDM sheet.
 
 Hint:  
-You can also monitor the RDM sensors by using the [RDMInfo keyword](key_keyword_rdminfo.html).
+You can also monitor the RDM sensors by using the [[Keywords/RdmInfo|RDMInfo keyword]].
 
 * * *
 

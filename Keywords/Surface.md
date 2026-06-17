@@ -23,7 +23,7 @@ To go to the Surface keyword, type **Surface** in the command line or use the sh
 
 ## Description
 
-The Surface keyword, loads a created surface form the [Wing & Monitor Setup](key_window_faderwing_commandwing_setup.html).
+The Surface keyword, loads a created surface form the [[Pages/Console Settings/Wing & Monitor Setup]].
 
 The default function for this object is **Call**. Call a Surface activates the settings of the given surface.
 

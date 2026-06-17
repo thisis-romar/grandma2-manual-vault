@@ -47,10 +47,10 @@ MA Lighting does not cover damages which can be the result of an inobservance of
 
 #### Sub topics
 
-*   [Symbols used](key_safety_information_symbols_used.html)
-*   [Intended use](key_safety_information_intended_use.html)
-*   [Dangers caused by electric current](key_safety_information_dangers_caused_by_electric_cur.html)
-*   [General safety instructions](key_safety_information_general_safety_instructions.html)
+*   [[Pages/Safety Information/Symbols Used|Symbols used]]
+*   [[Pages/Safety Information/Intended Use|Intended use]]
+*   [[Pages/Safety Information/Dangers Caused by Electric Current|Dangers caused by electric current]]
+*   [[Pages/Safety Information/General Safety Instructions|General safety instructions]]
 
 ## Pages in This Section
 

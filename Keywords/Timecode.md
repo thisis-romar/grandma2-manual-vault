@@ -41,7 +41,7 @@ timecode shows.
 
 The Timecode keyword, is an object keyword.
 
-For more information, see [Timecode](key_timecode.html).
+For more information, see [[Sections/Timecode]].
 
 ## Syntax
 
@@ -51,7 +51,7 @@ Assign Timecode \[ID\] / \[Parameter\] = \[Parameter Value\]
 
 ## Parameter
 
-The following table displays the assignable parameters by using the [Assign keyword](key_keyword_assign.html).
+The following table displays the assignable parameters by using the [[Keywords/Assign keyword]].
 
 Parameter
 

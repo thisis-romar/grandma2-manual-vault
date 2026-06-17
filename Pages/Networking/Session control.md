@@ -86,7 +86,7 @@ A **Slow** session means that data packets are being cued up and sent at a slowe
 
 The session speed is automatically changed if the master detects older hardware directly behind the network adapter and only when the station is switched on - when the first device is a gigabit switch, it is always fast. The only way to manually change the speed is to limit a Ethernet connection to 100Mbit in the switch or in the station.
 
-Each station also have a Link Speed column. Here it shows directly the Mbit speed connection for the station. You can change what the network card in the console is set to using the [SetNetworkSpeed command](key_keyword_setnetworkspeed.html).
+Each station also have a Link Speed column. Here it shows directly the Mbit speed connection for the station. You can change what the network card in the console is set to using the [[Keywords/SetNetworkSpeed|SetNetworkSpeed command]].
 
 Please read the following pages to learn about creating sessions and adding more devices to the session.
 
@@ -96,11 +96,11 @@ Please read the following pages to learn about creating sessions and adding more
 
 #### Sub topics
 
-*   [How to create a session](key_network_session_create.html)
-*   [Protecting the session and station](key_network_session_protect.html)
-*   [Adding devices to the session](key_network_session_add_device.html)
-*   [How to end or leave a session](key_network_session_end_leave.html)
-*   [Session collision](key_network_session_collision.html)
+*   [[Pages/Networking/How to create a session]]
+*   [[Pages/Networking/Protecting the session and station]]
+*   [[Pages/Networking/Adding devices to the session]]
+*   [[Pages/Networking/How to end or leave a session]]
+*   [[Pages/Networking/Session Collision|Session collision]]
 
 ← [[Pages/Networking/Using DHCP in MA devices]] | [[Pages/Networking/Getting DMX in and out of the system]] →
 

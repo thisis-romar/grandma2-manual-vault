@@ -25,7 +25,7 @@ To get the EffectBPM keyword in the command line type **EffectBPM** or the short
 
 EffectBPM is a helping keyword to indicate individual effect speed in BPM (= beats per minute).
 
-For more information on effect speed see [effects](key_effects.html).
+For more information on effect speed see [[Sections/Effects|effects]].
 
 ## Syntax
 

@@ -50,7 +50,7 @@ If no object is given, the current selection will be used.
 
 RdmAutomatch is a function keyword.
 
-For more information, see [RDM](key_rdm.html).
+For more information, see [[Sections/RDM]].
 
 ## Syntax
 

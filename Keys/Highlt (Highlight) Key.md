@@ -25,7 +25,7 @@ The key Highlt is located in the command area on the left of the key Solo.
 
 _Location k__ey_ _Highlight_ 
 
-Pressing Highlt executes the [Highlight keyword](key_keyword_highlight.html) and turns on or off the Highlight mode.
+Pressing Highlt executes the [[Keywords/Highlight|Highlight keyword]] and turns on or off the Highlight mode.
 
 Pressing and and holding Highlt causes the selected fixture or channel to flash. Highlt is flashing between the dimmer default value and the dimmer highlight value.
 

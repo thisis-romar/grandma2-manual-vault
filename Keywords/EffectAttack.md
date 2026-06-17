@@ -25,7 +25,7 @@ To get the EffectAttack keyword in the command line type **EffectAttack** or the
 
 EffectAttack is a helping keyword used to indicate individual EffectAttack of a pulse width modulation form.
 
-For more information on effect attack see [effects](key_effects.html).
+For more information on effect attack see [[Sections/Effects|effects]].
 
 ## Syntax
 

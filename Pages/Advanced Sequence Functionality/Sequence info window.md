@@ -31,7 +31,7 @@ The first line can be visible in the Sequence Executor Sheet, but the next lines
 
 The Sequence Info window displays all the cue info text in one window in an easy to read overview.
 
-The window can be created using the [Create Basic Windows pop-up](key_windows.html) and is found in the "Other" tab.
+The window can be created using the [[Sections/Windows|Create Basic Windows pop-up]] and is found in the "Other" tab.
 
 It could look like this:
 
@@ -56,7 +56,7 @@ Opening the Options for this window give the option to change the font size of t
 
 ## Editing the Cue info
 
-The cue information can be edited by editing the Info cell in the [Sequence Executor Sheet](key_cs_cue_sequence.html) or Edit Mode can be activated in this Sequence Info Window.
+The cue information can be edited by editing the Info cell in the [[Pages/Command Syntax and Keywords/Looking at the Cue Sequence|Sequence Executor Sheet]] or Edit Mode can be activated in this Sequence Info Window.
 
 Editing the info will open the Edit Info pop-up. It could look like this:
 

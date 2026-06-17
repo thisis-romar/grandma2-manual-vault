@@ -117,6 +117,6 @@ The color picker looks the same no matter what color system your fixtures are us
 
 Notice how your Fixture Sheet changes and always shows you what your fixture is outputting.
 
-Take some time to experiment with the fixture controls. When you are done, clear your programmer and move on to the [next page](key_12_preset_pool.html).
+Take some time to experiment with the fixture controls. When you are done, clear your programmer and move on to the [[QuickStart/Preset and Preset Pool|next page]].
 
 Part of [[000 Map of Content]]

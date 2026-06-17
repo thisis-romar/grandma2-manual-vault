@@ -44,7 +44,7 @@ The devices are separated into different classes. There is a limit of how many d
 
 The amount of RAM or memory is important. It is recommended to have a minimum of 8GB in every class A device in the session. If one device has lower memory, then the entire system can only utilize the lowest amount of memory. For instance if one MA  NPU only has 4GB, then the entire session can only use 4GB.
 
-Memory is related to the size of the show file. If the maximum amount of parameters is used, then the amount of cues that can be stored is lower. User Profiles, the amount of fixtures patched, 3D objects in the show file, bitmaps, and so on all affects the memory use. The current memory use and the free memory can be monitored in the [Desk Status window](key_ost_desk_status.html).
+Memory is related to the size of the show file. If the maximum amount of parameters is used, then the amount of cues that can be stored is lower. User Profiles, the amount of fixtures patched, 3D objects in the show file, bitmaps, and so on all affects the memory use. The current memory use and the free memory can be monitored in the [[Pages/Other System Tools/Desk status|Desk Status window]].
 
 For big systems it is always recommended to have an entire system running minimum 1 Gbit/s speed. This goes for all devices including the DMX nodes. It is not recommended to use older nodes that only run 100Mbit/s or 10Mbit/s speed. For a synchronized real time DMX output only use MA Nodes.
 

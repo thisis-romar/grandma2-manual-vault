@@ -29,8 +29,8 @@ After the bitmap fixture is imported, it is necessary to have a layout containin
 
 **Requirement:**
 
-*   [An imported bitmap fixture](key_bitmapfixture_import.html)
-*   [A created layout view containing the fixtures using the bitmap fixture](key_layouts_create.html)
+*   [[Pages/Bitmap Fixture/Import bitmap fixture|An imported bitmap fixture]]
+*   [[Pages/Layouts/Create a Layout|A created layout view containing the fixtures using the bitmap fixture]]
 
 1.  Tap in the title bar of the layout view Setup.  
     The **layout encoder bar** opens.

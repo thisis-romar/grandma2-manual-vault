@@ -46,7 +46,7 @@ Del + Group + 4 + Please
 
 Most commonly used keywords have their own keys. Others may only be accessed by repeatedly pressing a key or press and hold a key. 
 
-For more information on multiple functions of keys see [Key overview](key_keys_key_overview.html). 
+For more information on multiple functions of keys see [[Pages/Keys and Buttons/Key Overview|Key overview]]. 
 
 **Important:**  
 All keywords can be typed into the command line using the keyboard. 
@@ -63,7 +63,7 @@ Here you will see the history of your commands. 
 
 \[time\] : Executing: Delete Group 4
 
-For more information on how to use the command line in detail see [Command line](key_widget_command_line.html). 
+For more information on how to use the command line in detail see [[Pages/Workspace/Command Line|Command line]]. 
 
   
 
@@ -71,9 +71,9 @@ For more information on how to use the command line in detail see [Command line]
 
 #### Sub topics
 
-*   [General syntax rules](key_cs_general_syntax_rules.html)
-*   [All keywords](key_cs_all_keywords.html)
-*   [Work with lists](key_cs_work_with_lists.html)
+*   [[Pages/Command Syntax and Keywords/General Syntax Rules|General syntax rules]]
+*   [[Pages/Command Syntax and Keywords/All keywords]]
+*   [[Pages/Command Syntax and Keywords/Work with Lists|Work with lists]]
 
 ## Pages in This Section
 

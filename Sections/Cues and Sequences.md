@@ -36,9 +36,9 @@ Version 3.9
 
 This section is about creating, editing and viewing the cues and sequences. This is some of the primary functions of a lighting console.
 
-The topics here describe all the basic functions and operations regarding cues and sequences. Sequences are closely related to Executors. Taking a look at the [Executors section](key_exec.html) might also be a good idea.
+The topics here describe all the basic functions and operations regarding cues and sequences. Sequences are closely related to Executors. Taking a look at the [[Sections/Executors|Executors section]] might also be a good idea.
 
-The more advanced options and functions for sequences are described in the [Advanced Sequence Functionality section](key_adv_seq.html). For instance this section only describes the most used elements in the Sequence Executor Sheet - the advanced section describes the rest. 
+The more advanced options and functions for sequences are described in the [[Sections/Advanced Sequence Functionality|Advanced Sequence Functionality section]]. For instance this section only describes the most used elements in the Sequence Executor Sheet - the advanced section describes the rest. 
 
   
 
@@ -46,20 +46,20 @@ The more advanced options and functions for sequences are described in the [Adva
 
 #### Sub topics
 
-*   [What are cues and sequences](key_cs_what_are.html)
-*   [Looking at the cue sequence](key_cs_cue_sequence.html)
-*   [Store cues](key_cs_store.html)
-*   [Store options and defaults](key_cs_store_options_default.html)
-*   [Cue timings](key_cs_cue_timings.html)
-*   [Renumber cues](key_cs_renumber_cues.html)
-*   [Delete cues](key_cs_delete_cues.html)
-*   [Playing back cues](key_cs_playback.html)
-*   [Looking at the cue content](key_cs_cue_content.html)
-*   [Update cues](key_cs_update_cues.html)
-*   [What is tracking](key_cs_what_is_tracking.html)
-*   [What is MIB](key_cs_what_is_mib.html)
-*   [Sequence mini executor](key_cs_sequence_mini_executor.html)
-*   [Commands in cues](key_cs_cmd_in_cues.html)
+*   [[Pages/Command Syntax and Keywords/What are cues and sequences]]
+*   [[Pages/Command Syntax and Keywords/Looking at the Cue Sequence|Looking at the cue sequence]]
+*   [[Pages/Command Syntax and Keywords/Storing cues|Store cues]]
+*   [[Pages/Command Syntax and Keywords/Store Options and Defaults|Store options and defaults]]
+*   [[Pages/Command Syntax and Keywords/Cue timings]]
+*   [[Pages/Command Syntax and Keywords/Renumber cues]]
+*   [[Pages/Command Syntax and Keywords/Delete Cues|Delete cues]]
+*   [[Pages/Command Syntax and Keywords/Playing back Cues|Playing back cues]]
+*   [[Pages/Command Syntax and Keywords/Looking at the cue content]]
+*   [[Pages/Command Syntax and Keywords/Update cues]]
+*   [[Pages/Command Syntax and Keywords/What is Tracking|What is tracking]]
+*   [[Pages/Command Syntax and Keywords/What is MIB]]
+*   [[Pages/Command Syntax and Keywords/Sequence mini executor]]
+*   [[Pages/Command Syntax and Keywords/Commands in cues]]
 
 ## Pages in This Section
 

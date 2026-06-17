@@ -95,7 +95,7 @@ With the trackball resolution you can set if the trackball should work:
 
 With the lower buttons of the bigger part of the encoder settings pop-up, you can adjust the encoder resolution. You can set the encoder resolution for each attribute. That means dimmer can be set to fine and pan to normal.
 
-You can also set the encoder resolution in the [encoder toolbar](key_ws_encoder_toolbar.html).
+You can also set the encoder resolution in the [[Pages/Workspace/Encoder Toolbar|encoder toolbar]].
 
 Another way to set the encoder resolution is to press Setup, tap Patch & Fixture Schedule, tap Fixture Types, tap Attributes & Encoder Grouping, tap at the **preset type** and in the table **Attributes of Feature** is a column **Encoder Resolution**.
 
@@ -134,7 +134,7 @@ To bring the dialogs back to their default screens:
 
 The will be open the next time on their default screen.
 
-Another way to switch the dialog to default screen is, using the [Menu Keyword](key_keyword_menu.html).
+Another way to switch the dialog to default screen is, using the [[Keywords/Menu|Menu Keyword]].
 
 * * *
 
@@ -146,7 +146,7 @@ To clear the screen by using the encoder settings pop-up:
 
 The screen on that you tapped the button is cleared.
 
-For another way to clear the screen, see [user defined area](key_widget_user_defined_area.html).
+For another way to clear the screen, see [[Pages/Workspace/User-Defined Area|user defined area]].
 
 * * *
 

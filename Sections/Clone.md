@@ -43,13 +43,13 @@ Avoid using fixture specific functions, e.g. build-in fixture macros. Use generi
 
 1.  To clone in order to copy values from fixture to fixture.
 2.  To clone a selection of fixtures to another selection of fixtures. 
-3.  To clone using the [keyword Clone](key_keyword_clone.html) or the [screen](key_clone_clone_in_user_interface.html). 
+3.  To clone using the [[Keywords/Clone keyword|keyword Clone]] or the [[Pages/Clone/Clone In User Interface|screen]]. 
 
 **Important:**  
 It is not possible to clone values from several fixtures to a single fixture. Cloning is only possible with one set of values. 
 
 **Important:**  
-It is possible to limit the scope of cloning by using the [keyword If](key_keyword_if.html).
+It is possible to limit the scope of cloning by using the [[Keywords/If|keyword If]].
 
 By default, the cloning is done with low priority. This means that data is preserved wherever the destination fixtures or fixture types already contain data. The data from the source fixtures or fixture types is added to objects such as presets, cues, effects etc. where data does not exist yet. 
 
@@ -62,7 +62,7 @@ The console automatically clones dependencies, e.g. presets and effects by refer
 
 Contrary to clone, replace does not preserve data, i.e. data is overwritten.  
 
-For more information on replace see [Search and Replace](key_search_replace.html). 
+For more information on replace see [[Sections/Search and Replace]]. 
 
   
 
@@ -70,9 +70,9 @@ For more information on replace see [Search and Replace](key_search_replace.html
 
 #### Sub topics
 
-*   [Clone in user interface](key_clone_clone_in_user_interface.html)
-*   [Examples](key_clone_examples.html)
-*   [Clone presets](key_clone_clone_presets.html)
+*   [[Pages/Clone/Clone In User Interface|Clone in user interface]]
+*   [[Pages/Clone/Examples]]
+*   [[Pages/Clone/Clone Presets|Clone presets]]
 
 ## Pages in This Section
 

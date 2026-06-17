@@ -25,7 +25,7 @@ The key Tools is located in the command area on the left of the key Setup.
 
 _Location_ _Key_ _Tools_ 
 
-Pressing Tools executes the [Tools keyword](key_keyword_tools.html). The menu Tools opens.
+Pressing Tools executes the [[Keywords/Tools|Tools keyword]]. The menu Tools opens.
 
 ![](../../img/menu_tools_3-4.png)
 

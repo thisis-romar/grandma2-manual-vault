@@ -114,7 +114,7 @@ The default options of fixtures and channels are similar to those of the pool el
 1.  To enable or disable the display of the fixture or channel IDs in the layout view, tap the buttons below **Show Fixture ID** or **Show Channel ID**.
 2.  Next, enable or disable the notification of RDM in the layout view:  
     \-Tap the button below **RDM Notifications**.  
-    If you enable the notification of RDM, RDM alert or warning will be shown in the layout view. For more information on RDM notifications see [Configure RDM notifications](key_rdm_notifications.html).
+    If you enable the notification of RDM, RDM alert or warning will be shown in the layout view. For more information on RDM notifications see [[Pages/RDM/Configure RDM notifications]].
 
 * * *
 
@@ -151,7 +151,7 @@ If the fast call is enabled in the tab Title Buttons, the button Fast Call will 
     
     _Pop-up – Select Pool Playback_
     
-    For more information on playback see [Cues and sequences – Playing back cues](key_cs_playback.html).  
+    For more information on playback see [[Pages/Command Syntax and Keywords/Playing back Cues|Cues and sequences – Playing back cues]].  
        
     \-Select one option here.  
 7.  Then, select a layer by tapping the drop-down button below **Select Layer**.  
@@ -161,7 +161,7 @@ If the fast call is enabled in the tab Title Buttons, the button Fast Call will 
     
     _Pop-up – Select Layer_
     
-    For more information on layers see [Layers in sheets – channel sheet and fixture sheet](key_of_layers_in_sheets_channel_and_fixture.html).  
+    For more information on layers see [[Pages/Operate Fixtures/Channel Sheet and Fixture Sheet|Layers in sheets – channel sheet and fixture sheet]].  
       
        
     \-Select one of the three layers here. 

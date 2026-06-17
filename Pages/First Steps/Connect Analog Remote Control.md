@@ -37,7 +37,7 @@ There are two ways to generate a switch:
 
 Then connect the switch to one input pin 1-16 with a potential free contact (switcher, buzzer, motion detector, or any other switching device) in between.
 
-To configure the remote see [Remote Controlling the System - Remote Input](key_remote_control_input.html).
+To configure the remote see [[Pages/Remote Control/Remote Inputs|Remote Controlling the System - Remote Input]].
 
 **Pin layout for grandMA2 consoles:**    
 The grandMA2 consoles have a 25 pin D-sub, enabling 16 remote inputs:  

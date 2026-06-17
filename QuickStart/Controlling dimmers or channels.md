@@ -69,6 +69,6 @@ You can also use '+' and '-' to change the value. 5 At + 3 0 Please. This 
 
 Now you know how to assign values to channels. End this section by clearing your programmer.
 
-On the [next page](key_05_groups.html) we are going to look at Groups.
+On the [[QuickStart/Working with Groups|next page]] we are going to look at Groups.
 
 Part of [[000 Map of Content]]

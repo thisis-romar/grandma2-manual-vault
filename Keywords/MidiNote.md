@@ -23,7 +23,7 @@ To use to the MidiNote keyword, type **MidiNote** or the shortcut **Mn** in the
 
 ## Description
 
-With the MidiNote command, you send MIDI Note messages via the Midi Out port at the back of the console. For more information, see [Device Overview](key_device_overview.html).
+With the MidiNote command, you send MIDI Note messages via the Midi Out port at the back of the console. For more information, see [[Sections/Device Overview]].
 
 If a MIDI channel is entered in the command, the entered MIDI channel will be used.  
 If no MIDI channel is entered, the MIDI channel in the **Setup -> Midi Show Control** is used.
@@ -33,7 +33,7 @@ If no velocity is entered, a velocity full (127) will be used.
 
 If the Off command is used, a MidiNote Off is sent.
 
-For more information on the configuration of MIDI Remotes see [Remote Inputs Setup](key_remote_control_input.html). 
+For more information on the configuration of MIDI Remotes see [[Pages/Remote Control/Remote Inputs|Remote Inputs Setup]]. 
 
 ## Syntax
 

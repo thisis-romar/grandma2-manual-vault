@@ -24,7 +24,7 @@ Version 3.9
 
 # Create an appointment in the agenda
 
-To create an appointment in the agenda, tap on a date in the Agenda window. To get to the **Agenda window**, see the [What is agenda](key_agenda_what_is.html) topic.
+To create an appointment in the agenda, tap on a date in the Agenda window. To get to the **Agenda window**, see the [[Pages/Agenda/What is agenda]] topic.
 
 The Agenda window will now change, and it could look like this:
 
@@ -45,7 +45,7 @@ When adding a new appointment, it is possible to fill in 8 fields. Tap on the f
 
 The field Start handles what time the appointment should start. This could be at an exact time (Absolute) or it could be set to Dawn, Sunrise, Sunset or Dusk according to the time and place the console is set to.
 
-For more information about time and place, see the [Date & time](key_date_time.html) topic.
+For more information about time and place, see the [[Pages/Console Settings/Date & Time|Date & time]] topic.
 
 ## Time
 
@@ -72,7 +72,7 @@ CMD
 
 This is the command that will be executed for this appointment.
 
-For more information about commands and keywords, see the [Command Syntax and Keywords](key_command_syntax_and_keywords.html) topic.
+For more information about commands and keywords, see the [[Sections/Command Syntax and Keywords]] topic.
 
 ## Info
 

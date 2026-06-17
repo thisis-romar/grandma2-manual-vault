@@ -25,7 +25,7 @@ Version 3.9
 
 # Position fixtures in the virtual 3D stage
 
-To fully enjoy the [Stage view](key_patch_stage.html) you will need to position your fixtures in the virtual 3D stage.
+To fully enjoy the [[Pages/Patching/Stage View|Stage view]] you will need to position your fixtures in the virtual 3D stage.
 
 There are several places where you can change the location of the fixtures in the 3D stage. One option is directly in the Stage view, but there are also several places in the setup where you can do this. It can also be done in a connected MA 3D.
 
@@ -156,7 +156,7 @@ When you are happy with your settings you can tap the Apply button once or sever
 
 ## Layers in setup
 
-You can also position and rotate the fixtures in the [EditSetup](key_patch_add_fixtures.html#fixture_list) or [LiveSetup](key_patch_livepatch.html).
+You can also position and rotate the fixtures in the [[Pages/Patching/Adding fixtures to the show|EditSetup]] or [[Pages/Patching/Live patching|LiveSetup]].
 
 In the menu you need to select the layer containing the fixtures you want to position. Then scroll the right side almost all the way to the right. Here you'll find position and rotation XYZ values for each fixture.
 
@@ -170,7 +170,7 @@ It could look like this:
 
 _Fixture Positions pop-up_
 
-The top half works a lot like the [Stage View](key_patch_stage.html). Although there is an extra swipe button in the title bar.
+The top half works a lot like the [[Pages/Patching/Stage View]]. Although there is an extra swipe button in the title bar.
 
 This is a layer selection. Swiping this will show you all the layers in your setup, but it will also include a layer with all the "3D objects".
 

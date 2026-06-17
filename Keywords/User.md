@@ -38,7 +38,7 @@ _Command Line Feedback List User_
 
 The User keyword is an object keyword.
 
-For more information, see [create user profiles and user](key_single_multi_systems_create.html).
+For more information, see [[Pages/Single and Multi User Systems/Create user profiles and users|create user profiles and user]].
 
 ## Syntax
 

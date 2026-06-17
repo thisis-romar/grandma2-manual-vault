@@ -37,7 +37,7 @@ When the show file is loaded, the LUA engine and plugins code are (re)loaded, wh
 The ReloadPlugins keyword is a function keyword.
 
 **Hint:**  
-Double-check the executed command in the [system monitor](key_ost_system_monitor.html).
+Double-check the executed command in the [[Pages/Other System Tools/System monitor|system monitor]].
 
 ## Syntax
 

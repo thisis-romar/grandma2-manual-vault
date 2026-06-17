@@ -22,7 +22,7 @@ Version 3.9
 ## A
 
 **Art-Net:**  
-Art-Net 3 Ethernet communication standard. A protocol for transmitting the lighting control protocol DMX 512-A via the User Datagram Protocol of the Internet Protocol suite. For information on how to use Art-Net see [Network Protocols](key_network_dmx_protocols.html). For information on how to assign Art-Net Presets on ports for the MA Network Switch see [Control the MA Network Switch - Edit Presets](key_control_ma_switch_presets.html).
+Art-Net 3 Ethernet communication standard. A protocol for transmitting the lighting control protocol DMX 512-A via the User Datagram Protocol of the Internet Protocol suite. For information on how to use Art-Net see [[Pages/Networking/Network DMX protocols|Network Protocols]]. For information on how to assign Art-Net Presets on ports for the MA Network Switch see [[Pages/Control MA Network Switch/Edit presets of the MA Network Switch|Control the MA Network Switch - Edit Presets]].
 
 **Attributes:**  
 Controllable function of a fixture, e.g., pan or gobo wheel3.
@@ -33,10 +33,10 @@ If you change the page, all executors which are on will automatically be fixed.�
 ## B
 
 **Blind:**  
-Create values without DMX output. For more information see [Blind Key](key_key_blind.html) and [Blind Command](key_keyword_blind.html).
+Create values without DMX output. For more information see [[Keys/Blind Key]] and [[Keywords/Blind keyword|Blind Command]].
 
 **B.O.** (black out):  
-Brings dimmer values to zero. For more information see [B.O. Key](key_key_blackout.html).
+Brings dimmer values to zero. For more information see [[Keys/B.O. (Blackout) Key|B.O. Key]].
 
 **BPM** (beats per minute):  
 Speed of chasers or effects is counted in beats per minute.
@@ -44,31 +44,31 @@ Speed of chasers or effects is counted in beats per minute.
 ## C
 
 **Channel:**  
-For more information see [Channel Sheet](key_of_channel_sheet.html).
+For more information see [[Pages/Operate Fixtures/Channel Sheet|Channel Sheet]].
 
 **Channel Sets:**  
 Predefined values within the fixture type for fast access.
 
 **Chaser:**  
-A chaser is an executor mode that runs randomly, in a loop or bounces in the cue list. For more information see [Chasers](key_chaser.html). 
+A chaser is an executor mode that runs randomly, in a loop or bounces in the cue list. For more information see [[Sections/Chasers]]. 
 
 **Cmd** (Command):  
 Instructions you enter into the console.
 
 **Command Section:**  
-Area on the right of the console used to enter commands into the command line using keys. For more information see [Command section](key_ws_command_section.html). 
+Area on the right of the console used to enter commands into the command line using keys. For more information see [[Pages/Workspace/Command Section|Command section]]. 
 
 **Command Line:**  
-The command line is located at the bottom of screen 1 and screen 2. It is used to enter commands into the console. For more information see [Workspace - User Interface - Command Line](key_widget_command_line.html).
+The command line is located at the bottom of screen 1 and screen 2. It is used to enter commands into the console. For more information see [[Pages/Workspace/Command Line|Workspace - User Interface - Command Line]].
 
 **Constant bit rate (CBR):**  
-Constant bit rate defines the bit rate images are encoded with. The data stream is constant. This means that every image has the same size. Constant bit rate is used in [bitmap fixtures](key_bitmapfixture.html).
+Constant bit rate defines the bit rate images are encoded with. The data stream is constant. This means that every image has the same size. Constant bit rate is used in [[Sections/Bitmap Fixture|bitmap fixtures]].
 
 **Control:**  
 Control attributes are, for example lamp control, fixture global and scan rate.
 
 **Cue:**  
-Cues contain values that were stored. For more information see [What are cues and sequences](key_cs_what_are.html). 
+Cues contain values that were stored. For more information see [[Pages/Command Syntax and Keywords/What are cues and sequences]]. 
 
 **Cue List:**  
 List containing more than one cue and which is stored on an executor.
@@ -76,7 +76,7 @@ List containing more than one cue and which is stored on an executor.
 ## D
 
 **DHCP** (Dynamic Host Control Protocol):  
-Is a standardized network protocol used on Internet Protocol (IP) networks for dynamically distributing network configuration parameters, such as IP addresses for interfaces and services. With DHCP, computers request IP addresses and networking parameters automatically from a DHCP server, reducing the need for a network administrator or a user to configure these settings manually. To enable or disable DHCP for the MA Network Switch see [Control the MA Network Switch - Enable DHCP client](key_control_ma_switch_dhcp.html).
+Is a standardized network protocol used on Internet Protocol (IP) networks for dynamically distributing network configuration parameters, such as IP addresses for interfaces and services. With DHCP, computers request IP addresses and networking parameters automatically from a DHCP server, reducing the need for a network administrator or a user to configure these settings manually. To enable or disable DHCP for the MA Network Switch see [[Pages/Control MA Network Switch/Enable DHCP client for the MA Network Switch|Control the MA Network Switch - Enable DHCP client]].
 
 **Dimmer Wheel:**  
 The wheel located rightmost on the console. It is always assigned to the dimmer attributes of the selected fixtures.
@@ -97,7 +97,7 @@ Is an indicator for how many DMX channels the fixture type needs.
 One DMX universe contains 512 DMX channels. You can connect one universe to one XLR connector.
 
 **DVI-D** (digital visual interface - digital):  
-Connection for external screen. For more information see [Device Overview](key_device_overview.html).
+Connection for external screen. For more information see [[Sections/Device Overview]].
 
 ## E
 
@@ -105,13 +105,13 @@ Connection for external screen. For more information see [Device Overview](key_d
 Manipulates and creates looping changes of values from attributes.
 
 **Encoder:**  
-The five round rotary knobs below screen 1, to control values of attributes or scroll on the screen. For more information see [Device Overview](key_device_overview.html).
+The five round rotary knobs below screen 1, to control values of attributes or scroll on the screen. For more information see [[Sections/Device Overview]].
 
 **Ethernet:**  
-Is a local network with bus topology, what allows multiply devices access at the same time. It is used for communication between light consoles. The grandMA2 consoles have two Ethernet connectors. For more information see [Device Overview](key_device_overview.html).
+Is a local network with bus topology, what allows multiply devices access at the same time. It is used for communication between light consoles. The grandMA2 consoles have two Ethernet connectors. For more information see [[Sections/Device Overview]].
 
 **Executor:**  
-Button and fader executor on the console and executor in the virtual playbacks. You store cues on an executor. For more information see [What are executors](key_exec_what_are.html). 
+Button and fader executor on the console and executor in the virtual playbacks. You store cues on an executor. For more information see [[Pages/Executors/What are executors]]. 
 
 **Executor Button:**  
 Physical key on the console to execute cues.
@@ -134,7 +134,7 @@ Is an extension for the console with additional faders and executor Buttons.
 Group of attributes.
 
 **Fixture ID:**  
-Unique identifier for each fixture. Set the fixture ID in the [Patch & Fixture Schedule](key_patch_add_fixtures.html). 
+Unique identifier for each fixture. Set the fixture ID in the [[Pages/Patching/Adding fixtures to the show|Patch & Fixture Schedule]]. 
 
 **Fixture Library:**  
 Library with all common fixture types to import fixture types into the show file.
@@ -151,12 +151,12 @@ Is a picture frequency. The default setting is 30 fps. From this follows that 1 
 ## G
 
 **Grand master:**  
-Fader rightmost at the console to reduce all dimmer values. For more information see [Device Overview](key_device_overview.html).
+Fader rightmost at the console to reduce all dimmer values. For more information see [[Sections/Device Overview]].
 
 Groups relating to the Groups Pool:
 
 **Groups** relating to the MA Network Switch:  
-A logical segment of network users and resources grouped by function, team, or application. This segmentation is without regard to the physical location of the users and resources. Also known as VLAN. To edit groups see [Control the MA Network Switch - Edit Groups](key_control_ma_switch_groups.html).
+A logical segment of network users and resources grouped by function, team, or application. This segmentation is without regard to the physical location of the users and resources. Also known as VLAN. To edit groups see [[Pages/Control MA Network Switch/Edit groups of the MA Network Switch|Control the MA Network Switch - Edit Groups]].
 
 ## H
 
@@ -166,7 +166,7 @@ The color of a color notation in an angle between 0 and 360 degrees.
 ## I
 
 **IGMP** (Internet Group Management Protocol):  
-A protocol that manages how adapters and other components join and leave multicast groups. IGMP snooping is a feature of IGMP that allows Ethernet switches to look (snoop) inside packets to determine which destinations really need to receive the data. To edit IGMP settings for the MA Network Switch see [Control the MA Network Switch - Edit Groups](key_control_ma_switch_groups.html).
+A protocol that manages how adapters and other components join and leave multicast groups. IGMP snooping is a feature of IGMP that allows Ethernet switches to look (snoop) inside packets to determine which destinations really need to receive the data. To edit IGMP settings for the MA Network Switch see [[Pages/Control MA Network Switch/Edit groups of the MA Network Switch|Control the MA Network Switch - Edit Groups]].
 
 **Instances:**  
 Single controls of the fixture types, e.g. one pixel of a LED panel.
@@ -177,7 +177,7 @@ An aperture that controls the beam size of a fixture.
 ## L
 
 **LLDP** (Link Layer Discovery Protocol):  
-Used by network devices for advertising their identity, capabilities, and neighbors on an IEEE 802 local area network. LLDP will be disabled or enabled along with RSTP. To enable or disable RSTP see [Control the MA Network Switch - Configure Ports](key_control_ma_switch_ports.html).
+Used by network devices for advertising their identity, capabilities, and neighbors on an IEEE 802 local area network. LLDP will be disabled or enabled along with RSTP. To enable or disable RSTP see [[Pages/Control MA Network Switch/Configure ports of the MA Network Switch|Control the MA Network Switch - Configure Ports]].
 
 **Lua:**  
 Is a multi-paradigm programing language primarily designed for embedded systems and clients. 
@@ -188,7 +188,7 @@ Is a multi-paradigm programing language primarily designed for embedded systems 
 Prerecorded command combinations.
 
 **MA-Net2**:  
-Integral part of the MA System architecture. All MA series 2 devices are connected via the MA-Net2 as if they were one device. All of these components contain all system data that is needed to control the processes and to synchronize the outputs in real-time. To use MA-Net2 see [Network Protocols](key_network_dmx_protocols.html). To assign MA-Net2 Presets on ports for the MA Network Switch see [Control the MA Network Switch - Edit Presets](key_control_ma_switch_presets.html).
+Integral part of the MA System architecture. All MA series 2 devices are connected via the MA-Net2 as if they were one device. All of these components contain all system data that is needed to control the processes and to synchronize the outputs in real-time. To use MA-Net2 see [[Pages/Networking/Network DMX protocols|Network Protocols]]. To assign MA-Net2 Presets on ports for the MA Network Switch see [[Pages/Control MA Network Switch/Edit presets of the MA Network Switch|Control the MA Network Switch - Edit Presets]].
 
 **Master Rate:**  
 The master rate multiplies all timings by a factor.  
@@ -231,7 +231,7 @@ There are nine preset types to control from the console. Refer to, Preset Pool V
 Some values have a higher priority than others. In other words, they will not be overwritten by those with a lower priority. The programmer, for instance, has a higher priority than an executor. 
 
 **Programmer:**  
-Is a container with the current selection of fixtures and values of manual adjusted attributes. Programmer values are red values. For more information about the colors see [Workspace – Colors](key_ws_colors.html).
+Is a container with the current selection of fixtures and values of manual adjusted attributes. Programmer values are red values. For more information about the colors see [[Pages/Workspace/Colors|Workspace – Colors]].
 
 **Program Time Master:**  
 The program time master controls the fade times of all program values and effects between the 0 and 10 seconds. Adjust time in **Setup – User – Settings – Max. Program Time**.   
@@ -241,18 +241,18 @@ The program time master can be a fader. Refer to, Empty Executor Window.
 ## R
 
 **RDM** (= Remote Device Management Protocol):  
-Permits intelligent bidirectional communication between devices from multiple manufacturers using a modified DMX512 data link. RDM is an EF 1.0 implementation of ANSI E1.11 (DMX512-A). To use RDM see [RDM](key_rdm.html).
+Permits intelligent bidirectional communication between devices from multiple manufacturers using a modified DMX512 data link. RDM is an EF 1.0 implementation of ANSI E1.11 (DMX512-A). To use RDM see [[Sections/RDM]].
 
 **Rpm** (revolutions per minute):  
 Rotation speed of a gobo wheel in the unit revolutions per minute.
 
 **RSTP** (Rapid Spanning Tree Protocol):  
-Provides significantly faster spanning tree convergence after a topology change, introducing new convergence behaviors and bridge port roles to do this. To enable or disable RSTP for a port see [Control the MA Network Switch - Configure Ports](key_control_ma_switch_ports.html).
+Provides significantly faster spanning tree convergence after a topology change, introducing new convergence behaviors and bridge port roles to do this. To enable or disable RSTP for a port see [[Pages/Control MA Network Switch/Configure ports of the MA Network Switch|Control the MA Network Switch - Configure Ports]].
 
 ## S
 
 **sACN** (streaming Architecture for Control Networks)  
-ANSI E1.31-2009. A protocol to transport DMX512 data over IP networks. To use [sACN see Network Protocols](key_network_dmx_protocols.html).
+ANSI E1.31-2009. A protocol to transport DMX512 data over IP networks. To use [[Pages/Networking/Network DMX protocols|sACN see Network Protocols]].
 
 **Shutter:**  
 Fast open and close of the light output of a fixture type.
@@ -289,12 +289,12 @@ Vertical movement axis of an fixture.
 Call of a cue.
 
 **Trunk**:  
-This is the name given to the interconnection links between switches in a network. The Trunk links are meant to forward the groups based packets. In most case, the Trunk links will be the redundant links. To assign a port the Trunk group see [Control the MA Network Switch - Configure Ports](key_control_ma_switch_ports.html).
+This is the name given to the interconnection links between switches in a network. The Trunk links are meant to forward the groups based packets. In most case, the Trunk links will be the redundant links. To assign a port the Trunk group see [[Pages/Control MA Network Switch/Configure ports of the MA Network Switch|Control the MA Network Switch - Configure Ports]].
 
 ## U
 
 **UID** (= Unique Identifier):  
-All RDM devices have a unique identifier (UID) that consists of a manufacturer ID and serial number. The UID can be used as an option for several RDM keywords. To get a list of all available RDM keywords, see [specific RDM keywords](key_rdm_keywords.html).
+All RDM devices have a unique identifier (UID) that consists of a manufacturer ID and serial number. The UID can be used as an option for several RDM keywords. To get a list of all available RDM keywords, see [[Pages/RDM/RDM specific keywords|specific RDM keywords]].
 
 **Universe:**  
 See [DMX Universe](<#DMX universe>).
@@ -315,6 +315,6 @@ Grants remote access to the grandMA2 console via a web browser.
 Is the right fader next to the Master Fader. With the XFade you fade manual from one cue to the next cue.
 
 **XLR A-D:**  
-Four pin connector for DMX signal at the back of the console. For more information see [Technical Data](key_technical_data.html).
+Four pin connector for DMX signal at the back of the console. For more information see [[Sections/Technical Data]].
 
 Part of [[000 Map of Content]]

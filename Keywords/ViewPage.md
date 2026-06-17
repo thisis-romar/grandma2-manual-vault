@@ -41,7 +41,7 @@ Call view page 2.
 
 ## Related Links
 
-*   [View Key 1 - 10](key_key_v1-v10.html)
-*   [View Key](key_key_view.html)
+*   [[Keys/V1 - V10 Keys|View Key 1 - 10]]
+*   [[Keys/View Key]]
 
 Part of [[000 Keyword Index]] · [[000 Map of Content]]

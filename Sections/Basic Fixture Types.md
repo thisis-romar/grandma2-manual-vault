@@ -41,9 +41,9 @@ The MA Fixture Builder software can be downloaded from the MA dot2 site - MA dot
 
 #### Sub topics
 
-*   [What are attributes, features & preset types](key_basic_fixture_attribute_feature_preset.html)
-*   [ColorMix vs. MixColor](key_basic_fixture_colormix_mixcolor.html)
-*   [Different fixture types](key_basic_fixture_type.html)
+*   [[Pages/Basic Fixture Types/What are Attributes, Features & Preset Types|What are attributes, features & preset types]]
+*   [[Pages/Basic Fixture Types/ColorMix vs. MixColor]]
+*   [[Pages/Basic Fixture Types/Different Fixture Types|Different fixture types]]
 
 ## Pages in This Section
 

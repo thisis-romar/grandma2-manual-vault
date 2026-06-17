@@ -27,7 +27,7 @@ Version 3.9
 If the grandMA2 is not working as described in the manual, you can take the following steps:
 
 *   **Error message**: You cannot proceed with the next step of the description and you receive an error message:  
-    Refer to [Error Messages](key_error_messages.html) and repeat the procedure.  
+    Refer to [[Sections/Error Messages]] and repeat the procedure.  
     If the problem is still there, contact the technical support.
 *   **System is not working:** If you cannot proceed with the next step of the description and you do not receive an error message:  
     Contact the technical support and describe the last steps you took.

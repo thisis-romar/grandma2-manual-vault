@@ -30,15 +30,15 @@ You can also edit modules. 
 
 *   Add MA NDPs to the network configuration
 
-For more information see [Adding devices to your session](key_network_session_add_device.html). 
+For more information see [[Pages/Networking/Adding devices to the session|Adding devices to your session]]. 
 
 *   Open **MA Dimmer Network**
 
-For more information on how to open the **MA Dimmer Network** see [Network dimmer](key_ost_network_dimmer.html). 
+For more information on how to open the **MA Dimmer Network** see [[Pages/Other System Tools/Network Dimmer|Network dimmer]]. 
 
 1.  To edit a module, navigate down to the modules in the hierarchy of the dimmer network.
 
-For more information on how to navigate down in the hierarchy see [Network dimmer](key_ost_network_dimmer.html). 
+For more information on how to navigate down in the hierarchy see [[Pages/Other System Tools/Network Dimmer|Network dimmer]]. 
 
 2.  Press Edit and tap a module.  
      -The **pop-up Module Properties** opens.
@@ -58,7 +58,7 @@ _Edit a module_
     \-The configuration is now applied and can be edited. 
 
 **Hint:**  
-You can edit columns in the **pop-up Module Properties**. For more information on the single columns see [Views – Dimmer View](key_ost_views.html#dimmer_view).
+You can edit columns in the **pop-up Module Properties**. For more information on the single columns see [[Pages/Other System Tools/Views|Views – Dimmer View]].
 
 4.  To edit the columns, tap and hold or press Edit and tap a cell of the corresponding column. Or select the cell and press the screen encoder.  
     \-Depending on which column is being edited, either the **calculator** opens, **On** is displayed, or the cell is empty.

@@ -33,7 +33,7 @@ It is used to operate objects such as singers or fixtures in a 3D space via the 
 
 *   Patch the fixtures Stage Marker or Stage Marker II in the Patch & Fixture Schedule.
 
-For more information on patching see [Adding fixtures to your show](key_patch_add_fixtures.html). 
+For more information on patching see [[Pages/Patching/Adding fixtures to the show|Adding fixtures to your show]]. 
 
 **Hint:**  
 The fixture Stage Marker moves in the position mode XYZ and the Stage Marker II moves in the position mode XYZ, rotates and can be scaled.
@@ -44,7 +44,7 @@ The fixture Stage Marker moves in the position mode XYZ and the Stage Marker II 
 
 1.  Select the stage marker for example in the fixture sheet.
 2.  Open the stage view:  
-    \-Tap Other and then tap Stage in the [Create Basic Window](key_windows.html).  
+    \-Tap Other and then tap Stage in the [[Sections/Windows|Create Basic Window]].  
     \-The stage marker is displayed in form of a square at the bottom of the stage view.
 3.  Tap Position. 
 4.  To move the stage marker, activate MP Trans and use the three encoders from left that are located below screen 2.
@@ -90,7 +90,7 @@ To apply the stage marker:
 1.  Select the fixtures that are to point to the stage marker in the fixture sheet and turn them on.
 
 **Important:**  
-Note that XYZ has to be activated in the fixtures that point to the stage marker. For more information see [XYZ](key_xyz.html). 
+Note that XYZ has to be activated in the fixtures that point to the stage marker. For more information see [[Sections/XYZ]]. 
 
 2.  Tap the preset type Position and then tap Stage B.
 3.  Tap Mark and the calculator opens displaying the channel sets of markers. 
@@ -112,7 +112,7 @@ The fixtures are now pointing to the stage marker you have set.  
 _Direct the beams to a stage marker_
 
  **Hint:**  
-You can link objects to stage markers. For more information see [Link objects to stage markers in MA 3D](key_xyz_link_object_to_stage_markers.html).
+You can link objects to stage markers. For more information see [[Pages/XYZ/Link Objects to Stage Markers in MA 3D|Link objects to stage markers in MA 3D]].
 
 ← [[Pages/XYZ/XYZ and Pan-Tilt in cues and sequences]] | [[Pages/XYZ/Link Objects to Stage Markers in MA 3D]] →
 

@@ -23,7 +23,7 @@ To get the Profile keyword in the command line, type **Profile** or the shortcut
 
 ## Description
 
-The Profile keyword is an object keyword to access DMX profiles and DMX profiles points. For more information, see [DMX profiles](key_dmx_profiles.html).
+The Profile keyword is an object keyword to access DMX profiles and DMX profiles points. For more information, see [[Sections/DMX Profiles|DMX profiles]].
 
 ## Syntax
 

@@ -26,7 +26,7 @@ To get the . dot in the command line, press  . .
 
 The . dot is a separator for decimal fractions and hierarchical object IDs.
 
-Two .. dots used along with the keyword ChangeDest, changes the destination one level up. For more information, see [ChangeDest keyword](key_keyword_dot.html).
+Two .. dots used along with the keyword ChangeDest, changes the destination one level up. For more information, see [[Keywords/Dot . Character|ChangeDest keyword]].
 
 ## Examples
 

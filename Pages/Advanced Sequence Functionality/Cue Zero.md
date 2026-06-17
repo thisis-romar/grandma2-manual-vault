@@ -27,7 +27,7 @@ Version 3.9
 
 Cue Zero is an automatically created cue containing a link to default values of attributes. Cue Zero cannot be modified manually. A sequence with activated Cue Zero will start at the first cue after Cue Zero. This cue provides default values when starting the sequence and provides the missing default data when moving or copying cues.
 
-Cue Zero is only available in sequences where [Tracking](key_cs_what_is_tracking.html) is activated and there needs to be more than one cue.
+Cue Zero is only available in sequences where [[Pages/Command Syntax and Keywords/What is Tracking|Tracking]] is activated and there needs to be more than one cue.
 
 The settings are all made in the **Assign Menu**. This can be opened by pressing the Assign key followed by one of the keys associated with the executor you want to change. In the Assign Menu please tap the Options button on the right side of the menu.
 

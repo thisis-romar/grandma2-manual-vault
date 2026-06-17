@@ -29,9 +29,9 @@ The simplest way to use effects in the grandMA2 is to work with predefined effec
 **Requirement:**
 
 *   Apply fixtures in the **Patch & Fixture Schedule**.  
-    For more information on patching see [Adding fixtures to your show](key_patch_add_fixtures.html).
+    For more information on patching see [[Pages/Patching/Adding fixtures to the show|Adding fixtures to your show]].
 *   Import predefined effects.  
-    For more information on how to import effects see [Import via user interface](key_ei_export_gui.html). 
+    For more information on how to import effects see [[Pages/Export and Import/Export by using user interface|Import via user interface]]. 
 
 To apply the predefined effects:
 
@@ -137,7 +137,7 @@ _Pop-up – select effect attribute_
 4.  The effect lines now have the selected attribute.
 
 *   **Mode:**  
-    The column mode corresponds to the effect [modes absolute and relative](key_effects.html#effect_modes).
+    The column mode corresponds to the effect [[Sections/Effects|modes absolute and relative]].
 
 It is also possible to change the mode in the column via the button Line Absolute:  
 To toggle the button to Line Relative, tap Line Absolute and vice versa.
@@ -183,7 +183,7 @@ It is sufficient to set either rate or speed, since the modes adjust to each oth
     Links an effect to rate or the speed master.
 
 **Important:**  
-Using the effect on a speed master overwrites the speed set in an executor. For more information on the speed in an executor see [Advanced Executor Functionality – Speed masters](key_adv_exec_spec_master_speed.html). 
+Using the effect on a speed master overwrites the speed set in an executor. For more information on the speed in an executor see [[Pages/Advanced Executor Functionality/Speed Masters|Advanced Executor Functionality – Speed masters]]. 
 
 To set a speed group:
 
@@ -378,7 +378,7 @@ _Pop-up – select effect attribute_
     Relative effects are then automatically readout as Center/Size and absolute effects as high and low values.
 9.  To remove effects that deviate from the majority of the effects in an effect line, tap Remove Individuals.
 
-For more information on the keyword see [RemoveIndividuals](key_keyword_removeindividuals.html).
+For more information on the keyword see [[Keywords/RemoveIndividuals]].
 
 ### Example:
 
@@ -451,7 +451,7 @@ Sets the range of a value. 
 2.  The fader divides into two.
 3.  Set the range by moving the faders that were divided. 
 4.  To select a preset, tap Align once more. 
-5.  The button is now toggled to Preset. For more information on effects that use presets see [Create an effect that uses presets](key_effects_effect_using_presets.html#effect_preset). 
+5.  The button is now toggled to Preset. For more information on effects that use presets see [[Pages/Effects/Create an Effect that Uses Presets|Create an effect that uses presets]]. 
 6.  Tap Preset to toggle the button back to Align. 
 
 To close the effect line editor, tap ![](../../img/icon_close_small_v3-2.png) in the upper right corner.

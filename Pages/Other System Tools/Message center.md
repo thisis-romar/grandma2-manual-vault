@@ -36,7 +36,7 @@ The **Message Center** is a great help, to debug the system. It is an activity l
 
 It is possible to filter the information by **Category**, **Subcategory**, **Type** or **Sender**. This will give the opportunity to only display messages about power or network for example, or only display errors. It is also possible to filter which device sent the message.
 
-It is possible to export the messages to an xlm file. Read more about export in the [Export Keyword](key_keyword_export.html) topic.
+It is possible to export the messages to an xlm file. Read more about export in the [[Keywords/Export|Export Keyword]] topic.
 
 All the messages that are written in green are new. They will become gray, if you scroll up the window.
 
@@ -48,7 +48,7 @@ To clear the messages, use the command line and type
 \[Channel\] > Delete Messages
 
 **Important:**  
-**Messages** and **Message** is two different keywords. Read more about keywords in the [All Keyword](key_cs_all_keywords.html) topic
+**Messages** and **Message** is two different keywords. Read more about keywords in the [[Pages/Command Syntax and Keywords/All keywords|All Keyword]] topic
 
 ## Icons on the Command Line
 

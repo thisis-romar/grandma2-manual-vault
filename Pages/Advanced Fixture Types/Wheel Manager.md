@@ -24,7 +24,7 @@ Version 3.9
 
 # Wheel Manager
 
-If you have arrived at this topic from a link without reading the previous topic, then please read [Anatomy of a Fixture Type](key_adv_fixture_anatomy.html) first.
+If you have arrived at this topic from a link without reading the previous topic, then please read [[Pages/Advanced Fixture Types/Anatomy of a Fixture Type]] first.
 
 The **Wheel Manager** lists the different wheels for the fixture. It can be color wheels, gobo wheels, but also scrollers are defined as a wheel.
 
@@ -53,7 +53,7 @@ There are two buttons at the bottom that adds or delete rows or slots in the whe
 This is a short description of the columns in the editor:
 
 *   **No.**:  
-    This is an auto generated number for the row. It cannot be edited. It is this number that is reference when editing the [Channel Sets](key_adv_fixture_anatomy.html#edit_channelsets) as the **Slot** number.
+    This is an auto generated number for the row. It cannot be edited. It is this number that is reference when editing the [[Pages/Advanced Fixture Types/Anatomy of a Fixture Type|Channel Sets]] as the **Slot** number.
 *   **Media Name**:  
     A name can be added to the row. This name is not used anywhere else.
 *   **Media Filename**:  

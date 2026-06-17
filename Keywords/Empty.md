@@ -23,7 +23,7 @@ To get the Empty keyword in the command line, type **Empty** or the shortcut **E
 
 ## Description
 
-With the Empty keyword, you can assign the function empty to executors. Empty means that the executors is deactivated. For more information, see [executors - assign a function](key_exec_assign.html).
+With the Empty keyword, you can assign the function empty to executors. Empty means that the executors is deactivated. For more information, see [[Pages/Executors/Assign a function|executors - assign a function]].
 
 The Empty keyword is a function keyword.
 

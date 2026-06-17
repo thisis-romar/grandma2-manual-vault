@@ -23,7 +23,7 @@ To get the SetUserVar keyword in the command line, type **SetUserVar** or the sh
 
 ## Description
 
-The SetUserVar keyword sets user profile specific variables. For more information, see [Macros - Use Variables](key_macro_create_variables.html).
+The SetUserVar keyword sets user profile specific variables. For more information, see [[Pages/Macros/Use variables in macros|Macros - Use Variables]].
 
 ## Syntax
 
@@ -36,7 +36,7 @@ SetUserVar $variablename = ("text")
 SetUserVar $variablename = nothing
 
 **Hint:**  
-To see the set user variables in the command line feedback window, use the [ListUserVar keyword](key_keyword_listuservar.html).
+To see the set user variables in the command line feedback window, use the [[Keywords/ListUserVar|ListUserVar keyword]].
 
 ## Examples
 

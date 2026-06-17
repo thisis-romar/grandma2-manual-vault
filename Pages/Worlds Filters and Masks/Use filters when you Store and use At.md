@@ -25,11 +25,11 @@ Version 3.9
 
 # Use filters when you Store and use At
 
-The active filter is used when you store values and data. It is also used when you use the [At command](key_keyword_at.html).
+The active filter is used when you store values and data. It is also used when you use the [[Keywords/At keyword|At command]].
 
 If your active filter is the first one, called "All", then it does not filter any data and you do not notice the filter is there. 
 
-As mentioned in the [What are filters topic](key_wfm_what_are_filters.html), The filters can be selected and applied. The selected one is the one with the green background and the applied one is the one with a green line above the name.
+As mentioned in the [[Pages/Worlds Filters and Masks/What are filters|What are filters topic]], The filters can be selected and applied. The selected one is the one with the green background and the applied one is the one with a green line above the name.
 
 ## When Storing
 
@@ -86,7 +86,7 @@ Now both fixtures have the same color values.
 
 * * *
 
-Please also have a look at the [Use temporary filters topic](key_wfm_temporary_filters.html) and the [Apply worlds and filters to executors and sequences topic](key_wfm_apply_to_exec_seq.html).
+Please also have a look at the [[Pages/Worlds Filters and Masks/Use temporary filters|Use temporary filters topic]] and the [[Pages/Worlds Filters and Masks/Apply worlds or filters to executors and sequences|Apply worlds and filters to executors and sequences topic]].
 
 ← [[Pages/Worlds Filters and Masks/Create filters]] | [[Pages/Worlds Filters and Masks/Use temporary filters]] →
 

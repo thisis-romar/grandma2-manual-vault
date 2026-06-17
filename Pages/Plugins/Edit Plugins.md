@@ -31,7 +31,7 @@ Version 3.9
 
 Open the plugin pool:
 
-1.  Tap System in **Create Basic Window**. For more information on how to open a basic window see [Manage windows](key_windows_create_manage.html).
+1.  Tap System in **Create Basic Window**. For more information on how to open a basic window see [[Pages/Windows/Create and Manage Basic Windows|Manage windows]].
 2.  Tap Plugin and the plugin pool opens.
 
 ![](../../img/window_plugin-pool_v3-3.png)

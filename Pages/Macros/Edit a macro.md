@@ -35,7 +35,7 @@ This will open the Edit Macro pop-up. It could look like this:
 
 _Edit Macro pop-up_
 
-Please have a look at the [Manually create a macro topic](key_macro_create.html) for a detailed explanation about this pop-up.
+Please have a look at the [[Pages/Macros/Manually create a macro|Manually create a macro topic]] for a detailed explanation about this pop-up.
 
 In this editor you can select the line you want to edit and then press the Please/Enter key on the keyboard to open the **Enter CMD pop-up**.
 
@@ -45,7 +45,7 @@ If you are using an onPC then you can right click the line to edit it.
 
 Type the new command. finish by pressing Please/Enter and close the pop-up.
 
-You have now edited the macro. If you want learn more about creating macros, then please read the [Manually create a macro topic](key_macro_create.html).
+You have now edited the macro. If you want learn more about creating macros, then please read the [[Pages/Macros/Manually create a macro|Manually create a macro topic]].
 
 ← [[Pages/Macros/Record a macro]] | [[Pages/Macros/Command line interaction]] →
 

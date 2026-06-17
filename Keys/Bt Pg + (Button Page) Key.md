@@ -24,6 +24,6 @@ The key Bt Pg + is located on the left of the 100 mm fader.
 
 _Location key Bt_ _Pg +_ 
 
-*   Pressing Bt Pg + executes the [ButtonPage command](key_keyword_buttonpage.html). The button page switches to the next page.
+*   Pressing Bt Pg + executes the [[Keywords/ButtonPage keyword|ButtonPage command]]. The button page switches to the next page.
 
 Part of [[000 Key Index]] · [[000 Map of Content]]

@@ -28,13 +28,13 @@ Version 3.9
 The configuration is a customized set of parameters you have set to run an xPort node. 
 
 **Important:**  
-This topic deals with subject areas that are important for the configuration of nodes. General settings are dealt with in the topics [Adding devices to your session](key_network_session_add_device.html)[​](key_network_dmx_configure_ports.html) and [Configure the DMX ports on MA devices](key_network_dmx_configure_ports.html). 
+This topic deals with subject areas that are important for the configuration of nodes. General settings are dealt with in the topics [[Pages/Networking/Adding devices to the session|Adding devices to your session]][[Pages/Networking/Setting up DMX ports on MA devices|​]] and [[Pages/Networking/Setting up DMX ports on MA devices|Configure the DMX ports on MA devices]]. 
 
 **Requirements:**
 
 *   Add an MA xPort Node to the network configuration. 
 
-For more Information on adding an MA xPort see [Add the MA xPort Node](key_control_node_add.html). 
+For more Information on adding an MA xPort see [[Pages/Control MA xPort Nodes/Add the MA xPort Nodes to the Network Configuration|Add the MA xPort Node]]. 
 
 1.  Open the **MA Network Configuration**.   
     \-Press Setup and tap MA Network Configuration.
@@ -53,7 +53,7 @@ _MA Network Configuration – DMX Node_
 
 _Pop-up Select Mode_
 
-For more information on the four modes see [Adding devices to your session](key_network_session_add_device.html#node_mode).
+For more information on the four modes see [[Pages/Networking/Adding devices to the session|Adding devices to your session]].
 
 4.  To configure the ports, tap a cell in one of the **XLR columns**.   
     \-The pop-up **Configure DMX Port** opens.
@@ -67,7 +67,7 @@ _Pop-up – Configure DMX Port (MA-Net2 Mode)_
 6.  Select the universe by tapping the minus or the plus sign.  
     \-Enter universe 5.
 
-For more information on the different port modes and merge settings of DMX data see [Configure the DMX ports on MA devices](key_network_dmx_configure_ports.html#port_modes).
+For more information on the different port modes and merge settings of DMX data see [[Pages/Networking/Setting up DMX ports on MA devices|Configure the DMX ports on MA devices]].
 
 **Important:**  
 The **DMX Fail Mode** can be set in DMX xPort Nodes from the version 3.3 on. 
@@ -75,7 +75,7 @@ The **DMX Fail Mode** can be set in DMX xPort Nodes from the version 3.3 on. 
 7.  Now, select a **DMX Fail Mode**.  
     \-Tap the drop-down box and select for example the fail mode Timeout 1m. 
 
-For more information on the DMX Fail Mode see [DMX Fail Mode in Configure DMX ports on MA devices](key_network_dmx_configure_ports.html#fail_mode). 
+For more information on the DMX Fail Mode see [[Pages/Networking/Setting up DMX ports on MA devices|DMX Fail Mode in Configure DMX ports on MA devices]]. 
 
 8.  Set the outfade time.  
     \-Enter 5 seconds using the plus or the minus sign.

@@ -28,7 +28,7 @@ Another way is to type **Fixture** or the shortcut **F** in the command line.
 
 Fixture is an object keyword to access fixtures with a fixture ID.
 
-The default function for fixture objects is [SelFix](key_keyword_selfix.html). This means that entering fixtures without any function specified selects the fixtures.
+The default function for fixture objects is [[Keywords/SelFix]]. This means that entering fixtures without any function specified selects the fixtures.
 
 ## Syntax
 

@@ -25,11 +25,11 @@ Version 3.9
 
 # Work with views
 
-You can store the current size and position of the windows from one or more screens on a [view button](key_widget_view_buttons.html) or in the [view pool](#).
+You can store the current size and position of the windows from one or more screens on a [[Pages/Workspace/View Buttons|view button]] or in the [view pool](#).
 
 You can call them later even if you moved or deleted a window.
 
-To export or import stored view, see [import user profiles](key_ei_import_gui.html) or [export user profiles](a4d582c3-5638-4573-b9e9-20ead78a4386.html).
+To export or import stored view, see [[Pages/Export and Import/Import by using user interface|import user profiles]] or export user profiles.
 
 * * *
 
@@ -47,14 +47,14 @@ To get an overview about all stored views, open the view pool.
 
 The view pool is open.
 
-For more information about colors in the pools, see [system colors](key_ws_colors_system.html).
+For more information about colors in the pools, see [[Pages/Workspace/System Colors|system colors]].
 
 * * *
 
 ## Store custom views in the view pool
 
 **Requirement:**  
-\- A created view on a screen that you like to store. For more information, see [Mange windows](key_windows.html).  
+\- A created view on a screen that you like to store. For more information, see [[Sections/Windows|Mange windows]].  
 \- An open [view pool](<#View Pool>).
 
 1.  Press Store and then tap on a empty tile in the view pool.  
@@ -75,10 +75,10 @@ The view is store in the view pool.
 ## Assign views on a view button
 
 **Requirement:**  
-A created view on a screen that you like to store. For more information, see [Mange windows](key_windows.html).
+A created view on a screen that you like to store. For more information, see [[Sections/Windows|Mange windows]].
 
 1.  Press Store .
-2.  Press either a [V-key](key_key_v1-v10.html) or a [X-key](key_key_xkey.html), or tap a [view button](key_widget_view_buttons.html).
+2.  Press either a [[Keys/V1 - V10 Keys|V-key]] or a [[Keys/X1 - X20 Keys|X-key]], or tap a [[Pages/Workspace/View Buttons|view button]].
 3.  The Store View Options pop-up opens.
     
     ![](../../img/popup_store-view-options_v3_2_.png)
@@ -98,7 +98,7 @@ The view is assigned to the view button and stored in the view pool on the next 
 **Requirement:** A stored view.
 
 *   If the view is stored in the [view pool](<#View Pool>), tap on the tile in the view pool.
-*   If the view is assigned to a [view button](key_widget_view_buttons.html), tap on the view button or press the respective [V-key](key_key_v1-v10.html) or [X-key](key_key_xkey.html).
+*   If the view is assigned to a [[Pages/Workspace/View Buttons|view button]], tap on the view button or press the respective [[Keys/V1 - V10 Keys|V-key]] or [[Keys/X1 - X20 Keys|X-key]].
 
 The stored view is called.
 
@@ -106,7 +106,7 @@ The stored view is called.
 
 ## Delete views from view buttons
 
-*   Press Delete and tap on the view button or press the respective [V-key](key_key_v1-v10.html) or [X-key](key_key_xkey.html).
+*   Press Delete and tap on the view button or press the respective [[Keys/V1 - V10 Keys|V-key]] or [[Keys/X1 - X20 Keys|X-key]].
 
 The view is deleted from the view button but still stored in the [view pool](<#View Pool>).
 
@@ -118,7 +118,7 @@ The view is deleted from the view button but still stored in the [view pool](<#V
 
 *   Press Delete and then tap on the view tile in the view pool.
 
-The view is deleted from the view pool and from all assigned [view buttons](key_widget_view_buttons.html).
+The view is deleted from the view pool and from all assigned [[Pages/Workspace/View Buttons|view buttons]].
 
 ← [[Pages/Workspace/Mini executor bar]] | [[Pages/Workspace/Touch gestures]] →
 

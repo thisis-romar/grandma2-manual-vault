@@ -27,15 +27,15 @@ _Location_ _Key_ _Prev (Previous)_ 
 
 If a pop-up dialog is open, for example the pop-up Choose store method, you can set the focus on the following options by hitting the key Prev.
 
-*   Pressing Prev executes the [Previous keyword](key_keyword_previous.html). The fixture or channel with the highest ID will then be selected.
+*   Pressing Prev executes the [[Keywords/Previous|Previous keyword]]. The fixture or channel with the highest ID will then be selected.
 
 \[time\] : Executing : Previous
 
-*   Pressing and holding ![ma](../../img/ma_1.png) + Prev executes the [PrevRow keyword](key_keyword_prevrow.html). For more information see [MAtricks](key_matricks.html).
+*   Pressing and holding ![ma](../../img/ma_1.png) + Prev executes the [[Keywords/PrevRow|PrevRow keyword]]. For more information see [[Sections/MAtricks]].
 
 \[time\] : Executing : PrevRow
 
-*   Pressing Prev + Next executes the [All keyword](key_keyword_all.html).
+*   Pressing Prev + Next executes the [[Keywords/All|All keyword]].
 
 \[time\] : Executing : All
 

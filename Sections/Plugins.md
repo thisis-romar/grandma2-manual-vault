@@ -36,8 +36,8 @@ For more information on Lua see the subtopic or click the link above.
 
 #### Sub topics
 
-*   [What is Lua](key_plugins_what_is_lua.html)
-*   [Edit plugins](key_plugins_edit.html)
+*   [[Pages/Plugins/What is Lua]]
+*   [[Pages/Plugins/Edit Plugins|Edit plugins]]
 
 ## Pages in This Section
 

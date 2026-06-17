@@ -35,9 +35,9 @@ The user who executes the TakeControl command has only the control about playbac
 
 _Fixture Sheet with controllable (gray font) and not controllable (dark blue font) attributes from playbacks_
 
-For more information about the system colors, see [Colors](key_ws_colors.html).
+For more information about the system colors, see [[Pages/Workspace/Colors]].
 
-To drop the control of the fixtures or channels back, use the [DropControl keyword](key_keyword_dropcontrol.html).
+To drop the control of the fixtures or channels back, use the [[Keywords/DropControl keyword]].
 
 ## Syntax
 

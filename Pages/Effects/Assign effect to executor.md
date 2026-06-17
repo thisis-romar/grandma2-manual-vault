@@ -42,7 +42,7 @@ To assign an effect to an executor:
 
 _Selective effect assigned to an executor_
 
-Much the same as other mini executors, the effect mini executor is divided into different sections. For more information on the general sections see [Sequence mini executor](key_cs_sequence_mini_executor.html). 
+Much the same as other mini executors, the effect mini executor is divided into different sections. For more information on the general sections see [[Pages/Command Syntax and Keywords/Sequence mini executor]]. 
 
 * * *
 
@@ -57,10 +57,10 @@ Speed master in an effect assigned to an executor
 *   **BPM** corresponds to the executor time that is applied to the effect as a factor. 60 BPM correspond 1:1. 
 
 **Important:**  
-If you tap the upper area of the mini executor, the [assign menu](key_exec_assign.html) opens.  
-Tapping the lower area of the mini executor opens the [effect editor](key_effects_predefined.html#effect_editor).
+If you tap the upper area of the mini executor, the [[Pages/Executors/Assign a function|assign menu]] opens.  
+Tapping the lower area of the mini executor opens the [[Pages/Effects/Use Predefined Effects|effect editor]].
 
-Generally speaking, the speed of an executor influences the speed of an effect. For more information on the speed master in an executor see [Speed Masters](key_adv_exec_spec_master_speed.html). 
+Generally speaking, the speed of an executor influences the speed of an effect. For more information on the speed master in an executor see [[Pages/Advanced Executor Functionality/Speed Masters]]. 
 
 **Important:**  
 The master of an effect executor affects the size of an effect. 

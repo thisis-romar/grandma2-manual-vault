@@ -27,7 +27,7 @@ Version 3.9
 
 The Masters Window collects the Group, Speed, Rate, and Playback masters in one view.
 
-It can be created using the [Create Basic Windows pop-up](key_windows.html). It can be found in the **Other** tab. It could look like this:
+It can be created using the [[Sections/Windows|Create Basic Windows pop-up]]. It can be found in the **Other** tab. It could look like this:
 
 ![](../../img/window_masters_group-master_v3-3.png)
 
@@ -37,7 +37,7 @@ The four tabs have each of the four different master types.
 
 Each master is represented by a square inside the tap. Each master is divided into three areas.
 
-The top part labels the master. Pressing and holding the top part will perform a [Locate](key_keyword_locate.html) command as long as it is pressed. Locate will change to the page where the master is assigned - if it is assigned. It will also change the look of the mini executor. It will write "Here" on a reds background for as long as the top part is pressd. It could look like this:
+The top part labels the master. Pressing and holding the top part will perform a [[Keywords/Locate]] command as long as it is pressed. Locate will change to the page where the master is assigned - if it is assigned. It will also change the look of the mini executor. It will write "Here" on a reds background for as long as the top part is pressd. It could look like this:
 
 ![](../../img/img_located-executor_v3_2.png)
 
@@ -57,7 +57,7 @@ It is similar to the Master Window. Except the buttons below, are moved to be ab
 
 ## Group Master
 
-Group masters are described in details in the [Group Master topic](key_groups_master.html).
+Group masters are described in details in the [[Pages/Groups/Group Master on Executors|Group Master topic]].
 
 This is what each master could look like in the Group Master tab:
 
@@ -82,7 +82,7 @@ They can be used to set each of the three types of masters to either Full or Zer
 
 ## Speed Master
 
-Speed masters can be used to synchronize multiple Effects or Chasers to a common speed. Read more about the speed masters in the [Speed Master topic](key_adv_exec_spec_master_speed.html).
+Speed masters can be used to synchronize multiple Effects or Chasers to a common speed. Read more about the speed masters in the [[Pages/Advanced Executor Functionality/Speed Masters|Speed Master topic]].
 
 This is what each speed master looks like:
 
@@ -90,7 +90,7 @@ This is what each speed master looks like:
 
 _Speed Master_
 
-The three buttons in the master gives access to double the speed (DS), half the speed (HS), or "tap" the speed using the [Learn](key_keyword_learn.html) command.
+The three buttons in the master gives access to double the speed (DS), half the speed (HS), or "tap" the speed using the [[Keywords/Learn]] command.
 
 There are three buttons below the speed masters. They are:
 
@@ -103,7 +103,7 @@ There are three buttons below the speed masters. They are:
 
 ## Rate Master
 
-The Rate Masters can be used to synchronize the Rate across multiple Executors. Read more about the rate masters in the [Rate Masters topic](key_adv_exec_spec_master_rate.html).
+The Rate Masters can be used to synchronize the Rate across multiple Executors. Read more about the rate masters in the [[Pages/Advanced Executor Functionality/Rate Masters|Rate Masters topic]].
 
 This is what each rate master looks like:
 
@@ -117,7 +117,7 @@ This means that there is also only one button below the masters: **All Rate1** -
 
 ## Playback Master
 
-Playback masters are used as submasters for Executors. Read more about the playback masters in the [Playback Masters topic](key_adv_exec_spec_master_playback.html).
+Playback masters are used as submasters for Executors. Read more about the playback masters in the [[Pages/Advanced Executor Functionality/Playback Masters|Playback Masters topic]].
 
 This is what each playback master looks like:
 

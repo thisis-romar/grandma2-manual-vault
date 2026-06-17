@@ -28,7 +28,7 @@ With the Timer keyword you can edit, start, pause, restart, switch off, select, 
 
 Timer 1 is a predefined stopwatch and not editable.
 
-For more Information see [Timer pool](key_timers_timer_pool.html).
+For more Information see [[Pages/Timer/Timer Pool|Timer pool]].
 
 The Timer keyword is an object keyword.
 

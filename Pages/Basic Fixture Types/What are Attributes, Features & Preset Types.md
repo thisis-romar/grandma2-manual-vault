@@ -30,7 +30,7 @@ These are the building blocks and structure behind the fixtures.
 
 ### Example
 
-The best way to understand the structure is to look at the Encoder Bar - This is explained in details in the [Encoder Bar topic](key_ws_encoder_bar.html).
+The best way to understand the structure is to look at the Encoder Bar - This is explained in details in the [[Pages/Workspace/Encoder Bar|Encoder Bar topic]].
 
 In short: The top row here is the **Preset Types**. The button on the left side in the middle row is the **Feature** swipe button. This can be used to toggle through the Features of the selected Preset Type.
 
@@ -46,9 +46,9 @@ Every fixture has a minimum of one attribute, but possibly multiple attributes t
 
 A generic dimmer typically has only one attribute - **Dimmer**, while an advanced moving light may have 30+ different attributes.
 
-Read more about controlling fixture and changing Attribute values in the [Operate Fixtures section](key_operate_fixtures.html).
+Read more about controlling fixture and changing Attribute values in the [[Sections/Operate Fixtures|Operate Fixtures section]].
 
-grandMA2 counts in Attributes and not in DMX channel - read more about that in the [Parameters vs. DMX channels topic](key_so_parameters_vs_dmx_channels.html).
+grandMA2 counts in Attributes and not in DMX channel - read more about that in the [[Pages/System Overview/Parameters vs. DMX channels|Parameters vs. DMX channels topic]].
 
 [[Pages/Basic Fixture Types/ColorMix vs. MixColor]] →
 

@@ -40,7 +40,7 @@ MA devices can be connected to expand the system. This allows for:
 
 ### Sessions
 
-When moving beyond the standalone console, sessions are needed. A session is like a chat room for MA devices. A device can be added to a session and then the device is a part of that system. It is possible to create 31 different sessions in one Ethernet network. One session can handle a maximum of 65 536 parameters (read more about parameters vs. DMX channels following [this link](key_so_parameters_vs_dmx_channels.html)). The network limit in a Gigabit network is currently 3 maxed out session in one network.
+When moving beyond the standalone console, sessions are needed. A session is like a chat room for MA devices. A device can be added to a session and then the device is a part of that system. It is possible to create 31 different sessions in one Ethernet network. One session can handle a maximum of 65 536 parameters (read more about parameters vs. DMX channels following [[Pages/System Overview/Parameters vs. DMX channels|this link]]). The network limit in a Gigabit network is currently 3 maxed out session in one network.
 
 ### Connect to third party hardware
 

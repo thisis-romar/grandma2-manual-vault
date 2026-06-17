@@ -25,11 +25,11 @@ The key Effect is located on the right of the key View.
 
 _Location k__ey_ _Effect_ 
 
-*   Pressing Effect enters the [Effect keyword](key_keyword_effect.html) into the command line.
+*   Pressing Effect enters the [[Keywords/Effect keyword]] into the command line.
 
 \[Channel\]> Effect
 
-*   If a function keyword such as Store is already in the command line, pressing Effect Effect enters the [Form keyword](key_keyword_form.html) into the command line.
+*   If a function keyword such as Store is already in the command line, pressing Effect Effect enters the [[Keywords/Form|Form keyword]] into the command line.
 
 \[Channel\]>Form
 
@@ -42,7 +42,7 @@ _Location k__ey_ _Effect_ 
     
       
      
-*   Pressing ![ma](../../img/ma_1.png) + Effect executes the [SyncEffects](key_keyword_synceffects.html) command.  
+*   Pressing ![ma](../../img/ma_1.png) + Effect executes the [[Keywords/SyncEffects]] command.  
      
 *   Pressing and holding List + Effect opens the temporary effect pool.  
      

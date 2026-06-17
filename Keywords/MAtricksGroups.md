@@ -27,7 +27,7 @@ MAtricksGroups is a function keyword to set the Align Groups.
 
 With the MAtricksGroups function the distribution of aligned values may be limited to n fixtures, for then to be repeated.
 
-For more information see [MAtricks](key_matricks.html).
+For more information see [[Sections/MAtricks]].
 
 ## Syntax
 

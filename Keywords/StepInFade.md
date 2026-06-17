@@ -25,7 +25,7 @@ To get the StepInFade keyword, type **StepInFade** or the shortcut **StepI** in
 
 The StepInFade keyword assigns executors as a step in fader. A step in fader controls the step in time of each step of a chaser.
 
-For more information, see [executors - assign a function](key_exec_assign.html).
+For more information, see [[Pages/Executors/Assign a function|executors - assign a function]].
 
 ## Syntax
 

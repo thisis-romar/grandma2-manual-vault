@@ -29,9 +29,9 @@ In the Stage View topic we looked at the virtual 3D stage. It was mentioned that
 
 If there was no cameras then you cannot see the stage.
 
-The cameras are located in the Camera Pool. You can create a camera pool on your screens using the **Create Basic Window** pop-up. It is described in the [Manages windows topic](key_windows.html).
+The cameras are located in the Camera Pool. You can create a camera pool on your screens using the **Create Basic Window** pop-up. It is described in the [[Sections/Windows|Manages windows topic]].
 
-It is a pool. To learn general thing about the pools please read the [Pools in General section](key_pools.html).
+It is a pool. To learn general thing about the pools please read the [[Sections/Pools|Pools in General section]].
 
 The Camera pool could look like this:
 
@@ -53,7 +53,7 @@ There is always a **selected** camera. It is the one that have the green backgro
 
 A camera can be linked to a special MA camera controller fixture.
 
-You will need to add this camera controller fixture to your fixture setup - read about it in the [Adding fixtures to your show topic](key_patch_add_fixtures.html). When you have the fixture then you can link the camera with the controller fixture.
+You will need to add this camera controller fixture to your fixture setup - read about it in the [[Pages/Patching/Adding fixtures to the show|Adding fixtures to your show topic]]. When you have the fixture then you can link the camera with the controller fixture.
 
 When a camera is linked, then you can see the link icon in the upper right corner of the camera pool button and in the top half you will see the Fixture ID of the controller. When a camera is linked, then you cannot control it manually.
 

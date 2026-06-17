@@ -28,7 +28,7 @@ The Auto-calibration is a system where the software positions moving light fixtu
 
 One of the big advantages with having a precise position and rotation of your moving lights is the option to use XYZ position programming.
 
-You can access this system using a [Stage View](key_patch_stage.html) and opening the **Stage View Options**. Here is a tab called "Calibration". In this tab you will find a single button called Calibrate Fixture Pos. Tapping this will open the Calibration pop-up.
+You can access this system using a [[Pages/Patching/Stage View]] and opening the **Stage View Options**. Here is a tab called "Calibration". In this tab you will find a single button called Calibrate Fixture Pos. Tapping this will open the Calibration pop-up.
 
 It could look like this:
 
@@ -44,7 +44,7 @@ The right side has short description of the workflow in this view. There are als
 
 The first button is called **Find Alternative Fixture Position**. This can be used to change the rotation and/or position of the selected fixtures. The fixtures might move or rotate. It still points to the same spot in the 3D space, but use a different set of values for the fixture rotation and position.
 
-When the **Output Stage Values** button is active, then the currently selected fixtures will output the Stage values. Stage values can be edited in the [Parameter List](key_patch_dmx_parameter_list.html#parameter_list), Fixture Types editor and in the Fixture editor.
+When the **Output Stage Values** button is active, then the currently selected fixtures will output the Stage values. Stage values can be edited in the [[Pages/Patching/DMX and Parameter lists|Parameter List]], Fixture Types editor and in the Fixture editor.
 
 You can use two different modes for the calibration process. One is called **Absolute Mode** and the other is **Free Mode**. You can change between the two modes by tapping the Mode button on the right side of the pop-up.
 
@@ -76,7 +76,7 @@ These are the steps needed to calibrate fixtures for the first time (sharing the
 
 1.  Create the markers/rectangle on the floor.
 2.  Patch the fixture(s) and **do not** switch on the XYZ support.
-3.  Setup the approximate XYZ positions for your fixtures. If you do not know how then you can read about it in the [Position fixtures in the 3D stage topic](key_patch_position_fixtures.html).
+3.  Setup the approximate XYZ positions for your fixtures. If you do not know how then you can read about it in the [[Pages/Patching/Position fixtures in the virtual 3D stage|Position fixtures in the 3D stage topic]].
 4.  Invert the Pan/Tilt channels to have the right movement in your Stage view and the real world.
 5.  Store 4 Pan/Tilt position presets for the 4 corners A, B, C and D for your real rectangle. (Here you can use the Stage View with Follow to get the positions a bit quicker than only with the Pan/Tilt encoders).
 6.  Open this calibration pop-up in the Stage View Options.

@@ -38,7 +38,7 @@ The following characters are allowed.
 *   Numbers 0...9
 *   Spaces, minus (-), plus (+), underscore (\_)
 
-**Requirement:** [Added MA Network Switch in the network configuration](key_control_ma_switch_add.html).
+**Requirement:** [[Pages/Control MA Network Switch/Add the MA Network Switch to the network configuration|Added MA Network Switch in the network configuration]].
 
 1.  Open the MA Network Configuration.  
     \- Press Setup and tap under **Network** MA Network Configuration.  
@@ -60,7 +60,7 @@ The following characters are allowed.
 
 The password is changed and you are logged in with the new password.
 
-If you have forgotten the password you can reset the password to the default by a [factory reset](key_control_ma_switch_reset.html).
+If you have forgotten the password you can reset the password to the default by a [[Pages/Control MA Network Switch/Reset the MA Network Switch to its factory defaults|factory reset]].
 
 ← [[Pages/Control MA Network Switch/Disable SNMP]] | [[Pages/Control MA Network Switch/Update firmware of the MA Network Switch]] →
 

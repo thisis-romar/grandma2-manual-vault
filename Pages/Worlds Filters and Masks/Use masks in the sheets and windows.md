@@ -25,17 +25,17 @@ Version 3.9
 
 # Use masks in the sheets and windows
 
-If you come to this page without any knowledge about Masks then please read the [What are masks topic](key_wfm_what_are_masks.html) and the [Create masks topic](key_wfm_create_mask.html).
+If you come to this page without any knowledge about Masks then please read the [[Pages/Worlds Filters and Masks/What are masks|What are masks topic]] and the [[Pages/Worlds Filters and Masks/Create masks|Create masks topic]].
 
 ## Where can Masks be used
 
 Mask can be used in the following sheets and windows:
 
-*   [Channel Sheet](key_of_channel_sheet.html)
-*   [Fixture Sheet](key_of_fixture_sheet.html)
-*   [Sequence Content Sheet](key_cs_cue_content.html)
-*   [Sequence Tracking Sheet](key_cs_cue_content.html)
-*   [Stage View window](key_patch_stage.html)
+*   [[Pages/Operate Fixtures/Channel Sheet]]
+*   [[Pages/Operate Fixtures/Fixture Sheet]]
+*   [[Pages/Command Syntax and Keywords/Looking at the cue content|Sequence Content Sheet]]
+*   [[Pages/Command Syntax and Keywords/Looking at the cue content|Sequence Tracking Sheet]]
+*   [[Pages/Patching/Stage View|Stage View window]]
 
 All of these windows can have a local mask that only works for that view or they can follow the mask pool. A local mask only works in that version of the window. This means that you can have two fixture sheets but only one of them have a mask.
 
@@ -45,11 +45,11 @@ Turning off or on the mask settings are gone from the windows options. They are 
 
 The options have three tabs that are interesting regarding masks. The first one is called **LayerMask** the second one is called **Title Buttons** and the last one is **Mask (Local)**.
 
-The [Layer Mask topic](key_of_sheet_options_layer_mask.html) describes the options that are relevant for the mask function. This is where you can turn On or Off mask functions.
+The [[Pages/Operate Fixtures/Layer mask|Layer Mask topic]] describes the options that are relevant for the mask function. This is where you can turn On or Off mask functions.
 
-The [Title Button topic](key_of_sheet_options_title_buttons.html) describes how you enable the buttons that gives fast access to turning On or Of the mask function.
+The [[Pages/Operate Fixtures/Title buttons|Title Button topic]] describes how you enable the buttons that gives fast access to turning On or Of the mask function.
 
-The [Mask (Local)](key_of_sheet_options_mask_local.html) tab is where you can create a local mask. The [Create Masks topic](key_wfm_create_mask.html) has the actual description about creating the mask.
+The [[Pages/Operate Fixtures/Mask (local)|Mask (Local)]] tab is where you can create a local mask. The [[Pages/Worlds Filters and Masks/Create masks|Create Masks topic]] has the actual description about creating the mask.
 
 ## Assigning a mask on the fly
 
@@ -62,7 +62,7 @@ For example if you want to assign the **Programmer Only** mask to a **Channel Sh
 3.  Tap the Prog Only mask
 4.  Tap the title bar of the Channel Sheet.
 
-This can of cause be done using command line input (using the [Mask command](key_keyword_mask.html)) or better yet a combination of command line input and touching the Channel Sheet.
+This can of cause be done using command line input (using the [[Keywords/Mask|Mask command]]) or better yet a combination of command line input and touching the Channel Sheet.
 
 Same example:
 

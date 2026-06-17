@@ -66,7 +66,7 @@ Tap the area on the mini executor view (at the bottom of screen 3 and 4) marked 
 
 _Mini executor with open Assign Menu_
 
-This will open the Assign Menu on one of the screens (default is screen 1) -  read more about the Assign Menu [here](key_exec_assign.html).
+This will open the Assign Menu on one of the screens (default is screen 1) -  read more about the Assign Menu [[Pages/Executors/Assign a function|here]].
 
 Make sure the **Function** part of the Assign Menu is visible by tapping Function on the right side of the menu - or possible pressing U1 if the menu is on screen 1.
 
@@ -160,7 +160,7 @@ This will change to the page where the Group Master is and the middle part of th
 
 _Located Group Master - Mini Executor_
 
-To exit the locate function, you will need to execute the locate command without anything specified. Read more about the [locate command here](key_keyword_locate.html).
+To exit the locate function, you will need to execute the locate command without anything specified. Read more about the [[Keywords/Locate|locate command here]].
 
 ## Group Master view
 
@@ -168,7 +168,7 @@ A better way the see or find your Group Masters might the **Masters Window** or 
 
 They provide an overview off all the group masters in the show.
 
-They are described in the [Masters Window topic](key_adv_exec_master_window.html).
+They are described in the [[Pages/Advanced Executor Functionality/Masters Window|Masters Window topic]].
 
 ← [[Pages/Groups/Change colors in group options for all in order and all out of order]]
 

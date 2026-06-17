@@ -117,7 +117,7 @@ Suppresses confirmation pop-up. 
 However, using the keyword If may limit the scope of cloning to just cloning parts of your show file.
 
 **Note:**  
-The keyword clone obeys the world and does not change data outside your current world. For more information see [World](key_keyword_world.html). 
+The keyword clone obeys the world and does not change data outside your current world. For more information see [[Keywords/World]]. 
 
 * * *
 
@@ -196,6 +196,6 @@ Creates global data for fixture type 2. Fixture type 2 keeps its data in case fi
 Creates global data for fixture type 2. Fixture type 2 now does the exact same thing as fixture type 1.
 
 **Note:**  
-It is also possible to clone using the screen. For more information on how to clone on screen see [Clone – Clone using screens](key_clone_clone_in_user_interface.html).
+It is also possible to clone using the screen. For more information on how to clone on screen see [[Pages/Clone/Clone In User Interface|Clone – Clone using screens]].
 
 Part of [[000 Keyword Index]] · [[000 Map of Content]]

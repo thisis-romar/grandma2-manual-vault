@@ -35,7 +35,7 @@ The desk lamps are connected.
 
 _grandMA2 full-size desk lamp connectors_
 
-To adjust the intensity of the desk lamp see [adjust desk lights](key_window_desklights.html).
+To adjust the intensity of the desk lamp see [[Pages/Console Settings/Adjust Intensity of Desk Lights|adjust desk lights]].
 
 ← [[Pages/First Steps/Connect Power]] | [[Pages/First Steps/Connect External Screens]] →
 

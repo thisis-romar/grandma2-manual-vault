@@ -43,7 +43,7 @@ The selected fixture is unmatched from the patch.
 _Unmatched RDM device_
 
 **Hint:**  
-You can also unmatch RDM devices by using the [keyword RdmUnmatch](key_keyword_rdmunmatch.html).
+You can also unmatch RDM devices by using the [[Keywords/RdmUnmatch|keyword RdmUnmatch]].
 
 ← [[Pages/RDM/Use the RDM sheet]] | [[Pages/RDM/Splitters and Mergers that Support RDM]] →
 

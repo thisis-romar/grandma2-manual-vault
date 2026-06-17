@@ -76,7 +76,7 @@ If more than one switch is in a network and more than one group is in use, the T
 
 **Important:**  
 You need at least one manage group in the network.  
-If no manage port is in the network you can not configure the switch anymore. A [factory reset](key_control_ma_switch_reset.html) is necessary.
+If no manage port is in the network you can not configure the switch anymore. A [[Pages/Control MA Network Switch/Reset the MA Network Switch to its factory defaults|factory reset]] is necessary.
 
 **Hint:**  
 Use port 13 on the front panel as management port to connect the PC for switch configuration via the web interface.
@@ -119,7 +119,7 @@ There are three speed settings available:
 
 The Link Aggregation Group (LAG) combines a number of physical ports for them to behave as one connection.
 
-Configure the LAGs via the web interface or in the [MA Network Configuration menu – Edit LAGs](key_control_ma_switch_lags.html). For more information see [MA Network Switch](/Page/Network/MA_network_switch/en/3.3). 
+Configure the LAGs via the web interface or in the [[Pages/Control MA Network Switch/Edit Link Aggregation Groups of the MA Network Switch|MA Network Configuration menu – Edit LAGs]]. For more information see [MA Network Switch](/Page/Network/MA_network_switch/en/3.3). 
 
 Select between 6 LAGs:
 
@@ -143,7 +143,7 @@ Set a port to an LAG in the same manner as in setting a group to a port.
 
 ## Configure ports
 
-**Requirement:** [Added MA Network Switch to the network configuration](key_control_ma_switch_add.html).
+**Requirement:** [[Pages/Control MA Network Switch/Add the MA Network Switch to the network configuration|Added MA Network Switch to the network configuration]].
 
 To configure the ports:
 

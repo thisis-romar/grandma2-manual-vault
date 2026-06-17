@@ -48,7 +48,7 @@ Displays all effects running in an executor.
 Displays effects that were started as a pool playback.  
 
 **Programmer:**  
-Displays effects in the programmer. Whereas the effect is stored in the effect pool and is running the programmer. Effects created in the programmer are not displayed in this window. For more information see [Create an effect in the programmer](key_effects_create_in_programmer.html). 
+Displays effects in the programmer. Whereas the effect is stored in the effect pool and is running the programmer. Effects created in the programmer are not displayed in this window. For more information see [[Pages/Effects/Create an effect in the programmer]]. 
 
 **Sequence:**  
 Displays sequences containing effects that are currently running.

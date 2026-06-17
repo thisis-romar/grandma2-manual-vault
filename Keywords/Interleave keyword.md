@@ -27,7 +27,7 @@ Interleave is used to set ranges in the MAtricks or to create a virtual array of
 
 The keyword Interleave is a synonym for the keyword MAtricksInterleave.
 
-For more information see [MAtricksInterleave](key_keyword_matricksinterleave.html).
+For more information see [[Keywords/MAtricksInterleave]].
 
 ## Syntax
 

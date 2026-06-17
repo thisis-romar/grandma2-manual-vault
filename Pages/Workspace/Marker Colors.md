@@ -27,11 +27,11 @@ Version 3.9
 
 Markers are color indicators in form of a bar, square, or a thin line. Markers are visible in:
 
-*   [Channel Sheet](key_of_channel_sheet.html)
-*   [Fixture Sheet](key_of_fixture_sheet.html)
-*   [Sequence Content Sheet](key_cs_cue_content.html#content_sheet)
-*   [Sequence Tracking Sheet](key_cs_cue_content.html#tracking_sheet)
-*   [Layout View](key_layouts.html)
+*   [[Pages/Operate Fixtures/Channel Sheet]]
+*   [[Pages/Operate Fixtures/Fixture Sheet]]
+*   [[Pages/Command Syntax and Keywords/Looking at the cue content|Sequence Content Sheet]]
+*   [[Pages/Command Syntax and Keywords/Looking at the cue content|Sequence Tracking Sheet]]
+*   [[Sections/Layouts|Layout View]]
 
 The name column in the fixture sheet displays a maker summery of all attribute markers of the fixture.
 
@@ -92,7 +92,7 @@ Big pink markers indicate effect values.
 
 _Small Pink Marker_
 
-Small pink markers indicate stomped effect values. For more information on this effect see [Stomp Keyword](key_keyword_stomp.html).
+Small pink markers indicate stomped effect values. For more information on this effect see [[Keywords/Stomp|Stomp Keyword]].
 
 **White:**
 
@@ -170,7 +170,7 @@ Purple markers indicate attributes that were calculated in the bitmap fixture.
 
 ## Pool Object Marker Colors
 
-The pool object markers are used in pool objects and they indicate which values are stored in the pool object, in the preset pools and in the filter pools. For more information see [What are Filters?](key_wfm_what_are_filters.html) and [Preset Pools](key_presets_pools.html).
+The pool object markers are used in pool objects and they indicate which values are stored in the pool object, in the preset pools and in the filter pools. For more information see [[Pages/Worlds Filters and Masks/What are filters|What are Filters?]] and [[Pages/Presets/Preset Pools]].
 
 **Yellow Pool Object Marker:**
 
@@ -243,14 +243,14 @@ You can enable or disable the markers. By default, the markers are enabled.
 
 To enable or disable the markers in the:
 
-*   [Fixtures Sheet](key_of_fixture_sheet.html)
-*   [Channel Sheet](key_of_channel_sheet.html)
-*   [Sequence Content Sheet](key_cs_cue_content.html#content_sheet)
-*   [Sequence Tracking Sheet](key_cs_cue_content.html#tracking_sheet)
+*   [[Pages/Operate Fixtures/Fixture Sheet|Fixtures Sheet]]
+*   [[Pages/Operate Fixtures/Channel Sheet]]
+*   [[Pages/Command Syntax and Keywords/Looking at the cue content|Sequence Content Sheet]]
+*   [[Pages/Command Syntax and Keywords/Looking at the cue content|Sequence Tracking Sheet]]
 
 \- Tap the **yellow ball** ![](../../img/icon_yellow-ball_3_2.png), tap Display  and then at **Enable Marker** tap On or Off.
 
-\- To enable or disable the marker in the [Layout View](key_layouts.html), tap at the **yellow ball** ![](../../img/icon_yellow-ball_3_2.png), tap Layout Data and at **Marker** tap Yes or No.
+\- To enable or disable the marker in the [[Sections/Layouts|Layout View]], tap at the **yellow ball** ![](../../img/icon_yellow-ball_3_2.png), tap Layout Data and at **Marker** tap Yes or No.
 
 The markers are enabled or disabled. To save the the settings, save the settings as default or save the view.
 

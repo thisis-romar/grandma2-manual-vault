@@ -25,10 +25,10 @@ The key Solo is located in the command area on the right of the key Highlt.
 
 _Location_ _Key_ _Solo_ 
 
-Pressing Solo executes the [Solo keyword](key_keyword_solo.html) and turns the solo mode on or off.
+Pressing Solo executes the [[Keywords/Solo|Solo keyword]] and turns the solo mode on or off.
 
 The command line stays unaffected.
 
-To disable the Solo key function, see [User Settings](key_single_multi_systems_user_settings.html).
+To disable the Solo key function, see [[Pages/Single and Multi User Systems/User specific settings|User Settings]].
 
 Part of [[000 Key Index]] · [[000 Map of Content]]

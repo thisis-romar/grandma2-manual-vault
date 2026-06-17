@@ -25,7 +25,7 @@ To enter the keyword EffectSpeedGroup into the console, type **EffectSpeedGroup*
 
 EffectSpeedGroup calls the effect layer **Speed Group**.
 
-For more information on effect layers see [Layers in sheets – Channel sheet and fixture sheet](key_of_layers_in_sheets_channel_and_fixture.html). 
+For more information on effect layers see [[Pages/Operate Fixtures/Channel Sheet and Fixture Sheet|Layers in sheets – Channel sheet and fixture sheet]]. 
 
 To change to different layers, press ![ma](../../img/ma_1.png) + Time. 
 

@@ -24,15 +24,15 @@ Version 3.9
 
 # Replace
 
-The **Replace** mechanism is used to replace some objects with other objects (or values with other values), using the [With keyword](key_keyword_with.html), and it might be limited to a defined scope using the [If keyword](key_keyword_if.html).
+The **Replace** mechanism is used to replace some objects with other objects (or values with other values), using the [[Keywords/With|With keyword]], and it might be limited to a defined scope using the [[Keywords/If|If keyword]].
 
 The syntax is:
 
 **Replace \[**search for objects/values\] **( With \[**replace with objects/values\]  ( If  **\[**search in objects\] ))
 
-Details about the syntax can be read in the [Replace keyword](key_keyword_replace.html) topic. The Replace command can be accessed by pressing the Move key twice.
+Details about the syntax can be read in the [[Keywords/Replace|Replace keyword]] topic. The Replace command can be accessed by pressing the Move key twice.
 
-The replace will search for the objects (could be fixtures, groups, presets, or any object) or values and the search result will be exchanged with similar objects or values. Just like the regular [search function](key_search_replace_search.html), it might be limited to a certain area in the show (for instance a specific sequence, group, world, or any object).
+The replace will search for the objects (could be fixtures, groups, presets, or any object) or values and the search result will be exchanged with similar objects or values. Just like the regular [[Pages/Search and Replace/Search|search function]], it might be limited to a certain area in the show (for instance a specific sequence, group, world, or any object).
 
 All this might sound complex but it does not have to be.
 
@@ -50,7 +50,7 @@ _Confirm Replace pop-up_
 
 Tapping the Ok button will perform the replace action.
 
-Tapping the Ok Create Report button will also perform the replace, but in addition it will create and open a report showing what the replace action did - it is similar to the search report described in the [Search topic](key_search_replace_search.html).
+Tapping the Ok Create Report button will also perform the replace, but in addition it will create and open a report showing what the replace action did - it is similar to the search report described in the [[Pages/Search and Replace/Search|Search topic]].
 
 Tapping the Cancel button will cancel the replace action - it is same result if the X in the upper left corner is tapped.
 
@@ -127,7 +127,7 @@ Or it can be shifted +20 degrees:
 **Important:**  
 It is very important that there is no space between the minus symbol and the number.
 
-The attributes are different depending on what fixture types are patched in the show. The list of attributes and their (screen)names can be seen using the [List keyword](key_keyword_list.html):
+The attributes are different depending on what fixture types are patched in the show. The list of attributes and their (screen)names can be seen using the [[Keywords/List|List keyword]]:
 
 \[Channel\]> List Attribute
 

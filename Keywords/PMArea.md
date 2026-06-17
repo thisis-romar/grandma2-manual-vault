@@ -23,9 +23,9 @@ To get the PMArea (= Pixel Mapper Area) keyword in the command line, type **PMAr
 
 ## Description
 
-The PMArea keyword is an object keyword to access pixel mapper areas and pixel mapper outputs. You can store, copy, and delete pixel mapper setups. For more information, see [MA VPU pixel mapper](key_keyword_vpupixelmapperview.html).
+The PMArea keyword is an object keyword to access pixel mapper areas and pixel mapper outputs. You can store, copy, and delete pixel mapper setups. For more information, see [[Keywords/VPU pixel mapper view|MA VPU pixel mapper]].
 
-The default function for the PMArea keyword is SelFix. For more information, see [SelFix keyword](key_keyword_selfix.html).
+The default function for the PMArea keyword is SelFix. For more information, see [[Keywords/SelFix|SelFix keyword]].
 
 ## Syntax
 

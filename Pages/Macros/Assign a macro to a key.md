@@ -75,7 +75,7 @@ The different options next to "Top", GoBack", and "Go" are not relevant for macr
 
 The most used function is the "Go" function. This is the one needed to run or activate the macro.
 
-Read the [Macro Timing topic](key_macro_create_timing.html) for details about these functions.
+Read the [[Pages/Macros/Macro timing|Macro Timing topic]] for details about these functions.
 
 You can close the Assign Menu using the "X" in the upper right corner of the menu when you are happy with your assigned macro and the executor button functions.
 

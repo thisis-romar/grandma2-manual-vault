@@ -63,7 +63,7 @@ cnd
 
 See Messages command.
 
-The option condition is only valid in combination with the [Messages command](key_keyword_messages.html).
+The option condition is only valid in combination with the [[Keywords/Messages|Messages command]].
 
 filename
 

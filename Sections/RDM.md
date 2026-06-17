@@ -71,17 +71,17 @@ RDM starts a discovery (= search) for the RDM device every six seconds. If an R
 
 #### Sub topics
 
-*   [Turn RDM on](key_rdm_turn_on.html)
-*   [Match RDM devices](key_rdm_match.html)
-*   [Auto patch RDM devices](key_rdm_auto_patch.html)
-*   [Work with RDM parameters](key_rdm_setparameter.html)
-*   [Work with RDM sensors](key_rdm_sensors.html)
-*   [Configure RDM notifications](key_rdm_notifications.html)
-*   [Use the RDM sheet](key_rdm_rdm_sheets.html)
-*   [Unmatch RDM devices](key_rdm_unmatch.html)
-*   [Splitters and mergers that support RDM](key_rdm_list_of_splitters_mergers.html)
-*   [Turn RDM off](key_rdm_turn_off.html)
-*   [RDM specific keywords](key_rdm_keywords.html)
+*   [[Pages/RDM/Turn RDM on]]
+*   [[Pages/RDM/Match RDM devices]]
+*   [[Pages/RDM/Auto Patch RDM Devices|Auto patch RDM devices]]
+*   [[Pages/RDM/Work with RDM parameters]]
+*   [[Pages/RDM/Work with RDM sensors]]
+*   [[Pages/RDM/Configure RDM notifications]]
+*   [[Pages/RDM/Use the RDM sheet]]
+*   [[Pages/RDM/Unmatch RDM devices]]
+*   [[Pages/RDM/Splitters and Mergers that Support RDM|Splitters and mergers that support RDM]]
+*   [[Pages/RDM/Turn RDM off]]
+*   [[Pages/RDM/RDM specific keywords]]
 
 ## Pages in This Section
 

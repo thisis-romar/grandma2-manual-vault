@@ -33,33 +33,23 @@ Helping keywords are the prepositions and conjunctions of the console, so to spe
 
 **Helping keyword At:**
 
-\[Channel\]> Copy Cue 3 **At** Cue 5
-
-**Helping keyword Thru:**
-
- \[Channel\]> Delete Effect 4 **Thru** 6
-
-* * *
-
-##  List of Helping Keywords
-
-*   [\+ \[Plus\] keyword](key_keyword_plus.html)
-*   [\- \[Minus\] keyword](key_keyword_minus.html)
-*   [And keyword](key_keyword_and.html)
-*   [At keyword](key_keyword_at.html)
-*   [CmdDelay keyword](key_keyword_cmddelay.html)
-*   [Delay keyword](key_keyword_delay.html)
-*   [EndIf keyword](key_keyword_endif.html)
-*   [Fade keyword](key_keyword_fade.html)
-*   [If keyword](key_keyword_if.html)
-*   [Off keyword](key_keyword_off.html)
-*   [On keyword](key_keyword_on.html)
-*   [Or keyword](key_keyword_or.html)
-*   [OutFade keyword](key_keyword_outfade.html)
-*   [OutDelay keyword](key_keyword_outdelay.html)
-*   ​[SnapPercent keyword](key_keyword_snappercent.html)
-*   [Thru keyword](key_keyword_thru.html)
-*   [Toggle keyword](key_keyword_toggle.html)
+\[[Keywords/+ [Plus] keyword]]
+*   [[Keywords/- [Minus] keyword]]
+*   [[Keywords/And keyword]]
+*   [[Keywords/At keyword]]
+*   [[Keywords/CmdDelay keyword]]
+*   [[Keywords/Delay keyword]]
+*   [[Keywords/EndIf|EndIf keyword]]
+*   [[Keywords/Fade|Fade keyword]]
+*   [[Keywords/If|If keyword]]
+*   [[Keywords/Off|Off keyword]]
+*   [[Keywords/On|On keyword]]
+*   [[Keywords/Or keyword]]
+*   [[Keywords/OutFade|OutFade keyword]]
+*   [[Keywords/OutDelay|OutDelay keyword]]
+*   ​[[Keywords/SnapPercent|SnapPercent keyword]]
+*   [[Keywords/Thru|Thru keyword]]
+*   [[Keywords/Toggle|Toggle keyword]]
 
 [[Pages/Command Syntax and Keywords/Object Keywords]] →
 

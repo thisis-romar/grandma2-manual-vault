@@ -38,6 +38,6 @@ Calls the next cue in the selected executor.
 **Hint:**  
 It is also possible to enter this command by pressing the large Go + button on the console. 
 
-For more information see [Go + (large)](key_key_defgoplus.html).
+For more information see [[Keys/Go + (large) Key|Go + (large)]].
 
 Part of [[000 Keyword Index]] · [[000 Map of Content]]

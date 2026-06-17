@@ -29,7 +29,7 @@ There are two words used when talking about color systems in the fixtures. They 
 
 This topic explains the difference between the two.
 
-Please read the [What are Attributes, Features and Preset Types topic](key_basic_fixture_attribute_feature_preset.html) before reading this if you have any doubts what it is.
+Please read the [[Pages/Basic Fixture Types/What are Attributes, Features & Preset Types|What are Attributes, Features and Preset Types topic]] before reading this if you have any doubts what it is.
 
 ## ColorMix
 

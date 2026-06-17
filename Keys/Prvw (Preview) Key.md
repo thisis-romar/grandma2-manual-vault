@@ -25,7 +25,7 @@ The key Prvw (Preview) is located in the command area on the left of the key A
 
 _Location_ _Key_ _Prvw (Preview)_ 
 
-*   Pressing Prvw enters the [Preview keyword](key_keyword_preview.html) into the command line and opens the **preview encoder bar**.
+*   Pressing Prvw enters the [[Keywords/Preview|Preview keyword]] into the command line and opens the **preview encoder bar**.
 
 \[Channel\]> Preview
 
@@ -33,15 +33,15 @@ _Location_ _Key_ _Prvw (Preview)_ 
 
 _Encoder Bar - Preview_
 
-*   Pressing Prvw Prvw executes the [PreviewEdit keyword](key_keyword_previewedit.html). Preview Edit is on. To close Preview Edit press Prvw Prvw again.
+*   Pressing Prvw Prvw executes the [[Keywords/PreviewEdit|PreviewEdit keyword]]. Preview Edit is on. To close Preview Edit press Prvw Prvw again.
 
 \[time\] : Executing : PreviewEdit
 
-*   If there is already a function keyword in the command line, pressing Prvw executes the function keyword with the [PreviewExecutor keyword](key_keyword_previewexecutor.html).
+*   If there is already a function keyword in the command line, pressing Prvw executes the function keyword with the [[Keywords/PreviewExecutor|PreviewExecutor keyword]].
 
 \[time\] : Executing : Go PreviewExecutor
 
-*    Pressing and holding Prvw + and pressing an executor button, for example 1, executes the [Preview keyword](key_keyword_preview.html) with the option **/add**.
+*    Pressing and holding Prvw + and pressing an executor button, for example 1, executes the [[Keywords/Preview|Preview keyword]] with the option **/add**.
 
 \[time\] : Executing : Preview ExecButton 1 /add
 

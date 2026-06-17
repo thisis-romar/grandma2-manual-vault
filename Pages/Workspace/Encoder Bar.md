@@ -41,8 +41,8 @@ _Encoder Bar Window_
 
 The encoder bar is structured in two areas:
 
-1.  [Preset Control Bar](key_ws_preset_control_bar.html)
-2.  [Encoder Toolbar](key_ws_encoder_toolbar.html)
+1.  [[Pages/Workspace/Preset Control Bar]]
+2.  [[Pages/Workspace/Encoder Toolbar]]
 
   
 
@@ -50,8 +50,8 @@ The encoder bar is structured in two areas:
 
 #### Sub topics
 
-*   [Preset control bar](key_ws_preset_control_bar.html)
-*   [Encoder toolbar](key_ws_encoder_toolbar.html)
+*   [[Pages/Workspace/Preset Control Bar|Preset control bar]]
+*   [[Pages/Workspace/Encoder Toolbar|Encoder toolbar]]
 
 ← [[Pages/Workspace/User Interface]] | [[Pages/Workspace/Encoder Settings]] →
 

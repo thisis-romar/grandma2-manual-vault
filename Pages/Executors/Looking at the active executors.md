@@ -84,7 +84,7 @@ The Off buttons are:
 
 ## Running Playbacks
 
-A window similar to the Off Menu is called **Running Playbacks**. It can be made like any other window - using the [Create Basic Windows pop-up](key_windows.html). This window can be found in the **Playbacks** tab. It could look like this:
+A window similar to the Off Menu is called **Running Playbacks**. It can be made like any other window - using the [[Sections/Windows|Create Basic Windows pop-up]]. This window can be found in the **Playbacks** tab. It could look like this:
 
 ![](../../img/window_running-playbacks_v3-3.png)
 

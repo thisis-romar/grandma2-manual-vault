@@ -80,6 +80,6 @@ _New fixtures in the Fixture Schedule_
   
 And now we can exit both the Edit Setup pop-up and the Setup menu. Confirm that you want to save the changes.
 
-Go to the [next page](key_10_fixture_sheet.html) to learn about the Fixture Sheet.
+Go to the [[QuickStart/Working with the Fixture Sheet|next page]] to learn about the Fixture Sheet.
 
 Part of [[000 Map of Content]]

@@ -103,7 +103,7 @@ If you use a different default world then number one then you might want to edit
 
 Remember that the world you select only affects your programmer and what is displayed on some windows. Executors and already programmed elements are not affected by the worlds you have selected.
 
-But you can assign a world to an executor or a sequence. Read more about that in the [Apply worlds or filters to executors and sequences topic](key_wfm_apply_to_exec_seq.html).
+But you can assign a world to an executor or a sequence. Read more about that in the [[Pages/Worlds Filters and Masks/Apply worlds or filters to executors and sequences|Apply worlds or filters to executors and sequences topic]].
 
 ← [[Pages/Worlds Filters and Masks/Auto create worlds]] | [[Pages/Worlds Filters and Masks/What are filters]] →
 

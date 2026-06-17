@@ -27,7 +27,7 @@ Version 3.9
 
 You can create masks in the pool or in the individual windows. The workflow is the same.
 
-If you do not know about the mask pool then please read the [What are masks topic](key_wfm_what_are_masks.html).
+If you do not know about the mask pool then please read the [[Pages/Worlds Filters and Masks/What are masks|What are masks topic]].
 
 Press the Edit key followed by one of the Mask Pool objects to open the Mask Editor:
 
@@ -148,7 +148,7 @@ These are not exactly a question of the imported fixture types in your show file
 
 **No Parameter - fixture side:**
 
-This will display the fixtures that have the "No Parameter" option in the [EditSetup](key_patch_add_fixtures.html). This can be useful when you have fixtures that are only controlled by the MA VPU (=video processing unit) through the console, and you want to see what they do.
+This will display the fixtures that have the "No Parameter" option in the [[Pages/Patching/Adding fixtures to the show|EditSetup]]. This can be useful when you have fixtures that are only controlled by the MA VPU (=video processing unit) through the console, and you want to see what they do.
 
 **RDM Notification - fixture side:**
 
@@ -174,11 +174,11 @@ Displays the currently selected Feature - for example ColorMix.
 
 **In Saved Attributes - attribute side:**
 
-Gives you a new button in the fourth column called "Define Mask". This will open a pop-up where you can selected one or more of the attributes in the show. The pop-up is just like the attribute part of the Edit Filter pop-up. Read more about this in the [Create filters Topic](key_wfm_create_filters.html).
+Gives you a new button in the fourth column called "Define Mask". This will open a pop-up where you can selected one or more of the attributes in the show. The pop-up is just like the attribute part of the Edit Filter pop-up. Read more about this in the [[Pages/Worlds Filters and Masks/Create filters|Create filters Topic]].
 
 ## The Lower part
 
-The lover part changes a little depending on how you get the mask editor. The different ways to get to the editor is discussed in the [Use masks in sheets topic](key_wfm_use_masks.html).
+The lover part changes a little depending on how you get the mask editor. The different ways to get to the editor is discussed in the [[Pages/Worlds Filters and Masks/Use masks in the sheets and windows|Use masks in sheets topic]].
 
 There are four buttons that are almost always visible:
 
@@ -214,7 +214,7 @@ This button is only available if you have loaded a mask from the pool. This chec
 
 This button is only available if you have loaded a mask from the pool. This allows you to save the current criterions back to the loaded mask - if you have not activated "Save Always".
 
-Please read the [Use Masks in Sheets topic](key_wfm_use_masks.html) to learn more about how it use the masks in the different sheets and windows.
+Please read the [[Pages/Worlds Filters and Masks/Use masks in the sheets and windows|Use Masks in Sheets topic]] to learn more about how it use the masks in the different sheets and windows.
 
 ← [[Pages/Worlds Filters and Masks/What are masks]] | [[Pages/Worlds Filters and Masks/Use masks in the sheets and windows]] →
 

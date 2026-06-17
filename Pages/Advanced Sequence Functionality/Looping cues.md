@@ -27,7 +27,7 @@ Version 3.9
 
 Cues can be looped. They can loop indefinitely or loops can be limited by time or number of loops.
 
-In the [Sequence Executor Sheet](key_cs_cue_sequence.html) there are three columns that control looping. They are: **Loop**, **Ltime**, and **Lcount**.
+In the [[Pages/Command Syntax and Keywords/Looking at the Cue Sequence|Sequence Executor Sheet]] there are three columns that control looping. They are: **Loop**, **Ltime**, and **Lcount**.
 
 Editing a cell in the Loop column will open a Select Loop Destination pop-up. It could look like this (if you have five cues):
 
@@ -59,7 +59,7 @@ If command line is used to set the Ltime and Lcount, then assigning **\-1** will
 
 ## Loop BreakingGo
 
-The Executors have an options called **Loop BreakingGo**. It can be found in the Options page of the Assign Menu - read more about it in the [Executor Options topic](key_adv_exec_options.html).
+The Executors have an options called **Loop BreakingGo**. It can be found in the Options page of the Assign Menu - read more about it in the [[Pages/Advanced Executor Functionality/Executor Options|Executor Options topic]].
 
 When this is active, then a Go or Goto command will overrule the looping function and the cue after the loop will be called. All other triggers will keep the loop running.
 

@@ -50,7 +50,7 @@ Sets the IP address. 
 
  Shuts down all the devices with the host IDs 1, 2, 3, and 4. 
 
-For more information on how to set the IP address see [SetIP](key_keyword_setip.html).
+For more information on how to set the IP address see [[Keywords/SetIP]].
 
 ← [[Pages/Command Syntax and Keywords/Attribute List]]
 

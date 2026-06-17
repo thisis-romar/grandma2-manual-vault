@@ -85,7 +85,7 @@ Now you have a copy of the layer. 
 
 You can export a layer (or even a fixture). This is meant for exporting the information about the structure. This can be used to document the setup and patch.
 
-Please have look at the [Export and Import](key_export_and_import.html) topics.
+Please have look at the [[Sections/Export and Import]] topics.
 
 ## Move fixtures between layers
 

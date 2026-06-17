@@ -43,17 +43,17 @@ It is mainly the different timings used for fades and delays.
 
 It also has the default trigger.
 
-[Follow this link to read more about the Sequences.](key_cues_and_sequences.html)
+[[Sections/Cues and Sequences|Follow this link to read more about the Sequences.]]
 
 ### Preset Defaults
 
-The Preset defaults contain four different settings. They are not described here, please read the [Presets](key_presets.html) topics instead.
+The Preset defaults contain four different settings. They are not described here, please read the [[Sections/Presets]] topics instead.
 
 ### Layout Defaults
 
 Tapping the Layout Defaults will open the settings for the Layout View on the entire screen.
 
-[Follow this link to read more about the Layouts.](key_layouts.html)
+[[Sections/Layouts|Follow this link to read more about the Layouts.]]
 
 ### Command At Defaults
 
@@ -101,7 +101,7 @@ This is where the store options are saved. These are the settings used when stor
 
 All the settings are not described here.
 
-Please read the [Cues and Sequences](key_cues_and_sequences.html) and [Presets](key_presets.html) topics instead.
+Please read the [[Sections/Cues and Sequences]] and [[Sections/Presets]] topics instead.
 
 ## Settings
 
@@ -134,7 +134,7 @@ This section contains different settings all related to the User (Profile).
     
       
      
-*   **Trackball Resolution** - Opens the **Select Trackball Resolution** pop-up. This is used to select the default resolution of the trackball. This can also be change on the fly by pressing the ![encoder](../../img/encoder_1.png) (encoder) key and holding it, then selecting one of the resolutions in the pop-up - more about the [Encoder key](key_key_encoder.html) following the link.There are three different resolutions:  
+*   **Trackball Resolution** - Opens the **Select Trackball Resolution** pop-up. This is used to select the default resolution of the trackball. This can also be change on the fly by pressing the ![encoder](../../img/encoder_1.png) (encoder) key and holding it, then selecting one of the resolutions in the pop-up - more about the [[Keys/Key|Encoder key]] following the link.There are three different resolutions:  
     **Fine** (0.1% of the range)  
     **Normal** (1% of the range)  
     **Coarse** (5% of the range)
@@ -167,7 +167,7 @@ This section contains different settings all related to the User (Profile).
     
       
      
-*   **Dimmer Wheel Resolution** - This is used to select the default resolution of the Level Wheel. This can also be change on the fly by pressing the ![encoder](../../img/encoder_1.png) (Encoder) key and holding it, then selecting one of the resolutions in the pop-up - more about the [Encoder key](key_key_encoder.html) following the link.There are three different resolutions:  
+*   **Dimmer Wheel Resolution** - This is used to select the default resolution of the Level Wheel. This can also be change on the fly by pressing the ![encoder](../../img/encoder_1.png) (Encoder) key and holding it, then selecting one of the resolutions in the pop-up - more about the [[Keys/Key|Encoder key]] following the link.There are three different resolutions:  
     **Fine** (0.1% of the range)  
     **Normal** (1% of the range)  
     **Coarse** (5% of the range)
@@ -189,17 +189,17 @@ This section contains different settings all related to the User (Profile).
       
     This cannot add more faders to your console. If there only are 15 faders then you do not get 30 - but you can scale down a grandMA2 full-size.  
      
-*   **Dynamic Channel Page Shows Only Selected** - When this is On then the console will only display the selected fixtures in "Dynamic Channel Pages" - read more about the Dynamic Channel Pages in the [Channel Pages topic](key_adv_exec_ch_pages.html).  
+*   **Dynamic Channel Page Shows Only Selected** - When this is On then the console will only display the selected fixtures in "Dynamic Channel Pages" - read more about the Dynamic Channel Pages in the [[Pages/Advanced Executor Functionality/Channel Pages|Channel Pages topic]].  
      
-*   **At Normal Percent** - Here you can define what percent should be considered "[At Normal](key_keyword_normal.html)". This is used when the At key is pressed twice.  
+*   **At Normal Percent** - Here you can define what percent should be considered "[[Keywords/Normal|At Normal]]". This is used when the At key is pressed twice.  
      
 *   **Single Digit Value** - All numeric value input below 10 will be a multiplication of 10; for example: channel 1 at 5 = channel 1 gets value 50.  
      
-*   **Max. Program Time** - This is the maximum allowed Program time for the **Program Time Special Master**. Follow this link [Time Control](key_ws_time_control.html) to read more about the Program Time.  
+*   **Max. Program Time** - This is the maximum allowed Program time for the **Program Time Special Master**. Follow this link [[Pages/Workspace/Time Control]] to read more about the Program Time.  
      
-*   **Max. Exec Time** - This is the maximum allowed Executor time for the **Executor Time Special Master**. Follow this link [Time Control](key_ws_time_control.html) to read more about the Executor Time.  
+*   **Max. Exec Time** - This is the maximum allowed Executor time for the **Executor Time Special Master**. Follow this link [[Pages/Workspace/Time Control]] to read more about the Executor Time.  
      
-*   **Special Fader Buttons** - Here you can Enable or Disable the extra buttons above the 100mm faders. Follow this link [Master Section](key_widget_master_section.html) to read more about this area.  
+*   **Special Fader Buttons** - Here you can Enable or Disable the extra buttons above the 100mm faders. Follow this link [[Pages/Workspace/Master Section]] to read more about this area.  
      
 *   **Disable View Button and View CLI** - With this option activated Views and Viewbuttons will not interact with the command line anymore. For example hitting the store button to store a group and realizing you have to change the View to get a group pool would not accidently store a view.  
      
@@ -231,7 +231,7 @@ This section contains different settings all related to the User (Profile).
     
     _Select Encoder Link pop-up_
     
-    *   **Programmer Colors** - This setting allows to change between two different set of visual color feedback regarding the programmer. The two options are **Standard** and **High Contrast**. Read about the in the [System Colors topic](key_ws_colors_system.html).
+    *   **Programmer Colors** - This setting allows to change between two different set of visual color feedback regarding the programmer. The two options are **Standard** and **High Contrast**. Read about the in the [[Pages/Workspace/System Colors|System Colors topic]].
 
 ← [[Pages/Single and Multi User Systems/Create user profiles and users]] | [[Pages/Single and Multi User Systems/Login on a station]] →
 

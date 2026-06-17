@@ -28,7 +28,7 @@ The keyword **AutoCreate** automatically creates preset objects. 
 **Important:**  
 To auto create presets, create preset reference first. 
 
-For more information on AutoCreate in the Setup see [Auto create presets](key_presets_auto_create.html).
+For more information on AutoCreate in the Setup see [[Pages/Presets/Auto Create Presets|Auto create presets]].
 
 ## Syntax
 

@@ -33,7 +33,7 @@ Dmx \[Universe\].\[Address\]
 
 Entering a DMX address opens the DMX encoder bar which may be used for testing. You may also set a test level directly by combining the DMX address with the keyword **At**.
 
-For more information see [At](key_keyword_at.html).
+For more information see [[Keywords/At keyword|At]].
 
 The DMX tester has priority over the normal output of the console (parked, executors, programmer) and HTP priority with DMX input.
 

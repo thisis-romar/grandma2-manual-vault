@@ -26,7 +26,7 @@ Version 3.9
 
 The chapter gives you information about how to update the grandMA2 if a new software version is available.
 
-To double-check what version you are using, enter the [version keyword](key_keyword_version.html) in the command line.
+To double-check what version you are using, enter the [[Keywords/Version|version keyword]] in the command line.
 
 ## Check for updates and download the latest version
 
@@ -44,10 +44,10 @@ The download process start. Follow the on screen instructions.
 
 #### Sub topics
 
-*   [Update via setup](key_update_setup.html)
-*   [Format a USB stick for Linux](key_update_format.html)
-*   [Update or factory reset via boot menu](key_update_boot_menu.html)
-*   [Restart from Linux](key_update_restart_linux.html)
+*   [[Pages/Update the Software/Update via setup]]
+*   [[Pages/Update the Software/Format a USB stick for Linux]]
+*   [[Pages/Update the Software/Update or factory reset via boot menu]]
+*   [[Pages/Update the Software/Restart from Linux]]
 
 ## Pages in This Section
 

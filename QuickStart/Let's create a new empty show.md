@@ -47,6 +47,6 @@ Close the Backup Menu by pressing the yellow X in the upper right corner when yo
 
 You have now created a new empty show.
 
-Go to the [next page](key_02_patch_dimmers.html) to learn to patch dimmers.
+Go to the [[QuickStart/Adding and patching dimmers|next page]] to learn to patch dimmers.
 
 Part of [[000 Map of Content]]

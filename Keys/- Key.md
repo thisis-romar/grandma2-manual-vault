@@ -23,9 +23,7 @@ The key \- is located on the right of the numeric keys in the command area.
 
 ![](../../img/img_minus_key_3_2.png)
 
-_Location k__ey_ _\[Minus\] -_ 
-
-Pressing \- once enters the [\[Minus\] - keyword](key_keyword_minus.html) into the command line.
+_Location k__ey_ _\[[Keywords/- [Minus] keyword]] into the command line.
 
 \[Channel\]> -
 

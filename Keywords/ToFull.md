@@ -30,7 +30,7 @@ ToFull is a function keyword.
 
 **Important:**  
 ToFull adjusts only masterlevels to 100 % and NOT e.g. speedmaster or crossfader.  
-To set all faders to 100 %, use the [At keyword](key_keyword_at.html).
+To set all faders to 100 %, use the [[Keywords/At keyword]].
 
 ## Syntax
 

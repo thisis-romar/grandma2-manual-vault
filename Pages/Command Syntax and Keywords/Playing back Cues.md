@@ -31,7 +31,7 @@ Sequences can be played back from two different locations.
 
 They can be assigned to an executor and run from there or they can be played back from the Sequence Pool.
 
-You can always see the actively running playbacks in the [Running Playbacks window](key_exec_running_playbacks.html#running_playbacks).
+You can always see the actively running playbacks in the [[Pages/Executors/Looking at the active executors|Running Playbacks window]].
 
 ## Sequence assigned to an Executor
 
@@ -65,7 +65,7 @@ Goto Cue 4 Exec 1 . 8 Time 5 Please
 
 This will overwrite any cue and individual timing and use the time specified in the command.
 
-For details about the executors and the related commands, please read the [Executor section](key_exec.html). also have a look at the [Sequence Mini Executor topic](key_cs_sequence_mini_executor.html).
+For details about the executors and the related commands, please read the [[Sections/Executors|Executor section]]. also have a look at the [[Pages/Command Syntax and Keywords/Sequence mini executor|Sequence Mini Executor topic]].
 
 ## Sequence running in the Sequence Pool
 
@@ -91,7 +91,7 @@ If "Direct Action" is active then tapping the pool objects is the same as pressi
 
 ## Trigger
 
-Each cue has an assigned trigger. This can be seen and edited in the **Trig** column in the [Sequence Executor Sheet](key_cs_cue_sequence.html).
+Each cue has an assigned trigger. This can be seen and edited in the **Trig** column in the [[Pages/Command Syntax and Keywords/Looking at the Cue Sequence|Sequence Executor Sheet]].
 
 Some trigger are connected to a time. This can be edited in the **Trig Time** column - also in the Sequence Executor Sheet.
 
@@ -114,10 +114,10 @@ The options here are:
 *   **BPM:**  
     This will trigger the cue using the beats in the sound input. This can become useful with several cues being triggered by the BPM (Beats Per Minute).
 *   **Timecode:**  
-    A cue can have a timecode time as a trigger. The sequence is connected to a Timecode Slot. When the sequence is active and the specified time (in the Trig Time column) is received, then the cue is triggered. Read more about it in the [Record a Timecode Show topic](key_timecode_record.html).
+    A cue can have a timecode time as a trigger. The sequence is connected to a Timecode Slot. When the sequence is active and the specified time (in the Trig Time column) is received, then the cue is triggered. Read more about it in the [[Pages/Timecode/Record a Timecode Show|Record a Timecode Show topic]].
 
 **Important**  
-When a cue is triggered by timecode, then it always **Asserts**. Read more about assert in the [Using Cue Modes topic](key_adv_seq_cue_modes.html).
+When a cue is triggered by timecode, then it always **Asserts**. Read more about assert in the [[Pages/Advanced Sequence Functionality/Using Cue Modes|Using Cue Modes topic]].
 
 The default trigger can be changed in the Setup -> User -> Defaults -> Sequence Defaults. This is a setting that follows the User Profile.
 
@@ -125,7 +125,7 @@ The default trigger can be changed in the Setup -> User -> Defaults -> Sequence 
 
 When several sequences are affecting the same fixtures then priorities become important. The priority setting is actually an option to the executor.
 
-These options can be opened by pressing the Assign key and then one of the executors keys where there is a sequence you want to change. This opens the **Assign Menu**. On the right side of the menu there are some buttons. Please press Options button. This is all the options available for a sequence assigned to an executor. These options are discussed in the [Executor Options topic](key_adv_exec_options.html).
+These options can be opened by pressing the Assign key and then one of the executors keys where there is a sequence you want to change. This opens the **Assign Menu**. On the right side of the menu there are some buttons. Please press Options button. This is all the options available for a sequence assigned to an executor. These options are discussed in the [[Pages/Advanced Executor Functionality/Executor Options|Executor Options topic]].
 
 The top button in the second column sets the priority. Tapping it will open a small select pop-up like this:
 

@@ -28,7 +28,7 @@ The predefined macros and effects are a collection made by MA Lighting.
 
 They can be used to make programming faster and more convenient. They are also a great source for learning how macros and effects work.
 
-The predefined macros are all inside a single XML file in the software. All the predefined effects are in another XML file. These XML files can be imported, as any other, using the methods described in the [Import by using command line topic](key_ei_import_commandline.html)  - although it is imported from the internal hard drive instead of a USB stick.
+The predefined macros are all inside a single XML file in the software. All the predefined effects are in another XML file. These XML files can be imported, as any other, using the methods described in the [[Pages/Export and Import/Import by using command line|Import by using command line topic]]  - although it is imported from the internal hard drive instead of a USB stick.
 
 The predefined macros and effects are a little bit different because there is an extra way to import them.
 
@@ -36,7 +36,7 @@ In the following example, a predefined macro is imported. Effects can be importe
 
 ## Import a predefined macro
 
-In the [Manually create a macro topic](key_macro_create.html) it is described how the Edit Macro pop-up works.
+In the [[Pages/Macros/Manually create a macro|Manually create a macro topic]] it is described how the Edit Macro pop-up works.
 
 For instance edit an empty macro object in the pool.
 

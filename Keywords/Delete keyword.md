@@ -28,7 +28,7 @@ Delete is a function used to remove data from your show file. If the object itse
 
 If no object type or destination is given, the default object type for this function ​​– Cue –​ is used.
 
-For more information see [Cue](key_keyword_cue.html). 
+For more information see [[Keywords/Cue keyword|Cue]]. 
 
 If a selection list filter is given, only specified fixtures are deleted from the object list.
 
@@ -98,9 +98,9 @@ condition
 
 cnd
 
-See [messages keyword](key_keyword_messages.html).
+See [[Keywords/Messages|messages keyword]].
 
-See [messages keyword](key_keyword_messages.html).
+See [[Keywords/Messages|messages keyword]].
 
 ## Examples
 

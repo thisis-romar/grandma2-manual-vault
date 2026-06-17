@@ -24,7 +24,7 @@ Version 3.9
 
 # Export by using command line
 
-It is possible to use the **Command Line** to export all objects. For more information about the keyword and syntax, see the [Export keyword](key_keyword_export.html) topic.
+It is possible to use the **Command Line** to export all objects. For more information about the keyword and syntax, see the [[Keywords/Export|Export keyword]] topic.
 
 ## Example 1
 

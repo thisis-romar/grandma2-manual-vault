@@ -31,7 +31,7 @@ Each user (profile) can have their own default options.
 
 During the store it is also possible to add commands that will use a specific set of store options.
 
-In this topic the options regarding storing cues are described. Some of these options will impact how other cues will respond. Elements regarding tracking are described in the [What is Tracking topic](key_cs_what_is_tracking.html).
+In this topic the options regarding storing cues are described. Some of these options will impact how other cues will respond. Elements regarding tracking are described in the [[Pages/Command Syntax and Keywords/What is Tracking|What is Tracking topic]].
 
 ## Store Options
 
@@ -43,9 +43,9 @@ _Store Options_
 
 On the left side are two areas called "Data Source" and "Use Selection". It is these two sections that are described here.
 
-The "Presets" options are described in the [Create Presets topic](key_presets_create.html). "If not Empty" is described in the [Store Cues topic](key_cs_store.html).
+The "Presets" options are described in the [[Pages/Presets/Create Presets|Create Presets topic]]. "If not Empty" is described in the [[Pages/Command Syntax and Keywords/Storing cues|Store Cues topic]].
 
-**Store Filter** is described in the [What are Filters topics](key_wfm_what_are_filters.html). **Cue Only** and **Tracking Shield** is discussed in the [What is Tracking topic](key_cs_what_is_tracking.html). Position data (**Active Position Data**, **XYZ**, and **Pan/Tilt**) is relevant when XYZ position programming is activated. Read more about it in the [Programming XYZ section](key_xyz.html).
+**Store Filter** is described in the [[Pages/Worlds Filters and Masks/What are filters|What are Filters topics]]. **Cue Only** and **Tracking Shield** is discussed in the [[Pages/Command Syntax and Keywords/What is Tracking|What is Tracking topic]]. Position data (**Active Position Data**, **XYZ**, and **Pan/Tilt**) is relevant when XYZ position programming is activated. Read more about it in the [[Sections/XYZ|Programming XYZ section]].
 
 ### Data Source
 
@@ -54,7 +54,7 @@ This is the source that will used when storing.
 *   **Prog. (Programmer) - This is the default option:**  
     Stores the content in the programmer.
 *   **Output:**  
-    Stores the status of the current output from the console. The output can be affected by masters and DMX profiles. The [DMX sheet](key_patch_dmx_sheet.html) will show what the output actually is. 
+    Stores the status of the current output from the console. The output can be affected by masters and DMX profiles. The [[Pages/Patching/DMX Sheet|DMX sheet]] will show what the output actually is. 
 *   **DMX In:**  
     Stores the current DMX input.
 
@@ -100,17 +100,17 @@ The top row has a lot of buttons. Short description from left to right:
 *   **Use Selection:**  
     This is the use selection swipe button - read description above.
 *   **If not Empty:**  
-    This is the if not empty swipe button - read description in the [Store Cues topic](key_cs_store.html).
+    This is the if not empty swipe button - read description in the [[Pages/Command Syntax and Keywords/Storing cues|Store Cues topic]].
 *   **Store Filter:**  
-    This button opens the Store Filter pop-up - read about it in the [Use Temporary Filters topic](key_wfm_temporary_filters.html).
+    This button opens the Store Filter pop-up - read about it in the [[Pages/Worlds Filters and Masks/Use temporary filters|Use Temporary Filters topic]].
 *   **Value Layers:**  
-    This on/off button filters the Value Layers - read about the layers in the [Layers in Sheets topic](key_of_layers_in_sheets.html).
+    This on/off button filters the Value Layers - read about the layers in the [[Pages/Operate Fixtures/Layer in Sheets|Layers in Sheets topic]].
 *   **Value Time Layers:**  
     This on/off button filters the Value Time Layers - read about it by following the link above.
 *   **Effect Layers:**  
     This on/off button filters the Effect Layers - read about it by following the link above.
 *   **Cue Only:**  
-    This on/off button will activate the Cue Only function. It is mutually exclusive with the Tracking Shield function. Read about Cue Only in the [What is Tracking topic](key_cs_what_is_tracking.html).
+    This on/off button will activate the Cue Only function. It is mutually exclusive with the Tracking Shield function. Read about Cue Only in the [[Pages/Command Syntax and Keywords/What is Tracking|What is Tracking topic]].
 *   **Tracking Shield:**  
     This on/off button will activate the Tracking Shield function. It is mutually exclusive with the Cue Only function. Read about Tracking Shield following the link above.
 *   **Page change:**  

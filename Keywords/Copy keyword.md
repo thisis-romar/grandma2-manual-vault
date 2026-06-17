@@ -94,7 +94,7 @@ If no object type is given and the command line destination is root (no destinat
 
 If no target is given, the objects will be exported to clipboard.xml. The objects are used with the keyword Paste.
 
-For more information see [Paste](key_keyword_paste.html).
+For more information see [[Keywords/Paste]].
 
 ## Examples
 

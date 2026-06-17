@@ -29,7 +29,7 @@ Version 3.9
 
 *   Fixtures are patched. 
 
-For more information on how to patch fixtures see [Adding fixtures to your show](key_patch_add_fixtures.html). 
+For more information on how to patch fixtures see [[Pages/Patching/Adding fixtures to the show|Adding fixtures to your show]]. 
 
 To create presets:
 
@@ -58,7 +58,7 @@ Every preset pool – **except for the preset pool All** – has a filter as a d
 The store option is Preset Type Default by default. This setting falls back on the default store option of a preset pool. 
 
 7.  To allow that presets are stored within other presets, tap Allow Embedded.  
-    For more information see [Embedded presets](key_presets_embedded.html). 
+    For more information see [[Pages/Presets/Embedded Presets|Embedded presets]]. 
 8.  To take the preset link actively into the programmer after storing the preset, tap Keep Activation. 
 9.  To keep the previous settings when storing another preset, tap Save as Default in the header of this dialog. 
 10.  To close the **Temporary Store Options**, tap ![](../../img/icon_close_small_v3-2.png) in the upper right corner of the pop-up. 

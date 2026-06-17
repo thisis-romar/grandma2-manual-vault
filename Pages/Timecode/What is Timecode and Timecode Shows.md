@@ -38,7 +38,7 @@ The 8 timecode slots are organized in a pool. It could look like this:
 
 _Timecode Slots pool - pool style_
 
-This pool is different than all other pools. It is not possible to Delete, Add, Move, Copy, or alter anything that would change the amount of the pool objects. There are 8 and they can be used and controlled, but the amount cannot be changed. Other pool options apply and they are described in the [Pools in General section](key_pools.html).
+This pool is different than all other pools. It is not possible to Delete, Add, Move, Copy, or alter anything that would change the amount of the pool objects. There are 8 and they can be used and controlled, but the amount cannot be changed. Other pool options apply and they are described in the [[Sections/Pools|Pools in General section]].
 
 The pool can be changed to the "Sheet Style" in the options. Then it could look like this:
 
@@ -46,11 +46,11 @@ The pool can be changed to the "Sheet Style" in the options. Then it could look 
 
 _Timecode Slots pool - sheet style_
 
-Now it is possible to a see a lot that actually can be changed for each of the 8 timecode slots. They are all explained in the [Playing Back a Timecode Show topic](key_timecode_playing.html).
+Now it is possible to a see a lot that actually can be changed for each of the 8 timecode slots. They are all explained in the [[Pages/Timecode/Playing Back a Timecode Show|Playing Back a Timecode Show topic]].
 
 The time and status for each timecode slot is distributed in a session. This means that the time is shared by all stations in the session. The signal can enter the session at any station. The one that "hears" the signal first is the one distributing it to the others.
 
-The timecode slot can also generate a time signal. This means that one operator in a session can start the generation of time and then all other stations can see and run shows based on this time signal. Read more about the generator in the [Playing Back a Timecode Show topic](key_timecode_playing.html).
+The timecode slot can also generate a time signal. This means that one operator in a session can start the generation of time and then all other stations can see and run shows based on this time signal. Read more about the generator in the [[Pages/Timecode/Playing Back a Timecode Show|Playing Back a Timecode Show topic]].
 
 The clock can be used to display the time of the timecode slots. This also offers fast access to the basic generate control. It could look like this (generated time signal):
 
@@ -78,9 +78,9 @@ They are organized in the timecode pool. It could look like this when in pool st
 
 _Timecode pool - pool style_
 
-It looks different than most pools, since the two first pool objects are replaced with a time information object. This area displays the time from the slots assigned to the inputs on your station - read about the timecode slots above. It is only for information, It cannot do anything. The time format and colors are discussed more in the [Playing Back a Timecode Show topic](key_timecode_playing.html).
+It looks different than most pools, since the two first pool objects are replaced with a time information object. This area displays the time from the slots assigned to the inputs on your station - read about the timecode slots above. It is only for information, It cannot do anything. The time format and colors are discussed more in the [[Pages/Timecode/Playing Back a Timecode Show|Playing Back a Timecode Show topic]].
 
-The pool behaves otherwise like most other pools - please read the [Pools in General section](key_pools.html).
+The pool behaves otherwise like most other pools - please read the [[Sections/Pools|Pools in General section]].
 
 The timecode pool could look like this if changed to the "Sheet Style":
 
@@ -116,7 +116,7 @@ _Timecode View window_
 
 This window shows the playback status and current time of the timecode show. The show cannot be edited in this window it is "read only".
 
-The timecode view is very similar to the timecode editor, except the editor has more options. Please read the [Edit a Timecode Show topic](key_timecode_editor.html) for more information about the editor and thereby also this viewer.
+The timecode view is very similar to the timecode editor, except the editor has more options. Please read the [[Pages/Timecode/Edit a Timecode Show|Edit a Timecode Show topic]] for more information about the editor and thereby also this viewer.
 
 [[Pages/Timecode/Record a Timecode Show]] →
 

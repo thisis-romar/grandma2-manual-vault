@@ -26,7 +26,7 @@ Version 3.9
 
 Here you can find some examples of macros.
 
-Most can be found in the predefined macros. Read the [Import predefined objects topic](key_ei_import_predefined.html) for information about importing them.
+Most can be found in the predefined macros. Read the [[Pages/Export and Import/Import predefined objects|Import predefined objects topic]] for information about importing them.
 
 ## +05
 

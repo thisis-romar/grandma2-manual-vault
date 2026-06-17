@@ -37,9 +37,9 @@ There are a lot of different colors and they gives you a lot of useful informati
 
 #### Sub topics
 
-*   [System](key_ws_colors_system.html)
-*   [Marker](key_ws_colors_marker.html)
-*   [Cue](key_ws_colors_cue.html)
+*   [[Pages/Workspace/System Colors|System]]
+*   [[Pages/Workspace/Marker Colors|Marker]]
+*   [[Pages/Workspace/Cue Colors|Cue]]
 
 ← [[Pages/Workspace/Oops and undo]] | [[Pages/Workspace/Text indicators and symbols]] →
 

@@ -118,6 +118,6 @@ Executes the command which was stored in agenda 1. 
 **Hint:**  
 It is also possible to enter agenda into the command line by pressing the key Macro three times on the console. 
 
-For more information see the key [Macro](key_key_macro.html).
+For more information see the key [[Keys/Macro Key|Macro]].
 
 Part of [[000 Keyword Index]] · [[000 Map of Content]]

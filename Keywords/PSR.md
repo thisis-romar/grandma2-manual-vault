@@ -29,7 +29,7 @@ The PSR keyword executes a partial show read for the specified object.
 
 The PSR keyword is a function keyword.
 
-For more information, see [Partial Show Read (PSR)](key_psr.html).
+For more information, see [[Sections/Partial Show Read|Partial Show Read (PSR)]].
 
 ## Syntax
 

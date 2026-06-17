@@ -31,7 +31,7 @@ CircularCopy moves the attribute values within your currently selected fixtures 
 
 This function obeys the At filter.
 
-For more information on how to use filters see [What are filters](key_wfm_what_are_filters.html).
+For more information on how to use filters see [[Pages/Worlds Filters and Masks/What are filters]].
 
 ## Example:
 
@@ -44,7 +44,7 @@ Fixture 1 copies its values to fixture 2, fixture 2 to fixture 3, and the last f
 Fixture 4 copies its values to fixture 2, fixture 3 to fixture 1, and the last fixture copies its values back to fixture 4.
 
 **Hint:**  
-​-It is also possible to use the Circular Copy in the MAtricks toolbar. For more information see [MAtricks toolbar - Circular Copy](key_matricks_toolbar.html#circular_copy)​.  
-​-To access the Circular Copy in a window, press Tools. For more Information see the [Tools key](key_key_tools.html).
+​-It is also possible to use the Circular Copy in the MAtricks toolbar. For more information see [[Pages/MAtricks/MAtricks Toolbar|MAtricks toolbar - Circular Copy]]​.  
+​-To access the Circular Copy in a window, press Tools. For more Information see the [[Keys/Tools Key|Tools key]].
 
 Part of [[000 Keyword Index]] · [[000 Map of Content]]

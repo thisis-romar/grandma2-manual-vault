@@ -29,7 +29,7 @@ If the network is equipped with a DHCP server enable the DHCP client of the swit
 
 The previous assigned IP address will be used if there is no DHCP server available.
 
-**Requirement:** [Added MA Network Switch to the network configuration](key_control_ma_switch_add.html).
+**Requirement:** [[Pages/Control MA Network Switch/Add the MA Network Switch to the network configuration|Added MA Network Switch to the network configuration]].
 
 1.  Open the MA Network Configuration.  
     \- Press Setup, and tap under **Network** MA Network Configuration.  
@@ -54,7 +54,7 @@ If DHCP is on, the MA Network Switch is reachable only with the DHCP IP address.
 
 **Hint:**  
 You can also enable the DHCP client by using the command line.  
-\- Change the destination of the command line to NetConfig/Network Switch 8. For more information see [ChangeDest keyword](key_keyword_changedest.html).  
+\- Change the destination of the command line to NetConfig/Network Switch 8. For more information see [[Keywords/ChangeDest keyword]].  
 \- Type in the command line Assign 1 / DHCPclientenabled = "Yes".  
 The DHCP client of the NetworkSwitch 1 is enabled.
 

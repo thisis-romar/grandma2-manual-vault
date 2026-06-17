@@ -27,7 +27,7 @@ Version 3.9
 
 # Advanced Sequence Functionality
 
-The following sub topics describes some of the more advanced functions regarding sequences. It is good idea to have a look at the [Cues and Sequence section](key_cues_and_sequences.html) before reading these topics.
+The following sub topics describes some of the more advanced functions regarding sequences. It is good idea to have a look at the [[Sections/Cues and Sequences|Cues and Sequence section]] before reading these topics.
 
   
 
@@ -35,13 +35,13 @@ The following sub topics describes some of the more advanced functions regarding
 
 #### Sub topics
 
-*   [Using different view sets in the sheets](key_adv_seq_view_sets.html)
-*   [Working with MIB](key_adv_seq_mib.html)
-*   [Using cue modes](key_adv_seq_cue_modes.html)
-*   [Cue zero](key_adv_seq_cue_zero.html)
-*   [Sequence info window](key_adv_seq_info.html)
-*   [Looping cues](key_adv_seq_loop.html)
-*   [Cue path](key_adv_seq_cue_path.html)
+*   [[Pages/Advanced Sequence Functionality/Using different view sets in the sheets]]
+*   [[Pages/Advanced Sequence Functionality/Working with MIB]]
+*   [[Pages/Advanced Sequence Functionality/Using Cue Modes|Using cue modes]]
+*   [[Pages/Advanced Sequence Functionality/Cue Zero|Cue zero]]
+*   [[Pages/Advanced Sequence Functionality/Sequence info window]]
+*   [[Pages/Advanced Sequence Functionality/Looping cues]]
+*   [[Pages/Advanced Sequence Functionality/Cue path]]
 
 ## Pages in This Section
 

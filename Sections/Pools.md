@@ -29,29 +29,29 @@ This chapter describes pools in general. Pools are windows that display objects 
 
 _Preset pool – Color_
 
-To open a pool see [workspace - manage windows](key_windows.html).
+To open a pool see [[Sections/Windows|workspace - manage windows]].
 
 There are 19 different pools. For information on specific pools click on one of the following links.
 
-*   [Camera Pool](key_patch_camera.html)
-*   [Effects Pool](key_effects_predefined.html)
-*   [Filters Pool](key_wfm_what_are_filters.html)
-*   [Forms Pool](key_effects_create_forms.html)
-*   [Groups Pool](key_groups.html)
-*   [Images Pool](key_image.html)
-*   [Layout Pool](key_layouts_create.html)
-*   [Macros Pool](key_macro_what_are.html)
-*   [Masks Pool](key_wfm_what_are_masks.html)
-*   [MAtricks Pool](key_matricks_pool.html)
-*   [Page Channels Pool](key_adv_exec_ch_pages.html)
-*   [Pages Exec Pool](key_adv_exec_pages.html)
-*   [Sequence Pool](key_cs_what_are.html#sequence_pool)
-*   [Timecode Pool](key_timecode_what_is.html#timecode_shows)
-*   [Timecode Slots Pool](key_timecode_what_is.html#timecode_slots)
-*   [Timer Pool](key_timers_timer_pool.html)
-*   [Views Pool](key_ws_work_with_views.html)
-*   [Universes Pool](key_patch_universe_pool.html)
-*   [Worlds Pool](key_wfm_what_are_worlds.html)
+*   [[Pages/Patching/Virtual 3D Cameras|Camera Pool]]
+*   [[Pages/Effects/Use Predefined Effects|Effects Pool]]
+*   [[Pages/Worlds Filters and Masks/What are filters|Filters Pool]]
+*   [[Pages/Effects/Create Effect Forms|Forms Pool]]
+*   [[Sections/Groups|Groups Pool]]
+*   [[Sections/Image Pool|Images Pool]]
+*   [[Pages/Layouts/Create a Layout|Layout Pool]]
+*   [[Pages/Macros/What are macros|Macros Pool]]
+*   [[Pages/Worlds Filters and Masks/What are masks|Masks Pool]]
+*   [[Pages/MAtricks/MAtricks Pool]]
+*   [[Pages/Advanced Executor Functionality/Channel Pages|Page Channels Pool]]
+*   [[Pages/Advanced Executor Functionality/Executor Pages|Pages Exec Pool]]
+*   [[Pages/Command Syntax and Keywords/What are cues and sequences|Sequence Pool]]
+*   [[Pages/Timecode/What is Timecode and Timecode Shows|Timecode Pool]]
+*   [[Pages/Timecode/What is Timecode and Timecode Shows|Timecode Slots Pool]]
+*   [[Pages/Timer/Timer Pool]]
+*   [[Pages/Workspace/Work with views|Views Pool]]
+*   [[Pages/Patching/Universe Pool|Universes Pool]]
+*   [[Pages/Worlds Filters and Masks/What are Worlds|Worlds Pool]]
 
 To navigate in the pool, use the arrow keys on the keyboard in the drawer of the console or on a external keyboard.
 
@@ -77,7 +77,7 @@ To expand the group pool for example by 1000 empty pool object tiles, type into 
 \- Delete Group 1000 and press Please  
 The group pool is expanded by empty group pool objects.
 
-For information about the pool object colors see [workspace - colors - system](key_ws_colors_system.html).
+For information about the pool object colors see [[Pages/Workspace/System Colors|workspace - colors - system]].
 
   
 
@@ -85,9 +85,9 @@ For information about the pool object colors see [workspace - colors - system](k
 
 #### Sub topics
 
-*   [Manage pool objects](key_pools_manage.html)
-*   [Adjust pool options](key_pools_options.html)
-*   [Call modes](key_pools_call_modes.html)
+*   [[Pages/Pools/Manage pool objects]]
+*   [[Pages/Pools/Adjust pool options]]
+*   [[Pages/Pools/Call Modes|Call modes]]
 
 ## Pages in This Section
 

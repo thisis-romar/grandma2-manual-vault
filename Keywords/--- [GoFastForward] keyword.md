@@ -32,7 +32,7 @@ To execute the keyword **\>>> GoFastForward** type **\>>>** or the shortcut **
 
 The time used by this function may be adjusted via the GoFast property found under Setup -> Show -> Playback + MIB Timing.
 
-For more information see [Working with MIB](key_adv_seq_mib.html) and [Running playbacks](key_exec_running_playbacks.html#running_playbacks). 
+For more information see [[Pages/Advanced Sequence Functionality/Working with MIB]] and [[Pages/Executors/Looking at the active executors|Running playbacks]]. 
 
 ## Example
 
@@ -43,6 +43,6 @@ Jumps to the next cue on executor 3.
 **Hint:**  
 To execute this function you can also use the key \>>> on the console. 
 
-For more information see the key [\>>>](key_key_skipplus.html).
+For more information see the key \>>>.
 
 Part of [[000 Keyword Index]] · [[000 Map of Content]]

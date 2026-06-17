@@ -29,7 +29,7 @@ Chat "text"
 
 Typing the keyword **Chat** into the command line generates an information message marked in gray in the message center. 
 
-For more information on the icons, the colors of messages, and the center itself see [Message center](key_message_center.html). 
+For more information on the icons, the colors of messages, and the center itself see [[Pages/Other System Tools/Message center]]. 
 
 ## Example:
 

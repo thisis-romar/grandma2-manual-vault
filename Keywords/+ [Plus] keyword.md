@@ -51,6 +51,6 @@ If used as a starting keyword, + creates a selection list, which will be added
 **Hint:**  
 To execute this function, you can also use the key + on the console. 
 
-For more information see [+](key_key_plus.html).
+For more information see [[Keys/+ Key|+]].
 
 Part of [[000 Keyword Index]] · [[000 Map of Content]]

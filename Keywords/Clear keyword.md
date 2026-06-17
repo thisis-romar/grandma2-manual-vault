@@ -36,7 +36,7 @@ Depending on status of the programmer the function will sequentially:
 2.  Clear active values (deactivates all values)
 3.  Clear all (empties programmer)
 
-For more information on each function of the keyword Clear see [ClearSelection](key_keyword_clearselection.html), [ClearActive](key_keyword_clearactive.html) and [ClearAll](key_keyword_clearall.html). 
+For more information on each function of the keyword Clear see [[Keywords/ClearSelection keyword|ClearSelection]], [[Keywords/ClearActive keyword|ClearActive]] and [[Keywords/ClearAll keyword|ClearAll]]. 
 
 ## Example:
 

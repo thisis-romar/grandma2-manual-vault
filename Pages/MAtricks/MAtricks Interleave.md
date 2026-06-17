@@ -27,13 +27,13 @@ Version 3.9
 
 This topic illustrates how to use MAtricksInterleave based on an example. 
 
-For information on the keyword see [MAtricksInterleave](key_keyword_matricksinterleave.html). 
+For information on the keyword see [[Keywords/MAtricksInterleave]]. 
 
 **Requirement:**
 
 *   Fixtures are selected via the command line or keys.
 
-For more information on how to select fixtures for the usage of MAtricks see [MAtricks](key_matricks.html#select_fixtures_matricks).
+For more information on how to select fixtures for the usage of MAtricks see [[Sections/MAtricks]].
 
 ### Example
 
@@ -43,7 +43,7 @@ For more information on how to select fixtures for the usage of MAtricks see [
 
 1.  To apply the MAtricksInterleave, tap the button on the left of the ![](../../img/icon_minus_v3-2.png) sign displayed below **Interleave** in the MAtricks toolbar. 
 
-For more information on the toolbar see [MAtricks toolbar](key_matricks_toolbar.html).
+For more information on the toolbar see [[Pages/MAtricks/MAtricks Toolbar|MAtricks toolbar]].
 
 2.  The calculator opens.  
     \-Enter 4.

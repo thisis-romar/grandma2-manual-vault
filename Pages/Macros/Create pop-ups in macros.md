@@ -98,7 +98,7 @@ The fourth macro line removes the my\_password variable. Otherwise, the password
 
 It can often be a good idea to treat the user input as text. This, for instance, allows the use of names instead of just numbers.
 
-See more examples in the [Example macros topic](key_macro_examples.html).
+See more examples in the [[Pages/Macros/Example macros|Example macros topic]].
 
 ← [[Pages/Macros/Use variables in macros]] | [[Pages/Macros/Conditional expressions]] →
 

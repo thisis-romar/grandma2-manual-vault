@@ -25,11 +25,11 @@ The key Learn is located in the command area on the right of the key <<<.
 
 _Location k__ey_ _Learn_ 
 
-*   Pressing Learn enters the [Learn keyword](key_keyword_learn.html) into the command line.
+*   Pressing Learn enters the [[Keywords/Learn|Learn keyword]] into the command line.
 
 \[Channel\]> Learn
 
-*   Pressing Learn Learn enters the [Rate1 keyword](key_keyword_rate1.html) into the command line.
+*   Pressing Learn Learn enters the [[Keywords/Rate1|Rate1 keyword]] into the command line.
 
 \[Channel\]> Rate1
 

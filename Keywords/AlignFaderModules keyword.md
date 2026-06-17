@@ -42,11 +42,11 @@ Entering AlignFaderModules into the command line automatically sets up a surfa
 
 If a default surface already exists, this command sets automatically a second surface. 
 
-For more information on how to set surfaces see the keyword [Surface](key_keyword_surface.html). 
+For more information on how to set surfaces see the keyword [[Keywords/Surface]]. 
 
 **Hint:**  
 It is also possible to configure external wings on the screen via Wing & Monitor Setup. 
 
-For more information see [Wing & Monitor Setup](key_window_faderwing_commandwing_setup.html).
+For more information see [[Pages/Console Settings/Wing & Monitor Setup]].
 
 Part of [[000 Keyword Index]] · [[000 Map of Content]]

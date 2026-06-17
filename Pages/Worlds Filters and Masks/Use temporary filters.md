@@ -29,13 +29,13 @@ Besides the filter pool with the defined or prepared filters, you can also use t
 
 They are used in the same actions as the filters from the filter pool.
 
-The following text describes how to open a temporary filter pop-up. But you can also have the [Command Filter window](key_wfm_create_filters.html#command_filter) on one of your screens and use this.
+The following text describes how to open a temporary filter pop-up. But you can also have the [[Pages/Worlds Filters and Masks/Create filters|Command Filter window]] on one of your screens and use this.
 
-In the following text we are going to explore the temporary filters using the same examples as in the [Use Filters when programming topic](key_wfm_use_filter.html). If you have not read that, it is a strong suggestion to do that first.
+In the following text we are going to explore the temporary filters using the same examples as in the [[Pages/Worlds Filters and Masks/Use filters when you Store and use At|Use Filters when programming topic]]. If you have not read that, it is a strong suggestion to do that first.
 
 ## Temporary Store Filter
 
-You can access the temporary Store filter by pressing the Store key. Now you got the [Store Encoder Toolbar](key_cs_store_options_default.html) visible at the bottom of screen 2. In this toolbar you will find a button called Store Filter. Tapping this will open a filter editor pop-up. It works just as explained in the [Create filters topic](key_wfm_create_filters.html). There are two extra buttons on the right side of the pop-up. They are called "Reset Filter on Clear" and "Store Filter and Select".
+You can access the temporary Store filter by pressing the Store key. Now you got the [[Pages/Command Syntax and Keywords/Store Options and Defaults|Store Encoder Toolbar]] visible at the bottom of screen 2. In this toolbar you will find a button called Store Filter. Tapping this will open a filter editor pop-up. It works just as explained in the [[Pages/Worlds Filters and Masks/Create filters|Create filters topic]]. There are two extra buttons on the right side of the pop-up. They are called "Reset Filter on Clear" and "Store Filter and Select".
 
 **Reset Filter on Clear:**
 
@@ -47,7 +47,7 @@ Tapping this button will store the current filter settings as the next free avai
 
 ### Example of the temporary store filter
 
-The following example is the same as the one used in the [Use filters when programming topic](key_wfm_use_filter.html).
+The following example is the same as the one used in the [[Pages/Worlds Filters and Masks/Use filters when you Store and use At|Use filters when programming topic]].
 
 We are going to look at a practical situation where filters can help you work more efficient.
 
@@ -96,7 +96,7 @@ This will use both the MixColor and the Color Wheels to create the best result.
 
 ### Example
 
-The following example is the same as the one used in the [Use filters when programming topic](key_wfm_use_filter.html).
+The following example is the same as the one used in the [[Pages/Worlds Filters and Masks/Use filters when you Store and use At|Use filters when programming topic]].
 
 In this example we are going to grab only the color values from one fixture and apply it to another.
 
@@ -122,7 +122,7 @@ While storing or using the At command you can include an encapsulated condition.
 
 The condition is encapsulated using the If key. You can keep the key pressed if you are making a complex condition or press it shortly if it is a more simple condition.
 
-The encapsulation is between the [If command](key_keyword_if.html) and the [EndIf command](key_keyword_endif.html). EndIf is available as a command using the If key after you have typed the first If command. Sometimes the software will automatically add the EndIf command.
+The encapsulation is between the [[Keywords/If|If command]] and the [[Keywords/EndIf|EndIf command]]. EndIf is available as a command using the If key after you have typed the first If command. Sometimes the software will automatically add the EndIf command.
 
 The condition is usually made by pressing different elements on the screens, but it can just as well be written commands. The condition can be positive or negative. For example: If you want to only have position values then you can simply tap the Position button in the Preset Control Bar. If you want everything except the position values, then you can press the \- key and then the Position button to get the following command: If - PresetType "POSITION" EndIf in the command line.
 
@@ -140,7 +140,7 @@ We do not want to use the move in black function but we want the fixture to alre
 
 4.  Press Store.
 5.  Press If and then \-. Now the filtering is active and we have already selected that we want to exclude something.
-6.  We want to exclude the dimmer so now you can tap the Dimmer button in the [Preset Control Bar](key_ws_preset_control_bar.html).
+6.  We want to exclude the dimmer so now you can tap the Dimmer button in the [[Pages/Workspace/Preset Control Bar]].
 7.  Finish the temporary filter by pressing the If key again. Now the command line should read: Store If - PresetType "DIMMER" EndIf.
 8.  Press an empty executor button - creating a new cue 1 in a new sequence and executor.
 

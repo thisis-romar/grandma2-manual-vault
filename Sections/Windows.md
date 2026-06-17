@@ -22,7 +22,7 @@ Version 3.9
 
 # Manage windows
 
-This topic deals with windows, sheets, and pools you can create in the [user-defined area](key_widget_user_defined_area.html).
+This topic deals with windows, sheets, and pools you can create in the [[Pages/Workspace/User-Defined Area|user-defined area]].
 
 Create custom views by moving or adjusting windows.
 
@@ -31,68 +31,68 @@ Save settings to default or load settings that were previously saved from the de
 There are 6 different tabs that consist of several windows. For more information on the single tabs see the following links:
 
 *   **Sheets**
-    *   [Channel sheet](key_of_channel_sheet.html)
-    *   [DMX sheet](key_patch_dmx_sheet.html)
-    *   [Fixture sheet](key_of_fixture_sheet.html)
-    *   [Sequence content sheet](key_of_layers_in_sheets_content_and_tracking.html)
-    *   [Sequence executor sheet](key_cs_cue_sequence.html)
-    *   [Sequence tracking sheet](key_of_layers_in_sheets_content_and_tracking.html)
-    *   [RDM sheet](key_rdm_rdm_sheets.html)
+    *   [[Pages/Operate Fixtures/Channel Sheet|Channel sheet]]
+    *   [[Pages/Patching/DMX Sheet|DMX sheet]]
+    *   [[Pages/Operate Fixtures/Fixture Sheet|Fixture sheet]]
+    *   [[Pages/Operate Fixtures/Sequence Content Sheet And Sequence Tracking Sheet|Sequence content sheet]]
+    *   [[Pages/Command Syntax and Keywords/Looking at the Cue Sequence|Sequence executor sheet]]
+    *   [[Pages/Operate Fixtures/Sequence Content Sheet And Sequence Tracking Sheet|Sequence tracking sheet]]
+    *   [[Pages/RDM/Use the RDM sheet|RDM sheet]]
 *   **Pools**
-    *   [Camera](key_patch_camera.html) 
-    *   [Effects](key_effects_predefined.html)
-    *   [Filters](key_wfm_what_are_filters.html)
-    *   [Forms](key_effects_create_forms.html) 
-    *   [Groups](key_groups.html) 
-    *   [Images](key_image.html)
-    *   [Layout](key_layouts_create.html) 
-    *   [Macros](key_macro_what_are.html)
-    *   [Masks](key_wfm_what_are_masks.html)
-    *   [MAtricks](key_matricks_pool.html)
-    *   [Pages Channel](key_adv_exec_ch_pages.html) 
-    *   [Pages Executor](key_adv_exec_pages.html) 
-    *   [Sequence](key_cs_what_are.html)
-    *   [Timecode](key_timecode_what_is.html#timecode_shows) 
-    *   [Timecode Slots](key_timecode_what_is.html#timecode_slots) 
-    *   [Timer](key_timers_timer_pool.html) 
-    *   [Views](key_ws_work_with_views.html) 
-    *   [Universes](key_patch_universe_pool.html) 
-    *   [Worlds](key_wfm_what_are_worlds.html) 
+    *   [[Pages/Patching/Virtual 3D Cameras|Camera]] 
+    *   [[Pages/Effects/Use Predefined Effects|Effects]]
+    *   [[Pages/Worlds Filters and Masks/What are filters|Filters]]
+    *   [[Pages/Effects/Create Effect Forms|Forms]] 
+    *   [[Sections/Groups]] 
+    *   [[Sections/Image Pool|Images]]
+    *   [[Pages/Layouts/Create a Layout|Layout]] 
+    *   [[Pages/Macros/What are macros|Macros]]
+    *   [[Pages/Worlds Filters and Masks/What are masks|Masks]]
+    *   [[Pages/MAtricks/MAtricks Pool|MAtricks]]
+    *   [[Pages/Advanced Executor Functionality/Channel Pages|Pages Channel]] 
+    *   [[Pages/Advanced Executor Functionality/Executor Pages|Pages Executor]] 
+    *   [[Pages/Command Syntax and Keywords/What are cues and sequences|Sequence]]
+    *   [[Pages/Timecode/What is Timecode and Timecode Shows|Timecode]] 
+    *   [[Pages/Timecode/What is Timecode and Timecode Shows|Timecode Slots]] 
+    *   [[Pages/Timer/Timer Pool|Timer]] 
+    *   [[Pages/Workspace/Work with views|Views]] 
+    *   [[Pages/Patching/Universe Pool|Universes]] 
+    *   [[Pages/Worlds Filters and Masks/What are Worlds|Worlds]] 
 *   **Presets**
-    *   [​Preset pools](key_presets_pools.html)
+    *   [[Pages/Presets/Preset Pools|​Preset pools]]
 *   **Playbacks**
-    *   [Action buttons](key_exec_on_screen.html)
-    *   [Playback big](key_exec_on_screen.html#playback_big)
-    *   [Playback small](key_exec_on_screen.html#playback_small)
-    *   [Running effects](key_effects_running.html)
-    *   [Running playbacks](key_exec_running_playbacks.html#running_playbacks)
+    *   [[Pages/Executors/Executors on the screens|Action buttons]]
+    *   [[Pages/Executors/Executors on the screens|Playback big]]
+    *   [[Pages/Executors/Executors on the screens|Playback small]]
+    *   [[Pages/Effects/Running Effects|Running effects]]
+    *   [[Pages/Executors/Looking at the active executors|Running playbacks]]
 *   **Other**
-    *   [Agenda](key_agenda_what_is.html)
-    *   [CITP video viewer](key_network_citp_stream.html)
-    *   [Clock](key_ost_clock.html)
-    *   [Color picker](key_of_color_picker.html)
-    *   [Command filter](key_wfm_what_are_filters.html#command_filter)
-    *   [Command section](key_widget_master_section.html#command_section_view)
-    *   [Command wing bar](key_ws_command_wing_bar.html)
-    *   [Encoder bar](key_ws_encoder_bar.html)
-    *   [Info](key_ws_info.html)
-    *   [Layout view](key_layouts_edit.html)
-    *   [Masters](key_adv_exec_master_window.html)
-    *   [Sequence info](key_adv_seq_info.html)
-    *   [Smart](key_of_smart_view.html)
-    *   [Stage](key_patch_stage.html)
-    *   [Timecode view](key_timecode_what_is.html#timecode_view)
-    *   [VPU pixel mapper view](key_keyword_vpupixelmapperview.html)
+    *   [[Pages/Agenda/What is agenda|Agenda]]
+    *   [[Pages/Networking/Streaming CITP video|CITP video viewer]]
+    *   [[Pages/Other System Tools/Clock]]
+    *   [[Pages/Operate Fixtures/Using The Color Picker|Color picker]]
+    *   [[Pages/Worlds Filters and Masks/What are filters|Command filter]]
+    *   [[Pages/Workspace/Master Section|Command section]]
+    *   [[Pages/Workspace/Command wing bar]]
+    *   [[Pages/Workspace/Encoder Bar|Encoder bar]]
+    *   [[Pages/Workspace/Info]]
+    *   [[Pages/Layouts/Edit Layout|Layout view]]
+    *   [[Pages/Advanced Executor Functionality/Masters Window|Masters]]
+    *   [[Pages/Advanced Sequence Functionality/Sequence info window|Sequence info]]
+    *   [[Pages/Operate Fixtures/Using The Smart View|Smart]]
+    *   [[Pages/Patching/Stage View|Stage]]
+    *   [[Pages/Timecode/What is Timecode and Timecode Shows|Timecode view]]
+    *   [[Keywords/VPU pixel mapper view]]
 *   **System**
-    *   ​[Command line](key_widget_command_line.html)
-    *   [Desk Status](key_ost_desk_status.html)
-    *   [Help](key_ost_help_viewer.html)
-    *   [Message center](key_message_center.html)
-    *   [Network dimmer](key_ost_network_dimmer.html)
-    *   [Performance](key_ost_performance_window.html)
-    *   [Plugins](key_plugins_edit.html)
-    *   [Sound input](key_ost_sound_input_window.html)
-    *   [System monitor](key_ost_system_monitor.html)
+    *   ​[[Pages/Workspace/Command Line|Command line]]
+    *   [[Pages/Other System Tools/Desk status|Desk Status]]
+    *   [[Pages/Other System Tools/Help]]
+    *   [[Pages/Other System Tools/Message center]]
+    *   [[Pages/Other System Tools/Network Dimmer|Network dimmer]]
+    *   [[Pages/Other System Tools/Performance window|Performance]]
+    *   [[Pages/Plugins/Edit Plugins|Plugins]]
+    *   [[Pages/Other System Tools/Sound input window|Sound input]]
+    *   [[Pages/Other System Tools/System monitor]]
 
   
 
@@ -100,8 +100,8 @@ There are 6 different tabs that consist of several windows. For more information
 
 #### Sub topics
 
-*   [Create and manage basic windows](key_windows_create_manage.html)
-*   [Clear the screen or delete windows](key_windows_clear_delete.html)
+*   [[Pages/Windows/Create and Manage Basic Windows|Create and manage basic windows]]
+*   [[Pages/Windows/Clear the Screen or Delete Windows|Clear the screen or delete windows]]
 
 ## Pages in This Section
 

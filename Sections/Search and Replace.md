@@ -30,7 +30,7 @@ The two functions **Search** and **Replace** are two very powerful tools in the 
 
 There is no graphic interface for these two functions. It is all done by typing in the command line entry.
 
-There are some nice predefined macros for many of the search and replace functions - please read more about loading predefined macros in the [Import Predefined Objects topic](key_ei_import_predefined.html).
+There are some nice predefined macros for many of the search and replace functions - please read more about loading predefined macros in the [[Pages/Export and Import/Import predefined objects|Import Predefined Objects topic]].
 
   
 
@@ -38,8 +38,8 @@ There are some nice predefined macros for many of the search and replace functio
 
 #### Sub topics
 
-*   [Search](key_search_replace_search.html)
-*   [Replace](key_search_replace_replace.html)
+*   [[Pages/Search and Replace/Search]]
+*   [[Pages/Search and Replace/Replace]]
 
 ## Pages in This Section
 

@@ -87,6 +87,6 @@ This is a thumbnail of the stored view. 
 
 It does not matter if you press the V1 key or the view button on the screen. The result is the same.
 
-On the [next page](key_04_control_dimmers_or_channels.html) we are going to learn about controlling the values of the channels.
+On the [[QuickStart/Controlling dimmers or channels|next page]] we are going to learn about controlling the values of the channels.
 
 Part of [[000 Map of Content]]

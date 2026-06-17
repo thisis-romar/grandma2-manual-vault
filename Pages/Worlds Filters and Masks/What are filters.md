@@ -29,7 +29,7 @@ The Filters are used to limit what can be stored, played back or retrieved using
 
 Filters contain a selection of Attributes and data Layers (Value, Value Times and Effects). It does not contain any fixture information.
 
-Filters are organized in a Filter pool. Since this is a pool it might be a good idea to read to [Pools in General section](key_pools.html).
+Filters are organized in a Filter pool. Since this is a pool it might be a good idea to read to [[Sections/Pools|Pools in General section]].
 
 The Filter Pool could look like this:
 
@@ -45,7 +45,7 @@ _Filter pool - sheet style_
 
 The filter pool is a global pool that is shared by all users.
 
-Filters in the pool are used when you store values ([Use filter when storing topic](key_wfm_use_filter.html)), make a circular copy, retrieve data using the At key ([Use filter when grabbing values topic](ef223894-b4ed-4a33-8b8e-4e4340d91a4c.html)), or as a filter on Executors and Sequences ([Apply worlds and filters to executors and sequences topic](key_wfm_apply_to_exec_seq.html)).
+Filters in the pool are used when you store values ([[Pages/Worlds Filters and Masks/Use filters when you Store and use At|Use filter when storing topic]]), make a circular copy, retrieve data using the At key (Use filter when grabbing values topic), or as a filter on Executors and Sequences ([[Pages/Worlds Filters and Masks/Apply worlds or filters to executors and sequences|Apply worlds and filters to executors and sequences topic]]).
 
 There is always one active filter. The first pool object is called "All" and it contains all attributes and layers. This means that it does not filter any data. It is also locked and cannot be edited.
 
@@ -55,7 +55,7 @@ A called filter overwrites the selected filter, but will only be used the next t
 
 When a different filter than the "All" filter is selected, then the At key will flash and the filter icon ![](../../img/icon_filter_small_v3-2.png) is in the command line and Message Center (default setting).
 
-For more information about the colors and markers please read the [System Colors topic](key_ws_colors_system.html).
+For more information about the colors and markers please read the [[Pages/Workspace/System Colors|System Colors topic]].
 
 The data Layer Markers are only visible if there is one or more being filtered. It will then display the allowed layers. If all layers are Off (filtered) then there is also no markers. This would block all value data from passing the filter!
 
@@ -71,7 +71,7 @@ It could look like this:
 
 _Command Filter window_
 
-The primary functions of this window is described in the [Create filters topic](key_wfm_create_filters.html).
+The primary functions of this window is described in the [[Pages/Worlds Filters and Masks/Create filters|Create filters topic]].
 
 This window will always show you the current filtering, and allow you to do temporary modifications.
 

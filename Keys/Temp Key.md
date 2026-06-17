@@ -25,11 +25,11 @@ The key Temp is located in the command area on the left of the key Top.
 
 _Location Key Temp_ 
 
-*   Pressing Temp enters the [Temp keyword](key_keyword_temp.html) into the command line.
+*   Pressing Temp enters the [[Keywords/Temp|Temp keyword]] into the command line.
 
 \[Channel\]> Temp
 
-*   Pressing Temp Temp enters the [Toggle keyword](key_keyword_toggle.html) into the command line.
+*   Pressing Temp Temp enters the [[Keywords/Toggle|Toggle keyword]] into the command line.
 
 \[Channel\]> Toggle
 

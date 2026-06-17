@@ -29,7 +29,7 @@ It drops the exclusive control over channel or attributes in playbacks in a curr
 
 The user that executes the keyword DropControl drops the sole control over playbacks in TakeControl fixtures and gains back the control over other playbacks.  
 
-To take control over fixtures and playbacks see the [keyword TakeControl](key_keyword_takecontrol.html). 
+To take control over fixtures and playbacks see the [[Keywords/TakeControl|keyword TakeControl]]. 
 
 ## Syntax
 

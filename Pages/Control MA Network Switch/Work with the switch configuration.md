@@ -31,7 +31,7 @@ You can get the current switch configuration or upload a previous exported switc
 
 **Requirements:**
 
-*   [Added MA Network Switch to the network configuration](key_control_ma_switch_add.html)
+*   [[Pages/Control MA Network Switch/Add the MA Network Switch to the network configuration|Added MA Network Switch to the network configuration]]
 *   grandMA2 console and MA Network Switch needs to be in the same subnet
 
 ## Get switch configuration

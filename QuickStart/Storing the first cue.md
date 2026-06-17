@@ -67,6 +67,6 @@ Now your Sequence Executor sheet should look something like this:
 
 _Sequence Executor Sheet with one cue_
 
-On the [next page](key_07_create_more_cues.html), we are going to create more cues.
+On the [[QuickStart/Create more cue|next page]], we are going to create more cues.
 
 Part of [[000 Map of Content]]

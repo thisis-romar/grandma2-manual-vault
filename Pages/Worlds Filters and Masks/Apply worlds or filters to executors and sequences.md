@@ -26,7 +26,7 @@ Version 3.9
 
 Worlds and filters can be assigned to Executors or Sequences.
 
-If you have come to this page without knowing about worlds and filters, then you should read the [What are Worlds topic](key_wfm_what_are_worlds.html) and [What are Filters topic](key_wfm_what_are_filters.html).
+If you have come to this page without knowing about worlds and filters, then you should read the [[Pages/Worlds Filters and Masks/What are Worlds|What are Worlds topic]] and [[Pages/Worlds Filters and Masks/What are filters|What are Filters topic]].
 
 ## Playback Filter
 
@@ -93,7 +93,7 @@ You can of coarse also use the command line: Assign Filter 7 Sequence 8
 
 You can see in the mini executor if one or both of the filters are applied. It is a marking of ether the executor number (Playback Filter) or sequence number (Input Filter).
 
-Read more in the [Sequence mini executor topic](key_cs_sequence_mini_executor.html).
+Read more in the [[Pages/Command Syntax and Keywords/Sequence mini executor|Sequence mini executor topic]].
 
 ← [[Pages/Worlds Filters and Masks/Use masks in the sheets and windows]]
 

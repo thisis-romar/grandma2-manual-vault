@@ -31,7 +31,7 @@ Set the position mode when storing a cue using the temporary store options.
 
 1.  Open the **Store Options**.
 
-For more information on the store options in cues and sequences and how to open them see [Store options and defaults](key_cs_store_options_default.html).
+For more information on the store options in cues and sequences and how to open them see [[Pages/Command Syntax and Keywords/Store Options and Defaults|Store options and defaults]].
 
 ![](../../img/popup_store_options_3_2.png)
 
@@ -60,7 +60,7 @@ Set a default position mode in the Assign Menu of a sequence for the entire sequ
 
 **Requirement:**
 
-[Assign a sequence to an executor](key_exec_assign.html)
+[[Pages/Executors/Assign a function|Assign a sequence to an executor]]
 
 1.  Open the **Assign Menu** of the sequence:  
     \-Tap Assign and press the executor you have saved the sequence on.  
@@ -88,9 +88,9 @@ The **Forced Position Mode** in the sequence executor sheet allows to adjust the
 
 **Requirement:**
 
-[Store cues](key_cs_store.html)
+[[Pages/Command Syntax and Keywords/Storing cues|Store cues]]
 
-1.  Open the sequence executor sheet. For more information see [Manage windows – Create Basic Window](key_windows.html).
+1.  Open the sequence executor sheet. For more information see [[Sections/Windows|Manage windows – Create Basic Window]].
 
 ![](../../img/window_sequence-executor-sheet_v3-3.png)
 

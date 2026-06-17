@@ -36,7 +36,7 @@ The default function for this object is Call. Calling a ButtonPage will change y
 The ButtonPage keyword currently supports its default function Call only.  
 The command **ButtonPage** can only call pages which were previously created, e.g., by saving an executor. 
 
-For more information on the default function for ButtonPage see [Call](key_keyword_call.html). 
+For more information on the default function for ButtonPage see [[Keywords/Call keyword|Call]]. 
 
 ## Example:
 

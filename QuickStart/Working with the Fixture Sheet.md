@@ -89,6 +89,6 @@ The Fixture Sheet should now look something like this:
 
 _The Fixture sheet_
 
-On the [next page](key_11_control_fixtures.html) we are going to have a look at how to control fixtures.
+On the [[QuickStart/Controlling fixtures|next page]] we are going to have a look at how to control fixtures.
 
 Part of [[000 Map of Content]]

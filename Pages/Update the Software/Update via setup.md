@@ -25,7 +25,7 @@ Version 3.9
 # Update via setup
 
 **Important:**  
-This update process is available beginning with software version 2.8. If you have a software version 2.7 or older, use the update process via boot menu. For more information, see [update via boot menu](key_update_boot_menu.html).
+This update process is available beginning with software version 2.8. If you have a software version 2.7 or older, use the update process via boot menu. For more information, see [[Pages/Update the Software/Update or factory reset via boot menu|update via boot menu]].
 
 This topic describes how to update the grandMA2 console via the Setup.
 
@@ -61,8 +61,8 @@ The console reboots and the update process is finished.
 
 You can also update the consoles software via command line.  
 For more information, see:  
-\- [UpdateSoftware Keyword](key_keyword_updatesoftware.html)  
-\- [Reboot Keyword](key_keyword_reboot.html)
+\- [[Keywords/UpdateSoftware|UpdateSoftware Keyword]]  
+\- [[Keywords/Reboot|Reboot Keyword]]
 
 [[Pages/Update the Software/Format a USB stick for Linux]] →
 

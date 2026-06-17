@@ -26,13 +26,13 @@ Version 3.9
 # Configure the MA NDPs
 
 **Important:**  
-This topic deals with settings that can be made in the **MA Network Configuration** of MA NDPs. General settings are dealt with in [Adding devices to your session](key_network_session_add_device.html). For information on the configuration of MA NDPs in the view **MA Dimmer Network** see [Network dimmer](key_ost_network_dimmer.html) and this topic´s corresponding subtopics.
+This topic deals with settings that can be made in the **MA Network Configuration** of MA NDPs. General settings are dealt with in [[Pages/Networking/Adding devices to the session|Adding devices to your session]]. For information on the configuration of MA NDPs in the view **MA Dimmer Network** see [[Pages/Other System Tools/Network Dimmer|Network dimmer]] and this topic´s corresponding subtopics.
 
 **Requirements:**
 
 *   Add an MA NDP to the network configuration. 
 
-For more information see [Add the MA NDPs](key_control_ndp_add.html). 
+For more information see [[Pages/Control MA NDPs/Add the MA NDPs to the Network Configuration|Add the MA NDPs]]. 
 
 1.  Open the **MA Network Configuration**.  
     \-Press Setup and tap MA Network Configuration. 
@@ -57,14 +57,14 @@ The columns displayed in green are editable. 
 _Remove MA NDP from session_
 
 **Hint:**  
-Remove MA NDPs from the session before deleting them. For more information see [Delete the MA NDPs](key_control_ma_ndp_delete.html). 
+Remove MA NDPs from the session before deleting them. For more information see [[Pages/Control MA NDPs/Delete the MA NDPs in the Network Configuration|Delete the MA NDPs]]. 
 
 5.  To edit the rack number, tap and hold a cell in the column **Rack Number**.  
     \-The calculator opens.  
     \-Enter the number of the rack. 
 
 **Hint:**  
-Changing the rack number proves handy if you have configured specific settings in the view **MA Dimmer Network**. For more information on the settings in MA Dimmer Network see [Network dimmer](key_ost_network_dimmer.html) and this topic´s corresponding topics. 
+Changing the rack number proves handy if you have configured specific settings in the view **MA Dimmer Network**. For more information on the settings in MA Dimmer Network see [[Pages/Other System Tools/Network Dimmer|Network dimmer]] and this topic´s corresponding topics. 
 
 The MA NDPs are configured and the settings are applied.
 

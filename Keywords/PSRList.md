@@ -24,7 +24,7 @@ To use to the PSRList keyword, type **PSRList** or the shortcut **PSRL** in the 
 ## Description
 
 The PSRList keyword lists all available and changed objects of the show file which can be inserted.  
-The PSRList keyword displays the same as the partial show read pop-up tree. For more information, see [Partial Show Read (PSR)](key_psr.html).
+The PSRList keyword displays the same as the partial show read pop-up tree. For more information, see [[Sections/Partial Show Read|Partial Show Read (PSR)]].
 
 ![](../../img/window_command-line-feedback_psrlist_v3-2.png)
 

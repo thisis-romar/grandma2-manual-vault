@@ -32,8 +32,8 @@ This section introduces Partial Show Read and describes the process and the inte
 
 #### Sub topics
 
-*   [What is partial show read (PSR)](key_psr_what_is.html)
-*   [How to do a PSR](key_psr_how_to.html)
+*   [[Pages/Partial Show Read/What is Partial Show Read (PSR)|What is partial show read (PSR)]]
+*   [[Pages/Partial Show Read/How to do a Partial Show Read|How to do a PSR]]
 
 ## Pages in This Section
 

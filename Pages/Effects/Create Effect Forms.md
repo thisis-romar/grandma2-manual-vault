@@ -39,7 +39,7 @@ To create a form, open the form pool first:
 
 _Form pool_
 
-Like the image pool, the form pool displays red padlocks. For more information on padlocks and their meanings see [Image Pool](key_image.html). 
+Like the image pool, the form pool displays red padlocks. For more information on padlocks and their meanings see [[Sections/Image Pool]]. 
 
 **Important:**  
 Forms are locked so that predefined effects can fall back to the default values.

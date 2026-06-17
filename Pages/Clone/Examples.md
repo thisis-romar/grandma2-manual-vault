@@ -26,7 +26,7 @@ Version 3.9
 # Examples
 
 **Important:**  
-It is possible to clone from fixture types or to fixture types in presets only. For more information see [Clone presets](key_clone_clone_presets.html).
+It is possible to clone from fixture types or to fixture types in presets only. For more information see [[Pages/Clone/Clone Presets|Clone presets]].
 
 **Important:**  
 The cloning option **Overwrite** removes and  replaces original data of the destination by new data. 

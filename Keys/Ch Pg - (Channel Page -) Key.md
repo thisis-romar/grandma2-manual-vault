@@ -24,7 +24,7 @@ The key Ch Pg - is located on the left of the 100 mm fader.
 
 _Location k__ey_ _Ch Pg -_ 
 
-*   Pressing Ch Pg - executes the [ChannelPage command](key_keyword_channelpage.html).  
+*   Pressing Ch Pg - executes the [[Keywords/ChannelPage keyword|ChannelPage command]].  
     The channel pages are displayed on screen 3 and 4.  
      
     

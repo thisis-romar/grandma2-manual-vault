@@ -51,7 +51,7 @@ The pool options will be saved in the user profile.
 The pool options are adjusted to your needs and are saved in the user profile.
 
 **Hint:**  
-To change the color of one or more pool objects, you can also use the [Appearance Keyword](key_keyword_appearance.html).
+To change the color of one or more pool objects, you can also use the [[Keywords/Appearance keyword|Appearance Keyword]].
 
 ← [[Pages/Pools/Manage pool objects]] | [[Pages/Pools/Call Modes]] →
 

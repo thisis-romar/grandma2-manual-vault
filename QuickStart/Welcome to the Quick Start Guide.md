@@ -25,7 +25,7 @@ This is a more personal guided tour through the grandMA2 software and I (the aut
 
 We are not going to spend time on how to connect or configure a console or onPC in this guide.
 
-We will begin where everything is up and running. If you need help setting up the console before this guide, please have a look at the [First step topics](../key_first_steps.html). If you need help with installing and running your onPC, please have look at [grandMA2 onPC details](../key_onpc_details.html) or the [Introduction](../key_introduction_installation_of_grandma2_onpc.html).
+We will begin where everything is up and running. If you need help setting up the console before this guide, please have a look at the [[Sections/First Steps|First step topics]]. If you need help with installing and running your onPC, please have look at [[Sections/grandMA2 onPC Details|grandMA2 onPC details]] or the [[Pages/Introduction/Installation of grandMA2 onPC|Introduction]].
 
 ## Preface
 
@@ -70,6 +70,6 @@ Notice that the Please or Enter is not displayed.
 
 If you need to write something on the keyboard that is not for the command line, then the keyboard input will look like this: store cue 1.
 
-So, let us begin. Make sure the onPC or console turned on and running, then go to the [next page](key_01_create_new_show.html).
+So, let us begin. Make sure the onPC or console turned on and running, then go to the [[QuickStart/Let's create a new empty show|next page]].
 
 Part of [[000 Map of Content]]

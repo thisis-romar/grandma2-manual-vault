@@ -30,10 +30,10 @@ The Park keyword is a function keyword to lock DMX output values of attributes. 
 If no value is given, the attribute is parked at current value.
 
 **Hint:**  
-Parked DMX channels are indicated by a blue marker. For more information, see [marker colors](key_ws_colors_marker.html).
+Parked DMX channels are indicated by a blue marker. For more information, see [[Pages/Workspace/Marker Colors|marker colors]].
 
 **Hint:**  
-To unpark previous parked values, use the [Unpark keyword](key_keyword_unpark.html).
+To unpark previous parked values, use the [[Keywords/Unpark|Unpark keyword]].
 
 ## Syntax
 

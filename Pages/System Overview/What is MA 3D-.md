@@ -37,7 +37,7 @@ MA 3D can connect to grandMA2 onPC (also free) and does not need parameters to v
 
 You can add a virtual camera dolly and program a moving camera.
 
-An object in MA 3D can be used as a surface that can display video or images. It can also display the CITP video stream from a media system. Read more about CITP in the [Streaming CITP topic](key_network_citp_stream.html).
+An object in MA 3D can be used as a surface that can display video or images. It can also display the CITP video stream from a media system. Read more about CITP in the [[Pages/Networking/Streaming CITP video|Streaming CITP topic]].
 
 MA 3D can create screenshots. If a video capture is needed, then additional capture software is needed.
 

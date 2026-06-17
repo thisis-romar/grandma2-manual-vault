@@ -38,11 +38,11 @@ They are:
 
 The **Grand** is the Grand Master. This has a dedicated physical fader, but can also be assigned to any Executor.
 
-**Program Time** and **Exec time** are described in the [Time Control topic](key_ws_time_control.html). They are used to modify the fade time used by the programmer and to temporary overwrite the stored cue timing.
+**Program Time** and **Exec time** are described in the [[Pages/Workspace/Time Control|Time Control topic]]. They are used to modify the fade time used by the programmer and to temporary overwrite the stored cue timing.
 
 **Snd Out or Sound Out** is the volume of the console. There is a small build in speaker that can be used to play different system sounds.
 
-The **Snd In or Sound In** is the master for the incoming sound. Read more about this and the **Snd Fade** in the [Sound Input topic](key_ost_sound_input_window.html).
+The **Snd In or Sound In** is the master for the incoming sound. Read more about this and the **Snd Fade** in the [[Pages/Other System Tools/Sound input window|Sound Input topic]].
 
 ← [[Pages/Advanced Executor Functionality/Default Masters]] | [[Pages/Advanced Executor Functionality/Speed Masters]] →
 

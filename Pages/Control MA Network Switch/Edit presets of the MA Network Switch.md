@@ -47,7 +47,7 @@ There are seven predefined presets available:
 *   grandMA2
 *   sACN
 
-**Requirement:** [Added MA Network Switch to the network configuration](key_control_ma_switch_add.html).
+**Requirement:** [[Pages/Control MA Network Switch/Add the MA Network Switch to the network configuration|Added MA Network Switch to the network configuration]].
 
 To edit presets:
 

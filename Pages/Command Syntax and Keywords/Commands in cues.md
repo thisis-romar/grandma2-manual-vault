@@ -24,7 +24,7 @@ Version 3.9
 
 # Commands in cues
 
-Each cue can execute a command. The commands are written in the CMD column in the [Sequence Executor Sheet](key_cs_cue_sequence.html).
+Each cue can execute a command. The commands are written in the CMD column in the [[Pages/Command Syntax and Keywords/Looking at the Cue Sequence|Sequence Executor Sheet]].
 
 The commands are executed as soon as the cue is triggered. It is possible to delay the command by adding a time in the CMD Delay column.
 
@@ -34,7 +34,7 @@ As an alternative you could make cue parts and add each command in each part - r
 
 The commands are executed by the logged in user on the master station in a session. So be aware that it might not be the user who triggers the cue that runs the commands.
 
-A useful keyword to know, if you need to trigger a command on a specific station, is the [RemoteCommand](key_keyword_remotecommand.html).
+A useful keyword to know, if you need to trigger a command on a specific station, is the [[Keywords/RemoteCommand]].
 
 ← [[Pages/Command Syntax and Keywords/Sequence mini executor]]
 

@@ -31,11 +31,11 @@ The macro system is a very powerful tool that can help with the programming and 
 
 All macros are kept in the macro pool. This pool is shared by all users in the show file.
 
-Read the [What are Macros topic](key_macro_what_are.html) to get a more general understanding about macros.
+Read the [[Pages/Macros/What are macros|What are Macros topic]] to get a more general understanding about macros.
 
-Read the [Manually create a macro topic](key_macro_create.html) and the subtopics to learn about creating simple and complex macros.
+Read the [[Pages/Macros/Manually create a macro|Manually create a macro topic]] and the subtopics to learn about creating simple and complex macros.
 
-It is also possible to record key presses into a macro. Read the [Record a macro topic](key_macro_record.html) to learn how.
+It is also possible to record key presses into a macro. Read the [[Pages/Macros/Record a macro|Record a macro topic]] to learn how.
 
   
 
@@ -43,13 +43,13 @@ It is also possible to record key presses into a macro. Read the [Record a macro
 
 #### Sub topics
 
-*   [What are macros](key_macro_what_are.html)
-*   [Manually create a macro](key_macro_create.html)
-*   [Record a macro](key_macro_record.html)
-*   [Edit a macro](key_macro_edit.html)
-*   [Command line interaction](key_macro_cli.html)
-*   [Assign a macro to a key](key_macro_assign.html)
-*   [Example macros](key_macro_examples.html)
+*   [[Pages/Macros/What are macros]]
+*   [[Pages/Macros/Manually create a macro]]
+*   [[Pages/Macros/Record a macro]]
+*   [[Pages/Macros/Edit a macro]]
+*   [[Pages/Macros/Command line interaction]]
+*   [[Pages/Macros/Assign a macro to a key]]
+*   [[Pages/Macros/Example macros]]
 
 ## Pages in This Section
 

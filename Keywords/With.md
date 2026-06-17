@@ -53,8 +53,8 @@ If you type the command by using the command keys, the At key will interrupt the
 
 ## Related Links
 
-*   [Search and Replace](key_search_replace.html)
-*   [Replace Keyword](key_keyword_replace.html)
-*   [Move Key](key_key_move.html)
+*   [[Sections/Search and Replace]]
+*   [[Keywords/Replace|Replace Keyword]]
+*   [[Keys/Move Key]]
 
 Part of [[000 Keyword Index]] · [[000 Map of Content]]

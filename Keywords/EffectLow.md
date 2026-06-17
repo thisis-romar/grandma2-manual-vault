@@ -25,7 +25,7 @@ To get the EffectLow keyword in the command line type **EffectLow** or **EffectL
 
 EffectLow is a helping keyword used to indicate individual effect low values.
 
-For more information on effects see [effects](key_effects.html).
+For more information on effects see [[Sections/Effects|effects]].
 
 ## Syntax
 

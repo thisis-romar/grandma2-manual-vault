@@ -35,7 +35,7 @@ Active values are storable values. 
 ### How to Take Attributes into the Programmer
 
 1.  Open the fixture sheet first.  
-    For more information on how to open the fixture sheet see [Fixture sheet](key_of_fixture_sheet.html). 
+    For more information on how to open the fixture sheet see [[Pages/Operate Fixtures/Fixture Sheet|Fixture sheet]]. 
 2.  Select fixtures in the fixture or channel sheet.
 3.   Change values of the fixtures.
 4.  The fixtures with values, which have just changed, have red markers within the object in the sheet.
@@ -56,7 +56,7 @@ _Fixture Sheet_ 
 
 The fixtures with the active values all have red markers, which means that they are actively in the programmer. The fixtures with nonactive values have white markers. 
 
-For more information on the different colors of markers see [Marker](key_ws_colors_marker.html). 
+For more information on the different colors of markers see [[Pages/Workspace/Marker Colors|Marker]]. 
 
 * * *
 
@@ -70,7 +70,7 @@ Active attributes also have color markers in layers.
 
 _Layers With Markers_
 
-For more details on layers see [Fixture sheet](key_of_fixture_sheet.html). 
+For more details on layers see [[Pages/Operate Fixtures/Fixture Sheet|Fixture sheet]]. 
 
 To see the active values only, tap the tab **Active Only** in the mask of the title bar in the fixture sheet.
 

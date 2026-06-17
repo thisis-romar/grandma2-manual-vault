@@ -25,7 +25,7 @@ Version 3.9
 
 # Create filters
 
-There are two different ways to create filters in the filter pool. You can edit one of the pool objects. This will give you the Edit Filter pop-up. The other way is when making a temporary filter using the Store key or the At key, you have the option to store it as a new (first available) filter - read more about the temporary filters in the [Use temporary filters topic](key_wfm_temporary_filters.html).
+There are two different ways to create filters in the filter pool. You can edit one of the pool objects. This will give you the Edit Filter pop-up. The other way is when making a temporary filter using the Store key or the At key, you have the option to store it as a new (first available) filter - read more about the temporary filters in the [[Pages/Worlds Filters and Masks/Use temporary filters|Use temporary filters topic]].
 
 The Edit Filter pop-up could look like this:
 
@@ -45,9 +45,9 @@ The elements in this list changes with your fixture setup.
 
 On the right side you have three buttons to filter Value, Value Times and/or Effect data layers.
 
-To learn more about Preset Type, Feature and Attribute, please read the [What are attributes, features and preset types topic](key_basic_fixture_attribute_feature_preset.html).
+To learn more about Preset Type, Feature and Attribute, please read the [[Pages/Basic Fixture Types/What are Attributes, Features & Preset Types|What are attributes, features and preset types topic]].
 
-To learn more about the data layers, please read the [Layers in Sheets topic](key_of_layers_in_sheets.html).
+To learn more about the data layers, please read the [[Pages/Operate Fixtures/Layer in Sheets|Layers in Sheets topic]].
 
 ## Title bar
 

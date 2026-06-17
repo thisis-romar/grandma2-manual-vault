@@ -27,7 +27,7 @@ Version 3.9
 
 The Stage View is a virtual 3D space where you can position your fixtures and stage elements.
 
-It is a view you can create using the [Create Basic Window](key_windows.html) pop-up.
+It is a view you can create using the [[Sections/Windows|Create Basic Window]] pop-up.
 
 It could look like this:
 
@@ -37,11 +37,11 @@ _Stage View_
 
 The default is that there is a stage floor. Each fixture you add are represented by a wireframe square. The size is taken from the Fixture Type definition.
 
-New fixtures are positioned at the 0,0,0 XYZ location. You can move your fixtures position to match your real world positions. To learn more about positioning the fixtures please read the [Position fixtures in the 3D stage](key_patch_position_fixtures.html) topic.
+New fixtures are positioned at the 0,0,0 XYZ location. You can move your fixtures position to match your real world positions. To learn more about positioning the fixtures please read the [[Pages/Patching/Position fixtures in the virtual 3D stage|Position fixtures in the 3D stage]] topic.
 
 ## Moving around in the Stage View
 
-You can freely move around in the virtual 3D space. What you are moving is actually a virtual camera. The cameras are described in more details in the [Virtual 3D Cameras topic](key_patch_camera.html).
+You can freely move around in the virtual 3D space. What you are moving is actually a virtual camera. The cameras are described in more details in the [[Pages/Patching/Virtual 3D Cameras|Virtual 3D Cameras topic]].
 
 On the right side of the view you can see two controls. There is a circle with cross arrows inside. This can be used to move the camera. press or click inside the circle and move your finger or cursor while pressing. Below the move circle is a zoom bar. Pressing here and moving the finger/cursor up or down will zoom the view.
 
@@ -59,7 +59,7 @@ With **Orbit** you can rotate around the point where click or press.
 
 **Zoom** will zoom in and out.
 
-Remember that you are moving a camera. There are several default cameras that you select. The stage view can show you the stage from a specific camera or from the camera that you have selected in the [Camera Pool](key_patch_camera.html).
+Remember that you are moving a camera. There are several default cameras that you select. The stage view can show you the stage from a specific camera or from the camera that you have selected in the [[Pages/Patching/Virtual 3D Cameras|Camera Pool]].
 
 In the title bar of the stage view, you might see the camera swipe button. In the picture above it is the button called **\[Link Selected\]**. If you swipe it, then it might give you the following options:
 
@@ -85,11 +85,11 @@ You can open the Stage view options by tapping the yellow ball in the upper left
 
 There are four taps in the options.
 
-The first one is called **Calibration**. This has one button. Tapping this will open the auto-calibration of moving light position. This has its own topic - please read about it here [Autocalibrate fixture positions](key_patch_autocalibrate.html).
+The first one is called **Calibration**. This has one button. Tapping this will open the auto-calibration of moving light position. This has its own topic - please read about it here [[Pages/Patching/Auto-calibrate fixture positions|Autocalibrate fixture positions]].
 
 The next tap is about the **Follow** function. Here you can set the follow height. Please read more about the follow function below.
 
-Next tap is the **Mask** function. Here you can set up a mask for the view. You can create a mask that hides fixtures based on a set of four rules. Read more about masks in the [What are masks topic](key_wfm_what_are_masks.html).
+Next tap is the **Mask** function. Here you can set up a mask for the view. You can create a mask that hides fixtures based on a set of four rules. Read more about masks in the [[Pages/Worlds Filters and Masks/What are masks|What are masks topic]].
 
 The right most tap is **Title Buttons**. There are quite a few buttons that you can have in the title bar. The following is short description of them:
 
@@ -104,11 +104,11 @@ The right most tap is **Title Buttons**. There are quite a few buttons that you 
 *   **Mouse Mode**:  
     This button is used to control what happens if you click/press inside the stage view and move the cursor. Please read the [Moving around the stage view](<#Move around>) above.
 *   **Prog Only, Active Only, Parked, Seq+, Seq-, Only Selected, Mask 7, Mask 8, Mask 9, Mask 10**:  
-    These buttons are actually different mask buttons. The first six are the default mask. The last four are mask buttons that you can define. For more about the masks please read the [What are masks topic](key_wfm_what_are_masks.html).
+    These buttons are actually different mask buttons. The first six are the default mask. The last four are mask buttons that you can define. For more about the masks please read the [[Pages/Worlds Filters and Masks/What are masks|What are masks topic]].
 *   **Enable Mask**:  
-    This button will enable or disable the mask function in the Stage view. For more about the masks please read the [What are masks topic](key_wfm_what_are_masks.html).
+    This button will enable or disable the mask function in the Stage view. For more about the masks please read the [[Pages/Worlds Filters and Masks/What are masks|What are masks topic]].
 *   **Follow Mask**:  
-    This button will make the Stage view use the selected mask (In the Mask Pool). For more about the masks please read the [What are masks topic](key_wfm_what_are_masks.html).
+    This button will make the Stage view use the selected mask (In the Mask Pool). For more about the masks please read the [[Pages/Worlds Filters and Masks/What are masks|What are masks topic]].
 
 ## Follow function in Stage view
 

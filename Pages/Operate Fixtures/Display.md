@@ -89,13 +89,13 @@ Here it is possible to select one of the following options:
 
 Changing the readout for a sheet and then tapping in the sheet will also change the readout on your Encoder Bar.
 
-Readout can also be a [Title Button](key_of_sheet_options_title_buttons.html).
+Readout can also be a [[Pages/Operate Fixtures/Title buttons|Title Button]].
 
 ## Cue Color Columns
 
 **Cue Color Columns** is an option in Executor and Tracking sheets.
 
-The [Appearance keyword](key_keyword_appearance.html) can be used to give a color to individual cues. This option changes how this color is displayed in the sheets.
+The [[Keywords/Appearance keyword]] can be used to give a color to individual cues. This option changes how this color is displayed in the sheets.
 
 Tapping the button opens the small Select Cue Color Columns pop-up. It has two different sizes regarding the options. There are more options in the Executor sheet than in the Tracking sheet. This is the pop-up from the Executor sheet:
 
@@ -153,7 +153,7 @@ The options are:
 *   **DMX Layer:**  
     The square displays the output from the DMX Layer.
 
-For more information about the different layers please read the [Layers in sheets topic](key_of_layers_in_sheets.html).
+For more information about the different layers please read the [[Pages/Operate Fixtures/Layer in Sheets|Layers in sheets topic]].
 
 ## Symbol Feature
 
@@ -180,7 +180,7 @@ There are three options:
 *   **Off**  
     All attribute values are displayed with a yellow color.
 *   **On**  
-    The attribute values from the primary selected executor displays the colors Cyan, Green, White, and Magenta. These colors are described in detail in the [Cue Colors Topic](key_ws_colors_cue.html). Values from other executors are displayed in yellow.
+    The attribute values from the primary selected executor displays the colors Cyan, Green, White, and Magenta. These colors are described in detail in the [[Pages/Workspace/Cue Colors|Cue Colors Topic]]. Values from other executors are displayed in yellow.
 *   **My Exec**  
     This will color the values from the primary selected executor in Cyan, Green, White, and Magenta. Other executors triggered by your user are displayed in yellow. Values from executors triggered by other users are displayed in a gray color.
 
@@ -220,7 +220,7 @@ The column number is only used in Fixture and Content Sheets if the sheet is in 
 
 The Autoscroll function can be turned On or Off. When On it automatically scrolls the cue sequence list in the Executor and Tracking Sheets. This makes sure the active cue is always visible in the sheet.
 
-Autoscroll can also be a [Title Button](key_of_sheet_options_title_buttons.html).
+Autoscroll can also be a [[Pages/Operate Fixtures/Title buttons|Title Button]].
 
 ## Feature Sort
 
@@ -228,7 +228,7 @@ Autoscroll can also be a [Title Button](key_of_sheet_options_title_buttons.html)
 
 The sheets can activate an automatic sorting of the features. This will move the attributes of the current feature so it is right next to the name of the fixture or cue. This should avoid a lot of scrolling in the sheets.
 
-Feature Sort can also be a [Title Button](key_of_sheet_options_title_buttons.html).
+Feature Sort can also be a [[Pages/Operate Fixtures/Title buttons|Title Button]].
 
 ## Fixture / Channel Sort
 
@@ -236,7 +236,7 @@ Feature Sort can also be a [Title Button](key_of_sheet_options_title_buttons.htm
 
 In the Channel Sheet it is called Channel Sort, in the other sheets it is called Fixture Sort. The function is the same. The selected fixtures are displayed first in the sheets and they are displayed in the selection order.
 
-Fixture Sort or Channel Sort can also be a [Title Button](key_of_sheet_options_title_buttons.html).
+Fixture Sort or Channel Sort can also be a [[Pages/Operate Fixtures/Title buttons|Title Button]].
 
 ## Marker
 
@@ -244,7 +244,7 @@ Fixture Sort or Channel Sort can also be a [Title Button](key_of_sheet_options_t
 
 The colored markers in the sheets provide additional information of what is affecting the values and to display what information might be stored in cues. These markers may be turned On or Of.
 
-Read more about the markers in the [Maker Colors topic](key_ws_colors_marker.html).
+Read more about the markers in the [[Pages/Workspace/Marker Colors|Maker Colors topic]].
 
 ## Preset Readout
 
@@ -283,7 +283,7 @@ In the Sequence Executor Sheet you can see the cue times. When a fade is running
 
 Hide Timing Countdown is an On or Off function. When it is On, then there is no visible count down. When it is Off then the count down is displayed.
 
-Hide Timing Countdown can also be a [Title Button](key_of_sheet_options_title_buttons.html).
+Hide Timing Countdown can also be a [[Pages/Operate Fixtures/Title buttons|Title Button]].
 
 ## Show Additional
 
@@ -331,7 +331,7 @@ The options are:
     _DMX values with DMX addresses above each value_
     
 
-Show Additional can also be a [Title Button](key_of_sheet_options_title_buttons.html).
+Show Additional can also be a [[Pages/Operate Fixtures/Title buttons|Title Button]].
 
 ## Show Only Selected
 
@@ -339,7 +339,7 @@ Show Additional can also be a [Title Button](key_of_sheet_options_title_buttons.
 
 This will limit the DMX sheet to only display the universes of the selected fixtures.
 
-Show Only Selected can also be a [Title Button](key_of_sheet_options_title_buttons.html).
+Show Only Selected can also be a [[Pages/Operate Fixtures/Title buttons|Title Button]].
 
 ## Programmer Colors
 
@@ -351,7 +351,7 @@ There is the default where the background color changes from gray to light green
 
 But you can choose to use turn On Programmer Colors instead. This will then use the same color schema as the Channel and Fixture Sheets.
 
-Programmer Colors can also be a [Title Button](key_of_sheet_options_title_buttons.html).
+Programmer Colors can also be a [[Pages/Operate Fixtures/Title buttons|Title Button]].
 
 ## Merge Same Values
 
@@ -380,9 +380,9 @@ The options are:
 *   **CMY:**  
     The MixColors are displayed as CMY attributes.
 *   **Default:**  
-    The MixColors are displayed using the default selected in the setup - Read more about setting this in the [User Settings topic](key_single_multi_systems_user_settings.html#settings).
+    The MixColors are displayed using the default selected in the setup - Read more about setting this in the [[Pages/Single and Multi User Systems/User specific settings|User Settings topic]].
 
-MixColor Readout can also be a [Title Button](key_of_sheet_options_title_buttons.html).
+MixColor Readout can also be a [[Pages/Operate Fixtures/Title buttons|Title Button]].
 
 ## RDM Info
 
@@ -407,7 +407,7 @@ The options are:
 *   **Warning & Alert:**  
     Both icons can be displayed in the sheets.
 
-Read more about RDM and how to configure the warning and alert notifications in the [RDM section](key_rdm.html).
+Read more about RDM and how to configure the warning and alert notifications in the [[Sections/RDM|RDM section]].
 
 ← [[Pages/Operate Fixtures/Layer mask]] | [[Pages/Operate Fixtures/Title buttons]] →
 

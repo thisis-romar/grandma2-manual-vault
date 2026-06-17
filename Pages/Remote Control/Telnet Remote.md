@@ -36,7 +36,7 @@ Here is a setting called "Telnet" with two options: **Login Disabled** and **Log
 When it is enabled, then the station (Console or onPC) can be reached by its IP address and the IP port number 30000 - do not use the Telnet default IP port 23.
 
 **Hint:**  
-Using port 30001 gives read only access to the [System Monitor](key_ost_system_monitor.html).
+Using port 30001 gives read only access to the [[Pages/Other System Tools/System monitor|System Monitor]].
 
 Using this IP address and port number will give access to the command line.
 
@@ -48,7 +48,7 @@ _PuTTy Telnet feedback_
 
 It is not actually logged in as the default **guest** user, even though the feedback writes it.
 
-Before any commands can be sent to the system, there needs to be a [login command](key_keyword_login.html) for one of the users in the show.
+Before any commands can be sent to the system, there needs to be a [[Keywords/Login|login command]] for one of the users in the show.
 
 **Hint:**  
 In installations where Telnet is used to control a grandMA2 system, it might be a good idea to create a special user for the Telnet commands. Be aware that the telnet connection is case sensitive with the username and password.

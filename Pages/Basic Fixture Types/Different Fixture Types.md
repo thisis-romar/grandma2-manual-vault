@@ -30,7 +30,7 @@ It is important that a Fixture Type definition includes information about the co
 
 It is called **Class** in the Fixture Types Module Manager.
 
-When grandMA2 handles variable color systems it is called MixColor (see [ColorMix vs. MixColor topic](key_basic_fixture_colormix_mixcolor.html) for details). Independent on it being a CMY or LED color system in the fixtures, it is still the same attribute defined in the fixture profile. It is the ColorRGB1 to ColorRGB22 - see the [ColorMix vs. MixColor topic](key_basic_fixture_colormix_mixcolor.html) for a list of the ColorRGBs.
+When grandMA2 handles variable color systems it is called MixColor (see [[Pages/Basic Fixture Types/ColorMix vs. MixColor|ColorMix vs. MixColor topic]] for details). Independent on it being a CMY or LED color system in the fixtures, it is still the same attribute defined in the fixture profile. It is the ColorRGB1 to ColorRGB22 - see the [[Pages/Basic Fixture Types/ColorMix vs. MixColor|ColorMix vs. MixColor topic]] for a list of the ColorRGBs.
 
 The difference in how the grandMA2 interprets the ColorRGBs are in physical range the attributes are given. If the light is added then the physical range is set from 0 to 1. If the attribute subtracts color then the physical range is set from 1 to 0.
 
@@ -42,12 +42,12 @@ The following subtopics explains some of the difference between the types.
 
 #### Sub topics
 
-*   [Conventional](key_basic_fixture_type_conv.html)
-*   [LED](key_basic_fixture_type_led.html)
-*   [Mirror](key_basic_fixture_type_mirror.html)
-*   [Moving lights](key_basic_fixture_type_moving.html)
-*   [Media server](key_basic_fixture_type_server.html)
-*   [Virtual fixtures](key_basic_fixture_type_virtual.html)
+*   [[Pages/Basic Fixture Types/Conventional fixture type|Conventional]]
+*   [[Pages/Basic Fixture Types/LED]]
+*   [[Pages/Basic Fixture Types/Mirror]]
+*   [[Pages/Basic Fixture Types/Moving Lights|Moving lights]]
+*   [[Pages/Basic Fixture Types/Media Server|Media server]]
+*   [[Pages/Basic Fixture Types/Virtual Fixtures|Virtual fixtures]]
 
 ← [[Pages/Basic Fixture Types/ColorMix vs. MixColor]]
 

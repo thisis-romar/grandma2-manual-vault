@@ -28,10 +28,10 @@ You can also type **Select** or the shortcut **Se** in the command line.
 
 The Select keyword, selects objects as default objects.
 
-The **selected executor** is the target for all executor related commands, e.g. Store Cue 4. The selected executor is displayed in the [master section](key_widget_master_section.html) in indicated by green color.  
+The **selected executor** is the target for all executor related commands, e.g. Store Cue 4. The selected executor is displayed in the [[Pages/Workspace/Master Section|master section]] in indicated by green color.  
 The selected executor is displayed in the Sequence Executor and Sequence Tracking Sheet, if the **Link Mode** is **Link Selected**.
 
-The **selected layout** is displayed in the Layout View, if the **Layout Selection** is **Link Selected**. For more information, see [layouts](key_layouts.html).
+The **selected layout** is displayed in the Layout View, if the **Layout Selection** is **Link Selected**. For more information, see [[Sections/Layouts|layouts]].
 
 The **selected mask** is used by any sheet (except DMX sheet), if the option **Follow Selected Mask** is **On**.
 

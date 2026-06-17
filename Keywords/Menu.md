@@ -53,7 +53,7 @@ reset
 
 r
 
-Switches all dialogs back to their default screen. For more information, see [encoder settings](key_ws_encoder_settings.html).
+Switches all dialogs back to their default screen. For more information, see [[Pages/Workspace/Encoder Settings|encoder settings]].
 
 ## Examples
 

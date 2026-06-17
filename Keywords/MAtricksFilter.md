@@ -27,7 +27,7 @@ MatricksFilter is a function keyword to set the Matricks filter values.
 
 With the function MatricksFilter, fixtures of the current selection that matches the given filter, will be sub selected.
 
-For more information see [MAtricks](key_matricks.html).
+For more information see [[Sections/MAtricks]].
 
 ## Syntax
 

@@ -48,7 +48,7 @@ It might take a little while for the process to complete.
 
 The MA Network Switch restarts. All settings are set back to the factory defaults.
 
-To see the MA Network Switch in the MA Network Configuration window again, it is necessary to add the MA Network Switch again. For more information see [Add MA Network Switch](key_control_ma_switch_add.html).
+To see the MA Network Switch in the MA Network Configuration window again, it is necessary to add the MA Network Switch again. For more information see [[Pages/Control MA Network Switch/Add the MA Network Switch to the network configuration|Add MA Network Switch]].
 
 For more information to the MA Network Switch factory defaults, see MA Network Switch - Factory Defaults.
 

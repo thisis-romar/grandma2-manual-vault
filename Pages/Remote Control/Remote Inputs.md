@@ -76,7 +76,7 @@ Each remote type is described below but first is short description of the common
 *   **Info**:  
     This is multi line information that can be written to each row.
 
-There are five buttons at the bottom of the menus. They can be tapped on the screen or maybe by using the X-Keys if the menu is on screen 1 (depending on "Xkeys" setting the [User settings](key_single_multi_systems_user_settings.html)). This is a short description of the buttons:
+There are five buttons at the bottom of the menus. They can be tapped on the screen or maybe by using the X-Keys if the menu is on screen 1 (depending on "Xkeys" setting the [[Pages/Single and Multi User Systems/User specific settings|User settings]]). This is a short description of the buttons:
 
 *   **Add**:  
     This will add one more row in the table.
@@ -97,7 +97,7 @@ The **Analog Remotes** tab is used to configure the DC Remote Control input on t
 
 The input triggers when the pin receives between 5 volt and 15 volt DC (direct current). It is not a variable input. If enough voltage is there, then the input is triggered. If the input receives more than 15 volts, then it could be damaged.
 
-Please read the [Connect Analog Remote Control topic](key_fs_connect_analog_remote_control.html) to learn more about the hardware part of the input.
+Please read the [[Pages/First Steps/Connect Analog Remote Control|Connect Analog Remote Control topic]] to learn more about the hardware part of the input.
 
 The Analog Remotes tab has a column called **Input**. Here the input number is written.
 

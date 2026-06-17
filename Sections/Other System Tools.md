@@ -32,15 +32,15 @@ This is a collection of system windows, not described anywhere else. This is not
 
 The topics are:
 
-*   [Message center](key_message_center.html)
-*   [Help](key_ost_help_viewer.html)
-*   [Clocks](key_ost_clock.html)
-*   [Sound input window](key_ost_sound_input_window.html)
-*   [VPU pixel mapper view](key_keyword_vpupixelmapperview.html)
-*   [Network dimmer](key_ost_network_dimmer.html)
-*   [Desk status](key_ost_desk_status.html)
-*   [Performance window](key_ost_performance_window.html)
-*   [System monitor](key_ost_system_monitor.html)
+*   [[Pages/Other System Tools/Message center]]
+*   [[Pages/Other System Tools/Help]]
+*   [[Pages/Other System Tools/Clock|Clocks]]
+*   [[Pages/Other System Tools/Sound input window]]
+*   [[Keywords/VPU pixel mapper view]]
+*   [[Pages/Other System Tools/Network Dimmer|Network dimmer]]
+*   [[Pages/Other System Tools/Desk status]]
+*   [[Pages/Other System Tools/Performance window]]
+*   [[Pages/Other System Tools/System monitor]]
 
 To access the windows, tap on an empty part of a screen and tap Other or System
 
@@ -50,15 +50,15 @@ To access the windows, tap on an empty part of a screen and tap Other or Syst
 
 #### Sub topics
 
-*   [Message center](key_message_center.html)
-*   [Help](key_ost_help_viewer.html)
-*   [Clock](key_ost_clock.html)
-*   [Sound input window](key_ost_sound_input_window.html)
-*   [VPU pixel mapper view](key_keyword_vpupixelmapperview.html)
-*   [Network dimmer](key_ost_network_dimmer.html)
-*   [Desk status](key_ost_desk_status.html)
-*   [Performance window](key_ost_performance_window.html)
-*   [System monitor](key_ost_system_monitor.html)
+*   [[Pages/Other System Tools/Message center]]
+*   [[Pages/Other System Tools/Help]]
+*   [[Pages/Other System Tools/Clock]]
+*   [[Pages/Other System Tools/Sound input window]]
+*   [[Keywords/VPU pixel mapper view]]
+*   [[Pages/Other System Tools/Network Dimmer|Network dimmer]]
+*   [[Pages/Other System Tools/Desk status]]
+*   [[Pages/Other System Tools/Performance window]]
+*   [[Pages/Other System Tools/System monitor]]
 
 ## Pages in This Section
 

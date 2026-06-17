@@ -24,8 +24,8 @@ Version 3.9
 
 Use the Agenda to execute scheduled commands on the console, according to the calendar.
 
-*   [What is agenda](key_agenda_what_is.html)
-*   [Create an appointment in the agenda](key_agenda_create_appointment.html)
+*   [[Pages/Agenda/What is agenda]]
+*   [[Pages/Agenda/Create an appointment in the agenda]]
 
   
 
@@ -33,8 +33,8 @@ Use the Agenda to execute scheduled commands on the console, according to the ca
 
 #### Sub topics
 
-*   [What is agenda](key_agenda_what_is.html)
-*   [Create an appointment in the agenda](key_agenda_create_appointment.html)
+*   [[Pages/Agenda/What is agenda]]
+*   [[Pages/Agenda/Create an appointment in the agenda]]
 
 ## Pages in This Section
 

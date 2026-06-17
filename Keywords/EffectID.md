@@ -27,7 +27,7 @@ EffectID is a helping keyword to indicate the EffectID layer.
 
 The EffectID value cannot be adjusted the same way as other effectlayers. This value is given by calling an Effect.
 
-For more information on effects see [effects](key_effects.html).
+For more information on effects see [[Sections/Effects|effects]].
 
 ## Syntax
 

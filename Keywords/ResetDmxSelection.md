@@ -23,7 +23,7 @@ To go to the ResetDmxSelection keyword, type **ResetDmxSelection** in the comman
 
 ## Description
 
-The ResetDmxSelection keyword clears the selection in the [DMX tester](key_patch_dmx_testing.html).
+The ResetDmxSelection keyword clears the selection in the [[Pages/Patching/DMX testing in the DMX Sheet|DMX tester]].
 
 ResetDmxSelection is a function keyword.
 

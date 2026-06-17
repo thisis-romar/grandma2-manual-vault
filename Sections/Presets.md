@@ -54,18 +54,18 @@ Make sure to use presets when programing as this facilitates your work, especial
 
 #### Sub topics
 
-*   [What are special modes](key_presets_special_modes.html)
-*   [Preset pools](key_presets_pools.html)
-*   [Preset pool "Dynamic"](key_presets_dynamic_pool.html)
-*   [Create presets](key_presets_create.html)
-*   [Preset pool options](key_presets_pool_options.html)
-*   [Create preset reference](key_presets_create_preset_reference.html)
-*   [Auto create presets](key_presets_auto_create.html)
-*   [Auto create additional presets](key_presets_auto_create_additional.html)
-*   [Embedded presets](key_presets_embedded.html)
-*   [Edit presets](key_presets_edit.html)
-*   [Update presets](key_presets_update.html)
-*   [Delete presets](key_presets_delete.html)
+*   [[Pages/Presets/What Are Special Modes-|What are special modes]]
+*   [[Pages/Presets/Preset Pools|Preset pools]]
+*   [[Pages/Presets/Preset Pool -Dynamic-|Preset pool "Dynamic"]]
+*   [[Pages/Presets/Create Presets|Create presets]]
+*   [[Pages/Presets/Preset Pool Options|Preset pool options]]
+*   [[Pages/Presets/Create Preset Reference|Create preset reference]]
+*   [[Pages/Presets/Auto Create Presets|Auto create presets]]
+*   [[Pages/Presets/Auto Create Additional Presets|Auto create additional presets]]
+*   [[Pages/Presets/Embedded Presets|Embedded presets]]
+*   [[Pages/Presets/Edit Presets|Edit presets]]
+*   [[Pages/Presets/Update Presets|Update presets]]
+*   [[Pages/Presets/Delete Presets|Delete presets]]
 
 ## Pages in This Section
 

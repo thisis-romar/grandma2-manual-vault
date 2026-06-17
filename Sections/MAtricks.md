@@ -34,7 +34,7 @@ The following explains the order of the selection using Next and Previous:
 
 1.  Select fixtures 1 to 10 in the fixture or channel sheet.
 
-For more information on how to open and use the fixture or channel sheet see [Fixture sheet](key_of_fixture_sheet.html) or [Channel sheet](key_of_channel_sheet.html).   
+For more information on how to open and use the fixture or channel sheet see [[Pages/Operate Fixtures/Fixture Sheet|Fixture sheet]] or [[Pages/Operate Fixtures/Channel Sheet|Channel sheet]].   
 
 *   To do so, use the command line:
 
@@ -87,7 +87,7 @@ Reselects the last MAtricks selection. 
 ![](../../img/img_bulb_on_v3-3.png)![](../../img/img_bulb_on_v3-3.png)![](../../img/img_bulb_on_v3-3.png)![](../../img/img_bulb_on_v3-3.png)![](../../img/img_bulb_on_v3-3.png)![](../../img/img_bulb_on_v3-3.png)![](../../img/img_bulb_on_v3-3.png)![](../../img/img_bulb_on_v3-3.png)![](../../img/img_bulb_on_v3-3.png)![](../../img/img_bulb_on_v3-3.png)
 
 **Hint:**  
-Prev + Next execute the All keyword. For more information see the [All keyword](key_keyword_all.html). 
+Prev + Next execute the All keyword. For more information see the [[Keywords/All|All keyword]]. 
 
 9.  To begin the selection from the start, press Next. 
 
@@ -99,12 +99,12 @@ Prev + Next execute the All keyword. For more information see the [All keyword]
 
 #### Sub topics
 
-*   [MAtricks toolbar](key_matricks_toolbar.html)
-*   [MAtricks pool](key_matricks_pool.html)
-*   [MAtricks interleave](key_matricks_interleave.html)
-*   [MAtricks blocks](key_matricks_blocks.html)
-*   [MAtricks wings](key_matricks_wings.html)
-*   [MAtricks groups](key_matricks_groups.html)
+*   [[Pages/MAtricks/MAtricks Toolbar|MAtricks toolbar]]
+*   [[Pages/MAtricks/MAtricks Pool|MAtricks pool]]
+*   [[Pages/MAtricks/MAtricks Interleave|MAtricks interleave]]
+*   [[Pages/MAtricks/MAtricks Blocks|MAtricks blocks]]
+*   [[Pages/MAtricks/MAtricks Wings|MAtricks wings]]
+*   [[Pages/MAtricks/MAtricks Groups|MAtricks groups]]
 
 ## Pages in This Section
 

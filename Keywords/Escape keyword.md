@@ -21,7 +21,7 @@ Version 3.9
 # Escape keyword
 
 **Important:**  
-The keyword Escape is only used within a macro. To cancel commands that have not been executed, press Esc. For more information see the [key Esc](key_key_escape.html). 
+The keyword Escape is only used within a macro. To cancel commands that have not been executed, press Esc. For more information see the [[Keys/Esc Key|key Esc]]. 
 
 To enter the keyword into the console, type **Escape** or the shortcut **Es** into the command line. 
 

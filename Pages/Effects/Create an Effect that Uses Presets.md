@@ -95,7 +95,7 @@ Unlike in and editor, when creating an effect in the programmer there is no calc
 
 Create an effect that uses presets in the programmer:
 
-1.  Open the programmer. For more information see [What is the programmer](key_of_what_is_the_programmer.html). 
+1.  Open the programmer. For more information see [[Pages/Operate Fixtures/What is the Programmer|What is the programmer]]. 
 2.  Select fixtures.
 3.  Tap Effect Layers and then tap for example the effect layer Low. 
 4.  Then, tap a preset in the preset pool. 

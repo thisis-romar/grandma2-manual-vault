@@ -24,7 +24,7 @@ To go to the UpdateFirmware keyword type **UpdateFirmware** in the command line 
 ## Description
 
 **Important:**  
-The update firmware process can take up to 60 seconds. To double-check if the update firmware process is still running, use the [Version keyword](key_keyword_version.html).  
+The update firmware process can take up to 60 seconds. To double-check if the update firmware process is still running, use the [[Keywords/Version|Version keyword]].  
 If the update process is still running, the version keyword will display it. If not, the version keyword function is as usual.  
 You can also use the system monitor window, **Create Basic Window -> System -> System Monitor**.
 

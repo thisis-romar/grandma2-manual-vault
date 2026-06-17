@@ -28,7 +28,7 @@ Group is an object type that contains a collection of fixtures and a selection s
 
 The default function for the group keyword is SelFix. This means that calling groups without any function specified selects the fixtures of the group.
 
-For more information see [SelFix keyword](key_keyword_selfix.html).
+For more information see [[Keywords/SelFix|SelFix keyword]].
 
 ## Syntax
 

@@ -25,11 +25,11 @@ Version 3.9
 
 # Working with MIB
 
-This topic is about some of the details concerning MIB (Move In Black). The [What is MIB topic](key_cs_what_is_mib.html) might be a good place to start if MIB is new to you.
+This topic is about some of the details concerning MIB (Move In Black). The [[Pages/Command Syntax and Keywords/What is MIB|What is MIB topic]] might be a good place to start if MIB is new to you.
 
 ## MIB values
 
-The MIB value is assigned in the MIB column in the [Sequence Executor Sheet](key_cs_cue_sequence.html).
+The MIB value is assigned in the MIB column in the [[Pages/Command Syntax and Keywords/Looking at the Cue Sequence|Sequence Executor Sheet]].
 
 An asterisk "\*" in the MIB cell indicates that a cue is capable of MIB, but no MIB value is given. A MIB value in red, indicates that a MIB value is given, but the cue is not capable to MIB. "MIB capability" is defined as a cue with one or more fixtures with dimmer-value above zero, and previous state of dimmer-value not above zero (= fixture is fading up) - and one or more other additional attributes (= something to preposition).
 
@@ -104,7 +104,7 @@ When MIB Delay is active, or MIB is "put on hold" the backlight of the executor 
 
 When MIB Fade is active (fixtures are moving to preposition), the backlight of the executor keys will blink slowly
 
-Attributes which have positioned using MIB will be displayed in the ExecutorID and SequenceID layer of the Fixture Sheet with a slightly paler shade of the usual background color (green for selected Executor, yellow for others), to indicate that the source of the value is from a future cue. Please read more about the colors in the [System Colors topic](key_ws_colors_system.html).
+Attributes which have positioned using MIB will be displayed in the ExecutorID and SequenceID layer of the Fixture Sheet with a slightly paler shade of the usual background color (green for selected Executor, yellow for others), to indicate that the source of the value is from a future cue. Please read more about the colors in the [[Pages/Workspace/System Colors|System Colors topic]].
 
 ## Pitfalls
 
@@ -125,7 +125,7 @@ Next time we play back the sequence, cue 2.5 does not look the same!
 
 Last time we played back the sequence, fixture 1 was red because it had prepositioned to cue 4, however as it is now used in cue 2.5 it cannot preposition until after the fade out in cue 3. Thus is will be blue when it is faded up in cue 2.5.
 
-These issues may be minimized by not prepositioning too early, or by activating "MIB Never" in the Executor options, if you are to make major changes to your cues - Executor Options are described in the [Executor Options topic](key_adv_exec_options.html).
+These issues may be minimized by not prepositioning too early, or by activating "MIB Never" in the Executor options, if you are to make major changes to your cues - Executor Options are described in the [[Pages/Advanced Executor Functionality/Executor Options|Executor Options topic]].
 
 ← [[Pages/Advanced Sequence Functionality/Using different view sets in the sheets]] | [[Pages/Advanced Sequence Functionality/Using Cue Modes]] →
 

@@ -24,6 +24,6 @@ The key User 2 is located on the right of screen 1.
 
 _Location_ _Key_ _User 2_ 
 
-If you press User 2, the [X-Keys](key_key_xkey.html) and [X-Key labels](key_widget_x_key_labels.html) change to the User 2 page on screen 1.
+If you press User 2, the [[Keys/X1 - X20 Keys|X-Keys]] and [[Pages/Workspace/X-Key Labels|X-Key labels]] change to the User 2 page on screen 1.
 
 Part of [[000 Key Index]] · [[000 Map of Content]]

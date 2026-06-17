@@ -42,7 +42,7 @@ Before being able to control fixtures, the following requirement has to be fulfi
 
 *   Fixtures have to be patched first 
 
-For more information on how to patch fixtures see [Adding fixtures to your show](key_patch_add_fixtures.html). 
+For more information on how to patch fixtures see [[Pages/Patching/Adding fixtures to the show|Adding fixtures to your show]]. 
 
   
 
@@ -50,16 +50,16 @@ For more information on how to patch fixtures see [Adding fixtures to your show]
 
 #### Sub topics
 
-*   [Channel sheet](key_of_channel_sheet.html)
-*   [Fixture sheet](key_of_fixture_sheet.html)
-*   [Sheet options](key_of_sheet_options.html)
-*   [Layers in sheets](key_of_layers_in_sheets.html)
-*   [What is the programmer](key_of_what_is_the_programmer.html)
-*   [Encoder grouping](key_of_encoder_grouping.html)
-*   [Using the color picker](key_of_color_picker.html)
-*   [Using the shaper dialog](key_of_shaper_dialog.html)
-*   [Using the smart view](key_of_smart_view.html)
-*   [Edit a channel or fixture](key_of_edit_channel_or_fixture.html)
+*   [[Pages/Operate Fixtures/Channel Sheet|Channel sheet]]
+*   [[Pages/Operate Fixtures/Fixture Sheet|Fixture sheet]]
+*   [[Pages/Operate Fixtures/Sheet options]]
+*   [[Pages/Operate Fixtures/Layer in Sheets|Layers in sheets]]
+*   [[Pages/Operate Fixtures/What is the Programmer|What is the programmer]]
+*   [[Pages/Operate Fixtures/Encoder Grouping|Encoder grouping]]
+*   [[Pages/Operate Fixtures/Using The Color Picker|Using the color picker]]
+*   [[Pages/Operate Fixtures/Using The Shaper Dialog|Using the shaper dialog]]
+*   [[Pages/Operate Fixtures/Using The Smart View|Using the smart view]]
+*   [[Pages/Operate Fixtures/Edit a Channel or a Fixture|Edit a channel or fixture]]
 
 ## Pages in This Section
 

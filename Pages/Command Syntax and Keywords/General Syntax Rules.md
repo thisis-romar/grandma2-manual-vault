@@ -57,9 +57,9 @@ Basic syntax is: \[Function\] \[Object\]
 
 #### Sub topics
 
-*   [Helping keywords](key_cs_helping_keywords.html)
-*   [Object keywords](key_cs_object_keywords.html)
-*   [Function keywords](key_cs_function_keywords.html)
+*   [[Pages/Command Syntax and Keywords/Helping Keywords|Helping keywords]]
+*   [[Pages/Command Syntax and Keywords/Object Keywords|Object keywords]]
+*   [[Pages/Command Syntax and Keywords/Function Keywords|Function keywords]]
 
 [[Pages/Command Syntax and Keywords/All keywords]] →
 

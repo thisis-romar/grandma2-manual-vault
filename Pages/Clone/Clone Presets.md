@@ -55,7 +55,7 @@ Cloning to fixture types adds global data to presets.
 *   Create a show file with presets
 *   Prepare cloning
 
-For more information on how to prepare cloning see [Clone using screens](key_clone_clone_in_user_interface.html).
+For more information on how to prepare cloning see [[Pages/Clone/Clone In User Interface|Clone using screens]].
 
 * * *
 

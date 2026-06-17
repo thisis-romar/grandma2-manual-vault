@@ -25,6 +25,7 @@ before(async () => {
     path.join(root, 'Pages/Networking/Page A.md'),
     '---\ntype: "page"\n---\n# Page A\n> [!source] x\n' +
       'Links: [[Sections/Networking]] [[sections/networking]] [[Sections/Ghost]]\n' +
+      'A raw [ButtonPage](key_keyword_buttonpage.html) link.\n' +
       'Part of [[Sections/Networking]]\n',
   );
 });
@@ -49,6 +50,12 @@ test('reports missing required folders and MOC files in structure', async () => 
   const joined = findings.structure.join('\n');
   assert.match(joined, /MISSING FOLDER: Keywords\//);
   assert.match(joined, /MISSING MOC FILE: 000 Map of Content\.md/);
+});
+
+test('flags a raw internal .html link', async () => {
+  const { findings } = await auditVault(root);
+  assert.equal(findings.rawLinks.length, 1);
+  assert.match(findings.rawLinks[0], /key_keyword_buttonpage\.html/);
 });
 
 test('an exact path-qualified link is not flagged', async () => {

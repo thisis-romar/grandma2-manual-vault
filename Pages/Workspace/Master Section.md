@@ -37,9 +37,9 @@ _Areas in the Master Section_ 
 2.  [Function of the Left 100 mm Fader](<#Fader Function>)
 3.  [Function of the Right 100 mm Fader](<#Fader Function>)
 
-The master section is also displayed in the Command Section View along with [Program Time](key_ws_time_control.html#program_time) and [Exec Time](key_ws_time_control.html#exec_time).
+The master section is also displayed in the Command Section View along with [[Pages/Workspace/Time Control|Program Time]] and [[Pages/Workspace/Time Control|Exec Time]].
 
-*   Open the Command Section View via the **pop-up Create Basic Window**. For more information see [Create and Manage Basic Windows](key_windows_create_manage.html). 
+*   Open the Command Section View via the **pop-up Create Basic Window**. For more information see [[Pages/Windows/Create and Manage Basic Windows]]. 
 
 ![](../../img/window_command-section-view_v3-3.png)
 
@@ -58,10 +58,10 @@ _Selected Executor Areas_
 1.  Sequence
 2.  Cue
 
-If you tap at the sequence area, the [assign menu](key_exec_assign.html) opens.  
-If you tap at the cue area, the [edit menu](key_cs_cue_content.html) opens.
+If you tap at the sequence area, the [[Pages/Executors/Assign a function|assign menu]] opens.  
+If you tap at the cue area, the [[Pages/Command Syntax and Keywords/Looking at the cue content|edit menu]] opens.
 
-For more information, see [Mini Executor Bar](key_ws_mini_executor_bar.html).
+For more information, see [[Pages/Workspace/Mini executor bar|Mini Executor Bar]].
 
 * * *
 
@@ -77,7 +77,7 @@ If you tap in the fader description field, the fader assignment opens.
 
 _Fader Assignment_
 
-For more information, see [executor - assign a function](key_exec_assign.html).
+For more information, see [[Pages/Executors/Assign a function|executor - assign a function]].
 
 ← [[Pages/Workspace/View Buttons]] | [[Pages/Workspace/Time Control]] →
 

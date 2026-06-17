@@ -24,7 +24,7 @@ The key User 1 is located on the right of screen 1.
 
 _Location_ _Key_ _User 1_ 
 
-If you press User 1, the [X-Keys](key_key_xkey.html) and [X-Key labels](key_widget_x_key_labels.html) on screen 1 change to the User 1 page.
+If you press User 1, the [[Keys/X1 - X20 Keys|X-Keys]] and [[Pages/Workspace/X-Key Labels|X-Key labels]] on screen 1 change to the User 1 page.
 
 ![](../../img/img_xkey_labels_viewbuttons_3_2.png)
 

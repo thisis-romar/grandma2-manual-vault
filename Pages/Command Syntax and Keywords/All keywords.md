@@ -35,323 +35,323 @@ To view the individual keywords, either use the tree structure of the manual or 
 
 #### Sub topics
 
-*   [Special characters](key_cs_special_characters.html)
-*   [<<< \[GoFastBack\]](key_keyword_skipminus.html)
-*   [\>>> \[GoFastForward\]](key_keyword_skipplus.html)
-*   [\- \[Minus\]](key_keyword_minus.html)
-*   [\+ \[Plus\]](key_keyword_plus.html)
-*   [AddUserVar](key_keyword_adduservar.html)
-*   [AddVar](key_keyword_addvar.html)
-*   [Agenda](key_keyword_agenda.html)
-*   [Alert](key_keyword_alert.html)
-*   [Align](key_keyword_align.html)
-*   [AlignFaderModules](key_keyword_alignfadermodules.html)
-*   [All](key_keyword_all.html)
-*   [AllButtonExecutors](key_keyword_allbuttonexecutors.html)
-*   [AllChaseExecutors](key_keyword_allchaseexecutors.html)
-*   [AllFaderExecutors](key_keyword_allfaderexecutors.html)
-*   [AllRows](key_keyword_allrows.html)
-*   [AllSequExecutors](key_keyword_allsequexecutors.html)
-*   [And](key_keyword_and.html)
-*   [Appearance](key_keyword_appearance.html)
-*   [Asterisk \*](key_keyword_asterisk.html)
-*   [Assign](key_keyword_assign.html)
-*   [At](key_keyword_at.html)
-*   [At @](key_keyword_at_@.html)
-*   [Attribute](key_keyword_attribute.html)
-*   [AutoCreate](key_keyword_autocreate.html)
-*   [Backup](key_keyword_backup.html)
-*   [Black](key_keyword_black.html)
-*   [Blackout](key_keyword_blackout.html)
-*   [BlackScreen](key_keyword_blackscreen.html)
-*   [Blind](key_keyword_blind.html)
-*   [BlindEdit](key_keyword_blindedit.html)
-*   [Block](key_keyword_block.html)
-*   [ButtonPage](key_keyword_buttonpage.html)
-*   [Call](key_keyword_call.html)
-*   [Camera](key_keyword_camera.html)
-*   [ChangeDest](key_keyword_changedest.html)
-*   [Channel](key_keyword_channel.html)
-*   [ChannelFader](key_keyword_channelfader.html)
-*   [ChannelLink](key_keyword_channellink.html)
-*   [ChannelPage](key_keyword_channelpage.html)
-*   [Chat](key_keyword_chat.html)
-*   [CircularCopy](key_keyword_circularcopy.html)
-*   [Clear](key_keyword_clear.html)
-*   [ClearActive](key_keyword_clearactive.html)
-*   [ClearAll](key_keyword_clearall.html)
-*   [ClearSelection](key_keyword_clearselection.html)
-*   [Clone](key_keyword_clone.html)
-*   [CmdDelay](key_keyword_cmddelay.html)
-*   [CmdHelp](key_keyword_cmdhelp.html)
-*   [Copy](key_keyword_copy.html)
-*   [CrashLogCopy](key_keyword_crashlogcopy.html)
-*   [CrashLogDelete](key_keyword_crashlogdelete.html)
-*   [CrashLogList](key_keyword_crashloglist.html)
-*   [Crossfade](key_keyword_crossfade.html)
-*   [CrossfadeA](key_keyword_crossfadea.html)
-*   [CrossfadeB](key_keyword_crossfadeb.html)
-*   [Cue](key_keyword_cue.html)
-*   [Cut](key_keyword_cut.html)
-*   [Default](key_keyword_default.html)
-*   [DefGoBack](key_keyword_defgoback.html)
-*   [DefGoForward](key_keyword_defgoforward.html)
-*   [DefGoPause](key_keyword_defgopause.html)
-*   [Delay](key_keyword_delay.html)
-*   [Delete](key_keyword_delete.html)
-*   [DeleteShow](key_keyword_deleteshow.html)
-*   [DisconnectStation](key_keyword_disconnectstation.html)
-*   [Dmx](key_keyword_dmx.html)
-*   [Dollar $](key_keyword_dollar.html)
-*   [DmxUniverse](key_keyword_dmxuniverse.html)
-*   [Dot .](key_keyword_dot.html)
-*   [DoubleRate](key_keyword_doublerate.html)
-*   [DoubleSpeed](key_keyword_doublespeed.html)
-*   [Down](key_keyword_down.html)
-*   [DropControl](key_keyword_dropcontrol.html)
-*   [Edit](key_keyword_edit.html)
-*   [Effect](key_keyword_effect.html)
-*   [EffectAttack](key_keyword_effectattack.html)
-*   [EffectBPM](key_keyword_effectbpm.html)
-*   [EffectDecay](key_keyword_effectdecay.html)
-*   [EffectDelay](key_keyword_effectdelay.html)
-*   [EffectFade](key_keyword_effectfade.html)
-*   [EffectForm](key_keyword_effectform.html)
-*   [EffectHigh](key_keyword_effecthigh.html)
-*   [EffectHZ](key_keyword_effecthz.html)
-*   [EffectID](key_keyword_effectid.html)
-*   [EffectLow](key_keyword_effectlow.html)
-*   [EffectPhase](key_keyword_effectphase.html)
-*   [EffectSec](key_keyword_effectsec.html)
-*   [EffectSpeedGroup](key_keyword_effectspeedgroup.html)
-*   [EffectWidth](key_keyword_effectwidth.html)
-*   [Empty](key_keyword_empty.html)
-*   [EndIf](key_keyword_endif.html)
-*   [EndSession](key_keyword_endsession.html)
-*   [Escape](key_keyword_escape.html)
-*   [ExecButton1](key_keyword_execbutton1.html)
-*   [ExecButton2](key_keyword_execbutton2.html)
-*   [ExecButton3](key_keyword_execbutton3.html)
-*   [Executor](key_keyword_executor.html)
-*   [Exit](key_keyword_exit.html)
-*   [Export](key_keyword_export.html)
-*   [Extract](key_keyword_extract.html)
-*   [Fade](key_keyword_fade.html)
-*   [FadePath](key_keyword_fadepath.html)
-*   [Fader](key_keyword_fader.html)
-*   [FaderPage](key_keyword_faderpage.html)
-*   [Feature](key_keyword_feature.html)
-*   [Filter](key_keyword_filter.html)
-*   [Fix](key_keyword_fix.html)
-*   [Fixture](key_keyword_fixture.html)
-*   [FixtureType](key_keyword_fixturetype.html)
-*   [Flash](key_keyword_flash.html)
-*   [FlashGo](key_keyword_flashgo.html)
-*   [FlashOn](key_keyword_flashon.html)
-*   [Flip](key_keyword_flip.html)
-*   [Form](key_keyword_form.html)
-*   [Freeze](key_keyword_freeze.html)
-*   [Full](key_keyword_full.html)
-*   [FullHighlight](key_keyword_fullhighlight.html)
-*   [Gel](key_keyword_gel.html)
-*   [Go](key_keyword_go.html)
-*   [GoBack](key_keyword_goback.html)
-*   [Goto](key_keyword_goto.html)
-*   [Group](key_keyword_group.html)
-*   [HalfRate](key_keyword_halfrate.html)
-*   [HalfSpeed](key_keyword_halfspeed.html)
-*   [Help](key_keyword_help.html)
-*   [Highlight](key_keyword_highlight.html)
-*   [IdentifyFaderModule](key_keyword_identifyfadermodule.html)
-*   [If](key_keyword_if.html)
-*   [IfActive](key_keyword_ifactive.html)
-*   [IfOutput](key_keyword_ifoutput.html)
-*   [IfProg](key_keyword_ifprog.html)
-*   [Image](key_keyword_image.html)
-*   [Import](key_keyword_import.html)
-*   [Info](key_keyword_info.html)
-*   [Insert](key_keyword_insert.html)
-*   [Interleave](key_keyword_interleave.html)
-*   [Invert](key_keyword_invert.html)
-*   [InviteStation](key_keyword_invitestation.html)
-*   [Item3D](key_keyword_item3D.html)
-*   [JoinSession](key_keyword_joinsession.html)
-*   [Kill](key_keyword_kill.html)
-*   [Label](key_keyword_label.html)
-*   [Layer](key_keyword_layer.html)
-*   [Layout](key_keyword_layout.html)
-*   [Learn](key_keyword_learn.html)
-*   [LeaveSession](key_keyword_leavesession.html)
-*   [List](key_keyword_list.html)
-*   [ListEffectLibrary](key_keyword_listeffectlibrary.html)
-*   [ListFaderModules](key_keyword_listfadermodules.html)
-*   [ListLibrary](key_keyword_listlibrary.html)
-*   [ListMacroLibrary](key_keyword_listmacrolibrary.html)
-*   [ListOops](key_keyword_listoops.html)
-*   [ListOwner](key_keyword_listowner.html)
-*   [ListPluginLibrary](key_keyword_listpluginlibrary.html)
-*   [ListShows](key_keyword_listshows.html)
-*   [ListUpdate](key_keyword_listupdate.html)
-*   [ListUserVar](key_keyword_listuservar.html)
-*   [ListVar](key_keyword_listvar.html)
-*   [Load](key_keyword_load.html)
-*   [LoadNext](key_keyword_loadnext.html)
-*   [LoadPrev](key_keyword_loadprev.html)
-*   [LoadShow](key_keyword_loadshow.html)
-*   [Locate](key_keyword_locate.html)
-*   [Lock](key_keyword_lock.html)
-*   [Login](key_keyword_login.html)
-*   [Logout](key_keyword_logout.html)
-*   [Lua](key_keyword_lua.html)
-*   [Macro](key_keyword_macro.html)
-*   [ManualXFade](key_keyword_manualxfade.html)
-*   [Mask](key_keyword_mask.html)
-*   [Master](key_keyword_master.html)
-*   [MasterFade](key_keyword_masterfade.html)
-*   [MAtricks](key_keyword_matricks.html)
-*   [MAtricksBlocks](key_keyword_matricksblocks.html)
-*   [MAtricksFilter](key_keyword_matricksfilter.html)
-*   [MAtricksGroups](key_keyword_matricksgroups.html)
-*   [MAtricksInterleave](key_keyword_matricksinterleave.html)
-*   [MAtricksReset](key_keyword_matricksreset.html)
-*   [MAtricksWings](key_keyword_matrickswings.html)
-*   [MediaServer](key_keyword_mediaserver.html)
-*   [Menu](key_keyword_menu.html)
-*   [Message](key_keyword_message.html)
-*   [Messages](key_keyword_messages.html)
-*   [MidiControl](key_keyword_midicontrol.html)
-*   [MidiNote](key_keyword_midinote.html)
-*   [MidiProgram](key_keyword_midiprogram.html)
-*   [Model](key_keyword_model.html)
-*   [Move](key_keyword_move.html)
-*   [Move3D](key_keyword_move3d.html)
-*   [NetworkInfo](key_keyword_networkinfo.html)
-*   [NetworkNodeInfo](key_keyword_networknodeinfo.html)
-*   [NetworkNodeUpdate](key_keyword_networknodeupdate.html)
-*   [NetworkSpeedTest](key_keyword_networkspeedtest.html)
-*   [NewShow](key_keyword_newshow.html)
-*   [Next](key_keyword_next.html)
-*   [NextRow](key_keyword_nextrow.html)
-*   [Normal](key_keyword_normal.html)
-*   [Off](key_keyword_off.html)
-*   [On](key_keyword_on.html)
-*   [Oops](key_keyword_oops.html)
-*   [Or](key_keyword_or.html)
-*   [OutDelay](key_keyword_outdelay.html)
-*   [OutFade](key_keyword_outfade.html)
-*   [Page](key_keyword_page.html)
-*   [Parentheses ( )](key_keyword_parentheses.html)
-*   [Park](key_keyword_park.html)
-*   [Part](key_keyword_part.html)
-*   [Paste](key_keyword_paste.html)
-*   [Pause](key_keyword_pause.html)
-*   [Plugin](key_keyword_plugin.html)
-*   [PMArea](key_keyword_pmarea.html)
-*   [Preset](key_keyword_preset.html)
-*   [PresetType](key_keyword_presettype.html)
-*   [Preview](key_keyword_preview.html)
-*   [PreviewEdit](key_keyword_previewedit.html)
-*   [PreviewExecutor](key_keyword_previewexecutor.html)
-*   [Previous](key_keyword_previous.html)
-*   [PrevRow](key_keyword_prevrow.html)
-*   [Profile](key_keyword_profile.html)
-*   [Protocol](key_keyword_protocol.html)
-*   [PSR](key_keyword_psr.html)
-*   [PSRList](key_keyword_psrlist.html)
-*   [PSRPrepare](key_keyword_psrprepare.html)
-*   [Quotation marks " "](key_keyword_marks.html)
-*   [Rate](key_keyword_rate.html)
-*   [Rate1](key_keyword_rate1.html)
-*   [RdmAutomatch](key_keyword_rdmautomatch.html)
-*   [RdmAutopatch](key_keyword_rdmautopatch.html)
-*   [RdmFixtureType](key_keyword_rdmfixturetype.html)
-*   [RdmInfo](key_keyword_rdminfo.html)
-*   [RdmList](key_keyword_rdmlist.html)
-*   [RdmSetParameter](key_keyword_rdmsetparameter.html)
-*   [RdmSetpatch](key_keyword_rdmsetpatch.html)
-*   [RdmUnmatch](key_keyword_rdmunmatch.html)
-*   [Reboot](key_keyword_reboot.html)
-*   [Record](key_keyword_record.html)
-*   [Release](key_keyword_release.html)
-*   [ReloadPlugins](key_keyword_reloadplugins.html)
-*   [Remote](key_keyword_remote.html)
-*   [RemoteCommand](key_keyword_remotecommand.html)
-*   [Remove](key_keyword_remove.html)
-*   [RemoveIndividuals](key_keyword_removeindividuals.html)
-*   [Replace](key_keyword_replace.html)
-*   [ResetDmxSelection](key_keyword_resetdmxselection.html)
-*   [ResetGuid](key_keyword_resetguid.html)
-*   [Restart](key_keyword_restart.html)
-*   [Root](key_keyword_root.html)
-*   [Rotate3D](key_keyword_rotate3D.html)
-*   [SaveShow](key_keyword_saveshow.html)
-*   [Screen](key_keyword_screen.html)
-*   [Search](key_keyword_search.html)
-*   [SearchResult](key_keyword_searchresult.html)
-*   [Select](key_keyword_select.html)
-*   [SelectDrive](key_keyword_selectdrive.html)
-*   [Selection](key_keyword_selection.html)
-*   [SelFix](key_keyword_selfix.html)
-*   [Semicolon ;](key_keyword_semicolon.html)
-*   [Sequence](key_keyword_sequence.html)
-*   [SetHostname](key_keyword_sethostname.html)
-*   [SetIP](key_keyword_setip.html)
-*   [SetNetworkSpeed](key_keyword_setnetworkspeed.html)
-*   [Setup](key_keyword_setup.html)
-*   [SetUserVar](key_keyword_setuservar.html)
-*   [SetVar](key_keyword_setvar.html)
-*   [ShuffleSelection](key_keyword_shuffleselection.html)
-*   [ShuffleValues](key_keyword_shufflevalues.html)
-*   [Shutdown](key_keyword_shutdown.html)
-*   [SnapPercent](key_keyword_snappercent.html)
-*   [Slash /](key_keyword_slash.html)
-*   [Solo](key_keyword_solo.html)
-*   [SpecialMaster](key_keyword_specialmaster.html)
-*   [Square brackets \[ \]](key_keyword_square_brackets.html)
-*   [Speed](key_keyword_speed.html)
-*   [StepFade](key_keyword_stepfade.html)
-*   [StepInFade](key_keyword_stepinfade.html)
-*   [StepOutFade](key_keyword_stepoutfade.html)
-*   [Stomp](key_keyword_stomp.html)
-*   [Store](key_keyword_store.html)
-*   [StoreLook](key_keyword_storelook.html)
-*   [Surface](key_keyword_surface.html)
-*   [Swop](key_keyword_swop.html)
-*   [SwopGo](key_keyword_swopgo.html)
-*   [SwopOn](key_keyword_swopon.html)
-*   [SyncEffects](key_keyword_synceffects.html)
-*   [TakeControl](key_keyword_takecontrol.html)
-*   [Telnet](key_keyword_telnet.html)
-*   [Temp](key_keyword_temp.html)
-*   [TempFader](key_keyword_tempfader.html)
-*   [Thru](key_keyword_thru.html)
-*   [Timecode](key_keyword_timecode.html)
-*   [TimecodeSlot](key_keyword_timecodeslot.html)
-*   [Timer](key_keyword_timer.html)
-*   [ToFull](key_keyword_tofull.html)
-*   [Toggle](key_keyword_toggle.html)
-*   [Tools](key_keyword_tools.html)
-*   [Top](key_keyword_top.html)
-*   [ToZero](key_keyword_tozero.html)
-*   [Unblock](key_keyword_unblock.html)
-*   [Unlock](key_keyword_unlock.html)
-*   [Unpark](key_keyword_unpark.html)
-*   [Up](key_keyword_up.html)
-*   [Update](key_keyword_update.html)
-*   [UpdateFirmware](key_keyword_updatefirmware.html)
-*   [UpdateSoftware](key_keyword_updatesoftware.html)
-*   [UpdateThumbnails](key_keyword_updatethumbnails.html)
-*   [User](key_keyword_user.html)
-*   [UserProfile](key_keyword_userprofile.html)
-*   [Value](key_keyword_value.html)
-*   [Version](key_keyword_version.html)
-*   [View](key_keyword_view.html)
-*   [ViewButton](key_keyword_viewbutton.html)
-*   [ViewPage](key_keyword_viewpage.html)
-*   [WebRemoteProgOnly](key_keyword_webremoteprogonly.html)
-*   [With](key_keyword_with.html)
-*   [World](key_keyword_world.html)
-*   [Zero](key_keyword_zero.html)
+*   [[Pages/Command Syntax and Keywords/Special Characters|Special characters]]
+*   [[Keywords/--- [GoFastBack] keyword]]
+*   [[Keywords/--- [GoFastForward] keyword]]
+*   [[Keywords/- [Minus] keyword]]
+*   [[Keywords/+ [Plus] keyword]]
+*   [[Keywords/AddUserVar keyword|AddUserVar]]
+*   [[Keywords/AddVar]]
+*   [[Keywords/Agenda]]
+*   [[Keywords/Alert keyword|Alert]]
+*   [[Keywords/Align keyword|Align]]
+*   [[Keywords/AlignFaderModules keyword|AlignFaderModules]]
+*   [[Keywords/All]]
+*   [[Keywords/AllButtonExecutors keyword|AllButtonExecutors]]
+*   [[Keywords/AllChaseExecutors]]
+*   [[Keywords/AllFaderExecutors]]
+*   [[Keywords/AllRows keyword|AllRows]]
+*   [[Keywords/AllSequExecutors]]
+*   [[Keywords/And keyword|And]]
+*   [[Keywords/Appearance keyword|Appearance]]
+*   [[Keywords/Asterisk -|Asterisk \*]]
+*   [[Keywords/Assign keyword|Assign]]
+*   [[Keywords/At keyword|At]]
+*   [[Keywords/At @ Character|At @]]
+*   [[Keywords/Attribute keyword|Attribute]]
+*   [[Keywords/AutoCreate keyword|AutoCreate]]
+*   [[Keywords/Backup]]
+*   [[Keywords/Black keyword|Black]]
+*   [[Keywords/Blackout keyword|Blackout]]
+*   [[Keywords/BlackScreen keyword|BlackScreen]]
+*   [[Keywords/Blind keyword|Blind]]
+*   [[Keywords/BlindEdit keyword|BlindEdit]]
+*   [[Keywords/Block keyword|Block]]
+*   [[Keywords/ButtonPage keyword|ButtonPage]]
+*   [[Keywords/Call keyword|Call]]
+*   [[Keywords/Camera keyword|Camera]]
+*   [[Keywords/ChangeDest keyword|ChangeDest]]
+*   [[Keywords/Channel keyword|Channel]]
+*   [[Keywords/ChannelFader keyword|ChannelFader]]
+*   [[Keywords/ChannelLink keyword|ChannelLink]]
+*   [[Keywords/ChannelPage keyword|ChannelPage]]
+*   [[Keywords/Chat keyword|Chat]]
+*   [[Keywords/CircularCopy keyword|CircularCopy]]
+*   [[Keywords/Clear keyword|Clear]]
+*   [[Keywords/ClearActive keyword|ClearActive]]
+*   [[Keywords/ClearAll keyword|ClearAll]]
+*   [[Keywords/ClearSelection keyword|ClearSelection]]
+*   [[Keywords/Clone keyword|Clone]]
+*   [[Keywords/CmdDelay keyword|CmdDelay]]
+*   [[Keywords/CmdHelp keyword|CmdHelp]]
+*   [[Keywords/Copy keyword|Copy]]
+*   [[Keywords/CrashLogCopy keyword|CrashLogCopy]]
+*   [[Keywords/CrashLogDelete keyword|CrashLogDelete]]
+*   [[Keywords/CrashLogList keyword|CrashLogList]]
+*   [[Keywords/Crossfade keyword|Crossfade]]
+*   [[Keywords/CrossfadeA keyword|CrossfadeA]]
+*   [[Keywords/CrossfadeB keyword|CrossfadeB]]
+*   [[Keywords/Cue keyword|Cue]]
+*   [[Keywords/Cut keyword|Cut]]
+*   [[Keywords/Default]]
+*   [[Keywords/DefGoBack keyword|DefGoBack]]
+*   [[Keywords/DefGoForward keyword|DefGoForward]]
+*   [[Keywords/DefGoPause keyword|DefGoPause]]
+*   [[Keywords/Delay keyword|Delay]]
+*   [[Keywords/Delete keyword|Delete]]
+*   [[Keywords/DeleteShow keyword|DeleteShow]]
+*   [[Keywords/DisconnectStation keyword|DisconnectStation]]
+*   [[Keywords/Dmx keyword|Dmx]]
+*   [[Keywords/Dollar $ Character|Dollar $]]
+*   [[Keywords/DmxUniverse keyword|DmxUniverse]]
+*   [[Keywords/Dot . Character|Dot .]]
+*   [[Keywords/DoubleRate keyword|DoubleRate]]
+*   [[Keywords/DoubleSpeed]]
+*   [[Keywords/Down keyword|Down]]
+*   [[Keywords/DropControl keyword|DropControl]]
+*   [[Keywords/Edit keyword|Edit]]
+*   [[Keywords/Effect keyword|Effect]]
+*   [[Keywords/EffectAttack]]
+*   [[Keywords/EffectBPM]]
+*   [[Keywords/EffectDecay]]
+*   [[Keywords/EffectDelay]]
+*   [[Keywords/EffectFade]]
+*   [[Keywords/EffectForm]]
+*   [[Keywords/EffectHigh]]
+*   [[Keywords/EffectHZ]]
+*   [[Keywords/EffectID]]
+*   [[Keywords/EffectLow]]
+*   [[Keywords/EffectPhase]]
+*   [[Keywords/EffectSec]]
+*   [[Keywords/EffectSpeedGroup keyword|EffectSpeedGroup]]
+*   [[Keywords/EffectWidth]]
+*   [[Keywords/Empty]]
+*   [[Keywords/EndIf]]
+*   [[Keywords/EndSession]]
+*   [[Keywords/Escape keyword|Escape]]
+*   [[Keywords/ExecButton1]]
+*   [[Keywords/ExecButton2]]
+*   [[Keywords/ExecButton3]]
+*   [[Keywords/Executor]]
+*   [[Keywords/Exit keyword|Exit]]
+*   [[Keywords/Export]]
+*   [[Keywords/Extract]]
+*   [[Keywords/Fade]]
+*   [[Keywords/FadePath]]
+*   [[Keywords/Fader]]
+*   [[Keywords/FaderPage]]
+*   [[Keywords/Feature]]
+*   [[Keywords/Filter]]
+*   [[Keywords/Fix]]
+*   [[Keywords/Fixture]]
+*   [[Keywords/FixtureType]]
+*   [[Keywords/Flash]]
+*   [[Keywords/FlashGo keyword|FlashGo]]
+*   [[Keywords/FlashOn keyword|FlashOn]]
+*   [[Keywords/Flip]]
+*   [[Keywords/Form]]
+*   [[Keywords/Freeze]]
+*   [[Keywords/Full]]
+*   [[Keywords/FullHighlight keyword|FullHighlight]]
+*   [[Keywords/Gel keyword|Gel]]
+*   [[Keywords/Go]]
+*   [[Keywords/GoBack]]
+*   [[Keywords/Goto]]
+*   [[Keywords/Group]]
+*   [[Keywords/HalfRate]]
+*   [[Keywords/HalfSpeed]]
+*   [[Keywords/Help]]
+*   [[Keywords/Highlight]]
+*   [[Keywords/IdentifyFaderModule keyword|IdentifyFaderModule]]
+*   [[Keywords/If]]
+*   [[Keywords/IfActive]]
+*   [[Keywords/IfOutput]]
+*   [[Keywords/IfProg]]
+*   [[Keywords/Image keyword|Image]]
+*   [[Keywords/Import]]
+*   [[Keywords/Info]]
+*   [[Keywords/Insert]]
+*   [[Keywords/Interleave keyword|Interleave]]
+*   [[Keywords/Invert]]
+*   [[Keywords/InviteStation]]
+*   [[Keywords/Item3D keyword|Item3D]]
+*   [[Keywords/JoinSession]]
+*   [[Keywords/Kill]]
+*   [[Keywords/Label]]
+*   [[Keywords/Layer]]
+*   [[Keywords/Layout]]
+*   [[Keywords/Learn]]
+*   [[Keywords/LeaveSession]]
+*   [[Keywords/List]]
+*   [[Keywords/ListEffectLibrary]]
+*   [[Keywords/ListFaderModules]]
+*   [[Keywords/ListLibrary]]
+*   [[Keywords/ListMacroLibrary]]
+*   [[Keywords/ListOops]]
+*   [[Keywords/ListOwner]]
+*   [[Keywords/ListPluginLibrary]]
+*   [[Keywords/ListShows]]
+*   [[Keywords/ListUpdate]]
+*   [[Keywords/ListUserVar]]
+*   [[Keywords/ListVar]]
+*   [[Keywords/Load]]
+*   [[Keywords/LoadNext]]
+*   [[Keywords/LoadPrev keyword|LoadPrev]]
+*   [[Keywords/LoadShow]]
+*   [[Keywords/Locate]]
+*   [[Keywords/Lock]]
+*   [[Keywords/Login]]
+*   [[Keywords/Logout]]
+*   [[Keywords/Lua]]
+*   [[Keywords/Macro]]
+*   [[Keywords/ManualXFade keyword|ManualXFade]]
+*   [[Keywords/Mask]]
+*   [[Keywords/Master]]
+*   [[Keywords/MasterFade]]
+*   [[Keywords/MAtricks]]
+*   [[Keywords/MAtricksBlocks]]
+*   [[Keywords/MAtricksFilter]]
+*   [[Keywords/MAtricksGroups]]
+*   [[Keywords/MAtricksInterleave]]
+*   [[Keywords/MAtricksReset]]
+*   [[Keywords/MAtricksWings]]
+*   [[Keywords/MediaServer keyword|MediaServer]]
+*   [[Keywords/Menu]]
+*   [[Keywords/Message]]
+*   [[Keywords/Messages]]
+*   [[Keywords/MidiControl]]
+*   [[Keywords/MidiNote]]
+*   [[Keywords/MidiProgram]]
+*   [[Keywords/Model]]
+*   [[Keywords/Move]]
+*   [[Keywords/Move3D]]
+*   [[Keywords/NetworkInfo]]
+*   [[Keywords/NetworkNodeInfo]]
+*   [[Keywords/NetworkNodeUpdate]]
+*   [[Keywords/NetworkSpeedTest]]
+*   [[Keywords/NewShow]]
+*   [[Keywords/Next]]
+*   [[Keywords/NextRow]]
+*   [[Keywords/Normal]]
+*   [[Keywords/Off]]
+*   [[Keywords/On]]
+*   [[Keywords/Oops]]
+*   [[Keywords/Or keyword|Or]]
+*   [[Keywords/OutDelay]]
+*   [[Keywords/OutFade]]
+*   [[Keywords/Page]]
+*   [[Keywords/Parentheses ( ) Character|Parentheses ( )]]
+*   [[Keywords/Park]]
+*   [[Keywords/Part]]
+*   [[Keywords/Paste]]
+*   [[Keywords/Pause]]
+*   [[Keywords/Plugin]]
+*   [[Keywords/PMArea]]
+*   [[Keywords/Preset]]
+*   [[Keywords/PresetType]]
+*   [[Keywords/Preview]]
+*   [[Keywords/PreviewEdit]]
+*   [[Keywords/PreviewExecutor]]
+*   [[Keywords/Previous]]
+*   [[Keywords/PrevRow]]
+*   [[Keywords/Profile]]
+*   [[Keywords/Protocol]]
+*   [[Keywords/PSR]]
+*   [[Keywords/PSRList]]
+*   [[Keywords/PSRPrepare]]
+*   [[Keywords/Quotation Marks - - Character|Quotation marks " "]]
+*   [[Keywords/Rate]]
+*   [[Keywords/Rate1]]
+*   [[Keywords/RdmAutomatch]]
+*   [[Keywords/RdmAutopatch]]
+*   [[Keywords/RdmFixtureType]]
+*   [[Keywords/RdmInfo]]
+*   [[Keywords/RdmList]]
+*   [[Keywords/RdmSetParameter]]
+*   [[Keywords/RdmSetpatch]]
+*   [[Keywords/RdmUnmatch]]
+*   [[Keywords/Reboot]]
+*   [[Keywords/Record]]
+*   [[Keywords/Release]]
+*   [[Keywords/ReloadPlugins]]
+*   [[Keywords/Remote]]
+*   [[Keywords/RemoteCommand]]
+*   [[Keywords/Remove]]
+*   [[Keywords/RemoveIndividuals]]
+*   [[Keywords/Replace]]
+*   [[Keywords/ResetDmxSelection]]
+*   [[Keywords/ResetGuid keyword|ResetGuid]]
+*   [[Keywords/Restart]]
+*   [[Keywords/Root]]
+*   [[Keywords/Rotate3D]]
+*   [[Keywords/SaveShow]]
+*   [[Keywords/Screen]]
+*   [[Keywords/Search]]
+*   [[Keywords/SearchResult]]
+*   [[Keywords/Select]]
+*   [[Keywords/SelectDrive]]
+*   [[Keywords/Selection]]
+*   [[Keywords/SelFix]]
+*   [[Keywords/Semicolon ; Character|Semicolon ;]]
+*   [[Keywords/Sequence]]
+*   [[Keywords/SetHostname]]
+*   [[Keywords/SetIP]]
+*   [[Keywords/SetNetworkSpeed]]
+*   [[Keywords/Setup]]
+*   [[Keywords/SetUserVar]]
+*   [[Keywords/SetVar]]
+*   [[Keywords/ShuffleSelection]]
+*   [[Keywords/ShuffleValues]]
+*   [[Keywords/Shutdown]]
+*   [[Keywords/SnapPercent]]
+*   [[Keywords/Slash - Character|Slash /]]
+*   [[Keywords/Solo]]
+*   [[Keywords/SpecialMaster]]
+*   [[Keywords/Square Brackets [ ] Character]]
+*   [[Keywords/Speed]]
+*   [[Keywords/StepFade]]
+*   [[Keywords/StepInFade]]
+*   [[Keywords/StepOutFade]]
+*   [[Keywords/Stomp]]
+*   [[Keywords/Store]]
+*   [[Keywords/StoreLook]]
+*   [[Keywords/Surface]]
+*   [[Keywords/Swop]]
+*   [[Keywords/SwopGo]]
+*   [[Keywords/SwopOn]]
+*   [[Keywords/SyncEffects]]
+*   [[Keywords/TakeControl]]
+*   [[Keywords/Telnet]]
+*   [[Keywords/Temp]]
+*   [[Keywords/TempFader]]
+*   [[Keywords/Thru]]
+*   [[Keywords/Timecode]]
+*   [[Keywords/TimecodeSlot]]
+*   [[Keywords/Timer]]
+*   [[Keywords/ToFull]]
+*   [[Keywords/Toggle]]
+*   [[Keywords/Tools]]
+*   [[Keywords/Top]]
+*   [[Keywords/ToZero]]
+*   [[Keywords/Unblock]]
+*   [[Keywords/Unlock]]
+*   [[Keywords/Unpark]]
+*   [[Keywords/Up]]
+*   [[Keywords/Update]]
+*   [[Keywords/UpdateFirmware]]
+*   [[Keywords/UpdateSoftware]]
+*   [[Keywords/UpdateThumbnails]]
+*   [[Keywords/User]]
+*   [[Keywords/UserProfile]]
+*   [[Keywords/Value]]
+*   [[Keywords/Version]]
+*   [[Keywords/View]]
+*   [[Keywords/ViewButton]]
+*   [[Keywords/ViewPage]]
+*   [[Keywords/WebRemoteProgOnly]]
+*   [[Keywords/With]]
+*   [[Keywords/World]]
+*   [[Keywords/Zero]]
 
 ← [[Pages/Command Syntax and Keywords/General Syntax Rules]] | [[Pages/Command Syntax and Keywords/Work with Lists]] →
 

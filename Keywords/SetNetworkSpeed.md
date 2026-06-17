@@ -31,7 +31,7 @@ It makes sense to reduce the port speed, if grandMA series 2 devices are togethe
 To apply the changed port speed by using the SetNetworkSpeed keyword, a restart is necessary. If you do not restart the device, the new port speed is not applied.
 
 **Hint:**  
-To double-check the link speed, use the [NetworkInfo keyword](key_keyword_networkinfo.html) or press Setup **I** **column Network I** **tap** MA Network Control **I column Link Speed.**
+To double-check the link speed, use the [[Keywords/NetworkInfo|NetworkInfo keyword]] or press Setup **I** **column Network I** **tap** MA Network Control **I column Link Speed.**
 
 The SetNetworkSpeed keyword is a function keyword.
 

@@ -40,9 +40,9 @@ The CITP protocol suite allows to exchange images, stream videos and configure f
 
 If a 3rd party media system supports the full CITP protocol, then thumbnails can be exchanged for each of the video/image files on the media device. It is also possible to watch a video stream from the media device on a console and on a surface in MA 3D.
 
-For more about getting thumbnails via CITP have a look at the [CITP connection](key_network_citp.html) topic.
+For more about getting thumbnails via CITP have a look at the [[Pages/Networking/Using CITP|CITP connection]] topic.
 
-Have a look at the description of the [CITP viewer](key_network_citp_stream.html) to learn more about watching a CITP video stream on the console.
+Have a look at the description of the [[Pages/Networking/Streaming CITP video|CITP viewer]] to learn more about watching a CITP video stream on the console.
 
 Some visualizers can also display the CITP video stream from media systems.
 

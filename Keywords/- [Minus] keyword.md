@@ -57,6 +57,6 @@ If used as a starting keyword, - \[Minus\] creates a selection list, which is 
 **Hint:**  
 To execute this function you can also use the key \- on the console. 
 
-For more information see the key [\-](key_key_minus.html).
+For more information see the key [[Keys/- Key|\-]].
 
 Part of [[000 Keyword Index]] · [[000 Map of Content]]

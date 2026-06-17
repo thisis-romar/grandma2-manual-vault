@@ -44,7 +44,7 @@ Please note that whenever changing the mode, a restart is required. 
 4.  The console is successfully powered down.
 5.  Turn off the power switch on the rear panel and disconnect the plug. 
 
-For more information on the location of the power key and the power switch see [grandMA2 console](key_device_overview_grandma2_console.html). 
+For more information on the location of the power key and the power switch see [[Pages/Device Overview/grandMA2 console]]. 
 
 * * *
 
@@ -98,7 +98,7 @@ If the MA VPUs are not located in close proximity to the area you operate in, t
 
 To power down the MA VPU at a distance, type the following command and the IP address of the MA VPU into the command line:
 
-\[Channel\]> Shutdown "IP Address"
+\Channel\]> Shutdown "IP Address"
 
 ### 2\. Power Down Using the Master Fixture
 
@@ -106,7 +106,7 @@ To power down the MA VPU at a distance, type the following command and the IP ad
 
 *   Create a master fixture first
 
-For more information on how to create a master fixture see [MA VPU – Data Management –Layer Properties](ma_vpu/key_layer-properties.html). 
+For more information on how to create a master fixture see [MA VPU – Data Management –Layer Properties. 
 
 1.  To power down the MA VPU, type the number of the master fixture into the command line and press Please. 
 2.  Tap Control in the preset type bar. 
@@ -117,7 +117,7 @@ For more information on how to create a master fixture see [MA VPU – Data Man
 _Shut down the system using the master fixture_
 
 **Hint:**  
-It is also possible to arrange these channel sets in a smart view. For more information see [Using the smart view](key_of_smart_view.html). 
+It is also possible to arrange these channel sets in a smart view. For more information see [[Pages/Operate Fixtures/Using The Smart View|Using the smart view]]. 
 
 4.  Tap Shutdown.
 5.  A countdown starts counting down from 10 seconds on.

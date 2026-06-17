@@ -26,7 +26,7 @@ To execute this keyword, type **ChannelPage** or one of the shortcuts – **CP*
 **Important:**  
 To create ChannelPage, type the command "Store ChannelPage" and the number into the command line or press Ch Pg+​. By doing so you automatically jump to a ChannelPage.
 
-For more information on Ch Pg+ see the key [Ch Pg+](key_key_channelpageplus.html).
+For more information on Ch Pg+ see the key [[Keys/Ch Pg + (Channel Page +) Key|Ch Pg+]].
 
 ## Syntax
 
@@ -34,7 +34,7 @@ ChannelPage \[ID\]
 
 The default function of ChannelPage is Call. Calling a ChannelPage will change the executor faders to channel mode.
 
-For more information on the default function of ChannelPage see [Call](key_keyword_call.html). 
+For more information on the default function of ChannelPage see [[Keywords/Call keyword|Call]]. 
 
 ## Examples
 

@@ -25,7 +25,7 @@ To enter the keyword into the command line, type **Item3D** or the shortcut **It
 
 Item3D is an object keyword used to modify 3D objects in grandMA 3D. 
 
-For more information see [3D objects](ma_3d/key_3dobjects.html).
+For more information see 3D objects.
 
 ## Syntax
 

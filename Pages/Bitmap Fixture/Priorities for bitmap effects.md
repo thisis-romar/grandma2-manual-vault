@@ -38,13 +38,13 @@ When working with bitmap effects in the programmer and in playbacks attention sh
 2.  Bitmap effects are only visible within a sequence – **cue list:**  
     \- When the fixtures, which are running the bitmap effects, have no values and no effect values on the attributes in use.
 
-For more information on priorities in general see [executor options](key_adv_exec_options.html). 
+For more information on priorities in general see [[Pages/Advanced Executor Functionality/Executor Options|executor options]]. 
 
 ## Example:
 
 If a dimmer value is saved in a cue for Fixture 1, the bitmap effect can only be used for Fixture 1 in the following cue when the dimmer value is released.
 
-For more information on how to release see [What is tracking](key_cs_what_is_tracking.html). 
+For more information on how to release see [[Pages/Command Syntax and Keywords/What is Tracking|What is tracking]]. 
 
 **This is a visual explanation of the example by means of illustration for Fixture 1:**
 

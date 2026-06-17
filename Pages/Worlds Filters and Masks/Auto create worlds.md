@@ -63,7 +63,7 @@ This will create worlds for each of the selected Fixture Types or Layers.
 
 This will allow for auto created worlds to overwrite existing worlds.
 
-If this is off, and if there is a conflict, then a Auto Create Conflict pop-up appears - read about it in the [Auto Create Groups topic](key_groups_auto_create.html#auto_create_conflict).
+If this is off, and if there is a conflict, then a Auto Create Conflict pop-up appears - read about it in the [[Pages/Groups/Auto Create groups|Auto Create Groups topic]].
 
 **Use:**
 

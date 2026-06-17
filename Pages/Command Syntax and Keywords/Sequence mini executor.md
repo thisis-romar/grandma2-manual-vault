@@ -43,7 +43,7 @@ The mini executor is divided into three section: a top part, a middle part, and 
 
 There are two lines of information in the top part.
 
-The top line has a number on the left side. This number is the **executor** number. If this number has a different background color, then there is a [Playback filter](key_wfm_apply_to_exec_seq.html) applied.
+The top line has a number on the left side. This number is the **executor** number. If this number has a different background color, then there is a [[Pages/Worlds Filters and Masks/Apply worlds or filters to executors and sequences|Playback filter]] applied.
 
 Next to this there might be different letters or symbols. This is list of the different possibilities:
 
@@ -60,11 +60,11 @@ Next to this there might be different letters or symbols. This is list of the di
 *   **Triangle pointing down:**  
     This symbol means that the executor is currently assigned the "Low LTP" priority.
 *   **T:**  
-    The "T" is there if the sequence is set as a tracking sequence. Read about tracking in the [What is Tracking topic](key_cs_what_is_tracking.html).
+    The "T" is there if the sequence is set as a tracking sequence. Read about tracking in the [[Pages/Command Syntax and Keywords/What is Tracking|What is Tracking topic]].
 
-The different priorities are described in the [Playing back Cues topic](key_cs_playback.html).
+The different priorities are described in the [[Pages/Command Syntax and Keywords/Playing back Cues|Playing back Cues topic]].
 
-On the right side there is another number. This is the **sequence** number. If this number has a different background color, then there is a [Input filter](key_wfm_apply_to_exec_seq.html) applied.
+On the right side there is another number. This is the **sequence** number. If this number has a different background color, then there is a [[Pages/Worlds Filters and Masks/Apply worlds or filters to executors and sequences|Input filter]] applied.
 
 The second line in the top part is the name of the sequence.
 
@@ -89,9 +89,9 @@ The top cue is the previous active cue or the cue that will be active should a G
 
 If a cue is active, it will have a blue background. If the cue is fading in, then the blue background is visualized as a blue bar moving from the left to the right.
 
-Pressing or clicking in this area will open a temporary [Sequence Executor window](key_cs_cue_sequence.html).
+Pressing or clicking in this area will open a temporary [[Pages/Command Syntax and Keywords/Looking at the Cue Sequence|Sequence Executor window]].
 
-The middle part can look very different if it is "located" using the [Locate command](key_keyword_locate.html). It will look like this:
+The middle part can look very different if it is "located" using the [[Keywords/Locate|Locate command]]. It will look like this:
 
 ![](../../img/img_located-executor_v3_2.png)
 
@@ -115,7 +115,7 @@ This area might be split into two parts. It could look like this:
 
 _Mini Executor - Sequences - With Playback Master_
 
-This happens if the executor have a Playback Master assigned - Read about Playback Masters in the [Playback Masters topic](key_adv_exec_spec_master_playback.html). 
+This happens if the executor have a Playback Master assigned - Read about Playback Masters in the [[Pages/Advanced Executor Functionality/Playback Masters|Playback Masters topic]]. 
 
 The right side have three squares or one, depending on the amount of physical buttons. These graphical representations of the real physical key labels the function of the keys. In grandMA2 onPC they can be clicked or pressed just like the real physical keys.
 
@@ -127,7 +127,7 @@ The executors might span up to five executors wide. The top and middle part stay
 
 _Two wide executor_
 
-Read about making wider executors in the [Assign a Function topic](key_exec_assign.html).
+Read about making wider executors in the [[Pages/Executors/Assign a function|Assign a Function topic]].
 
 ← [[Pages/Command Syntax and Keywords/What is MIB]] | [[Pages/Command Syntax and Keywords/Commands in cues]] →
 

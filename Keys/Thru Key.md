@@ -25,11 +25,11 @@ The key Thru is located in the command area on the right of the number key 6�
 
 _Location_ _Key_ _Thru_ 
 
-*   Solely pressing Thru, enters the default keyword and the [Thru keyword](key_keyword_thru.html) into the command.
+*   Solely pressing Thru, enters the default keyword and the [[Keywords/Thru|Thru keyword]] into the command.
 
 \[Channel\]>  Channel Thru
 
-*   If you press Thru after pressing another keyword, only the [Thru keyword](key_keyword_thru.html) will be entered into the command line.
+*   If you press Thru after pressing another keyword, only the [[Keywords/Thru|Thru keyword]] will be entered into the command line.
 
 \[Channel\]> Fixture Thru
 

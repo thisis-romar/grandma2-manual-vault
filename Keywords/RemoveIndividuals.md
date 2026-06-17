@@ -32,7 +32,7 @@ RemoveIndividuals \[Object-list\]
 **Important:**  
 If you type the command into the command line, a warning pop-up appears. Note that removing individual settings of an effect alters the effect altogether.
 
-For more information see the example in [Use predefined effects](key_effects_predefined.html#remove_individuals). 
+For more information see the example in [[Pages/Effects/Use Predefined Effects|Use predefined effects]]. 
 
 ## Example: 
 

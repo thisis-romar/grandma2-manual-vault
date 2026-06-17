@@ -149,6 +149,6 @@ Try pressing the big 'Go+' key to see how your channels react to the different t
 
 Press: Backup Backup (as double-clicking a mouse button). This is the fast way to store your show (with the same name).
 
-On the [next page](key_09_add_moving_lights.html) we are going to look at adding some moving lights.
+On the [[QuickStart/Adding Moving lights|next page]] we are going to look at adding some moving lights.
 
 Part of [[000 Map of Content]]

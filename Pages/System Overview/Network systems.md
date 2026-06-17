@@ -43,11 +43,11 @@ Besides the consoles, there are a lot of different devices that can be added to 
 
 Read the sub topics to get a short explanation of the different devices.
 
-Learn more about setting up a session [here](key_network_session_create.html).
+Learn more about setting up a session [[Pages/Networking/How to create a session|here]].
 
-Learn more about parameter expansion [here](key_so_parameter_expansion.html).
+Learn more about parameter expansion [[Pages/System Overview/Parameter expansion|here]].
 
-Learn more about the considerations in big network systems [here](key_so_big_systems.html).
+Learn more about the considerations in big network systems [[Pages/System Overview/Big systems|here]].
 
   
 
@@ -55,12 +55,12 @@ Learn more about the considerations in big network systems [here](key_so_big_sys
 
 #### Sub topics
 
-*   [What is the replay unit (RPU)](key_so_what_is_the_replay_unit_rpu.html)
-*   [What is the network processing unit (NPU)](key_so_what_is_the_network_processing_unit_npu.html)
-*   [What is the MA video processing unit (VPU)](key_so_what_is_the_video_processing_unit_vpu.html)
-*   [What is the network dimmer processor (NDP)](key_so_what_is_the_network_dimmer_processor_ndp.html)
-*   [What is MA 3D](key_so_what_is_ma_3d.html)
-*   [What are the MA nodes](key_so_what_are_the_ma_nodes.html)
+*   [[Pages/System Overview/What is the Replay Unit (RPU)|What is the replay unit (RPU)]]
+*   [[Pages/System Overview/What is the Network Processing Unit (NPU)|What is the network processing unit (NPU)]]
+*   [[Pages/System Overview/What is the MA Video Processing Unit (VPU)-|What is the MA video processing unit (VPU)]]
+*   [[Pages/System Overview/What is the Network Dimmer Processor (NDP)-|What is the network dimmer processor (NDP)]]
+*   [[Pages/System Overview/What is MA 3D-|What is MA 3D]]
+*   [[Pages/System Overview/What are the MA nodes-|What are the MA nodes]]
 
 ← [[Pages/System Overview/Standalone systems]] | [[Pages/System Overview/Parameters vs. DMX channels]] →
 

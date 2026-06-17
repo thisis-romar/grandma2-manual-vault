@@ -61,7 +61,7 @@ The info is assigned to the object on the selected executor. The pool object has
 If the sheet style is selected for pool, the info is displayed in the info column.
 
 **Hint:**  
-You can also assign info by using the command line along with the object keyword and the parameter **info**. See as an example the [Preset keyword](key_keyword_preset.html).
+You can also assign info by using the command line along with the object keyword and the parameter **info**. See as an example the [[Keywords/Preset|Preset keyword]].
 
 * * *
 
@@ -70,7 +70,7 @@ You can also assign info by using the command line along with the object keyword
 **Requirement:** Existing pool object.
 
 1.  [Open the info window](<#Open info window>) and tap in the title bar the button Info.  
-    The words **Select something** appears in the info window and the button in the title bar changes to Not Linked. The [Info keyword](key_keyword_info.html) is in the command line.
+    The words **Select something** appears in the info window and the button in the title bar changes to Not Linked. The [[Keywords/Info|Info keyword]] is in the command line.
     
     ![](../../img/window_info-select-something_v3_2.png)
     
@@ -90,7 +90,7 @@ The info is assigned to the selected object. The pool object has a **information
 If the sheet style is selected for pool, the info is displayed in the info column.
 
 **Hint:**  
-You can also assign info by using the command line along with the object keyword and the parameter **info**. See as an example the [Preset keyword](key_keyword_preset.html).
+You can also assign info by using the command line along with the object keyword and the parameter **info**. See as an example the [[Keywords/Preset|Preset keyword]].
 
 * * *
 

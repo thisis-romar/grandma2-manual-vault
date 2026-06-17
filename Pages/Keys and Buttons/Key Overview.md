@@ -27,7 +27,7 @@ Version 3.9
 This overview displays shortcuts for a quick execution of commands. 
 
 **Important:**  
-For information on how to use the ![ma](../../img/ma_1.png) key in combination with shortcuts see the [MA key](key_key_ma.html).
+For information on how to use the ![ma](../../img/ma_1.png) key in combination with shortcuts see the [[Keys/MA Key|MA key]].
 
 Press this Key
 
@@ -39,7 +39,7 @@ Example
 
 <<<
 
-[<<<](key_keyword_skipminus.html)
+[[Keywords/--- [GoFastBack] keyword|<<<]]
 
 Goes fast backward and ignores the cue timing.
 
@@ -47,7 +47,7 @@ Goes fast backward and ignores the cue timing.
 
 <<< <<<
 
-[Black](key_keyword_black.html)
+[[Keywords/Black keyword|Black]]
 
 Blacks out an executor without timing. 
 
@@ -57,7 +57,7 @@ Sets the master of an executor to 0 while holding the executor. 
 
 <<< <<< <<<
 
-[ToZero](key_keyword_tozero.html)
+[[Keywords/ToZero]]
 
 Sets the master level of objects to zero.
 
@@ -65,7 +65,7 @@ Sets the master level of objects to zero.
 
 \>>>
 
-[\>>>](key_keyword_skipplus.html)
+[[Keywords/--- [GoFastForward] keyword|\>>>]]
 
 Goes fast forward and ignores the cue timing.
 
@@ -73,7 +73,7 @@ Goes fast forward and ignores the cue timing.
 
 \>>> \>>>
 
-[Flash](key_keyword_flash.html)
+[[Keywords/Flash]]
 
 Flashes an executor without timing.
 
@@ -81,7 +81,7 @@ Flashes an executor without timing.
 
 \>>> \>>> \>>>
 
-[ToFull](key_keyword_tofull.html)
+[[Keywords/ToFull]]
 
 Sets the master level of objects to full.
 
@@ -89,7 +89,7 @@ Sets the master level of objects to full.
 
 Align
 
-[Align](key_keyword_align.html) "<"
+[[Keywords/Align keyword|Align]] "<"
 
 Fans from the first object selected to the right.
 
@@ -129,7 +129,7 @@ No example
 
 Assign
 
-[Assign](key_keyword_assign.html)
+[[Keywords/Assign keyword|Assign]]
 
 Assigns functions to buttons or opens the assign menu. 
 
@@ -138,7 +138,7 @@ Assigns functions to buttons or opens the assign menu. 
 
 Assign Assign
 
-[Label](key_keyword_label.html)
+[[Keywords/Label]]
 
 Labels the objects.
 
@@ -146,7 +146,7 @@ Labels the objects.
 
 Assign Assign Assign
 
-[Appearance](key_keyword_appearance.html)
+[[Keywords/Appearance keyword|Appearance]]
 
 Changes the frame color for pool objects and cues.
 
@@ -162,7 +162,7 @@ Forms objects.
 
 At
 
-[At](key_keyword_at.html)
+[[Keywords/At keyword|At]]
 
 Enters the keyword At into the command line. 
 
@@ -171,7 +171,7 @@ Enters the keyword At into the command line. 
 
 At At
 
-[Normal](key_keyword_normal.html)
+[[Keywords/Normal]]
 
 Sets the selection to normal value. It is possible to change the normal value in **Setup - User - Settings**.
 
@@ -179,7 +179,7 @@ Sets the selection to normal value. It is possible to change the normal value in
 
 At press & hold
 
-[Filter](key_keyword_filter.html)
+[[Keywords/Filter]]
 
 Opens the command "Filter". 
 
@@ -187,7 +187,7 @@ No example 
 
 Blind
 
-[Blind](key_keyword_blind.html)
+[[Keywords/Blind keyword|Blind]]
 
 Switches on/off the live programmer to black.
 
@@ -196,7 +196,7 @@ No example 
 Blind  
 press & hold
 
-[BlindEdit](key_keyword_blindedit.html)
+[[Keywords/BlindEdit keyword|BlindEdit]]
 
 Switches on/off the second blind programmer.
 
@@ -254,7 +254,7 @@ No example 
 
 Channel
 
-[Channel](key_keyword_channel.html)
+[[Keywords/Channel keyword|Channel]]
 
 Enters the keyword Channel into the command line. 
 
@@ -262,7 +262,7 @@ Enters the keyword Channel into the command line. 
 
 Channel Channel
 
-[Dmx](key_keyword_dmx.html)
+[[Keywords/Dmx keyword|Dmx]]
 
 Enters the keyword DMX into the command line. 
 
@@ -270,7 +270,7 @@ Enters the keyword DMX into the command line. 
 
 Channel Channel Channel
 
-[DmxUniverse](key_keyword_dmxuniverse.html)
+[[Keywords/DmxUniverse keyword|DmxUniverse]]
 
 Enters the keyword DMXUniverse into the command line. 
 
@@ -278,7 +278,7 @@ Enters the keyword DMXUniverse into the command line. 
 
 Clear
 
-[ClearSelection](key_keyword_clearselection.html)
+[[Keywords/ClearSelection keyword|ClearSelection]]
 
 Deselects all fixtures or channels in the programmer.
 
@@ -286,7 +286,7 @@ No example 
 
 Clear press & hold
 
-[ClearAll](key_keyword_clearall.html)
+[[Keywords/ClearAll keyword|ClearAll]]
 
 Releases everything and clears the programmer.
 
@@ -294,7 +294,7 @@ No example
 
 Clear Clear
 
-[ClearActive](key_keyword_clearactive.html)
+[[Keywords/ClearActive keyword|ClearActive]]
 
 Deactivates all values in the programmer.
 
@@ -310,7 +310,7 @@ No example
 
 Copy
 
-[Copy](key_keyword_copy.html)
+[[Keywords/Copy keyword|Copy]]
 
 Copies source object to destination object.
 
@@ -318,7 +318,7 @@ Copies source object to destination object.
 
 Copy Copy
 
-[Clone](key_keyword_clone.html)
+[[Keywords/Clone keyword|Clone]]
 
 Clones source object to destination object.
 
@@ -326,7 +326,7 @@ Clones source object to destination object.
 
 Cue
 
-[Cue](key_keyword_cue.html)
+[[Keywords/Cue keyword|Cue]]
 
 Enters the keyword Cue into the command line. 
 
@@ -334,7 +334,7 @@ Enters the keyword Cue into the command line. 
 
 Cue Cue
 
-[Part](key_keyword_part.html)
+[[Keywords/Part]]
 
 Enters part cue object into the command line. 
 
@@ -342,7 +342,7 @@ Enters part cue object into the command line. 
 
 Delete
 
-[Delete](key_keyword_delete.html)
+[[Keywords/Delete keyword|Delete]]
 
 Deletes objects. 
 
@@ -351,7 +351,7 @@ Deletes objects. 
 
 Delete Delete
 
-[Remove](key_keyword_remove.html)
+[[Keywords/Remove]]
 
 Loads "Remove" into the programmer.
 
@@ -359,7 +359,7 @@ Loads "Remove" into the programmer.
 
 Delete Delete Delete
 
-[Release](key_keyword_release.html)
+[[Keywords/Release]]
 
 Loads "Release" into the programmer.
 
@@ -376,7 +376,7 @@ Enters the keyword . into the command line to indicate values separated by a dot
 
 . .
 
-[Zero](key_keyword_zero.html)
+[[Keywords/Zero]]
 
 Sets the selection at dimmer value zero.
 
@@ -392,7 +392,7 @@ No example
 
 Edit
 
-[Edit](key_keyword_edit.html)
+[[Keywords/Edit keyword|Edit]]
 
 Loads a cue in the programmer.
 
@@ -408,7 +408,7 @@ No example
 
 Effect
 
-[Effect](key_keyword_effect.html)
+[[Keywords/Effect keyword|Effect]]
 
 Enters the keyword Effect into the command line. 
 
@@ -425,7 +425,7 @@ No example 
 
 Exec
 
-[Executor](key_keyword_executor.html)
+[[Keywords/Executor]]
 
 Enters the keyword Executor into the command line.
 
@@ -433,7 +433,7 @@ Enters the keyword Executor into the command line.
 
 Exec Exec
 
-[SpecialMaster](key_keyword_specialmaster.html)
+[[Keywords/SpecialMaster]]
 
 Enters the keyword SpecialMaster into the command line.
 
@@ -466,7 +466,7 @@ No example
 
 Fix
 
-[Fix](key_keyword_fix.html)
+[[Keywords/Fix]]
 
 Fixes and unfixes an executor for all pages.
 
@@ -474,7 +474,7 @@ Fixes and unfixes an executor for all pages.
 
 Fixture
 
-[Fixture](key_keyword_fixture.html)
+[[Keywords/Fixture]]
 
 Enters the keyword Fixture into the command line. 
 
@@ -482,7 +482,7 @@ Enters the keyword Fixture into the command line. 
 
 Fixture Fixture
 
-[Selection](key_keyword_selection.html)
+[[Keywords/Selection]]
 
 Enters the current programmer selection into the command line. 
 
@@ -490,7 +490,7 @@ Enters the current programmer selection into the command line. 
 
 Full
 
-[Full](key_keyword_full.html)
+[[Keywords/Full]]
 
 Sets selection to dimmer value 100%.
 
@@ -506,7 +506,7 @@ Loads the highlight values into the programmer.
 
 Go -
 
-[GoBack](key_keyword_goback.html)
+[[Keywords/GoBack]]
 
 Jumps back in a sequence list. 
 
@@ -514,7 +514,7 @@ Jumps back in a sequence list. 
 
 Go +
 
-[Go](key_keyword_go.html)
+[[Keywords/Go]]
 
 Switches to next cue in the sequence with cue timing.
 
@@ -522,7 +522,7 @@ Switches to next cue in the sequence with cue timing.
 
 Go + Go +
 
-[Unpark](key_keyword_unpark.html)
+[[Keywords/Unpark]]
 
 Enters the keyword Unpark into the command line. 
 
@@ -530,7 +530,7 @@ Enters the keyword Unpark into the command line. 
 
 Go+ Prvw
 
-[PreviewExecutor](key_keyword_previewexecutor.html)
+[[Keywords/PreviewExecutor]]
 
 Steps through a cue list in preview mode.
 
@@ -538,7 +538,7 @@ No example
 
 Goto
 
-[Goto](key_keyword_goto.html)
+[[Keywords/Goto]]
 
 Jumps to a cue. 
 
@@ -547,7 +547,7 @@ Jumps to a cue. 
 
 Goto Goto
 
-[Load](key_keyword_load.html)
+[[Keywords/Load]]
 
 Enters the keyword Load into the command line. 
 
@@ -556,7 +556,7 @@ Enters the keyword Load into the command line. 
 
 Group
 
-[Group](key_keyword_group.html)
+[[Keywords/Group]]
 
 Enters the keyword Group into the command line.
 
@@ -573,7 +573,7 @@ No example
 
 Group Group
 
-[World](key_keyword_world.html)
+[[Keywords/World]]
 
 Enters "World" into the command line. 
 
@@ -581,7 +581,7 @@ Enters "World" into the command line. 
 
 Group Group Group
 
-[Filter](key_keyword_filter.html)
+[[Keywords/Filter]]
 
 Calls or selects a filter. 
 
@@ -597,7 +597,7 @@ Opens help for an object.
 
 Help Please
 
-[Help](key_keyword_help.html)
+[[Keywords/Help]]
 
 Opens the help view temporarily.
 
@@ -605,7 +605,7 @@ No example
 
 Help Help
 
-[CmdHelp](key_keyword_cmdhelp.html)
+[[Keywords/CmdHelp keyword|CmdHelp]]
 
 Displays all shortcuts in the command window.
 
@@ -613,7 +613,7 @@ No example
 
 Highlt
 
-[Highlight](key_keyword_highlight.html)
+[[Keywords/Highlight]]
 
 Sets the selection to the highlight values.
 
@@ -630,7 +630,7 @@ No example
 
 IF
 
-[IfOutput](key_keyword_ifoutput.html)
+[[Keywords/IfOutput]]
 
 Selects fixtures with a dimmer value higher than 0%.
 
@@ -638,7 +638,7 @@ Selects fixtures with a dimmer value higher than 0%.
 
 IF IF
 
-[IfActive](key_keyword_ifactive.html)
+[[Keywords/IfActive]]
 
 Selects fixtures with active values in the programmer.
 
@@ -646,7 +646,7 @@ No example
 
 IF IF IF
 
-[IfProg](key_keyword_ifprog.html)
+[[Keywords/IfProg]]
 
 Selects fixtures with active or inactive values in the programmer.
 
@@ -654,7 +654,7 @@ No example
 
 IF IF IF IF
 
-[If](key_keyword_if.html)
+[[Keywords/If]]
 
 Selects fixtures which exist in both groups.
 
@@ -662,7 +662,7 @@ Selects fixtures which exist in both groups.
 
 Learn
 
-[Learn](key_keyword_learn.html)
+[[Keywords/Learn]]
 
 Learns speed for a chaser or effect.
 
@@ -678,7 +678,7 @@ No example
 
 Learn Learn
 
-[Rate1](key_keyword_rate1.html)
+[[Keywords/Rate1]]
 
 Sets the rate of an executor back to 1:1.
 
@@ -695,7 +695,7 @@ No example
 
 Macro
 
-[Macro](key_keyword_macro.html)
+[[Keywords/Macro]]
 
 Enters the keyword Macro into the command line. 
 
@@ -703,7 +703,7 @@ Enters the keyword Macro into the command line. 
 
 Macro Macro
 
-[Timecode](key_keyword_timecode.html)
+[[Keywords/Timecode]]
 
 Enters the keyword Timecode into the command line. 
 
@@ -711,7 +711,7 @@ Enters the keyword Timecode into the command line. 
 
 Macro Macro Macro
 
-[Agenda](key_keyword_agenda.html)
+[[Keywords/Agenda]]
 
 Enters the keyword Agenda into the command line and executes the first entry in the agenda list.
 
@@ -736,7 +736,7 @@ Dimmer goes down by 10 percent.
 
 Move
 
-[Move](key_keyword_move.html)
+[[Keywords/Move]]
 
 Moves source objects to destination objects.
 
@@ -744,7 +744,7 @@ Moves source objects to destination objects.
 
 Move Move
 
-[Replace](key_keyword_replace.html)
+[[Keywords/Replace]]
 
 Replaces objects or values. 
 
@@ -752,7 +752,7 @@ Replaces objects or values. 
 
 Move Move Move
 
-[Insert](key_keyword_insert.html)
+[[Keywords/Insert]]
 
 Moves objects to a new ID.
 
@@ -760,7 +760,7 @@ No example
 
 Next
 
-[Next](key_keyword_next.html)
+[[Keywords/Next]]
 
 Selects next fixture or fixture of a selection.
 
@@ -768,7 +768,7 @@ No example
 
 Off
 
-[Off](key_keyword_off.html)
+[[Keywords/Off]]
 
 Knocks out values or releases executors.
 
@@ -784,7 +784,7 @@ Temporarily opens the Off Menu.
 
 On
 
-[On](key_keyword_on.html)
+[[Keywords/On]]
 
 Enters the keyword On into the command line. 
 
@@ -793,7 +793,7 @@ Enters the keyword On into the command line. 
 
 On On
 
-[Call](key_keyword_call.html)
+[[Keywords/Call keyword|Call]]
 
 Calls the status of the cue in the programmer. 
 
@@ -801,7 +801,7 @@ Calls the status of the cue in the programmer. 
 
 Oops
 
-[Oops](key_keyword_oops.html)
+[[Keywords/Oops]]
 
 Undoes the last action.
 
@@ -817,7 +817,7 @@ No example
 
 Page
 
-[Page](key_keyword_page.html)
+[[Keywords/Page]]
 
 Enters the keyword Page into the command line. 
 
@@ -825,7 +825,7 @@ Enters the keyword Page into the command line. 
 
 Page Page
 
-[ChannelPage](key_keyword_channelpage.html)
+[[Keywords/ChannelPage keyword|ChannelPage]]
 
 Enters the keyword ChannelPage into the command line. 
 
@@ -833,7 +833,7 @@ Enters the keyword ChannelPage into the command line. 
 
 Page Page Page
 
-[FaderPage](key_keyword_faderpage.html)
+[[Keywords/FaderPage]]
 
 Enters the keyword FaderPage into the command line. 
 
@@ -841,7 +841,7 @@ Enters the keyword FaderPage into the command line. 
 
 Page Page Page Page
 
-[ButtonPage](key_keyword_buttonpage.html)
+[[Keywords/ButtonPage keyword|ButtonPage]]
 
 Enters the keyword ButtonPage into the command line. 
 
@@ -849,7 +849,7 @@ Enters the keyword ButtonPage into the command line. 
 
 Pause
 
-[Pause](key_keyword_pause.html)
+[[Keywords/Pause]]
 
 Pauses the current cue fade. 
 
@@ -857,7 +857,7 @@ Pauses the current cue fade. 
 
 Pause Pause
 
-[Park](key_keyword_park.html)
+[[Keywords/Park]]
 
 Parks objects. 
 
@@ -882,7 +882,7 @@ No example
 
 plus
 
-[+](key_keyword_plus.html)
+[[Keywords/+ [Plus] keyword|+]]
 
 Functions as an "and". 
 
@@ -898,7 +898,7 @@ No example
 
 Preset
 
-[Preset](key_keyword_preset.html)
+[[Keywords/Preset]]
 
 Enters the keyword Preset into the command line. 
 
@@ -906,7 +906,7 @@ Enters the keyword Preset into the command line. 
 
 Preset Preset
 
-[Attribute](key_keyword_attribute.html)
+[[Keywords/Attribute keyword|Attribute]]
 
 Enters the keyword Attribute into the command line. 
 
@@ -914,7 +914,7 @@ Enters the keyword Attribute into the command line. 
 
 Preset Preset Preset
 
-[Gel](key_keyword_gel.html) 
+[[Keywords/Gel keyword|Gel]] 
 
 Calls the keyword Gel from the Swatch Book. 
 
@@ -922,7 +922,7 @@ Calls the keyword Gel from the Swatch Book. 
 
 Previous
 
-[Previous](key_keyword_previous.html)
+[[Keywords/Previous]]
 
 Selects previous fixture or fixture of a selection.
 
@@ -930,7 +930,7 @@ No example
 
 Previous + Next
 
-[All](key_keyword_all.html)
+[[Keywords/All]]
 
 Leaves the Next/Previous MAtricks selection and selects all.
 
@@ -939,7 +939,7 @@ No example
 
 Previous + Set + Next
 
-[MAtricksInterleave](key_keyword_matricksinterleave.html) Off
+[[Keywords/MAtricksInterleave]] Off
 
 Turns off MAtricksInterleave.
 
@@ -947,7 +947,7 @@ No example
 
 Prvw
 
-[Preview](key_keyword_preview.html)
+[[Keywords/Preview]]
 
 Shows the preview of a cue. Preview does not generate a DMX output. 
 
@@ -955,7 +955,7 @@ Shows the preview of a cue. Preview does not generate a DMX output. 
 
 Prvw Prvw
 
-[PreviewEdit](key_keyword_previewedit.html)
+[[Keywords/PreviewEdit]]
 
 Switches on/off the preview mode. 
 
@@ -963,7 +963,7 @@ No example
 
 Select
 
-[Select](key_keyword_select.html)
+[[Keywords/Select]]
 
 Enters the keyword Select into the command line. 
 
@@ -971,7 +971,7 @@ Enters the keyword Select into the command line. 
 
 Select Select
 
-[Selfix](key_keyword_selfix.html)
+[[Keywords/SelFix|Selfix]]
 
 Selects all channels and fixtures of an executor. 
 
@@ -979,7 +979,7 @@ Selects all channels and fixtures of an executor. 
 
 Sequ
 
-[Sequence](key_keyword_sequence.html)
+[[Keywords/Sequence]]
 
 Enters the keyword Sequence into the command line. 
 
@@ -987,7 +987,7 @@ Enters the keyword Sequence into the command line. 
 
 Set
 
-[MAtricks](key_keyword_matricks.html) Toggle
+[[Keywords/MAtricks]] Toggle
 
 Toggles between the entire and the current selection of MAtricks Next/Previous. 
 
@@ -1011,7 +1011,7 @@ No example
 
 Store
 
-[Store](key_keyword_store.html)
+[[Keywords/Store]]
 
 Enters the keyword Store into the command line. 
 
@@ -1027,7 +1027,7 @@ Opens the Temporary Store Options.  
 
 Temp
 
-[Temp](key_keyword_temp.html)
+[[Keywords/Temp]]
 
 Flashes an executor with timing and executor master level.
 
@@ -1035,7 +1035,7 @@ Flashes an executor with timing and executor master level.
 
 Temp Temp
 
-[Toggle](key_keyword_toggle.html)
+[[Keywords/Toggle]]
 
 Switches on/off an executor.
 
@@ -1043,7 +1043,7 @@ Switches on/off an executor.
 
 Thru
 
-[Thru](key_keyword_thru.html)
+[[Keywords/Thru]]
 
 Selects several objects. 
 
@@ -1052,7 +1052,7 @@ Selects several objects. 
 
 Time
 
-[Fade](key_keyword_fade.html)
+[[Keywords/Fade]]
 
 Switches to layer Fade. 
 
@@ -1060,7 +1060,7 @@ No example
 
 Time Time
 
-[Delay](key_keyword_delay.html)
+[[Keywords/Delay keyword|Delay]]
 
 Switches to layer Delay. 
 
@@ -1068,7 +1068,7 @@ No example
 
 Time Time Time
 
-[Value](key_keyword_value.html)
+[[Keywords/Value]]
 
 Switches to layer Value. 
 
@@ -1076,7 +1076,7 @@ No example
 
 Top
 
-[Top](key_keyword_top.html)
+[[Keywords/Top]]
 
 Jumps to the first cue of a sequence or the beginning of a time code. 
 
@@ -1084,7 +1084,7 @@ Jumps to the first cue of a sequence or the beginning of a time code. 
 
 Top Top
 
-[Kill](key_keyword_kill.html)
+[[Keywords/Kill]]
 
 Releases all executors, which are not kill-protected, on all pages except for the executor you kill. 
 
@@ -1100,7 +1100,7 @@ No example
 
 Update
 
-[Update](key_keyword_update.html)
+[[Keywords/Update]]
 
 Temporarily opens the Update View. 
 
@@ -1108,7 +1108,7 @@ No example
 
 View
 
-[View](key_keyword_view.html)
+[[Keywords/View]]
 
 Enters the keyword View into the command line.
 
@@ -1116,7 +1116,7 @@ No example
 
 View View
 
-[ViewButton](key_keyword_viewbutton.html)
+[[Keywords/ViewButton]]
 
 Enters the keyword ViewButton into the command line. 
 
@@ -1124,7 +1124,7 @@ Enters the keyword ViewButton into the command line. 
 
 View View View
 
-[ViewPage](key_keyword_viewpage.html)
+[[Keywords/ViewPage]]
 
 Switches to a ViewPage. 
 

@@ -31,7 +31,7 @@ The protocol suite supports many different things. The grandMA2 console and onPC
 
 Thumbnail exchange from 3rd party media servers and viewing a CITP video stream.
 
-Read about the two different types in the following pages or follow these links: [Streaming CITP](key_network_citp_stream.html) and [Thumbnail Exchange](key_network_citp_thumbnail.html).
+Read about the two different types in the following pages or follow these links: [[Pages/Networking/Streaming CITP video|Streaming CITP]] and [[Pages/Networking/Thumbnail exchange|Thumbnail Exchange]].
 
 The MA 3D supports one element (streaming CITP video).
 
@@ -75,8 +75,8 @@ The MA VPU reduces CITP video streams frame rate if the CITP network traffic of 
 
 #### Sub topics
 
-*   [Streaming CITP](key_network_citp_stream.html)
-*   [Thumbnail exchange](key_network_citp_thumbnail.html)
+*   [[Pages/Networking/Streaming CITP video|Streaming CITP]]
+*   [[Pages/Networking/Thumbnail exchange]]
 
 ← [[Pages/Networking/Getting DMX in and out of the system]] | [[Pages/Networking/PosiStageNet (PSN)]] →
 

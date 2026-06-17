@@ -24,7 +24,7 @@ The ![ma](../../img/ma_1.png) key is located in the command area below the 0.
 
 _Location_ _key_ _MA_ 
 
-Press ![ma](../../img/ma_1.png) to see all active icons of the message center in the command line. This command shows the icons even if the status is set to No (= empty) in the message center options. For more information on the icons of the message center see [icons](key_ws_icons.html). For more information on the message center see [message center](key_message_center.html).
+Press ![ma](../../img/ma_1.png) to see all active icons of the message center in the command line. This command shows the icons even if the status is set to No (= empty) in the message center options. For more information on the icons of the message center see [[Pages/Workspace/Icons|icons]]. For more information on the message center see [[Pages/Other System Tools/Message center|message center]].
 
 The following table contains shortcuts that work in combination with the ![ma](../../img/ma_1.png) key.
 
@@ -48,19 +48,19 @@ Toggles through the features of a preset type in the preset type bar.
 
 ![ma](../../img/ma_1.png) + .
 
-[Default](key_keyword_default.html)
+[[Keywords/Default]]
 
 Enters the keyword Default into the command line.
 
 ![ma](../../img/ma_1.png) + At
 
-[Stomp](key_keyword_stomp.html)
+[[Keywords/Stomp]]
 
 Enters the keyword Stomp into the command line.
 
 ![ma](../../img/ma_1.png) + At + At
 
-[Extract](key_keyword_extract.html)
+[[Keywords/Extract]]
 
 Enters the keyword Extract into the command line.
 
@@ -72,7 +72,7 @@ Moves down the monitor wing.
 
 ![ma](../../img/ma_1.png) + Effect
 
-[SyncEffects](key_keyword_synceffects.html)
+[[Keywords/SyncEffects]]
 
 Executes the keyword SyncEffects.
 
@@ -84,85 +84,85 @@ Switches the Desk Lock on/off. 
 
 ![ma](../../img/ma_1.png) + Fixture
 
-[FixtureType](key_keyword_fixturetype.html)
+[[Keywords/FixtureType]]
 
 Enters the keyword FixtureType into the command line.
 
 ![ma](../../img/ma_1.png) + Full
 
-[FullHighlight](key_keyword_fullhighlight.html)
+[[Keywords/FullHighlight keyword|FullHighlight]]
 
 Executes the keyword FullHighlight into the command line.
 
 ![ma](../../img/ma_1.png) + Goto
 
-[LoadNext](key_keyword_loadnext.html)
+[[Keywords/LoadNext]]
 
 Enters the keyword LoadNext into the command line.
 
 ![ma](../../img/ma_1.png) + Goto + Goto
 
-[LoadPrev](key_keyword_loadprev.html)
+[[Keywords/LoadPrev keyword|LoadPrev]]
 
 Enters the keyword LoadPrev into the command line.
 
 ![ma](../../img/ma_1.png) + Group
 
-[Layout](key_keyword_layout.html)
+[[Keywords/Layout]]
 
 Enters the keyword Layout into the command line.
 
 ![ma](../../img/ma_1.png) + Group + Group
 
-[SearchResult](key_keyword_searchresult.html)
+[[Keywords/SearchResult]]
 
 Enters the keyword SearchResult into the command line.
 
 ![ma](../../img/ma_1.png) + Group + Group + Group
 
-[Mask](key_keyword_mask.html)
+[[Keywords/Mask]]
 
 Enters the keyword Mask into the command line.
 
 ![ma](../../img/ma_1.png) + List
 
-[List](key_keyword_list.html)
+[[Keywords/List]]
 
 Enters the keyword List into the command line.
 
 ![ma](../../img/ma_1.png) + Macro
 
-[Timer](key_keyword_timer.html)
+[[Keywords/Timer]]
 
 Enters the keyword Timer into the command line.
 
 ![ma](../../img/ma_1.png) + Macro + Macro
 
-[Plugin](key_keyword_plugin.html)
+[[Keywords/Plugin]]
 
 Enters the keyword Plugin into the command line.
 
 ![ma](../../img/ma_1.png) + Move
 
-[Search](key_keyword_search.html)
+[[Keywords/Search]]
 
 Enters the keyword Search into the command line.
 
 ![ma](../../img/ma_1.png) + Next
 
-[NextRow](key_keyword_nextrow.html)
+[[Keywords/NextRow]]
 
 Executes the keyword NextRow .
 
 ![ma](../../img/ma_1.png) + Preset
 
-[PresetType](key_keyword_presettype.html)
+[[Keywords/PresetType]]
 
 Enters the keyword PresetType into the command line.
 
 ![ma](../../img/ma_1.png) + Prev
 
-[PrevRow](key_keyword_prevrow.html)
+[[Keywords/PrevRow]]
 
 Executes the keyword PrevRow .
 
@@ -174,7 +174,7 @@ Releases the monitor wing brake to adjust the angle of the monitor manually.
 
 ![ma](../../img/ma_1.png) + Store
 
-[Record](key_keyword_record.html)
+[[Keywords/Record]]
 
 Enters the keyword Record into the command line.
 
@@ -204,7 +204,7 @@ Lists updates in the command line feedback view. 
 
 ![ma](../../img/ma_1.png) + View
 
-[Screen](key_keyword_screen.html)
+[[Keywords/Screen]]
 
 Enters the keyword Screen into the command line.
 

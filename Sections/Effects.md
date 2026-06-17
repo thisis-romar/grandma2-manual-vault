@@ -57,7 +57,7 @@ Relative values are mainly used in pan and tilt. 
 *   **T:**  
     T stands for a template effect. It is valid for all fixtures that contain the attributes of a particular effect.
 
-For more information on the selective and template effects see [Use template and selective effects](key_effects_template_and_selective.html). 
+For more information on the selective and template effects see [[Pages/Effects/Use Template and Selective Effects|Use template and selective effects]]. 
 
   
 
@@ -65,18 +65,18 @@ For more information on the selective and template effects see [Use template and
 
 #### Sub topics
 
-*   [Use predefined effects](key_effects_predefined.html)
-*   [Use template and selective effects](key_effects_template_and_selective.html)
-*   [Create an effect in the programmer](key_effects_create_in_programmer.html)
-*   [Create an effect that uses presets](key_effects_effect_using_presets.html)
-*   [Create effect forms](key_effects_create_forms.html)
-*   [Pool options](key_effects_pool_options.html)
-*   [Effects in a cue](key_effects_in_cue.html)
-*   [Assign effect to executor](key_effects_assign_to_executor.html)
-*   [Live edit an effect](key_effects_live_edit.html)
-*   [Running effects](key_effects_running.html)
-*   [Update effects](key_effects_update.html)
-*   [Delete effects](key_effects_delete.html)
+*   [[Pages/Effects/Use Predefined Effects|Use predefined effects]]
+*   [[Pages/Effects/Use Template and Selective Effects|Use template and selective effects]]
+*   [[Pages/Effects/Create an effect in the programmer]]
+*   [[Pages/Effects/Create an Effect that Uses Presets|Create an effect that uses presets]]
+*   [[Pages/Effects/Create Effect Forms|Create effect forms]]
+*   [[Pages/Effects/Pool Options|Pool options]]
+*   [[Pages/Effects/Effects in a Cue|Effects in a cue]]
+*   [[Pages/Effects/Assign effect to executor]]
+*   [[Pages/Effects/Live Edit an Effect|Live edit an effect]]
+*   [[Pages/Effects/Running Effects|Running effects]]
+*   [[Pages/Effects/Update Effects|Update effects]]
+*   [[Pages/Effects/Delete Effects|Delete effects]]
 
 ## Pages in This Section
 

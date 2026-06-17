@@ -25,7 +25,7 @@ The key Sequ (Sequence) is located in the command area on the left of the key 
 
 _Location_ _Key_ _Sequ_ 
 
-*   Pressing Sequ enters the [Sequence keyword](key_keyword_sequence.html) into the command line.
+*   Pressing Sequ enters the [[Keywords/Sequence|Sequence keyword]] into the command line.
 
 \[Channel\]> Sequence
 

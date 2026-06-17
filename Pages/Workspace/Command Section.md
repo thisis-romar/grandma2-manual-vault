@@ -39,7 +39,7 @@ To open the command section on the onPC press Command Overlay and the window **C
 **Important:**  
 Single keys can have several functions depending on how often or how long you press and hold them.
 
-For more information on the keys and their commands see [Key overview](key_keys_key_overview.html).
+For more information on the keys and their commands see [[Pages/Keys and Buttons/Key Overview|Key overview]].
 
 * * *
 

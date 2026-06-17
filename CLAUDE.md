@@ -167,11 +167,16 @@ Both `github-browse` and `gh-pages` update automatically when `main` is pushed.
   (`[[Sections/Networking]]`, `[[Pages/.../Note]]`); bare links are only the root `[[000 …]]`
   index files.
 - **`npm run audit`** (`scripts/audit.js`) is a read-only conformance check against this SOP:
-  it reports unresolved wikilinks, structure/`type`-vs-location mismatches, missing required
-  frontmatter, and missing source-callout / nav-footer conventions. Run it after any extract.
-  Current state: **PASS** (0 unresolved links, 0 structure/frontmatter issues).
+  it reports unresolved wikilinks, **raw internal `key_*.html` links** (which 404 on
+  github-browse), structure/`type`-vs-location mismatches, missing required frontmatter, and
+  missing source-callout / nav-footer conventions. Run it after any extract.
+  Current state: **PASS** (0 unresolved links, 0 raw internal links, 0 structure/frontmatter issues).
+- **`npm run migrate:links`** (`scripts/migrate-internal-links.js`, shares
+  `lib/internal-links.js` with `extract.js`/`audit.js`) is the one-shot that rewrote the raw
+  `key_*.html` body links to `[[wikilinks]]`; `extract.js` now applies the same rewrite so future
+  runs stay clean.
 - **`npm test`** (`scripts/test/`, built-in `node --test`, no extra deps) covers the
-  link-conversion, slug/filename, and audit logic.
+  link-conversion, internal-link repair, slug/filename, and audit logic.
 - **CI** (`.github/workflows/ci.yml`) runs `npm test` + `npm run audit` on every push to `main`
   and on PRs — the quality gate that keeps broken links / frontmatter off `main`.
 - **`npm run stats` / `npm run moc`** write live note counts into `README.md` and

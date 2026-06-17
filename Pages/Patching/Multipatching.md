@@ -48,7 +48,7 @@ This is the first process using the GUI:
 7.  You can add the extra patch address to the extra fixtures.
 8.  Exit the Fixture schedule and the setup, and change save your changes.
 
-The second GUI process involves live patching and the DMX sheet. [Read about it here](key_patch_livepatch.html).
+The second GUI process involves live patching and the DMX sheet. [[Pages/Patching/Live patching|Read about it here]].
 
 This is the process using the command line:
 
@@ -76,7 +76,7 @@ Short version:
 
 Now you have multipatched fixtures.
 
-For more about positioning the fixture in MA 3D or the Stage view, please have look at the [Position fixtures in the 3D stage](key_patch_position_fixtures.html) topic.
+For more about positioning the fixture in MA 3D or the Stage view, please have look at the [[Pages/Patching/Position fixtures in the virtual 3D stage|Position fixtures in the 3D stage]] topic.
 
 ← [[Pages/Patching/Working with Layers]] | [[Pages/Patching/Live patching]] →
 

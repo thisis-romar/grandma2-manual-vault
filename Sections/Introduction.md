@@ -37,10 +37,10 @@ All grandMA2 consoles are optionally available as Silent Version with optimized 
 
 #### Sub topics
 
-*   [About this manual](key_introduction_about_this_manual.html)
-*   [System requirements grandMA2 onPC](key_introduction_system_requirements_grandma2_onpc.html)
-*   [Installation of grandMA2 onPC](key_introduction_installation_of_grandma2_onpc.html)
-*   [Help from MA technical support](key_introduction_help_from_ma_technical_support.html)
+*   [[Pages/Introduction/About this Manual|About this manual]]
+*   [[Pages/Introduction/System Requirements grandMA2 onPC|System requirements grandMA2 onPC]]
+*   [[Pages/Introduction/Installation of grandMA2 onPC]]
+*   [[Pages/Introduction/Help from MA Technical Support|Help from MA technical support]]
 
 ## Pages in This Section
 

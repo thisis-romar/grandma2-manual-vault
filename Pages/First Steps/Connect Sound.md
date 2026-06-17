@@ -40,7 +40,7 @@ The sound source is connected to the Audio IN connector.
 
 _grandMA2 full-size Audio IN connector_
 
-For more information see [adjust sound input](key_ost_sound_input_window.html) and [create effect form](key_effects_create_forms.html).
+For more information see [[Pages/Other System Tools/Sound input window|adjust sound input]] and [[Pages/Effects/Create Effect Forms|create effect form]].
 
 ← [[Pages/First Steps/Connect DMX]] | [[Pages/First Steps/Connect SMPTE (LTC)]] →
 

@@ -22,7 +22,7 @@ Version 3.9
 
 To execute the keyword Down, press the key Down, type **Down** or the shortcut **Do** into the command line. 
 
-For more information on the key Down see the [key Down](key_key_down.html). 
+For more information on the key Down see the [[Keys/Down Key|key Down]]. 
 
 ## Description
 

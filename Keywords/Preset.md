@@ -31,8 +31,8 @@ With the Preset keyword you can:
 *   Select the fixtures stored in a preset.
 *   At a preset to the fixture or channel selection.
 
-If no fixtures or channels are selected in the programmer, the default function is **SelFix**. For more information, see [SelFix keyword](key_keyword_selfix.html).  
-If fixtures or channels are selected in the programmer, the default function is **At**. For more information, see [At keyword](key_keyword_at.html).
+If no fixtures or channels are selected in the programmer, the default function is **SelFix**. For more information, see [[Keywords/SelFix|SelFix keyword]].  
+If fixtures or channels are selected in the programmer, the default function is **At**. For more information, see [[Keywords/At keyword]].
 
 ## Syntax
 
@@ -64,13 +64,13 @@ Special
 
 "Normal", "Default", "Highlight", "Stage"
 
-Assign the special mode. For more information, see [What are special modes?](key_presets_special_modes.html)
+Assign the special mode. For more information, see [[Pages/Presets/What Are Special Modes-|What are special modes?]]
 
 Info
 
 "additional information"
 
-Assign additional information. Assigned information are displayed in the [info window](key_ws_info.html).
+Assign additional information. Assigned information are displayed in the [[Pages/Workspace/Info|info window]].
 
 ## Examples
 

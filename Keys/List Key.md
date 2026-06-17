@@ -33,7 +33,7 @@ _Location k__ey_ _List_ 
     _Button page on screen 1_
     
 
-*   Pressing and holding ![ma](../../img/ma_1.png) + List enters the [List keyword](key_keyword_list.html) into the command line.
+*   Pressing and holding ![ma](../../img/ma_1.png) + List enters the [[Keywords/List|List keyword]] into the command line.
 
 \[Channel\]> List
 

@@ -25,11 +25,11 @@ The key On is located in the command area on the right of the key Top.
 
 _Location k__ey_ _On_ 
 
-*   Pressing On enters the [On keyword](key_keyword_on.html) into the command line.
+*   Pressing On enters the [[Keywords/On|On keyword]] into the command line.
 
 \[Channel\]> On
 
-*   Pressing On On enters the [Call keyword](key_keyword_call.html) into the command line.
+*   Pressing On On enters the [[Keywords/Call keyword]] into the command line.
 
 \[Channel\]> Call
 

@@ -49,9 +49,9 @@ The Other Functions section at the bottom have four buttons.
 
 "Change Color" is described below.
 
-"Block Cue(s)", "Unblock Cue(s)" are related to tracking. This is described in the [What is Tracking topic](key_cs_what_is_tracking.html).
+"Block Cue(s)", "Unblock Cue(s)" are related to tracking. This is described in the [[Pages/Command Syntax and Keywords/What is Tracking|What is Tracking topic]].
 
-"Delete Cue(s)" will delete the selected cues. This is discussed in the [Delete Cues topic](key_cs_delete_cues.html).
+"Delete Cue(s)" will delete the selected cues. This is discussed in the [[Pages/Command Syntax and Keywords/Delete Cues|Delete Cues topic]].
 
 ## Change cue color
 
@@ -59,11 +59,11 @@ A cue can have a color assigned to the row in the Sequence Executor Sheet.
 
 This can be done using the command line or by tapping the Change Color button in the Edit Cue Numbers pop-up.
 
-The [Appearance keyword](key_keyword_appearance.html) is used to do this via the command line.
+The [[Keywords/Appearance keyword]] is used to do this via the command line.
 
 Unless you use the command line input to specify a color then the **Select Color pop-up** appears.
 
-The sheet options control if this color is visible and how may cells will have the background color. Read more about this in the [Sheet Options - Display - Cue Color Columns](key_of_sheet_options_display.html#cue_color_columns).
+The sheet options control if this color is visible and how may cells will have the background color. Read more about this in the [[Pages/Operate Fixtures/Display|Sheet Options - Display - Cue Color Columns]].
 
 ← [[Pages/Command Syntax and Keywords/Cue timings]] | [[Pages/Command Syntax and Keywords/Delete Cues]] →
 

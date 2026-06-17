@@ -34,10 +34,10 @@ Layouts are created in the layout pool and are displayed and edited in the layou
 
 #### Sub topics
 
-*   [Create a layout](key_layouts_create.html)
-*   [Layout pool options](key_layouts_pool_options.html)
-*   [Edit layout](key_layouts_edit.html)
-*   [Layout view options](key_layouts_view_options.html)
+*   [[Pages/Layouts/Create a Layout|Create a layout]]
+*   [[Pages/Layouts/Layout Pool Options|Layout pool options]]
+*   [[Pages/Layouts/Edit Layout|Edit layout]]
+*   [[Pages/Layouts/Layout View Options|Layout view options]]
 
 ## Pages in This Section
 

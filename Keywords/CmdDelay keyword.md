@@ -29,7 +29,7 @@ CmdDelay \[Value-list\]
 
 As a helping keyword for programming functions (e.g., Store) this keyword sets the cmd delay time of the object in question.
 
-For more information see key [Time](key_key_time.html). 
+For more information see key [[Keys/Time Key|Time]]. 
 
 ## Example
 

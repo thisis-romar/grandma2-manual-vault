@@ -25,6 +25,6 @@ The key Edit is located in the command area on the left of the key Oops.
 
 _Location k__ey_ _Edit_ 
 
-*   Pressing Edit enters the [Edit keyword](key_keyword_edit.html) into the command line.
+*   Pressing Edit enters the [[Keywords/Edit keyword]] into the command line.
 
 Part of [[000 Key Index]] · [[000 Map of Content]]

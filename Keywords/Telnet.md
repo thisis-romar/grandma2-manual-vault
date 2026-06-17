@@ -31,7 +31,7 @@ The Telnet keyword sends Telnet commands via grandMA2 command line directly to a
 
 The Telnet keyword is a function keyword.
 
-For more information, see [What is Telnet remote?](key_remote_control_telnet.html).
+For more information, see [[Pages/Remote Control/Telnet Remote|What is Telnet remote?]].
 
 ## Syntax
 

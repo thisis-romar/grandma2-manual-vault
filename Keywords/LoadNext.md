@@ -37,6 +37,6 @@ LoadNext \[Executor object\]
 
 If executor 2 has loaded cue 5, LoadNext loads cue 6. "Loaded 6" starts flashing in red at the bottom of the sequence. 
 
-For more information see the [keyword Load](key_keyword_load.html).
+For more information see the [[Keywords/Load|keyword Load]].
 
 Part of [[000 Keyword Index]] · [[000 Map of Content]]

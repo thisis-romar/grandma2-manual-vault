@@ -27,7 +27,7 @@ Version 3.9
 
 After RDM (= Remote Device Management Protocol) is turned on the grandMA2 starts to discover RDM devices. The discovered RDM devices are displayed in the RDM devices window. On the left hand side there are the fixture types, on the right hand side the fixtures.
 
-When working with parameters only you can skip the match RDM devices topic and continue with the topic [work with RDM parameters](key_rdm_setparameter.html).
+When working with parameters only you can skip the match RDM devices topic and continue with the topic [[Pages/RDM/Work with RDM parameters|work with RDM parameters]].
 
 To work with sensors or notifications the RDM devices have to match to the patch. That means you have to select which fixture of the patch belongs to which RDM fixture. Footprint and DMX address have to be the same.
 
@@ -108,7 +108,7 @@ The software checks if there is a matched MA fixture with the same DMX address a
 _Matched RDM devices_
 
 **Hint:**  
-You can also use the [keyword RdmAutomatch](key_keyword_rdmautomatch.html) to auto-match RDM devices by using the command line.
+You can also use the [[Keywords/RdmAutomatch|keyword RdmAutomatch]] to auto-match RDM devices by using the command line.
 
 ← [[Pages/RDM/Turn RDM on]] | [[Pages/RDM/Auto Patch RDM Devices]] →
 

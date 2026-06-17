@@ -38,7 +38,7 @@ This can be used to control the playmode of the show. This is a short descriptio
 *   **Show info button**:  
     This button does not do anything when tapped. It displays the name and number of the timecode show.
 *   **Edit Timecode Show**:  
-    Tapping this button will open the timecode editor - please read the [Edit a Timecode Show topic](key_timecode_editor.html) for details.
+    Tapping this button will open the timecode editor - please read the [[Pages/Timecode/Edit a Timecode Show|Edit a Timecode Show topic]] for details.
 *   **Jump to Start**:  
     This will set the **Time** to 0 (zero).
 *   **Stop**:  
@@ -50,14 +50,14 @@ This can be used to control the playmode of the show. This is a short descriptio
 *   **Jump to End**:  
     Tapping this will jump to the end of the timecode show.
 *   **Record**:  
-    Tapping this will set the timecode show in **Record mode** - read more about recording a timecode show in the [Record a Timecode Show topic](key_timecode_record.html).
+    Tapping this will set the timecode show in **Record mode** - read more about recording a timecode show in the [[Pages/Timecode/Record a Timecode Show|Record a Timecode Show topic]].
 
 The four encoders has the following functions:
 
 *   **Time**:  
     This is the **Time marker**. It displays the current time. If the source is "Intern" then the encoder can be used to set the current time.
 *   **Track**:  
-    This is used to select a track - read more in the [Edit a Timecode Show topic](key_timecode_editor.html).
+    This is used to select a track - read more in the [[Pages/Timecode/Edit a Timecode Show|Edit a Timecode Show topic]].
 *   **Event**:  
     This is used to select events - read more in the edit topic liked above.
 *   **Move**:  
@@ -69,7 +69,7 @@ The encoders are primarily used together with the timecode editor.
 
 A timecode show can also be controlled by the command line.
 
-A [Go](key_keyword_go.html) command will set the timecode show in play mode.
+A [[Keywords/Go]] command will set the timecode show in play mode.
 
 For example if you want to play **Timecode Show 2**:
 
@@ -81,19 +81,19 @@ If you want to play **Timecode Show 3** from a certain time and it is the **Inte
 
 The show needs to have a lengths larger than the specified time.
 
-It can also be paused to a specific time by using the command above but with [Pause](key_keyword_pause.html) instead of Go.
+It can also be paused to a specific time by using the command above but with [[Keywords/Pause]] instead of Go.
 
-[<<<](key_keyword_skipminus.html) will jump to the time 0 (zero).
+[[Keywords/--- [GoFastBack] keyword|<<<]] will jump to the time 0 (zero).
 
 \[Channel\]> <<< Timecode 4
 
-[\>>>](key_keyword_skipplus.html) will jump to the end time (length in the options).
+[[Keywords/--- [GoFastForward] keyword|\>>>]] will jump to the end time (length in the options).
 
-[Off](key_keyword_off.html) can be used to stop a timecode show.
+[[Keywords/Off]] can be used to stop a timecode show.
 
 ## Timecode Generator
 
-Each [timecode slot](key_timecode_what_is.html#timecode_slots) can generate a timecode signal for the session. This signal will not be output by the LTC or MIDI ports, but it will be distributed in a session.
+Each [[Pages/Timecode/What is Timecode and Timecode Shows|timecode slot]] can generate a timecode signal for the session. This signal will not be output by the LTC or MIDI ports, but it will be distributed in a session.
 
 Tapping a timecode slot in the pool will change the encoder toolbar to look like this:
 
@@ -130,11 +130,11 @@ Three of the encoders can be used with the timecode generator. The left encoder 
 
 The generator can also be controlled using commands.
 
-To play or generate timecode slot 1 use the [Go](key_keyword_go.html) command:
+To play or generate timecode slot 1 use the [[Keywords/Go]] command:
 
 \[Channel\]> Go TimecodeSlot 1
 
-Use [Off](key_keyword_off.html) to stop the generator. [Pause](key_keyword_pause.html) will pause the generator.
+Use [[Keywords/Off]] to stop the generator. [[Keywords/Pause]] will pause the generator.
 
 ← [[Pages/Timecode/Edit a Timecode Show]] | [[Pages/Timecode/Organize The Show with Multiple Timecode Shows]] →
 

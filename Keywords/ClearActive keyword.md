@@ -31,6 +31,6 @@ The ClearActive function will inactivate any active values in the programmer.
 
 Press the button Clear twice to inactivate all values. 
 
-For more information on further functions of the keyword [Clear](key_keyword_clear.html) see [ClearAll](key_keyword_clearall.html) and [ClearSelection](key_keyword_clearselection.html).
+For more information on further functions of the keyword [[Keywords/Clear keyword|Clear]] see [[Keywords/ClearAll keyword|ClearAll]] and [[Keywords/ClearSelection keyword|ClearSelection]].
 
 Part of [[000 Keyword Index]] · [[000 Map of Content]]

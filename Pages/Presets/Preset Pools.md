@@ -43,7 +43,7 @@ _Pop-up create basic window – presets_
 There are two pools that are not numerated: 
 
 *   **Dynamic:**  
-    For more information on the pool **Dynamic** see [Dynamic preset pool](key_presets_dynamic_pool.html).
+    For more information on the pool **Dynamic** see [[Pages/Presets/Preset Pool -Dynamic-|Dynamic preset pool]].
 
 \-and-
 

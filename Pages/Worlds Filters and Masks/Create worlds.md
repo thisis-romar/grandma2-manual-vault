@@ -37,7 +37,7 @@ Try this:
 2.  Press Store followed by an empty world in the **World Pool**.
 3.  Tap the new world.
 
-You will now only have programming access to fixture 1 thru 5, which is reflected by the [Fixture Sheet Window](key_of_fixture_sheet.html). You have access to all attributes.
+You will now only have programming access to fixture 1 thru 5, which is reflected by the [[Pages/Operate Fixtures/Fixture Sheet|Fixture Sheet Window]]. You have access to all attributes.
 
 Worlds do not contain any values, but you need to have active attribute values if you want to have the attribute information or filtering in the world.
 

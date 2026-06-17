@@ -36,7 +36,7 @@ If only one fixture selected and the default keyword is Fixture or Channel, the 
 
 If multiple fixtures or channels are selected, the Next keyword selects the next fixture or channel in the selection order.
 
-For more information, see [MAtricks](key_matricks.html).
+For more information, see [[Sections/MAtricks]].
 
 ## Syntax
 

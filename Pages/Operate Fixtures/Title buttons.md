@@ -25,7 +25,7 @@ Version 3.9
 
 # Title buttons
 
-Many of the options described in [Tools](key_of_sheet_options_tools.html), [Layer Mask](key_of_sheet_options_layer_mask.html), and [Display](key_of_sheet_options_display.html) can be assigned as a quick access button in the title bars of the relevant sheets. Some are unique - meaning they do not appear as an option, but more as a quick access to a relevant function for the sheet.
+Many of the options described in [[Pages/Operate Fixtures/Tools]], [[Pages/Operate Fixtures/Layer mask|Layer Mask]], and [[Pages/Operate Fixtures/Display]] can be assigned as a quick access button in the title bars of the relevant sheets. Some are unique - meaning they do not appear as an option, but more as a quick access to a relevant function for the sheet.
 
 The title buttons that are described in the previous topics are mentioned here and there is a link to the topic with the description.
 
@@ -35,43 +35,43 @@ The following is a complete list of all possible title buttons in sheets. After 
 
 **Fixture sort** is available in Fixture, Content, and Tracking Sheets.
 
-Read about it in the [Sheet Options - Display topic](key_of_sheet_options_display.html#fixture_channel_sort).
+Read about it in the [[Pages/Operate Fixtures/Display|Sheet Options - Display topic]].
 
 ## Channel Sort
 
 **Channel Sort** is available in Channel Sheets.
 
-Read about it in the [Sheet Options - Display topic](key_of_sheet_options_display.html#fixture_channel_sort).
+Read about it in the [[Pages/Operate Fixtures/Display|Sheet Options - Display topic]].
 
 ## Feature Sort
 
 **Feature sort** is available in Fixture, Content, and Tracking Sheets.
 
-Read about it in the [Sheet Options - Display topic](key_of_sheet_options_display.html#feature_sort).
+Read about it in the [[Pages/Operate Fixtures/Display|Sheet Options - Display topic]].
 
 ## Auto Scroll
 
 **Auto Scroll** is available in Executor, and Tracking Sheets.
 
-Read about it in the [Sheet Options - Display topic](key_of_sheet_options_display.html#autoscroll).
+Read about it in the [[Pages/Operate Fixtures/Display|Sheet Options - Display topic]].
 
 ## Link Mode
 
 **Link Mode** is available in Content, Executor, and Tracking Sheets.
 
-Read about it in the [Sheet Options - Layer Mask topic](key_of_sheet_options_layer_mask.html#link_mode).
+Read about it in the [[Pages/Operate Fixtures/Layer mask|Sheet Options - Layer Mask topic]].
 
 ## Tracking
 
 **Tracking** is available in the Content Sheets.
 
-Read about it in the [Sheet Options - Layer Mask topic](key_of_sheet_options_layer_mask.html#show_tracked).
+Read about it in the [[Pages/Operate Fixtures/Layer mask|Sheet Options - Layer Mask topic]].
 
 ## Selection Only
 
 **Selection Only** is available in the Tracking Sheets.
 
-Read about it in the [Sheet Options - Layer Mask topic](key_of_sheet_options_layer_mask.html#selection_only).
+Read about it in the [[Pages/Operate Fixtures/Layer mask|Sheet Options - Layer Mask topic]].
 
 ## Cue Mode
 
@@ -79,7 +79,7 @@ Read about it in the [Sheet Options - Layer Mask topic](key_of_sheet_options_lay
 
 The cue mode title button is used to select what cue is displayed in the Content sheet.
 
-Read about it in the [Looking at your cue content topic](key_cs_cue_content.html#cue_mode).
+Read about it in the [[Pages/Command Syntax and Keywords/Looking at the cue content|Looking at your cue content topic]].
 
 ## Link Faders
 
@@ -87,7 +87,7 @@ Read about it in the [Looking at your cue content topic](key_cs_cue_content.html
 
 When Link Faders are active, the selected fixtures and the currently selected feature is used for the Dynamic Channel Pages.
 
-Read about Dynamic Channel Pages in the [Channel Pages topic](key_adv_exec_ch_pages.html).
+Read about Dynamic Channel Pages in the [[Pages/Advanced Executor Functionality/Channel Pages|Channel Pages topic]].
 
 ## Release All
 
@@ -95,25 +95,25 @@ Read about Dynamic Channel Pages in the [Channel Pages topic](key_adv_exec_ch_pa
 
 Release all is a function that will release all DMX addresses that are under the influence of the DMX tester.
 
-Read more about this in the [DMX testing topic](key_patch_dmx_testing.html).
+Read more about this in the [[Pages/Patching/DMX testing in the DMX Sheet|DMX testing topic]].
 
 ## Link Encoders
 
 **Link Encoders** is available in DMX, Content, Executor, and Tracking Sheets.
 
-Read more about it in the [Sheet Options - Tools topic](key_of_sheet_options_tools.html#link_encoders).
+Read more about it in the [[Pages/Operate Fixtures/Tools|Sheet Options - Tools topic]].
 
 ## Enable Mask
 
 **Enable Mask** is available in Channel, Fixture, Content, and Tracking Sheets.
 
-Read about it in the [Sheet Options - Layer Mask topic](key_of_sheet_options_layer_mask.html#enable_mask).
+Read about it in the [[Pages/Operate Fixtures/Layer mask|Sheet Options - Layer Mask topic]].
 
 ## Follow Mask
 
 **Follow Mask** is available in Channel, Fixture, Content, and Tracking Sheets.
 
-Read about it in the [Sheet Options - Layer Mask topic](key_of_sheet_options_layer_mask.html#follow_selected_mask).
+Read about it in the [[Pages/Operate Fixtures/Layer mask|Sheet Options - Layer Mask topic]].
 
 ## Set1 through Set10
 
@@ -127,13 +127,13 @@ The set buttons functions as masks that can be toggled On or Off.
 
 The first 5 set buttons have a default loaded mask, but can be changed. Read mode below.
 
-Read more about masks in the [Use masks in the sheets topic](key_wfm_use_masks.html).
+Read more about masks in the [[Pages/Worlds Filters and Masks/Use masks in the sheets and windows|Use masks in the sheets topic]].
 
 **Content Sheet & Tracking Sheet:**
 
 All 10 set buttons functions as masks that can be toggled On or Off.
 
-Read more about masks in the [Use masks in the sheets topic](key_wfm_use_masks.html).
+Read more about masks in the [[Pages/Worlds Filters and Masks/Use masks in the sheets and windows|Use masks in the sheets topic]].
 
 **Executor Sheet:**
 
@@ -141,79 +141,79 @@ There are only 5 set buttons available.
 
 The set buttons function as a special kind of mask. They can be used to select what columns in the sheet that should be visible.
 
-Read details about this in the [Using different view Sets in the Sheets topic](key_adv_seq_view_sets.html).
+Read details about this in the [[Pages/Advanced Sequence Functionality/Using different view sets in the sheets|Using different view Sets in the Sheets topic]].
 
 ## Prog Only
 
 This is the Set1 button with a default assigned mask. This is default for Channel and Fixture Sheets. It can be changed.
 
-Read more about masks in the [Use masks in the sheets topic](key_wfm_use_masks.html).
+Read more about masks in the [[Pages/Worlds Filters and Masks/Use masks in the sheets and windows|Use masks in the sheets topic]].
 
 ## Active Only
 
 This is the Set2 button with a default assigned mask. This is default for Channel and Fixture Sheets. It can be changed.
 
-Read more about masks in the [Use masks in the sheets topic](key_wfm_use_masks.html).
+Read more about masks in the [[Pages/Worlds Filters and Masks/Use masks in the sheets and windows|Use masks in the sheets topic]].
 
 ## Parked
 
 This is the Set3 button with a default assigned mask. This is default for Channel and Fixture Sheets. It can be changed.
 
-Read more about masks in the [Use masks in the sheets topic](key_wfm_use_masks.html).
+Read more about masks in the [[Pages/Worlds Filters and Masks/Use masks in the sheets and windows|Use masks in the sheets topic]].
 
 ## Seq+
 
 This is the Set4 button with a default assigned mask. This is default for Channel and Fixture Sheets. It can be changed.
 
-Read more about masks in the [Use masks in the sheets topic](key_wfm_use_masks.html).
+Read more about masks in the [[Pages/Worlds Filters and Masks/Use masks in the sheets and windows|Use masks in the sheets topic]].
 
 ## Seq-
 
 This is the Set5 button with a default assigned mask. This is default for Channel and Fixture Sheets. It can be changed.
 
-Read more about masks in the [Use masks in the sheets topic](key_wfm_use_masks.html).
+Read more about masks in the [[Pages/Worlds Filters and Masks/Use masks in the sheets and windows|Use masks in the sheets topic]].
 
 ## Readout
 
 **Readout** is available in Channel, Fixture, Content, and Tracking Sheets.
 
-Read about it in the [Sheet Options - Display topic](key_of_sheet_options_display.html#readout).
+Read about it in the [[Pages/Operate Fixtures/Display|Sheet Options - Display topic]].
 
 ## Edit CueOnly
 
 **Edit CueOnly** is available in Content, and Tracking Sheets.
 
-Read more about it in the [Sheet Options - Tools topic](key_of_sheet_options_tools.html#edit_cueonly).
+Read more about it in the [[Pages/Operate Fixtures/Tools|Sheet Options - Tools topic]].
 
 ## Only Selected
 
 **Only Selected** is available in the DMX Sheets.
 
-Read about it in the [Sheet Options - Display topic](key_of_sheet_options_display.html#show_only_selected).
+Read about it in the [[Pages/Operate Fixtures/Display|Sheet Options - Display topic]].
 
 ## Show Additional
 
 **Show Additional** is available in the DMX Sheets.
 
-Read about it in the [Sheet Options - Display topic](key_of_sheet_options_display.html#show_additional).
+Read about it in the [[Pages/Operate Fixtures/Display|Sheet Options - Display topic]].
 
 ## Programmer Colors
 
 **Programmer Colors** is available in the DMX Sheets.
 
-Read about it in the [Sheet Options - Display topic](key_of_sheet_options_display.html#programmer_colors).
+Read about it in the [[Pages/Operate Fixtures/Display|Sheet Options - Display topic]].
 
 ## MixColor Readout
 
 **MixColor Readout** is available in Fixture, Content, and Tracking Sheets.
 
-Read about it in the [Sheet Options - Display topic](key_of_sheet_options_display.html#mixcolor_readout).
+Read about it in the [[Pages/Operate Fixtures/Display|Sheet Options - Display topic]].
 
 ## Hide Countdown Timing
 
 **Hide Countdown Timing** is available in the Executor Sheets.
 
-Read about it in the [Sheet Options - Display topic](key_of_sheet_options_display.html#hide_timing_countdown).
+Read about it in the [[Pages/Operate Fixtures/Display|Sheet Options - Display topic]].
 
 * * *
 
@@ -329,7 +329,7 @@ The following is a listing of which title buttons are available in which sheets.
 
 The RDM sheet do not have any options, but it does have two title buttons.
 
-They are described in the [Use the RDM sheet topic](key_rdm_rdm_sheets.html).
+They are described in the [[Pages/RDM/Use the RDM sheet|Use the RDM sheet topic]].
 
 ← [[Pages/Operate Fixtures/Display]] | [[Pages/Operate Fixtures/Assign executor]] →
 

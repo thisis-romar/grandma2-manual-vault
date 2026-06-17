@@ -25,7 +25,7 @@ To execute this keyword type **CmdHelp** or the shortcut **Cm** into the comman
 
 Pressing the key Help twice enters the keyword CmdHelp into the command line. 
 
-For more information see the key [Help](key_key_help.html).
+For more information see the key [[Keys/Help Key|Help]].
 
 ## Syntax
 

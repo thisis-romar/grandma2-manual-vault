@@ -39,15 +39,15 @@ Meaning
 
 ![](../../img/icon_world_v3-2.png)
 
-A world is active. For more information, see [World Keyword](key_keyword_world.html) or [Worlds, Filters, and Masks](key_wfm_world_filter_mask.html).
+A world is active. For more information, see [[Keywords/World|World Keyword]] or [[Sections/Worlds Filters and Masks|Worlds, Filters, and Masks]].
 
 ![](../../img/icon_ghost_v3-2.png)
 
-A mask is in use. For more information, see [Use Masks in the Sheets](key_wfm_use_masks.html).
+A mask is in use. For more information, see [[Pages/Worlds Filters and Masks/Use masks in the sheets and windows|Use Masks in the Sheets]].
 
 ![](../../img/icon_ghost-red_v3-2.png)
 
-A mask is assigned. For more information, see [Use Masks in the Sheets](key_wfm_use_masks.html).
+A mask is assigned. For more information, see [[Pages/Worlds Filters and Masks/Use masks in the sheets and windows|Use Masks in the Sheets]].
 
 ![](../../img/icon_home_v3-2.png)
 
@@ -99,7 +99,7 @@ Meaning
 
 ![](../../img/icon_yellow-lock_v3-2.png)
 
-Pool object is locked. To unlock a pool object, see [Unlock Keyword](key_keyword_unlock.html).
+Pool object is locked. To unlock a pool object, see [[Keywords/Unlock|Unlock Keyword]].
 
 ![](../../img/icon_red-lock_v3-2.png)
 
@@ -111,45 +111,45 @@ Pool object contains additional information.
 
 ![](../../img/icon_chain-yellow_v3-2.png)
 
-Camera pool object is linked to a camera fixture. For more information, see [Camera Pool](key_patch_camera.html).
+Camera pool object is linked to a camera fixture. For more information, see [[Pages/Patching/Virtual 3D Cameras|Camera Pool]].
 
 ![](../../img/icon_timecode_v3-2.png)
 
 *   Timecode slot pool object with incoming SMPTE timecode.
 *   Timecode pool object linked to a timecode slot with incoming SMPTE timecode.
 
-For more information, see [timecode](key_timecode.html).
+For more information, see [[Sections/Timecode|timecode]].
 
 ![](../../img/icon_note_v3-2.png)
 
 *   Timecode slot pool object with incoming MIDI timecode.
 *   Timecode pool object linked to a timecode slot with incoming MIDI timecode.
 
-For more information, see [timecode](key_timecode.html).
+For more information, see [[Sections/Timecode|timecode]].
 
 ![](../../img/icon_filter_v3-2.png)
 
-Sequence pool object with input filter. For more information, see [cues and sequences](key_cues_and_sequences.html).
+Sequence pool object with input filter. For more information, see [[Sections/Cues and Sequences|cues and sequences]].
 
 ![](../../img/icon_pause_v3-2.png)
 
-*   Paused timer pool object. For more information, see [timer](key_timer.html).
-*   Paused timecode slot pool object. For more information, see [timecode](key_timecode.html).
-*   Paused timecode pool object. For more information, see [timecode](key_timecode.html).
+*   Paused timer pool object. For more information, see [[Sections/Timer|timer]].
+*   Paused timecode slot pool object. For more information, see [[Sections/Timecode|timecode]].
+*   Paused timecode pool object. For more information, see [[Sections/Timecode|timecode]].
 
 ![](../../img/icon_play_v3-2.png)
 
-*   Running timer pool object. For more information, see [timer](key_timer.html).
-*   Running timecode slot pool object. For more information, see [timecode](key_timecode.html).
-*   Running timecode pool object. For more information, see [timecode](key_timecode.html).
+*   Running timer pool object. For more information, see [[Sections/Timer|timer]].
+*   Running timecode slot pool object. For more information, see [[Sections/Timecode|timecode]].
+*   Running timecode pool object. For more information, see [[Sections/Timecode|timecode]].
 
 ![](../../img/icon_off_v3-2.png)
 
-Timer pool object is off. For more information, see [timer](key_timer.html).
+Timer pool object is off. For more information, see [[Sections/Timer|timer]].
 
 ![](../../img/icon_record_v3-2.png)
 
-Running record for macro pool object. For more information, see [record keyword](key_keyword_record.html) or [macros](key_macro.html).
+Running record for macro pool object. For more information, see [[Keywords/Record|record keyword]] or [[Sections/Macros|macros]].
 
 ![](../../img/icon_green-square_v3-2.png)
 
@@ -158,15 +158,15 @@ Running record for macro pool object. For more information, see [record keyword]
 
 ![](../../img/icon_rdm-green_v3-2.png)
 
-Universe pool object with running RDM. For more information, see [RDM](key_rdm.html).
+Universe pool object with running RDM. For more information, see [[Sections/RDM]].
 
 ![](../../img/icon_rdm-red_v3-2.png)
 
-Universe pool object with RDM on for this universe and global RDM off. For more information, see [RDM](key_rdm.html).
+Universe pool object with RDM on for this universe and global RDM off. For more information, see [[Sections/RDM]].
 
 ## Command Line and Message Center Icons
 
-The [command line](key_widget_command_line.html) and the message center provides you with information about the:
+The [[Pages/Workspace/Command Line|command line]] and the message center provides you with information about the:
 
 *   Network
 *   Show
@@ -174,7 +174,7 @@ The [command line](key_widget_command_line.html) and the message center provides
 *   Chat
 *   CITP
 
-Some icons can be disabled or enabled in the message center options. For more information, see [Message Center](key_message_center.html).
+Some icons can be disabled or enabled in the message center options. For more information, see [[Pages/Other System Tools/Message center|Message Center]].
 
 The following table explains what the icons in the command line and in the message center mean.
 
@@ -188,15 +188,15 @@ The console runs from the battery power only.
 
 ![](../../img/icon_red-broken-heart_v3-2.png)
 
-The console is in a standalone mode. For more information, see [Create a Session](key_network_session_create.html).
+The console is in a standalone mode. For more information, see [[Pages/Networking/How to create a session|Create a Session]].
 
 ![](../../img/icon_blue-heart_v3-2.png)
 
-The console is master of a session. For more information, see [Session Control](key_network_session.html).
+The console is master of a session. For more information, see [[Pages/Networking/Session control|Session Control]].
 
 ![](../../img/icon_green-heart_v3-2.png)
 
-The console is slave of a session. For more information, see [Session Control](key_network_session.html).
+The console is slave of a session. For more information, see [[Pages/Networking/Session control|Session Control]].
 
 ![](../../img/icon_red-heart-not-filled_v3-2.png)
 
@@ -204,7 +204,7 @@ Invite is disabled in the Setup - MA Network Control.
 
 ![](../../img/icon_mail_v3-2.png)
 
-A new message is received. For more information, see [Chat Keyword](key_keyword_chat.html).
+A new message is received. For more information, see [[Keywords/Chat keyword|Chat Keyword]].
 
 ![](../../img/icon_ethernet_v3-2.png)
 
@@ -228,11 +228,11 @@ Receive timecode MIDI signal.
 
 ![](../../img/icon_timecode-record_v3-2.png)
 
-A timecode record is active. For more information, see [Timecode Keyword](key_keyword_timecode.html) or [Record Keyword](key_keyword_record.html).
+A timecode record is active. For more information, see [[Keywords/Timecode|Timecode Keyword]] or [[Keywords/Record|Record Keyword]].
 
 ![](../../img/icon_unpached-fixtures_v3-2.png)
 
-There are fixtures or channels in the Patch & Fixture Schedule without a patch address. For more information, see [Patching](key_patch.html).
+There are fixtures or channels in the Patch & Fixture Schedule without a patch address. For more information, see [[Sections/Patching]].
 
 ![](../../img/icon_unassigned-ports_v3-2.png)
 
@@ -244,31 +244,31 @@ More DMX channels are patched than available parameters.
 
 ![](../../img/icon_cl_v3-2.png)
 
-The Exec CLI (= Command Line Interaction) or the Default Go, GoBack, Pause CLI is off. For more information, see [Local Settings](key_local_settings.html).
+The Exec CLI (= Command Line Interaction) or the Default Go, GoBack, Pause CLI is off. For more information, see [[Pages/Console Settings/Local settings|Local Settings]].
 
 ![](../../img/icon_world_v3-2.png)
 
-A world is active. For more information, see [World Keyword](key_keyword_world.html) or [Worlds, Filters, and Masks](key_wfm_world_filter_mask.html).
+A world is active. For more information, see [[Keywords/World|World Keyword]] or [[Sections/Worlds Filters and Masks|Worlds, Filters, and Masks]].
 
 ![](../../img/icon_parked_v3-2.png)
 
-DMX channels are parked. To unpark DMX channels, see [Unpark Keyword](key_keyword_unpark.html).
+DMX channels are parked. To unpark DMX channels, see [[Keywords/Unpark|Unpark Keyword]].
 
 ![](../../img/icon_preview_v3-2.png)
 
-Preview is on. For more information, see [Preview Keyword](key_keyword_preview.html).
+Preview is on. For more information, see [[Keywords/Preview|Preview Keyword]].
 
 ![](../../img/icon_filter_v3-2.png)
 
-A filter from the filter pool or a command filter is active. For more information, see [Filter Keyword](key_keyword_filter.html) or [Worlds, Filters, and Masks](key_wfm_world_filter_mask.html).
+A filter from the filter pool or a command filter is active. For more information, see [[Keywords/Filter|Filter Keyword]] or [[Sections/Worlds Filters and Masks|Worlds, Filters, and Masks]].
 
 ![](../../img/icon_blind_v3-2.png)
 
-Blind mode or blind edit mode is on. For more information, see [Blind Keyword](key_keyword_blind.html).
+Blind mode or blind edit mode is on. For more information, see [[Keywords/Blind keyword|Blind Keyword]].
 
  ![](../../img/icon_macro-record_v3-2.png)
 
-A macro record is active. For more information, see [Record Keyword](key_keyword_record.html) or [Macros](key_macro.html).
+A macro record is active. For more information, see [[Keywords/Record|Record Keyword]] or [[Sections/Macros]].
 
 ![](../../img/icon_group-grand-master_v3-2.png)
 
@@ -276,15 +276,15 @@ A group master or grand master is active.
 
 ![](../../img/icon_highlight_v3-2.png)
 
-Highlight is active. For more information, see [Highlight Keyword](key_keyword_highlight.html).
+Highlight is active. For more information, see [[Keywords/Highlight|Highlight Keyword]].
 
 ![](../../img/icon_solo_v3-2.png)
 
-Solo is active. For more information, see [Solo Keyword](key_keyword_solo.html).
+Solo is active. For more information, see [[Keywords/Solo|Solo Keyword]].
 
 ![](../../img/icon_server_v3-2.png)
 
-Backup file server is unavailable. For more information, see [Setting up a File Server](key_backup_menu_file_server.html).
+Backup file server is unavailable. For more information, see [[Pages/Backup Menu/Setting up a file server|Setting up a File Server]].
 
 ![](../../img/icon_missed-stations_v3-2.png)
 
@@ -292,19 +292,19 @@ A previous available station is missing or the IP address of a station changed. 
 
 ![](../../img/icon_ip-conflict_v3-2.png)
 
-At least two devices with the same IP address are in the network. Double-check the IP addresses. For more information, see [Networking](key_network.html).
+At least two devices with the same IP address are in the network. Double-check the IP addresses. For more information, see [[Sections/Networking]].
 
 ![](../../img/icon_rdm-red_v3-2.png)
 
-A RDM device sends an alert. For more information, see [RDM](key_rdm.html).
+A RDM device sends an alert. For more information, see [[Sections/RDM]].
 
 ![](../../img/icon_rdm-yellow_v3-2.png)
 
-A RDM device sends a warning. For more information, see [RDM](key_rdm.html).
+A RDM device sends a warning. For more information, see [[Sections/RDM]].
 
 ## Encoder Toolbar Icons
 
-The following table explains what the icons in the [encoder toolbar](key_ws_encoder_bar.html) mean.
+The following table explains what the icons in the [[Pages/Workspace/Encoder Bar|encoder toolbar]] mean.
 
 Icon
 
@@ -312,35 +312,35 @@ Meaning
 
 ![](../../img/icon_skip-minus_v3-2.png)
 
-Executes a GoFastBack. For more information, see [<<< GoFastBack Keyword](key_keyword_skipminus.html).
+Executes a GoFastBack. For more information, see [[Keywords/--- [GoFastBack] keyword|<<< GoFastBack Keyword]].
 
 ![](../../img/icon_go-back_v3-2.png)
 
-Executes a GoBack. For more information, see [GoBack Keyword](key_keyword_goback.html).
+Executes a GoBack. For more information, see [[Keywords/GoBack|GoBack Keyword]].
 
 ![](../../img/icon_pause_v3-2.png)
 
-Executes a Pause. For more information, see [Pause Keyword](key_keyword_pause.html).
+Executes a Pause. For more information, see [[Keywords/Pause|Pause Keyword]].
 
 ![](../../img/icon_off_v3-2.png)
 
-Executes an Off. For more information, see [Off Keyword](key_keyword_off.html).
+Executes an Off. For more information, see [[Keywords/Off|Off Keyword]].
 
 ![](../../img/icon_play_v3-2.png)
 
-Executes a Go. For more information, see [Go Keyword](key_keyword_go.html).
+Executes a Go. For more information, see [[Keywords/Go|Go Keyword]].
 
 ![](../../img/icon_skip-plus_v3-2.png)
 
-Executes a GoFastForward. For more information, see [\>>> GoFastForward Keyword](key_keyword_skipplus.html).
+Executes a GoFastForward. For more information, see [[Keywords/--- [GoFastForward] keyword|\>>> GoFastForward Keyword]].
 
 ![](../../img/icon_rectangle_v3-2.png)
 
-Select to draw rectangles in the [Layout View](key_layouts.html).
+Select to draw rectangles in the [[Sections/Layouts|Layout View]].
 
 ![](../../img/icon_text_v3-2.png)
 
-Select to create text boxes in the [Layout View](key_layouts.html).
+Select to create text boxes in the [[Sections/Layouts|Layout View]].
 
 ← [[Pages/Workspace/Text indicators and symbols]] | [[Pages/Workspace/Keyboard shortcuts]] →
 

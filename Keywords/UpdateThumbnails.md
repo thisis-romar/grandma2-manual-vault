@@ -25,13 +25,13 @@ To go to the UpdateThumbnails keyword, type **UpdateThumbnails** in the command 
 
 The UpdateThumbnails keyword updates the thumbnails of the media servers.
 
-For more information on media servers see the [keyword MediaServer](key_keyword_mediaserver.html). 
+For more information on media servers see the [[Keywords/MediaServer keyword|keyword MediaServer]]. 
 
 ## Syntax
 
 UpdateThumbnails MediaServer \[RowID\]
 
-The row ID is the row in the window CITP Network Configuration. For more information see [Thumbnail exchange](key_network_citp_thumbnail.html). 
+The row ID is the row in the window CITP Network Configuration. For more information see [[Pages/Networking/Thumbnail exchange]]. 
 
 ## Example
 

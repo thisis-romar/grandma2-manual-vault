@@ -25,7 +25,7 @@ To get the EffectHigh keyword in the command line type **EffectHigh** or the sho
 
 EffectHigh is a helping keyword to indicate individual effect high values.
 
-For more information see [effects](key_effects.html).
+For more information see [[Sections/Effects|effects]].
 
 ## Syntax
 

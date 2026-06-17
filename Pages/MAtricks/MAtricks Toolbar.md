@@ -31,13 +31,13 @@ Use the MAtricks toolbar to control the MAtricks. 
 *   Activate MAtricks in the toolbar. 
 
 1.  Select the fixtures or channels you would like to apply the MAtricks to. 
-2.  Open the encoder bar. For more information see [Encoder toolbar](key_ws_encoder_toolbar.html).  
-    For information on how to open the encoder bar via the **Create Basic Window** see [Encoder bar](key_ws_encoder_bar.html). 
+2.  Open the encoder bar. For more information see [[Pages/Workspace/Encoder Toolbar|Encoder toolbar]].  
+    For information on how to open the encoder bar via the **Create Basic Window** see [[Pages/Workspace/Encoder Bar|Encoder bar]]. 
 3.  To enable MAtricks, press the Set key.  
-    For more information on the Set key see [Set](key_key_set.html).   
+    For more information on the Set key see [[Keys/Set Key|Set]].   
     \-or-  
     \-Tap an object in the MAtricks pool.  
-    For more information see [MAtricks pool](key_matricks_pool.html).  
+    For more information see [[Pages/MAtricks/MAtricks Pool|MAtricks pool]].  
     \-or-  
     \-Tap MAtricks in the encoder toolbar and the MAtricks toolbar opens.
     
@@ -63,7 +63,7 @@ Only settings with a green background can be saved in the MAtricks pool. 
 
 6.  Store the settings you have just made in the MAtricks toolbar:  
     \-Press Store and tap an empty object in the MAtricks pool.  
-    For more information on the MAtricks pool see [MAtricks pool](key_matricks_pool.html). 
+    For more information on the MAtricks pool see [[Pages/MAtricks/MAtricks Pool|MAtricks pool]]. 
 7.  Close the MAtricks toolbar:  
     Tap ![](../../img/icon_close_small_v3-2.png) in the upper right corner of the toolbar.   
 
@@ -181,23 +181,23 @@ Resets the MAtricks settings.
 *   To reset the MAtricks, tap Reset.
 
 **Hint:**  
-It is also possible to reset the MAtricks using the [ClearAll](key_keyword_clearall.html) or the [MAtricksReset](key_keyword_matricksreset.html) keyword. 
+It is also possible to reset the MAtricks using the [[Keywords/ClearAll keyword|ClearAll]] or the [[Keywords/MAtricksReset]] keyword. 
 
 **Circular Copy:**
 
-Copies values in a circular manner in the MAtricks. For more information see [CircularCopy](key_keyword_circularcopy.html) keyword. 
+Copies values in a circular manner in the MAtricks. For more information see [[Keywords/CircularCopy keyword|CircularCopy]] keyword. 
 
 *   To move through the selection downward, tap the arrow pointing to the right. 
 *   To move through the selection upward, tap the arrow pointing to the left. 
 
 **Shuffle Selection:**
 
-Applies the function Shuffle to the selection in the MAtricks. For more information see [ShuffleSelection](key_keyword_shuffleselection.html) keyword. 
+Applies the function Shuffle to the selection in the MAtricks. For more information see [[Keywords/ShuffleSelection]] keyword. 
 
 *   To apply this function, tap Shuffle Selection. 
 
 **Hint:**  
-Settings stored in the MAtricks pool can be assigned to the User keys. For more information see [User 1](key_key_user1.html) key and [User 2](key_key_user2.html) key.
+Settings stored in the MAtricks pool can be assigned to the User keys. For more information see [[Keys/User 1 Key|User 1]] key and [[Keys/User 2 Key|User 2]] key.
 
 [[Pages/MAtricks/MAtricks Pool]] →
 

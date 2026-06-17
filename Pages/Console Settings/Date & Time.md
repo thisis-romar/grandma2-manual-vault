@@ -24,7 +24,7 @@ Version 3.9
 
 # Date & Time
 
-Sometimes the console needs to know the current date and time, and sometimes also the location of the console. These settings are important if an **Agenda** is used. For more information, read the **[Agenda](key_agenda.html)** topic. 
+Sometimes the console needs to know the current date and time, and sometimes also the location of the console. These settings are important if an **Agenda** is used. For more information, read the **[[Sections/Agenda]]** topic. 
 
 The date and time settings are located in the **Setup I Console I Date & Time**.
 

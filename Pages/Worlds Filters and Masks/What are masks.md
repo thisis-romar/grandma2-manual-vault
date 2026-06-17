@@ -29,7 +29,7 @@ Masks are a way to hide fixtures and attributes in some sheets and the Stage win
 
 Mask can be local to the window, but they can also be in the mask pool. Sheets and Stage can then listen to the selected mask in the pool and apply it to the sheet or stage window.
 
-If you do not know about pools, then it is strongly suggested that you first read the [Pools in General section](key_pools.html).
+If you do not know about pools, then it is strongly suggested that you first read the [[Sections/Pools|Pools in General section]].
 
 The Mask pool could look like this:
 
@@ -43,7 +43,7 @@ As with all pools, this can also be changed into Sheet style in the pool options
 
 _Mask pool - sheet style_
 
-The selected mask is the one with the green background. You can simple select a mask by tapping it in the pool or by using the Mask command followed by the number or name. See more in the [Mask Keyword topic](key_keyword_mask.html).
+The selected mask is the one with the green background. You can simple select a mask by tapping it in the pool or by using the Mask command followed by the number or name. See more in the [[Keywords/Mask|Mask Keyword topic]].
 
 Hiding fixtures and attributes in windows does not restrict your access to fixtures or attributes, it just hides it.
 
@@ -62,7 +62,7 @@ There are 6 predefined masks in the pool. The following is a short description o
 *   **Seq-:**  
     This mask will only show the fixtures and attributes that are stored in the selected sequences - but it will also hide any default fixture values stored.
 
-Please read the [Create Masks topic](key_wfm_create_mask.html) to learn how to create your own and the [Use Masks in sheets topic](key_wfm_use_masks.html) to learn about using the masks in the sheets and Stage window.
+Please read the [[Pages/Worlds Filters and Masks/Create masks|Create Masks topic]] to learn how to create your own and the [[Pages/Worlds Filters and Masks/Use masks in the sheets and windows|Use Masks in sheets topic]] to learn about using the masks in the sheets and Stage window.
 
 ← [[Pages/Worlds Filters and Masks/Use temporary filters]] | [[Pages/Worlds Filters and Masks/Create masks]] →
 

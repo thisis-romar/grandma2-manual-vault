@@ -66,7 +66,7 @@ The Assign Menu offers a visual approach to assign something to the executors. U
 There are two main way to open the Assign Menu.
 
 1.  Press the Assign key followed by any of the keys associated with the executor.
-2.  Tap the top part of the [Mini Executor Bar](key_ws_mini_executor_bar.html).
+2.  Tap the top part of the [[Pages/Workspace/Mini executor bar|Mini Executor Bar]].
 
 The assign menu can look like this:
 
@@ -163,7 +163,7 @@ The main function are:
 *   **HalfRate**:  
     This will half the rate.
 *   **Kill**:  
-    This is the same as a "Go" but it also turns of all other executors (except those that has "Kill protect" turned on - see [Executor Options topic](key_adv_exec_options.html)).
+    This is the same as a "Go" but it also turns of all other executors (except those that has "Kill protect" turned on - see [[Pages/Advanced Executor Functionality/Executor Options|Executor Options topic]]).
 *   **Learn**:  
     This sets the speed. By pressing it at least two times it automatically adjusts the speed.
 *   **Load**:  
@@ -187,7 +187,7 @@ The main function are:
 *   **SelFix**:  
     This selects the fixtures used in the object assigned to the executor.
 *   **Swop**:  
-    When this is pressed, all other fixtures will fade out the dimmer (except those that has "Swop protect" turned on - see [Executor Options topic](key_adv_exec_options.html)). They return when it is released.
+    When this is pressed, all other fixtures will fade out the dimmer (except those that has "Swop protect" turned on - see [[Pages/Advanced Executor Functionality/Executor Options|Executor Options topic]]). They return when it is released.
 *   **SwopOn**:  
     This performs the same action as the Swop, but it also executes an On command.
 *   **SwopGo**:  
@@ -205,7 +205,7 @@ The main function are:
 *   **ToZero**:  
     This will move the intensity master to zero.
 
-These main functions are keywords - they can be found in the [All keywords topics](key_cs_all_keywords.html). Here are detailed descriptions of all keywords.
+These main functions are keywords - they can be found in the [[Pages/Command Syntax and Keywords/All keywords|All keywords topics]]. Here are detailed descriptions of all keywords.
 
 The functions can be assigned using the keys or commands. Not all functions has a physical key that can be used, then you will need to write the command.
 
@@ -260,11 +260,11 @@ The pop-up might present a smaller selection. This depends on the object on the 
 *   **Crossfade**:  
     Crossfades between two cues. Current cue and next cue. The current cue will change when the fader reaches the other end position from where it started.
 *   **CrossfadeA**:  
-    Is the first of a two fader manual crossfade between two cues. Works along with CrossfadeB. The crossfade function can be changed in the [Executor options](key_adv_exec_options.html).
+    Is the first of a two fader manual crossfade between two cues. Works along with CrossfadeB. The crossfade function can be changed in the [[Pages/Advanced Executor Functionality/Executor Options|Executor options]].
 *   **CrossfadeB**:  
-    Is the second of a two fader manual crossfade between two cues. Works along with CrossfadeA. The crossfade function can be changed in the [Executor options](key_adv_exec_options.html).
+    Is the second of a two fader manual crossfade between two cues. Works along with CrossfadeA. The crossfade function can be changed in the [[Pages/Advanced Executor Functionality/Executor Options|Executor options]].
 *   **Rate**:  
-    Divides the fade and delay time in a sequence by the value of the fader. If **Link Effect to Rate** is on, it is also valid for effect speed stored in cues - see [Executor options topic](key_adv_exec_options.html).
+    Divides the fade and delay time in a sequence by the value of the fader. If **Link Effect to Rate** is on, it is also valid for effect speed stored in cues - see [[Pages/Advanced Executor Functionality/Executor Options|Executor options topic]].
 *   **StepFade**:  
     Controls the fade time between steps in a chaser (=softness).
 *   **MasterFade**:  
@@ -278,7 +278,7 @@ The pop-up might present a smaller selection. This depends on the object on the 
 *   **StepOutFade**:  
     Controls the step out time of the chaser steps.
 
-The above functions are described in more details in each of their keyword topics. They can be found under [All Keywords](key_cs_all_keywords.html).
+The above functions are described in more details in each of their keyword topics. They can be found under [[Pages/Command Syntax and Keywords/All keywords|All Keywords]].
 
 The functions can also be assigned using the command line.
 

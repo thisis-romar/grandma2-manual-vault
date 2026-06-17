@@ -25,7 +25,7 @@ The key Off is located in the command area on the right of the key Select.
 
 _Location k__ey_ _Off_ 
 
-*   Pressing Off enters the [Off keyword](key_keyword_off.html) into the command line.
+*   Pressing Off enters the [[Keywords/Off|Off keyword]] into the command line.
 
 \[Channel\]> Off
 

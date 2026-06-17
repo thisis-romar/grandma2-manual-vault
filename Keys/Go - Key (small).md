@@ -24,7 +24,7 @@ The key Go - (small) is located in the command area on the left of the key Pa
 
 _Location k__ey_ _Go - (small)_
 
-*   Pressing Go - enters the [GoBack keyword](key_keyword_goback.html) into the command line.
+*   Pressing Go - enters the [[Keywords/GoBack|GoBack keyword]] into the command line.
 
 \[Channel\]> GoBack
 

@@ -25,7 +25,7 @@ To get the StepFade keyword, type **StepFade** or the shortcut **Ste** in the co
 
 With the StepFade keyword, you assign executors as a step fader. A step fader controls the fade time between the steps of a chaser.
 
-For more information, see [executors - assign a function](key_exec_assign.html).
+For more information, see [[Pages/Executors/Assign a function|executors - assign a function]].
 
 The StepFade keyword is a function keyword.
 

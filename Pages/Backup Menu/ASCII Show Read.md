@@ -70,7 +70,7 @@ If this is not matched correctly show data will be lost.
 
 Selecting one of the MA attribute allows this to be changed to any of the existing attributes in the MA.
 
-Attributes that does not exist can be created in the [Attributes and Encoder Grouping](key_patch_attributes.html) window.
+Attributes that does not exist can be created in the [[Pages/Patching/What are Attributes|Attributes and Encoder Grouping]] window.
 
 ## Adjusting the settings
 
@@ -121,7 +121,7 @@ Using the Setup Only and Data Only buttons also allows you to import the separat
 
 ## Log files
 
-Importing from the show file will create different log files. These files can be seen in the three remaining tabs. The log files also exists in the "temp" folder in the consoles structure. To get to them a FTP connection is needed. Read about it in the [FTP Connection to Console and NPU topic](key_network_ftp.html).
+Importing from the show file will create different log files. These files can be seen in the three remaining tabs. The log files also exists in the "temp" folder in the consoles structure. To get to them a FTP connection is needed. Read about it in the [[Pages/Networking/FTP connection to console and NPU|FTP Connection to Console and NPU topic]].
 
 ← [[Pages/Backup Menu/Partial Show Read]] | [[Pages/Backup Menu/grandMA2 to grandMA3 Show File Converter]] →
 

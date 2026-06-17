@@ -38,6 +38,6 @@ Pauses the current cue in the selected executor. 
 **Note:**  
 It is also possible to enter this command by pressing the large Pause button on the console. 
 
-For more information see [Pause (large)](key_key_defpause.html).
+For more information see [[Keys/Pause (large) Key|Pause (large)]].
 
 Part of [[000 Keyword Index]] · [[000 Map of Content]]

@@ -48,7 +48,7 @@ If no object is given, the current selection will be used.
 
 RdmAutopatch is a function keyword.
 
-For more information about, see [RDM](key_rdm.html).
+For more information about, see [[Sections/RDM]].
 
 ## Syntax
 

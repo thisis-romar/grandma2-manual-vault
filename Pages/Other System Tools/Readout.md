@@ -36,11 +36,11 @@ Display the readout of the MA Dimmer Network using one of the three readout view
 
 *   Add MA NDPs to the network configuration
 
-For more information see [Adding devices to your session](key_network_session_add_device.html). 
+For more information see [[Pages/Networking/Adding devices to the session|Adding devices to your session]]. 
 
 *   Open **MA Dimmer Network**
 
-For more information on how to open the **MA Dimmer Network** see [Network dimmer](key_ost_network_dimmer.html). 
+For more information on how to open the **MA Dimmer Network** see [[Pages/Other System Tools/Network Dimmer|Network dimmer]]. 
 
 To toggle between the readout views, tap the Readout button in the title bar of the window MA Dimmer Network. 
 
@@ -56,7 +56,7 @@ If the readout is set to **Status Readout**, the display of the racks stays unaf
 
 _Status Readout_ 
 
-For more information on the display of the racks in **Status Readout** of different views see [Views](key_ost_views.html). 
+For more information on the display of the racks in **Status Readout** of different views see [[Pages/Other System Tools/Views]]. 
 
 * * *
 
@@ -74,7 +74,7 @@ _Track errors using Error Readout_
 The error message is displayed in red in the rack affected. 
 
 **Hint:**  
-Unlike in the **Status Readout**, confirming errors in the **Error Readout** displays the error message in yellow. For more information on on the confirmation of errors see [Errors](key_ost_errors.html#confirm_errors). 
+Unlike in the **Status Readout**, confirming errors in the **Error Readout** displays the error message in yellow. For more information on on the confirmation of errors see [[Pages/Other System Tools/Errors]]. 
 
 ![](../../img/window_network-dimmer_confirm_errors_error-readout_v3-3.png)
 
@@ -116,7 +116,7 @@ The view displays the following consumption data:
 *   Temperature
 
 **Hint:**  
-To display the consumption of single elements in the hierarchy, navigate down in the hierarchy while in the mode **Consumption Readout**. For more information on the hierarchy see [Network dimmer](key_ost_network_dimmer.html).
+To display the consumption of single elements in the hierarchy, navigate down in the hierarchy while in the mode **Consumption Readout**. For more information on the hierarchy see [[Pages/Other System Tools/Network Dimmer|Network dimmer]].
 
 ← [[Pages/Other System Tools/Errors]] | [[Pages/Other System Tools/Edit Properties of a Rack]] →
 

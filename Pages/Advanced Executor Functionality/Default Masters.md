@@ -28,7 +28,7 @@ The Default Masters are the 11 masters that each executor with a sequence can ha
 
 These Masters can be assigned to Executors and they will adjust to the levels on the selected executor.
 
-Read about the functions of the masters in the [Assign a function topic](key_exec_assign.html).
+Read about the functions of the masters in the [[Pages/Executors/Assign a function|Assign a function topic]].
 
 The 11 masters are:
 

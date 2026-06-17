@@ -30,7 +30,7 @@ The Macro keyword is an object keyword access Macros.
 
 The default function for macro is **Go +**. This means calling macros without any function specified starts the macro.
 
-For more information, see [Macros](key_macro.html).
+For more information, see [[Sections/Macros]].
 
 ## Syntax
 

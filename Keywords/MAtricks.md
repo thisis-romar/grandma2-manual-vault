@@ -39,7 +39,7 @@ Used with an ID, MAtricks represents MAtricks objects stored in the MAtricks poo
 
 With the helping keywords On, Off and Toggle, MAtricks may temporary be enabled/disabled. Calling an MAtricks will enable the MAtricksmode.
 
-For more information on MAtricks see [MAtricks](key_matricks.html).
+For more information on MAtricks see [[Sections/MAtricks]].
 
 ## Examples
 

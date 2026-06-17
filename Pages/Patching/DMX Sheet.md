@@ -43,9 +43,9 @@ The gray vertical bar on the left side displays the DMX address of the first col
 
 The top black bar displays the column number. The grid is a matrix, so the column number should be added to the address displayed in the gray vertical bar (except the first column).
 
-Fixtures can be selected using a DMX address by pressing the Select key twice and then the DMX address in the sheet - Have a look at the [DMX keyword](key_keyword_dmx.html).
+Fixtures can be selected using a DMX address by pressing the Select key twice and then the DMX address in the sheet - Have a look at the [[Keywords/Dmx keyword|DMX keyword]].
 
-The Assign key can be used in combination with the sheet to patch fixtures - please have a look at the [Live patching](key_patch_livepatch.html) topic.
+The Assign key can be used in combination with the sheet to patch fixtures - please have a look at the [[Pages/Patching/Live patching]] topic.
 
 Each fixture have a frame around the DMX channels it uses. If the fixture is selected, then the frame is yellow. Non selected fixtures will have a gray frame.
 
@@ -55,7 +55,7 @@ _DMX Sheet detail_
 
 If a DMX channel is parked then there is a blue square in the cell.
 
-If there is a white or yellow square then the DMX address is under influence of the [DMX Tester](key_patch_dmx_testing.html).
+If there is a white or yellow square then the DMX address is under influence of the [[Pages/Patching/DMX testing in the DMX Sheet|DMX Tester]].
 
 If the cursor is moved to a cell then the information about the cell is displayed in a green line text at the bottom of the window.
 
@@ -67,7 +67,7 @@ Some options can be in the Title Bar as title buttons. This gives fast access to
 
 The options can be opened by tapping the yellow ball in the upper left corner.
 
-The options are all described in the [Sheet Options topics](key_of_sheet_options.html).
+The options are all described in the [[Pages/Operate Fixtures/Sheet options|Sheet Options topics]].
 
 ← [[Pages/Patching/Live patching]] | [[Pages/Patching/DMX testing in the DMX Sheet]] →
 

@@ -26,7 +26,7 @@ Version 3.9
 
 The two words Channel and Fixtures can be several things and it can be a little bit confusing. Even in this manual we might use both words.
 
-When talking (or writing) about the actual device that emits light, we are referring to that as a fixture. This might be all sorts of devices from different manufacturers. They may have one function or many different functions. All these functions are called [Attributes](key_patch_attributes.html).
+When talking (or writing) about the actual device that emits light, we are referring to that as a fixture. This might be all sorts of devices from different manufacturers. They may have one function or many different functions. All these functions are called [[Pages/Patching/What are Attributes|Attributes]].
 
 When you program a show, you will need to be able to select these devices, so they have an ID number - something we can type on a numeric keypad.
 
@@ -52,8 +52,8 @@ So to sum up. We call each device a fixture and each fixture can have a Channel 
 
 #### Sub topics
 
-*   [Attributes](key_patch_attributes.html)
-*   [DMX break](key_patch_dmx_break.html)
+*   [[Pages/Patching/What are Attributes|Attributes]]
+*   [[Pages/Patching/What are DMX breaks|DMX break]]
 
 [[Pages/Patching/What is 3D and Stage setup]] →
 

@@ -28,11 +28,11 @@ To get the If keyword into the command line as a helping keyword, press If or 
 
 The If keyword as a function keyword deselects fixtures not in the entered selection list.
 
-As a helping keyword keyword to the Clone function, If sets the scope of the cloning. For more information see [clone keyword](key_keyword_clone.html) and [clone or replace fixtures](key_clone.html).
+As a helping keyword keyword to the Clone function, If sets the scope of the cloning. For more information see [[Keywords/Clone keyword|clone keyword]] and [[Sections/Clone|clone or replace fixtures]].
 
 As a helping keyword keyword to other operational functions, If sets a filter for the operation.
 
-To end an if statement in the middle of a longer syntax, use the [EndIf keyword](key_keyword_endif.html).
+To end an if statement in the middle of a longer syntax, use the [[Keywords/EndIf|EndIf keyword]].
 
 ## Syntax
 

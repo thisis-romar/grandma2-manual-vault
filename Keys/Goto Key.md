@@ -25,19 +25,19 @@ The key Goto is located in the command area on the right of the key Effect.
 
 _Location k__ey_ _Goto_ 
 
-*   Pressing Goto enters the [Goto keyword](key_keyword_goto.html) into the command line.
+*   Pressing Goto enters the [[Keywords/Goto|Goto keyword]] into the command line.
 
 \[Channel\]> Goto
 
-*   Pressing Goto Goto enters the [Load keyword](key_keyword_load.html) into the command line.
+*   Pressing Goto Goto enters the [[Keywords/Load|Load keyword]] into the command line.
 
 \[Channel\]> Load
 
-*   Pressing and holding ![ma](../../img/ma_1.png) + Goto enters the [LoadNext keyword](key_keyword_loadnext.html) into the command line.
+*   Pressing and holding ![ma](../../img/ma_1.png) + Goto enters the [[Keywords/LoadNext|LoadNext keyword]] into the command line.
 
 \[Channel\]> LoadNext
 
-*   Pressing and holding ![ma](../../img/ma_1.png) + Goto Goto enters the [LoadPrev keyword](key_keyword_loadprev.html) into the command line.
+*   Pressing and holding ![ma](../../img/ma_1.png) + Goto Goto enters the [[Keywords/LoadPrev keyword]] into the command line.
 
 \[Channel\]> LoadPrev
 

@@ -32,8 +32,8 @@ To open the **RDM sheet** tap at an empty space in the user defined area, tap at
 _RDM sheet_
 
 *   The RDM sheet is used to have a quick overview about the discovered RDM devices, their parameters, and their sensors.
-*   You can set RDM parameter, see [work with RDM parameters](key_rdm_setparameter.html).
-*   You can monitor RDM sensors, see [work with RDM sensors](key_rdm_sensors.html).
+*   You can set RDM parameter, see [[Pages/RDM/Work with RDM parameters|work with RDM parameters]].
+*   You can monitor RDM sensors, see [[Pages/RDM/Work with RDM sensors|work with RDM sensors]].
 *   The first title bar button in the RDM sheet allows to filter the RDM sheet by:  
     \- **All:** Displays all RDM discovered RDM devices  
     \- **Current Fixture Type:** Displays to the selected fixture or channel the RDM devices with the same fixture type.  

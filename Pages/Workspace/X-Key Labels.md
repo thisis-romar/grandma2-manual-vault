@@ -35,14 +35,14 @@ Three pages are available:
 *   User2
 *   Button Page 1 thru 9999.
 
-If you press User1, the X-Key labels displays the function of [view button](key_widget_view_buttons.html) 11.1 - 11.20.  
-If you press User2, the X-Key labels displays the function of [view button](key_widget_view_buttons.html) 11.21 - 11.40.
+If you press User1, the X-Key labels displays the function of [[Pages/Workspace/View Buttons|view button]] 11.1 - 11.20.  
+If you press User2, the X-Key labels displays the function of [[Pages/Workspace/View Buttons|view button]] 11.21 - 11.40.
 
 ![](../../img/img_xkey_labels_viewbuttons_3_2.png)
 
 _X-Key Labels for User 1_
 
-If you press List, the X-Key labels displays the [mini executor bar](key_ws_mini_executor_bar.html) for the executor buttons 201 - 220 on the current button page.
+If you press List, the X-Key labels displays the [[Pages/Workspace/Mini executor bar|mini executor bar]] for the executor buttons 201 - 220 on the current button page.
 
 To change the button page, press Bt Pg + or Bt Pg -.
 

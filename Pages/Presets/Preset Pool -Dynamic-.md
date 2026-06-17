@@ -25,7 +25,7 @@ Version 3.9
 
 # Preset Pool "Dynamic"
 
-The preset pool **Dynamic** is a pool that automatically displays the preset type which is currently enabled in the [preset control bar](key_ws_preset_control_bar.html). 
+The preset pool **Dynamic** is a pool that automatically displays the preset type which is currently enabled in the [[Pages/Workspace/Preset Control Bar|preset control bar]]. 
 
 ## Open the Preset Pool "Dynamic"
 

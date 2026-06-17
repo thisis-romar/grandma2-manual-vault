@@ -26,7 +26,7 @@ You can also type **PrevRow** in the command line or use the shortcut **PrevR**.
 ## Description
 
 If MAtricksInterleave is on, PrevRow reduce the Single Y value by one.  
-If Single Y was at 0, the last Single Y value will be used. For more information, see [MAtricks](key_matricks.html).
+If Single Y was at 0, the last Single Y value will be used. For more information, see [[Sections/MAtricks]].
 
 The PrevRow keyword is a function keyword.
 

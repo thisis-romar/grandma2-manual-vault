@@ -34,11 +34,11 @@ Display the MA Dimmer Network using one of the three views:
 
 *   Add MA NDPs to the network configuration
 
-For more information see [Adding devices to your session](key_network_session_add_device.html).
+For more information see [[Pages/Networking/Adding devices to the session|Adding devices to your session]].
 
 *   Open **MA Dimmer Network**
 
-For more information on how to open the **MA Dimmer Network** see [Network dimmer](key_ost_network_dimmer.html). 
+For more information on how to open the **MA Dimmer Network** see [[Pages/Other System Tools/Network Dimmer|Network dimmer]]. 
 
 To toggle between the views, tap the View button in the title bar of the window MA Dimmer Network. 
 
@@ -52,7 +52,7 @@ The Normal View solely displays the dimMA hierarchy. 
 
 _Open Normal View_
 
-For more information on the dimMA hierarchy see [Network dimmer](key_ost_network_dimmer.html). 
+For more information on the dimMA hierarchy see [[Pages/Other System Tools/Network Dimmer|Network dimmer]]. 
 
 * * *
 
@@ -77,7 +77,7 @@ To edit the dimmer channels, tap and hold or press Edit and tap a cell of the co
 ## Settings
 
 **Hint:**  
-The following settings can also be edited in a module. For more information see [Edit a module](key_ost_edit_module.html). 
+The following settings can also be edited in a module. For more information see [[Pages/Other System Tools/Edit a Module|Edit a module]]. 
 
 **No.**:
 
@@ -118,7 +118,7 @@ _Edit profile_
 The profile is now applied in several dimmer channels. 
 
 **Hint:**  
-The general settings of profiles are similar to those in the graph editor of an effect. For more information on these settings see [Settings in the Graph Editor in Create effect forms](key_effects_create_forms.html#settings_graph_editor). 
+The general settings of profiles are similar to those in the graph editor of an effect. For more information on these settings see [[Pages/Effects/Create Effect Forms|Settings in the Graph Editor in Create effect forms]]. 
 
 **Preheat**:
 
@@ -226,7 +226,7 @@ The messages may be displayed in white, yellow, or red. 
 *   Yellow indicates warning messages
 *   Red indicates error messages
 
-For more information on the display of errors see [Errors](key_ost_errors.html). 
+For more information on the display of errors see [[Pages/Other System Tools/Errors]]. 
 
 To change to Normal View, tap Log View in the title bar.
 

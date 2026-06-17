@@ -58,7 +58,7 @@ The left side is **Layers** and the right side is the list of fixtures in the se
 
 ## Layers
 
-Read more details about Layers in the [Working with Layers topic](key_patch_layers.html).
+Read more details about Layers in the [[Pages/Patching/Working with Layers|Working with Layers topic]].
 
 The left side of the main window is a list of Layers. Any fixture added to the show needs to be put in a layer.
 
@@ -124,7 +124,7 @@ The library is basically one big long list of fixture types. This list can sorte
 
 At the top of the list you can select what library you are using - it is the "Select Drive" drop down.
 
-For the grandMA2 to be able to see the fixture types they need to be in the correct folder. If you insert a USB stick and open the [Backup menu,](key_backup_menu.html) then it automatically create the folder structure needed.
+For the grandMA2 to be able to see the fixture types they need to be in the correct folder. If you insert a USB stick and open the [[Sections/Backup Menu|Backup menu,]] then it automatically create the folder structure needed.
 
 Fixture types need to be in the folder called "library". This folder need to be inside a folder called "gma2".
 
@@ -204,7 +204,7 @@ If you want to change what the default keyword is, then you can press the key fo
 
 If you do not want to give the fixtures an ID number then you need to type "0" in the input field. But remember that you need to give them at least one ID number to be able to select and control them.
 
-Depending on what fixture type you have selected, you might have up to 8 different [Patch Breaks](key_patch_dmx_break.html). Most fixture only need one, but some multi instance fixtures needs several DMX start addresses.
+Depending on what fixture type you have selected, you might have up to 8 different [[Pages/Patching/What are DMX breaks|Patch Breaks]]. Most fixture only need one, but some multi instance fixtures needs several DMX start addresses.
 
 You can type in the DMX address using the following pattern \[Universe\].\[DMX address\] - so if you need the fixture to have start address 1 in universe 2, then you need to write 2.1
 
@@ -296,7 +296,7 @@ This will invert the direction of the Tilt movement when using the encoders. Thi
 This can be used to offset the programmed Pan values. This can be very useful if the show has been preprogrammed or it is a touring show, and the fixtures are not hung the way they were planned to be. The offset value is not visible in the Fixture Sheet, but it can be seen in the DMX Sheet. It is a nice function as long the fixtures do not come all the way out to their endpoints in the programming. The number entered here is a degree number and can be a negative value.
 
 **Important:**  
-The Pan and Tilt Offset values can also be edited with live output to the fixtures. This can be done in the [Live patching](key_patch_livepatch.html), when editing fixtures, or via command line. When this is done for several hundred fixtures at the same time, then this information is distributed live to all stations and NPUs in the session and this is distributed with a small delay in the system. A progress bar is displayed. Please wait until the distribution is done before continuing working. If this is done live for a small group of fixtures, then there should be no delay. If the value is changed in the EditSetup then the values are updated with the show upload.
+The Pan and Tilt Offset values can also be edited with live output to the fixtures. This can be done in the [[Pages/Patching/Live patching]], when editing fixtures, or via command line. When this is done for several hundred fixtures at the same time, then this information is distributed live to all stations and NPUs in the session and this is distributed with a small delay in the system. A progress bar is displayed. Please wait until the distribution is done before continuing working. If this is done live for a small group of fixtures, then there should be no delay. If the value is changed in the EditSetup then the values are updated with the show upload.
 
 **Tilt Offset:**
 
@@ -322,11 +322,11 @@ Here you can use what ever method you like to select the color and tap Please wh
 
 **Pos X, Pos Y, Pos Z:**
 
-This the XYZ position of the fixture in the 3D space. Read more about positioning fixtures in the [Position fixtures in the 3D stage topic](key_patch_position_fixtures.html).
+This the XYZ position of the fixture in the 3D space. Read more about positioning fixtures in the [[Pages/Patching/Position fixtures in the virtual 3D stage|Position fixtures in the 3D stage topic]].
 
 **Rot X, Rot Y, Rot Z:**
 
-This the XYZ rotation of the fixture in the 3D space. Read more about positioning fixtures in the [Position fixtures in the 3D stage topic](key_patch_position_fixtures.html).
+This the XYZ rotation of the fixture in the 3D space. Read more about positioning fixtures in the [[Pages/Patching/Position fixtures in the virtual 3D stage|Position fixtures in the 3D stage topic]].
 
 **No Parameter:**
 
@@ -334,7 +334,7 @@ This is for use with MA VPU (= video processing unit) pixel mapping. If this col
 
 **RDM ID:**
 
-This will display the RDM ID of the fixture when it matched in the [RDM Devices](key_rdm_match.html).
+This will display the RDM ID of the fixture when it matched in the [[Pages/RDM/Match RDM devices|RDM Devices]].
 
 This was all the different columns in the Fixture list.
 
@@ -455,23 +455,23 @@ The system will stop all DMX output while the show upload is running.
 
 ## Further readings
 
-[Fixture types](key_basic_fixture.html)
+[[Sections/Basic Fixture Types|Fixture types]]
 
-[Fixture position](key_patch_position_fixtures.html)
+[[Pages/Patching/Position fixtures in the virtual 3D stage|Fixture position]]
 
-[DMX profiles](key_dmx_profiles.html)
+[[Sections/DMX Profiles|DMX profiles]]
 
-[DMX List](key_patch_dmx_parameter_list.html)
+[[Pages/Patching/DMX and Parameter lists|DMX List]]
 
-[Live patching](key_patch_livepatch.html)
+[[Pages/Patching/Live patching]]
 
-[Multipatch](key_patch_multipatch.html)
+[[Pages/Patching/Multipatching|Multipatch]]
 
-[Export/Import](key_export_and_import.html)
+[[Sections/Export and Import|Export/Import]]
 
-[Layers](key_patch_layers.html)
+[[Pages/Patching/Working with Layers|Layers]]
 
-[RDM devices](key_rdm.html)
+[[Sections/RDM|RDM devices]]
 
 ← [[Pages/Patching/What is 3D and Stage setup]] | [[Pages/Patching/Delete fixtures from the show]] →
 

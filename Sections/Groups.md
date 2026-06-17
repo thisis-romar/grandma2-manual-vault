@@ -65,17 +65,17 @@ All columns can be sorted in ascending or descending order by pressing the Edit 
 
 ## Group pool options
 
-In the options you can set colors for corresponding options. For more information see [change specific group colors](key_groups_change_specific_group_colors.html).
+In the options you can set colors for corresponding options. For more information see [[Pages/Groups/Change colors in group options for all in order and all out of order|change specific group colors]].
 
-For more information on general pool options see [adjust pool options](key_pools_options.html).
+For more information on general pool options see [[Pages/Pools/Adjust pool options|adjust pool options]].
 
-The following pages tells you how to [Create and name Groups](key_groups_create_groups.html).
+The following pages tells you how to [[Pages/Groups/Create groups|Create and name Groups]].
 
-How to [Auto Create Groups](key_groups_auto_create.html).
+How to [[Pages/Groups/Auto Create groups|Auto Create Groups]].
 
-A little bit about [using the Groups in your programming](key_groups_using.html).
+A little bit about [[Pages/Groups/Using groups when programming|using the Groups in your programming]].
 
-How to [Delete, Copy and Move Groups](key_groups_choose_copy_method.html).
+How to [[Pages/Groups/Choose copy method|Delete, Copy and Move Groups]].
 
   
 
@@ -83,12 +83,12 @@ How to [Delete, Copy and Move Groups](key_groups_choose_copy_method.html).
 
 #### Sub topics
 
-*   [Create groups](key_groups_create_groups.html)
-*   [Auto create groups](key_groups_auto_create.html)
-*   [Using groups when programming](key_groups_using.html)
-*   [Choose copy method](key_groups_choose_copy_method.html)
-*   [Change specific group colors](key_groups_change_specific_group_colors.html)
-*   [Group masters](key_groups_master.html)
+*   [[Pages/Groups/Create groups]]
+*   [[Pages/Groups/Auto Create groups|Auto create groups]]
+*   [[Pages/Groups/Using groups when programming]]
+*   [[Pages/Groups/Choose copy method]]
+*   [[Pages/Groups/Change colors in group options for all in order and all out of order|Change specific group colors]]
+*   [[Pages/Groups/Group Master on Executors|Group masters]]
 
 ## Pages in This Section
 

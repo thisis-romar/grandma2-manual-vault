@@ -27,14 +27,14 @@ Version 3.9
 
 You can change the patch of fixtures without going into the full setup or "Edit Setup".
 
-If you have not added any fixtures to your show yet, then you need to read the [Adding fixtures to your show](key_patch_add_fixtures.html) topic. This is also a good idea to read if you are in doubt about anything described in this topic.
+If you have not added any fixtures to your show yet, then you need to read the [[Pages/Patching/Adding fixtures to the show|Adding fixtures to your show]] topic. This is also a good idea to read if you are in doubt about anything described in this topic.
 
 The problem with the full access to the entire fixture schedule is that you might make structural changes to your show file. So when leaving the fixture schedule the console will do a show upload to all connected devices - this causes a stop in the DMX transmission while the upload is running.
 
 So, the thing that does not concern the fixture structure, can be changed without giving a show upload, this is called "Live editing/patching".
 
 **Important:**  
-Be aware that live editing a lot of fixtures at the same time might be distributed with a delay throughout all stations and NPUs in the session. For instance changing the pan or tilt offset for several hundred fixtures with one command will cause a delay in the distribution of the values. The real time DMX output has a higher priority and this needs to be calculated at the same time. If possible then only edit a small amount of fixtures at the same time or use the [EditSetup](key_patch_add_fixtures.html) instead.
+Be aware that live editing a lot of fixtures at the same time might be distributed with a delay throughout all stations and NPUs in the session. For instance changing the pan or tilt offset for several hundred fixtures with one command will cause a delay in the distribution of the values. The real time DMX output has a higher priority and this needs to be calculated at the same time. If possible then only edit a small amount of fixtures at the same time or use the [[Pages/Patching/Adding fixtures to the show|EditSetup]] instead.
 
 ## Live patching using the Setup Menu
 
@@ -46,7 +46,7 @@ Then you get the LiveSetup menu. It could look like this:
 
 _LiveSetup menu_
 
-This is very similar to the EditSetup menu (Long description in the [Adding fixtures to your show](key_patch_add_fixtures.html) topic).
+This is very similar to the EditSetup menu (Long description in the [[Pages/Patching/Adding fixtures to the show|Adding fixtures to your show]] topic).
 
 Everything that has a gray background can be edited. Everything with a black background is locked and cannot be edited.
 
@@ -56,7 +56,7 @@ This includes the DMX address.
 
 ## Live patching using the Command Line
 
-If you are looking for multi patching then please read the [Multipatching](key_patch_multipatch.html) topic. 
+If you are looking for multi patching then please read the [[Pages/Patching/Multipatching]] topic. 
 
 This is the process using the command line:
 
@@ -88,7 +88,7 @@ In the top part of the Edit pop-up you will find the fixture (and any multipatch
 
 ## Live patching using the DMX Sheet and the DMX Tester
 
-To read details about the **DMX sheet** [please follow this link](key_patch_dmx_sheet.html). To read about the **DMX tester** [follow this link](key_patch_dmx_testing.html).
+To read details about the **DMX sheet** [[Pages/Patching/DMX Sheet|please follow this link]]. To read about the **DMX tester** [[Pages/Patching/DMX testing in the DMX Sheet|follow this link]].
 
 You can also patch using the DMX Sheet and the DMX tester.
 
@@ -108,7 +108,7 @@ You can filter the list by typing a Fixture ID or Channel ID in the respective g
 5.  Select the fixture you want to patch to the address
 6.   
     1.  If you want to patch the selected fixture to the selected address then tap the Patch button 
-    2.  If you want to add a multipatched fixture to the selected fixture at the selected address, then tap the Add Multipatch button ([Follow this link to read more about](key_patch_multipatch.html) [Multipatchin](key_patch_multipatch.html)g)
+    2.  If you want to add a multipatched fixture to the selected fixture at the selected address, then tap the Add Multipatch button ([[Pages/Patching/Multipatching|Follow this link to read more about]] [[Pages/Patching/Multipatching|Multipatchin]]g)
 
 A second option for the DMX sheet is to press the Assign key and the Channel or Fixture key followed by the ID and then directly in the DMX sheet, where you want the selected fixture.
 

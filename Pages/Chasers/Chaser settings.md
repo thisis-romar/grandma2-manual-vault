@@ -67,7 +67,7 @@ _Select Chaser Loop Mode pop-up_
 *   **Shoot-Off** runs the steps once, then turns off the chaser.
 *   **Shoot-On** runs the steps once, and leaves the chaser in the last step.
 
- Edit Current,  Edit Previous and Edit Next buttons edits cues. For more information, see the topic [Looking at the cue sequence](key_cs_cue_sequence.html#edit_cue).
+ Edit Current,  Edit Previous and Edit Next buttons edits cues. For more information, see the topic [[Pages/Command Syntax and Keywords/Looking at the Cue Sequence|Looking at the cue sequence]].
 
   
 Set the **Speed** of the Chaser with Speed Individual. This opens the **Select Speed Group** Pop-up.
@@ -77,8 +77,8 @@ Set the **Speed** of the Chaser with Speed Individual. This opens the **Select
 _Select Speed Group_
 
 *   **Individual speed** lets the chaser run with the speed set by the **Speed Encoder**
-*   **Speed 1** through **Speed 15** limits the speed of the chaser by a **Speed Master**. This is useful to keep the chaser in sync with other chasers and effects. For more information, see [Assign a Function](key_exec_assign.html).
-*   The **BPM** option measures the Beat from the Audio In signal. For more information, see [Sound In](key_ost_sound_input_window.html).
+*   **Speed 1** through **Speed 15** limits the speed of the chaser by a **Speed Master**. This is useful to keep the chaser in sync with other chasers and effects. For more information, see [[Pages/Executors/Assign a function|Assign a Function]].
+*   The **BPM** option measures the Beat from the Audio In signal. For more information, see [[Pages/Other System Tools/Sound input window|Sound In]].
 
 To enable or disable the **CMD** field in the Chasers Executor sheet, tap the Cmd Disable button. If the CMD is disabled, the CMD Disable turns cyan and all the Commands in the **CMD** row of the **Executor sheet** are displayed in red.
 

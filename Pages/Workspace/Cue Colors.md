@@ -28,13 +28,13 @@ The cue colors are value and background colors for the selected executors.
 
 The cue colors are visible in the:
 
-*   [Fixture Sheet](key_of_fixture_sheet.html)
-*   [Channel Sheet](key_of_channel_sheet.html)
-*   [DMX Sheet](key_patch_dmx_sheet.html) (Programmer Colors)
+*   [[Pages/Operate Fixtures/Fixture Sheet]]
+*   [[Pages/Operate Fixtures/Channel Sheet]]
+*   [[Pages/Patching/DMX Sheet]] (Programmer Colors)
 *   Sequence Content Sheet
 *   Sequence Tracking Sheet
-*   [Layout View](key_layouts.html) (only for dimmer values)
-*   [Encoder Bar](key_ws_touch_gestures.html) (linked to the focused sheet)
+*   [[Sections/Layouts|Layout View]] (only for dimmer values)
+*   [[Pages/Workspace/Touch gestures|Encoder Bar]] (linked to the focused sheet)
 
 There are four cue colors available:
 
@@ -65,8 +65,8 @@ White values or backgrounds indicates the same value is stored a second time (bl
 
 To change the cue color options in the
 
-*   [Fixture Sheet](key_of_fixture_sheet.html)
-*   [Channel Sheet](key_of_channel_sheet.html)
+*   [[Pages/Operate Fixtures/Fixture Sheet]]
+*   [[Pages/Operate Fixtures/Channel Sheet]]
 *   Sequence Content Sheet
 *   Sequence Tracking Sheet
 
@@ -76,11 +76,11 @@ tap at the **yellow ball** ![](../../img/icon_yellow-ball_3_2.png), tap Display�
 
 **Requirement for layout view**:  
 The layout elements shows dimmer values.  
-To change the cue color options in the [layout view](key_layouts.html), tap at the **yellow ball** ![](../../img/icon_yellow-ball_3_2.png), tap Tools and in the field Cue Colors.
+To change the cue color options in the [[Sections/Layouts|layout view]], tap at the **yellow ball** ![](../../img/icon_yellow-ball_3_2.png), tap Tools and in the field Cue Colors.
 
 * * *
 
-To change the cue color options in the [DMX sheet](key_patch_dmx_sheet.html), tap at the **yellow ball** ![](../../img/icon_yellow-ball_3_2.png), tap Display  and then in the field Programmer Colors.
+To change the cue color options in the [[Pages/Patching/DMX Sheet|DMX sheet]], tap at the **yellow ball** ![](../../img/icon_yellow-ball_3_2.png), tap Display  and then in the field Programmer Colors.
 
 * * *
 
@@ -92,7 +92,7 @@ To change the cue color options in the [DMX sheet](key_patch_dmx_sheet.html), ta
     To have the cue colors from the selected executor and all other executors in yellow, started by the own user profile, select My Exec.  
     Executors run by other user profiles, will be displayed in gray.
 
-For more information to the colors, see [system colors](key_ws_colors_system.html).
+For more information to the colors, see [[Pages/Workspace/System Colors|system colors]].
 
 The cue color options are changed.
 
