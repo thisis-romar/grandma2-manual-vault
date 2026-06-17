@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Disable bitmap for fixtures"
 slug: "key_bitmapfixture_disable"
 url: "https://help.malighting.com/grandMA2/en/help/key_bitmapfixture_disable.html"

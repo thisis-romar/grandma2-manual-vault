@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Delete the MA NDPs in the Network Configuration"
 slug: "key_control_ma_ndp_delete"
 url: "https://help.malighting.com/grandMA2/en/help/key_control_ma_ndp_delete.html"

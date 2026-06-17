@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Help from MA Technical Support"
 slug: "key_introduction_help_from_ma_technical_support"
 url: "https://help.malighting.com/grandMA2/en/help/key_introduction_help_from_ma_technical_support.html"

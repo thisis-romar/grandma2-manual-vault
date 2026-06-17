@@ -24,7 +24,7 @@ const VAULT_ROOT = process.argv[2]
 // Build vault-root-relative path indexes (key = path without .md, forward-slashed).
 // Path-qualified wikilinks ([[Sections/Networking]]) and bare root links
 // ([[000 Map of Content]]) both resolve against these.
-async function buildIndex(vaultRoot) {
+export async function buildIndex(vaultRoot) {
   const exact = new Map(); // "Sections/Networking" -> "Sections/Networking.md"
   const ci = new Map();    // lowercased key -> relPath (first occurrence wins)
   async function walk(dir, rel) {
@@ -58,7 +58,7 @@ function encodeDest(relPath) {
   return encodeURI(relPath).replace(/\(/g, '%28').replace(/\)/g, '%29');
 }
 
-function convertWikilinks(content, currentRelPath, index) {
+export function convertWikilinks(content, currentRelPath, index) {
   const currentDir = path.dirname(currentRelPath);
 
   // Lazy inner match so targets containing single ] (e.g. "+ [Plus] keyword",
@@ -114,4 +114,6 @@ async function processVault() {
   if (unresolved) console.log(`  ${unresolved} unresolved wikilink(s) emitted as best-effort dead links (see warnings; run "npm run audit").`);
 }
 
-processVault().catch(e => { console.error(e); process.exit(1); });
+if (process.argv[1] === fileURLToPath(import.meta.url)) {
+  processVault().catch(e => { console.error(e); process.exit(1); });
+}

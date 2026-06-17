@@ -1,0 +1,32 @@
+name: CI
+
+# Quality gate: unit tests + vault conformance audit.
+# Runs on every push to main and on pull requests.
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  quality:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Install script deps
+        working-directory: scripts
+        run: npm ci
+
+      - name: Unit tests
+        working-directory: scripts
+        run: node --test
+
+      - name: Vault conformance audit
+        working-directory: scripts
+        run: node audit.js ..

@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Network DMX protocols"
 slug: "key_network_dmx_protocols"
 url: "https://help.malighting.com/grandMA2/en/help/key_network_dmx_protocols.html"

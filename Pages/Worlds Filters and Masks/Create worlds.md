@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Create worlds"
 slug: "key_wfm_create_worlds"
 url: "https://help.malighting.com/grandMA2/en/help/key_wfm_create_worlds.html"

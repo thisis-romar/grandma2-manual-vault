@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "MA onPC command wing"
 slug: "key_device_overview_ma_onpc_command_wing"
 url: "https://help.malighting.com/grandMA2/en/help/key_device_overview_ma_onpc_command_wing.html"

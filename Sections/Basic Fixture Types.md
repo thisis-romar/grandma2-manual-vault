@@ -1,5 +1,7 @@
 ---
 type: "section"
+cssclasses:
+  - "gma2-section"
 section: "Basic Fixture Types"
 slug: "key_basic_fixture"
 url: "https://help.malighting.com/grandMA2/en/help/key_basic_fixture.html"

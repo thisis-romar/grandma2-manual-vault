@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Splitters and Mergers that Support RDM"
 slug: "key_rdm_list_of_splitters_mergers"
 url: "https://help.malighting.com/grandMA2/en/help/key_rdm_list_of_splitters_mergers.html"

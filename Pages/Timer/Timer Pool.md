@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Timer Pool"
 slug: "key_timers_timer_pool"
 url: "https://help.malighting.com/grandMA2/en/help/key_timers_timer_pool.html"

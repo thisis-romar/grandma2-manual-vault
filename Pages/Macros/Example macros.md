@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Example macros"
 slug: "key_macro_examples"
 url: "https://help.malighting.com/grandMA2/en/help/key_macro_examples.html"

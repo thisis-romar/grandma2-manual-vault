@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Loading a show"
 slug: "key_backup_menu_load_show"
 url: "https://help.malighting.com/grandMA2/en/help/key_backup_menu_load_show.html"

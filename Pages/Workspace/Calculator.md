@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Calculator"
 slug: "key_ws_calculator"
 url: "https://help.malighting.com/grandMA2/en/help/key_ws_calculator.html"

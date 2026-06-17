@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "grandMA2 fader wing"
 slug: "key_device_overview_grandma2_fader_wing"
 url: "https://help.malighting.com/grandMA2/en/help/key_device_overview_grandma2_fader_wing.html"

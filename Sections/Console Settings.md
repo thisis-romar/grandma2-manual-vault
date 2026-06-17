@@ -1,5 +1,7 @@
 ---
 type: "section"
+cssclasses:
+  - "gma2-section"
 section: "Console Settings"
 slug: "key_console_settings"
 url: "https://help.malighting.com/grandMA2/en/help/key_console_settings.html"

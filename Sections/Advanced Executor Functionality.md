@@ -1,5 +1,7 @@
 ---
 type: "section"
+cssclasses:
+  - "gma2-section"
 section: "Advanced Executor Functionality"
 slug: "key_adv_exec"
 url: "https://help.malighting.com/grandMA2/en/help/key_adv_exec.html"

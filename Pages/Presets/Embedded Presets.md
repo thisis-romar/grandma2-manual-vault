@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Embedded Presets"
 slug: "key_presets_embedded"
 url: "https://help.malighting.com/grandMA2/en/help/key_presets_embedded.html"

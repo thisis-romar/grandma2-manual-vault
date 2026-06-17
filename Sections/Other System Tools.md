@@ -1,5 +1,7 @@
 ---
 type: "section"
+cssclasses:
+  - "gma2-section"
 section: "Other system tools"
 slug: "key_ost"
 url: "https://help.malighting.com/grandMA2/en/help/key_ost.html"

@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Running Effects"
 slug: "key_effects_running"
 url: "https://help.malighting.com/grandMA2/en/help/key_effects_running.html"

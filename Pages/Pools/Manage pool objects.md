@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Manage pool objects"
 slug: "key_pools_manage"
 url: "https://help.malighting.com/grandMA2/en/help/key_pools_manage.html"

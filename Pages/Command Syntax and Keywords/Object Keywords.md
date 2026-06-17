@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Object Keywords"
 slug: "key_cs_object_keywords"
 url: "https://help.malighting.com/grandMA2/en/help/key_cs_object_keywords.html"

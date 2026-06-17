@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Text indicators and symbols"
 slug: "key_ws_text_indicators"
 url: "https://help.malighting.com/grandMA2/en/help/key_ws_text_indicators.html"

@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Mini executor bar"
 slug: "key_ws_mini_executor_bar"
 url: "https://help.malighting.com/grandMA2/en/help/key_ws_mini_executor_bar.html"

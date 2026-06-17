@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "What Are Special Modes?"
 slug: "key_presets_special_modes"
 url: "https://help.malighting.com/grandMA2/en/help/key_presets_special_modes.html"

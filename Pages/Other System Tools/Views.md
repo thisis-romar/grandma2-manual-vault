@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Views"
 slug: "key_ost_views"
 url: "https://help.malighting.com/grandMA2/en/help/key_ost_views.html"

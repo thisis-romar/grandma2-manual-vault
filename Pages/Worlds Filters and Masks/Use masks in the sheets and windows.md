@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Use masks in the sheets and windows"
 slug: "key_wfm_use_masks"
 url: "https://help.malighting.com/grandMA2/en/help/key_wfm_use_masks.html"

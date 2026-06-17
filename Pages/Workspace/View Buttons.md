@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "View Buttons"
 slug: "key_widget_view_buttons"
 url: "https://help.malighting.com/grandMA2/en/help/key_widget_view_buttons.html"

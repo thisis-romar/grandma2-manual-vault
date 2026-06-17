@@ -1,5 +1,7 @@
 ---
 type: "keyword"
+cssclasses:
+  - "gma2-keyword"
 keyword: "Backup"
 slug: "key_keyword_backup"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_backup.html"

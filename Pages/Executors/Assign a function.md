@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Assign a function"
 slug: "key_exec_assign"
 url: "https://help.malighting.com/grandMA2/en/help/key_exec_assign.html"

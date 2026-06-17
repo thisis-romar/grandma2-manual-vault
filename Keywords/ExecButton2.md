@@ -1,5 +1,7 @@
 ---
 type: "keyword"
+cssclasses:
+  - "gma2-keyword"
 keyword: "ExecButton2"
 slug: "key_keyword_execbutton2"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_execbutton2.html"

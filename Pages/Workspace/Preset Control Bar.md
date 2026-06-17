@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Preset Control Bar"
 slug: "key_ws_preset_control_bar"
 url: "https://help.malighting.com/grandMA2/en/help/key_ws_preset_control_bar.html"

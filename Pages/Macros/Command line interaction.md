@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Command line interaction"
 slug: "key_macro_cli"
 url: "https://help.malighting.com/grandMA2/en/help/key_macro_cli.html"

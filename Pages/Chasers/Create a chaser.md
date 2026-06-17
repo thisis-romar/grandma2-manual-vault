@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Create a chaser"
 slug: "key_chaser_create"
 url: "https://help.malighting.com/grandMA2/en/help/key_chaser_create.html"

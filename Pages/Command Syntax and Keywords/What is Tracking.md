@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "What is Tracking"
 slug: "key_cs_what_is_tracking"
 url: "https://help.malighting.com/grandMA2/en/help/key_cs_what_is_tracking.html"

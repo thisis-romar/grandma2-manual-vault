@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "What is MIB"
 slug: "key_cs_what_is_mib"
 url: "https://help.malighting.com/grandMA2/en/help/key_cs_what_is_mib.html"

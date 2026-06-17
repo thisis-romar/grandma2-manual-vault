@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Group Master on Executors"
 slug: "key_groups_master"
 url: "https://help.malighting.com/grandMA2/en/help/key_groups_master.html"

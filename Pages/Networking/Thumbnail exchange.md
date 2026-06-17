@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Thumbnail exchange"
 slug: "key_network_citp_thumbnail"
 url: "https://help.malighting.com/grandMA2/en/help/key_network_citp_thumbnail.html"

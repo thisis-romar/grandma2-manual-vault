@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Common executor options"
 slug: "key_exec_common_options"
 url: "https://help.malighting.com/grandMA2/en/help/key_exec_common_options.html"

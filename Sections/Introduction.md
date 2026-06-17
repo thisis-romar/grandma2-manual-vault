@@ -1,5 +1,7 @@
 ---
 type: "section"
+cssclasses:
+  - "gma2-section"
 section: "Introduction"
 slug: "key_introduction"
 url: "https://help.malighting.com/grandMA2/en/help/key_introduction.html"

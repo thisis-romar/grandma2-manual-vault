@@ -1,5 +1,7 @@
 ---
 type: "keyword"
+cssclasses:
+  - "gma2-keyword"
 keyword: "ChangeDest keyword"
 slug: "key_keyword_changedest"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_changedest.html"

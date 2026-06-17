@@ -1,5 +1,7 @@
 ---
 type: "quick-start"
+cssclasses:
+  - "gma2-quick-start"
 slug: "key_08_edit_a_sequence"
 url: "https://help.malighting.com/grandMA2/en/help/grandma2_quick_start_guide/key_08_edit_a_sequence.html"
 tags:

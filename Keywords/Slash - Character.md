@@ -1,5 +1,7 @@
 ---
 type: "keyword"
+cssclasses:
+  - "gma2-keyword"
 keyword: "Slash / Character"
 slug: "key_keyword_slash"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_slash.html"

@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Screen Layout"
 slug: "key_ws_screen_layout"
 url: "https://help.malighting.com/grandMA2/en/help/key_ws_screen_layout.html"

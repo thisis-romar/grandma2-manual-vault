@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Auto Create Additional Presets"
 slug: "key_presets_auto_create_additional"
 url: "https://help.malighting.com/grandMA2/en/help/key_presets_auto_create_additional.html"

@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Parameter expansion"
 slug: "key_so_parameter_expansion"
 url: "https://help.malighting.com/grandMA2/en/help/key_so_parameter_expansion.html"

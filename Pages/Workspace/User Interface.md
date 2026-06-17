@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "User Interface"
 slug: "key_ws_user_interface"
 url: "https://help.malighting.com/grandMA2/en/help/key_ws_user_interface.html"

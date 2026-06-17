@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Delete Presets"
 slug: "key_presets_delete"
 url: "https://help.malighting.com/grandMA2/en/help/key_presets_delete.html"

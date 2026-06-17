@@ -1,5 +1,7 @@
 ---
 type: "section"
+cssclasses:
+  - "gma2-section"
 section: "MAtricks"
 slug: "key_matricks"
 url: "https://help.malighting.com/grandMA2/en/help/key_matricks.html"

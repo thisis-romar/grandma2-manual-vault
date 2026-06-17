@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Check Scope of Delivery"
 slug: "key_fs_check_scope_of_delivery"
 url: "https://help.malighting.com/grandMA2/en/help/key_fs_check_scope_of_delivery.html"

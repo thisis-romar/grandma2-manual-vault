@@ -1,5 +1,7 @@
 ---
 type: "keyword"
+cssclasses:
+  - "gma2-keyword"
 keyword: "EffectSpeedGroup keyword"
 slug: "key_keyword_effectspeedgroup"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_effectspeedgroup.html"

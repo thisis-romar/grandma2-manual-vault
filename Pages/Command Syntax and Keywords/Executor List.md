@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Executor List"
 slug: "key_cs_executor_list"
 url: "https://help.malighting.com/grandMA2/en/help/key_cs_executor_list.html"

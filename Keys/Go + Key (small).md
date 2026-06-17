@@ -1,5 +1,7 @@
 ---
 type: "key"
+cssclasses:
+  - "gma2-key"
 key_label: "Go + Key (small)"
 slug: "key_key_goplus"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_goplus.html"

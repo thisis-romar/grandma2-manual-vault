@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Create masks"
 slug: "key_wfm_create_mask"
 url: "https://help.malighting.com/grandMA2/en/help/key_wfm_create_mask.html"

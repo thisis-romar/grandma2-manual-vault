@@ -1,5 +1,7 @@
 ---
 type: "section"
+cssclasses:
+  - "gma2-section"
 section: "Plugins"
 slug: "key_plugins"
 url: "https://help.malighting.com/grandMA2/en/help/key_plugins.html"

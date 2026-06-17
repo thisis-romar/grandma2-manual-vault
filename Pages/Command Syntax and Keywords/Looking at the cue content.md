@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Looking at the cue content"
 slug: "key_cs_cue_content"
 url: "https://help.malighting.com/grandMA2/en/help/key_cs_cue_content.html"

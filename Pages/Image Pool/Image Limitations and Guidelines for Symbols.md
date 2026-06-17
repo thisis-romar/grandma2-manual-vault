@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Image Limitations and Guidelines for Symbols"
 slug: "key_imag_limitations_guidelines"
 url: "https://help.malighting.com/grandMA2/en/help/key_imag_limitations_guidelines.html"

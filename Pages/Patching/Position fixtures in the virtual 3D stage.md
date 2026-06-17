@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Position fixtures in the virtual 3D stage"
 slug: "key_patch_position_fixtures"
 url: "https://help.malighting.com/grandMA2/en/help/key_patch_position_fixtures.html"

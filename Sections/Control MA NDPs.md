@@ -1,5 +1,7 @@
 ---
 type: "section"
+cssclasses:
+  - "gma2-section"
 section: "Control the MA NDPs"
 slug: "key_control_ma_ndp"
 url: "https://help.malighting.com/grandMA2/en/help/key_control_ma_ndp.html"

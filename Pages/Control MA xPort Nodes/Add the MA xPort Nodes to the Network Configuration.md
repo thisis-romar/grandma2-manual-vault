@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Add the MA xPort Nodes to the Network Configuration"
 slug: "key_control_node_add"
 url: "https://help.malighting.com/grandMA2/en/help/key_control_node_add.html"

@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "What are masks"
 slug: "key_wfm_what_are_masks"
 url: "https://help.malighting.com/grandMA2/en/help/key_wfm_what_are_masks.html"

@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Layer in Sheets"
 slug: "key_of_layers_in_sheets"
 url: "https://help.malighting.com/grandMA2/en/help/key_of_layers_in_sheets.html"

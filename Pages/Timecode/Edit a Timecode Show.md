@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Edit a Timecode Show"
 slug: "key_timecode_editor"
 url: "https://help.malighting.com/grandMA2/en/help/key_timecode_editor.html"

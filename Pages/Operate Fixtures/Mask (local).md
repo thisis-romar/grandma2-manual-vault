@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Mask (local)"
 slug: "key_of_sheet_options_mask_local"
 url: "https://help.malighting.com/grandMA2/en/help/key_of_sheet_options_mask_local.html"

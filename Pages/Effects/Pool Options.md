@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Pool Options"
 slug: "key_effects_pool_options"
 url: "https://help.malighting.com/grandMA2/en/help/key_effects_pool_options.html"

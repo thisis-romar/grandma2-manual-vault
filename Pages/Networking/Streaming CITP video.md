@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Streaming CITP video"
 slug: "key_network_citp_stream"
 url: "https://help.malighting.com/grandMA2/en/help/key_network_citp_stream.html"

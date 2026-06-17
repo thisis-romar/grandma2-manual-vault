@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "What are filters"
 slug: "key_wfm_what_are_filters"
 url: "https://help.malighting.com/grandMA2/en/help/key_wfm_what_are_filters.html"

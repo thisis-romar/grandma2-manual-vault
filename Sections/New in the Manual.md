@@ -1,5 +1,7 @@
 ---
 type: "section"
+cssclasses:
+  - "gma2-section"
 section: "New in the Manual"
 slug: "key_new_in_the_manual"
 url: "https://help.malighting.com/grandMA2/en/help/key_new_in_the_manual.html"

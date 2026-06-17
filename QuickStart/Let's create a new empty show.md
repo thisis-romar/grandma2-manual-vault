@@ -1,5 +1,7 @@
 ---
 type: "quick-start"
+cssclasses:
+  - "gma2-quick-start"
 slug: "key_01_create_new_show"
 url: "https://help.malighting.com/grandMA2/en/help/grandma2_quick_start_guide/key_01_create_new_show.html"
 tags:

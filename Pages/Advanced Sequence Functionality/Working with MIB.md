@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Working with MIB"
 slug: "key_adv_seq_mib"
 url: "https://help.malighting.com/grandMA2/en/help/key_adv_seq_mib.html"

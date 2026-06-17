@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "grandMA2 replay unit (RPU)"
 slug: "key_device_overview_grandma2_replay_unit_rpu"
 url: "https://help.malighting.com/grandMA2/en/help/key_device_overview_grandma2_replay_unit_rpu.html"

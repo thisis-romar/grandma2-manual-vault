@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "MAtricks Toolbar"
 slug: "key_matricks_toolbar"
 url: "https://help.malighting.com/grandMA2/en/help/key_matricks_toolbar.html"

@@ -1,5 +1,7 @@
 ---
 type: "section"
+cssclasses:
+  - "gma2-section"
 section: "System Overview"
 slug: "key_so_system_overview"
 url: "https://help.malighting.com/grandMA2/en/help/key_so_system_overview.html"

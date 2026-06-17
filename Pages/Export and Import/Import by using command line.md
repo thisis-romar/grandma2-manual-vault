@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Import by using command line"
 slug: "key_ei_import_commandline"
 url: "https://help.malighting.com/grandMA2/en/help/key_ei_import_commandline.html"

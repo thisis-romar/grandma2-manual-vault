@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Work with Lists"
 slug: "key_cs_work_with_lists"
 url: "https://help.malighting.com/grandMA2/en/help/key_cs_work_with_lists.html"

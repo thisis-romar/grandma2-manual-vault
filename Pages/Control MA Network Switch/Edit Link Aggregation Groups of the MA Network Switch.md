@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Edit Link Aggregation Groups of the MA Network Switch"
 slug: "key_control_ma_switch_lags"
 url: "https://help.malighting.com/grandMA2/en/help/key_control_ma_switch_lags.html"

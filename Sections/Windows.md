@@ -1,5 +1,7 @@
 ---
 type: "section"
+cssclasses:
+  - "gma2-section"
 section: "Manage windows"
 slug: "key_windows"
 url: "https://help.malighting.com/grandMA2/en/help/key_windows.html"

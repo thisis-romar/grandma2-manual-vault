@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Change switch ID"
 slug: "key_control_ma_switch_switch_id"
 url: "https://help.malighting.com/grandMA2/en/help/key_control_ma_switch_switch_id.html"

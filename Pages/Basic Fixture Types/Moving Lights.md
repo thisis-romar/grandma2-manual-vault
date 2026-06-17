@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Moving Lights"
 slug: "key_basic_fixture_type_moving"
 url: "https://help.malighting.com/grandMA2/en/help/key_basic_fixture_type_moving.html"

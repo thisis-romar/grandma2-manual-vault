@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Remote Inputs"
 slug: "key_remote_control_input"
 url: "https://help.malighting.com/grandMA2/en/help/key_remote_control_input.html"

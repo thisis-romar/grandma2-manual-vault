@@ -1,5 +1,7 @@
 ---
 type: "keyword"
+cssclasses:
+  - "gma2-keyword"
 keyword: "Dot . Character"
 slug: "key_keyword_dot"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_dot.html"

@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Connect Analog Remote Control"
 slug: "key_fs_connect_analog_remote_control"
 url: "https://help.malighting.com/grandMA2/en/help/key_fs_connect_analog_remote_control.html"

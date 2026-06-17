@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Examples"
 slug: "key_clone_examples"
 url: "https://help.malighting.com/grandMA2/en/help/key_clone_examples.html"

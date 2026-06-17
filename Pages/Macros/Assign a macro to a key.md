@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Assign a macro to a key"
 slug: "key_macro_assign"
 url: "https://help.malighting.com/grandMA2/en/help/key_macro_assign.html"

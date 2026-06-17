@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Restart from Linux"
 slug: "key_update_restart_linux"
 url: "https://help.malighting.com/grandMA2/en/help/key_update_restart_linux.html"

@@ -1,5 +1,7 @@
 ---
 type: "keyword"
+cssclasses:
+  - "gma2-keyword"
 keyword: "Form"
 slug: "key_keyword_form"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_form.html"

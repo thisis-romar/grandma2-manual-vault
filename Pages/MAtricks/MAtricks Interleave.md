@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "MAtricks Interleave"
 slug: "key_matricks_interleave"
 url: "https://help.malighting.com/grandMA2/en/help/key_matricks_interleave.html"

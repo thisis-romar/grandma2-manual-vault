@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Playing back Cues"
 slug: "key_cs_playback"
 url: "https://help.malighting.com/grandMA2/en/help/key_cs_playback.html"

@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Change colors in group options for all in order and all out of order"
 slug: "key_groups_change_specific_group_colors"
 url: "https://help.malighting.com/grandMA2/en/help/key_groups_change_specific_group_colors.html"

@@ -1,5 +1,7 @@
 ---
 type: "section"
+cssclasses:
+  - "gma2-section"
 section: "Groups"
 slug: "key_groups"
 url: "https://help.malighting.com/grandMA2/en/help/key_groups.html"

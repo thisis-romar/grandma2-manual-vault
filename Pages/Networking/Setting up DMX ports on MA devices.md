@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Setting up DMX ports on MA devices"
 slug: "key_network_dmx_configure_ports"
 url: "https://help.malighting.com/grandMA2/en/help/key_network_dmx_configure_ports.html"

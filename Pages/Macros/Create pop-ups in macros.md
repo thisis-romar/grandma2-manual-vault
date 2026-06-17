@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Create pop-ups in macros"
 slug: "key_macro_create_popup"
 url: "https://help.malighting.com/grandMA2/en/help/key_macro_create_popup.html"

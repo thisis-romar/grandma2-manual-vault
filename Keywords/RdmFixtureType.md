@@ -1,5 +1,7 @@
 ---
 type: "keyword"
+cssclasses:
+  - "gma2-keyword"
 keyword: "RdmFixtureType"
 slug: "key_keyword_rdmfixturetype"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_rdmfixturetype.html"

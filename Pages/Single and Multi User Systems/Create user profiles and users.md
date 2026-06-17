@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Create user profiles and users"
 slug: "key_single_multi_systems_create"
 url: "https://help.malighting.com/grandMA2/en/help/key_single_multi_systems_create.html"

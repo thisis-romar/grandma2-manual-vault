@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "What is the Network Dimmer Processor (NDP)?"
 slug: "key_so_what_is_the_network_dimmer_processor_ndp"
 url: "https://help.malighting.com/grandMA2/en/help/key_so_what_is_the_network_dimmer_processor_ndp.html"

@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Wing & Monitor Setup"
 slug: "key_window_faderwing_commandwing_setup"
 url: "https://help.malighting.com/grandMA2/en/help/key_window_faderwing_commandwing_setup.html"

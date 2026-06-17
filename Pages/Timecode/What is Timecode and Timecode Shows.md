@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "What is Timecode and Timecode Shows"
 slug: "key_timecode_what_is"
 url: "https://help.malighting.com/grandMA2/en/help/key_timecode_what_is.html"

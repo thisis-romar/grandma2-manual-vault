@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Assign effect to executor"
 slug: "key_effects_assign_to_executor"
 url: "https://help.malighting.com/grandMA2/en/help/key_effects_assign_to_executor.html"

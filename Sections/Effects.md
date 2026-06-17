@@ -1,5 +1,7 @@
 ---
 type: "section"
+cssclasses:
+  - "gma2-section"
 section: "Effects"
 slug: "key_effects"
 url: "https://help.malighting.com/grandMA2/en/help/key_effects.html"

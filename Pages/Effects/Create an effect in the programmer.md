@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Create an effect in the programmer"
 slug: "key_effects_create_in_programmer"
 url: "https://help.malighting.com/grandMA2/en/help/key_effects_create_in_programmer.html"

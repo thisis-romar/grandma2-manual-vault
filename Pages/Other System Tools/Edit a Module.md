@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Edit a Module"
 slug: "key_ost_edit_module"
 url: "https://help.malighting.com/grandMA2/en/help/key_ost_edit_module.html"

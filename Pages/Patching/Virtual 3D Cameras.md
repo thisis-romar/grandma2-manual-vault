@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Virtual 3D Cameras"
 slug: "key_patch_camera"
 url: "https://help.malighting.com/grandMA2/en/help/key_patch_camera.html"

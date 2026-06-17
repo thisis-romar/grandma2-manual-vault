@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Session control"
 slug: "key_network_session"
 url: "https://help.malighting.com/grandMA2/en/help/key_network_session.html"

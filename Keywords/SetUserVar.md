@@ -1,5 +1,7 @@
 ---
 type: "keyword"
+cssclasses:
+  - "gma2-keyword"
 keyword: "SetUserVar"
 slug: "key_keyword_setuservar"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_setuservar.html"

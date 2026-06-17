@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Add or delete keyboard shortcuts"
 slug: "key_ws_keyboard_shortcuts_add_delete"
 url: "https://help.malighting.com/grandMA2/en/help/key_ws_keyboard_shortcuts_add_delete.html"

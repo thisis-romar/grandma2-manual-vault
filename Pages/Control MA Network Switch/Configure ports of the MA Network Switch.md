@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Configure ports of the MA Network Switch"
 slug: "key_control_ma_switch_ports"
 url: "https://help.malighting.com/grandMA2/en/help/key_control_ma_switch_ports.html"

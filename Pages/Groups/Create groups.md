@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Create groups"
 slug: "key_groups_create_groups"
 url: "https://help.malighting.com/grandMA2/en/help/key_groups_create_groups.html"

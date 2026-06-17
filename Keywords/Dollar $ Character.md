@@ -1,5 +1,7 @@
 ---
 type: "keyword"
+cssclasses:
+  - "gma2-keyword"
 keyword: "Dollar $ Character"
 slug: "key_keyword_dollar"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_dollar.html"

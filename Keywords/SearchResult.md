@@ -1,5 +1,7 @@
 ---
 type: "keyword"
+cssclasses:
+  - "gma2-keyword"
 keyword: "SearchResult"
 slug: "key_keyword_searchresult"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_searchresult.html"

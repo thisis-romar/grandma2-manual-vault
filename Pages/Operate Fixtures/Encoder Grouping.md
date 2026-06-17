@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Encoder Grouping"
 slug: "key_of_encoder_grouping"
 url: "https://help.malighting.com/grandMA2/en/help/key_of_encoder_grouping.html"

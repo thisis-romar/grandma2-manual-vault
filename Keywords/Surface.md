@@ -1,5 +1,7 @@
 ---
 type: "keyword"
+cssclasses:
+  - "gma2-keyword"
 keyword: "Surface"
 slug: "key_keyword_surface"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_surface.html"

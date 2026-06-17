@@ -1,5 +1,7 @@
 ---
 type: "section"
+cssclasses:
+  - "gma2-section"
 section: "Patching, DMX, and Fixture Setup"
 slug: "key_patch"
 url: "https://help.malighting.com/grandMA2/en/help/key_patch.html"

@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Turn RDM off"
 slug: "key_rdm_turn_off"
 url: "https://help.malighting.com/grandMA2/en/help/key_rdm_turn_off.html"

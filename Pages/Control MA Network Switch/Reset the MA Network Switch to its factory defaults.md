@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Reset the MA Network Switch to its factory defaults"
 slug: "key_control_ma_switch_reset"
 url: "https://help.malighting.com/grandMA2/en/help/key_control_ma_switch_reset.html"

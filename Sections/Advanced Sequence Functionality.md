@@ -1,5 +1,7 @@
 ---
 type: "section"
+cssclasses:
+  - "gma2-section"
 section: "Advanced Sequence Functionality"
 slug: "key_adv_seq"
 url: "https://help.malighting.com/grandMA2/en/help/key_adv_seq.html"

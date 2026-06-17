@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "What are executors"
 slug: "key_exec_what_are"
 url: "https://help.malighting.com/grandMA2/en/help/key_exec_what_are.html"

@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Connect grandMA2 fader wing"
 slug: "key_fs_connect_grandma2_fader_wing"
 url: "https://help.malighting.com/grandMA2/en/help/key_fs_connect_grandma2_fader_wing.html"

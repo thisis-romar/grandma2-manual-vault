@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Date & Time"
 slug: "key_date_time"
 url: "https://help.malighting.com/grandMA2/en/help/key_date_time.html"

@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "What are Worlds"
 slug: "key_wfm_what_are_worlds"
 url: "https://help.malighting.com/grandMA2/en/help/key_wfm_what_are_worlds.html"

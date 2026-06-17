@@ -1,5 +1,7 @@
 ---
 type: "keyword"
+cssclasses:
+  - "gma2-keyword"
 keyword: "BlindEdit keyword"
 slug: "key_keyword_blindedit"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_blindedit.html"

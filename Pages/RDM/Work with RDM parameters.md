@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Work with RDM parameters"
 slug: "key_rdm_setparameter"
 url: "https://help.malighting.com/grandMA2/en/help/key_rdm_setparameter.html"

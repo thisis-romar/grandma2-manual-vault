@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Delete the MA xPort Nodes in the Network Configuration"
 slug: "key_control_node_delete"
 url: "https://help.malighting.com/grandMA2/en/help/key_control_node_delete.html"

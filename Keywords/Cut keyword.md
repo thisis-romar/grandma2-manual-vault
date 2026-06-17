@@ -1,5 +1,7 @@
 ---
 type: "keyword"
+cssclasses:
+  - "gma2-keyword"
 keyword: "Cut keyword"
 slug: "key_keyword_cut"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_cut.html"

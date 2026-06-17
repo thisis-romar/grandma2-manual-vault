@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Command Line"
 slug: "key_widget_command_line"
 url: "https://help.malighting.com/grandMA2/en/help/key_widget_command_line.html"

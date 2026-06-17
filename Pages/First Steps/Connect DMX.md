@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Connect DMX"
 slug: "key_fs_connect_dmx"
 url: "https://help.malighting.com/grandMA2/en/help/key_fs_connect_dmx.html"

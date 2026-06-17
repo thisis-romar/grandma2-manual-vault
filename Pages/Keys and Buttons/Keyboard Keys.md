@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Keyboard Keys"
 slug: "key_keyboard_keys"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyboard_keys.html"

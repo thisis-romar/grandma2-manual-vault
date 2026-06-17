@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "How to do a Partial Show Read"
 slug: "key_psr_how_to"
 url: "https://help.malighting.com/grandMA2/en/help/key_psr_how_to.html"

@@ -1,5 +1,7 @@
 ---
 type: "section"
+cssclasses:
+  - "gma2-section"
 section: "Error Messages"
 slug: "key_error_messages"
 url: "https://help.malighting.com/grandMA2/en/help/key_error_messages.html"

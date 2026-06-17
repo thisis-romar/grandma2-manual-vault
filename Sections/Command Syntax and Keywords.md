@@ -1,5 +1,7 @@
 ---
 type: "section"
+cssclasses:
+  - "gma2-section"
 section: "Function of the Command Line"
 slug: "key_command_syntax_and_keywords"
 url: "https://help.malighting.com/grandMA2/en/help/key_command_syntax_and_keywords.html"

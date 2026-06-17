@@ -6,11 +6,11 @@ Obsidian knowledge vault — grandMA2 User Manual as interlinked notes.
 
 | | Count |
 |---|---|
-| Sections | — |
-| Pages | — |
-| Keywords | — |
-| Keys | — |
-| Quick Start | — |
+| Sections | 55 |
+| Pages | 374 |
+| Keywords | 317 |
+| Keys | 79 |
+| Quick Start | 16 |
 
 *Counts populated after `npm run obsidian`.*
 
@@ -36,13 +36,15 @@ Open Obsidian → "Open folder as vault" → select the cloned folder.
 
 ```bash
 npm run obsidian      # full extract (scrapes MA help, generates all notes)
-npm run stats         # print node counts
-npm run moc           # rebuild 000 Map of Content only
+npm run stats         # recount notes + write the README/MOC stats tables
+npm run moc           # rebuild 000 Map of Content (+ keyword/key indexes, stats)
 npm run audit         # read-only conformance check (links, structure, frontmatter)
+npm test              # unit tests for the link/slug/audit logic (node --test)
 ```
 
 Extractor requires Node 18+. The `sync.yml` workflow (github-browse + Quartz gh-pages site)
-runs on Node 22, and Quartz is pinned to v4.5.2 — see `CLAUDE.md` → Branch structure.
+and the `ci.yml` quality gate (tests + audit) run on Node 22; Quartz is pinned to v4.5.2 —
+see `CLAUDE.md` → Branch structure.
 
 ---
 

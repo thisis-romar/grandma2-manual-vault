@@ -1,5 +1,7 @@
 ---
 type: "key"
+cssclasses:
+  - "gma2-key"
 key_label: "Prev (Previous) Key"
 slug: "key_key_previous"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_previous.html"

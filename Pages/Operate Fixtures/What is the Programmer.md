@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "What is the Programmer"
 slug: "key_of_what_is_the_programmer"
 url: "https://help.malighting.com/grandMA2/en/help/key_of_what_is_the_programmer.html"

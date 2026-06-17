@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Configure the MA NDPs"
 slug: "key_control_ma_ndp_configure"
 url: "https://help.malighting.com/grandMA2/en/help/key_control_ma_ndp_configure.html"

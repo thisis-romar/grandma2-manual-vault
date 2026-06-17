@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "X-Key Labels"
 slug: "key_widget_x_key_labels"
 url: "https://help.malighting.com/grandMA2/en/help/key_widget_x_key_labels.html"

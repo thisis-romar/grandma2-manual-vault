@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Create a Layout"
 slug: "key_layouts_create"
 url: "https://help.malighting.com/grandMA2/en/help/key_layouts_create.html"

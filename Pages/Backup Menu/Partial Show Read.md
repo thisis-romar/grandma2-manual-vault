@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Partial Show Read"
 slug: "key_backup_menu_partial_show_read"
 url: "https://help.malighting.com/grandMA2/en/help/key_backup_menu_partial_show_read.html"

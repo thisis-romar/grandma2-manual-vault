@@ -1,5 +1,7 @@
 ---
 type: "keyword"
+cssclasses:
+  - "gma2-keyword"
 keyword: "At @ Character"
 slug: "key_keyword_at_@"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_at_@.html"

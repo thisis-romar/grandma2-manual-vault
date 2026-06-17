@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Organize The Show with Multiple Timecode Shows"
 slug: "key_timecode_organize"
 url: "https://help.malighting.com/grandMA2/en/help/key_timecode_organize.html"

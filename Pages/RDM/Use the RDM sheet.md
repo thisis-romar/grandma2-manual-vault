@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Use the RDM sheet"
 slug: "key_rdm_rdm_sheets"
 url: "https://help.malighting.com/grandMA2/en/help/key_rdm_rdm_sheets.html"

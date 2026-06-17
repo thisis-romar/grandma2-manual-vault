@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Intended Use"
 slug: "key_safety_information_intended_use"
 url: "https://help.malighting.com/grandMA2/en/help/key_safety_information_intended_use.html"

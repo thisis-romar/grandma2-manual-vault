@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Add the MA Network Switch to the network configuration"
 slug: "key_control_ma_switch_add"
 url: "https://help.malighting.com/grandMA2/en/help/key_control_ma_switch_add.html"

@@ -1,5 +1,7 @@
 ---
 type: "section"
+cssclasses:
+  - "gma2-section"
 section: "Device Overview"
 slug: "key_device_overview"
 url: "https://help.malighting.com/grandMA2/en/help/key_device_overview.html"

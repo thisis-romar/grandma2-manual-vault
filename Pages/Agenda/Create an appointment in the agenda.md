@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Create an appointment in the agenda"
 slug: "key_agenda_create_appointment"
 url: "https://help.malighting.com/grandMA2/en/help/key_agenda_create_appointment.html"

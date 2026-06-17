@@ -1,5 +1,7 @@
 ---
 type: "keyword"
+cssclasses:
+  - "gma2-keyword"
 keyword: "PSRList"
 slug: "key_keyword_psrlist"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_psrlist.html"

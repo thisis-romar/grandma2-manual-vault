@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Attribute & Encoder Grouping"
 slug: "key_adv_fixture_attribute_encoder_grouping"
 url: "https://help.malighting.com/grandMA2/en/help/key_adv_fixture_attribute_encoder_grouping.html"

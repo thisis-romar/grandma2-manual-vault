@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Import by using user interface"
 slug: "key_ei_import_gui"
 url: "https://help.malighting.com/grandMA2/en/help/key_ei_import_gui.html"

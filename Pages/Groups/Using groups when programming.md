@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Using groups when programming"
 slug: "key_groups_using"
 url: "https://help.malighting.com/grandMA2/en/help/key_groups_using.html"

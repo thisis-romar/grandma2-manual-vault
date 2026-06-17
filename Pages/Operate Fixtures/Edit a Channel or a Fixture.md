@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Edit a Channel or a Fixture"
 slug: "key_of_edit_channel_or_fixture"
 url: "https://help.malighting.com/grandMA2/en/help/key_of_edit_channel_or_fixture.html"

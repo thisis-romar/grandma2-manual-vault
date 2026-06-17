@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Standalone systems"
 slug: "key_so_standalone_systems"
 url: "https://help.malighting.com/grandMA2/en/help/key_so_standalone_systems.html"

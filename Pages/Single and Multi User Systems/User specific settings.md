@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "User specific settings"
 slug: "key_single_multi_systems_user_settings"
 url: "https://help.malighting.com/grandMA2/en/help/key_single_multi_systems_user_settings.html"

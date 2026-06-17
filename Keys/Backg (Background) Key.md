@@ -1,5 +1,7 @@
 ---
 type: "key"
+cssclasses:
+  - "gma2-key"
 key_label: "Backg (Background) Key"
 slug: "key_key_background"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_background.html"

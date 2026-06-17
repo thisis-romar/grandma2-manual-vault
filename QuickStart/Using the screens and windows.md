@@ -1,5 +1,7 @@
 ---
 type: "quick-start"
+cssclasses:
+  - "gma2-quick-start"
 slug: "key_03_use_screens_and_windows"
 url: "https://help.malighting.com/grandMA2/en/help/grandma2_quick_start_guide/key_03_use_screens_and_windows.html"
 tags:

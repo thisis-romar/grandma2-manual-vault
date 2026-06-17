@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "How to create a session"
 slug: "key_network_session_create"
 url: "https://help.malighting.com/grandMA2/en/help/key_network_session_create.html"

@@ -1,5 +1,7 @@
 ---
 type: "keyword"
+cssclasses:
+  - "gma2-keyword"
 keyword: "DefGoPause keyword"
 slug: "key_keyword_defgopause"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_defgopause.html"

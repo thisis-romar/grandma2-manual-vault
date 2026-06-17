@@ -1,5 +1,7 @@
 ---
 type: "key"
+cssclasses:
+  - "gma2-key"
 key_label: "Fd Pg - (Fader Page) Key"
 slug: "key_key_faderpageminus"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_faderpageminus.html"

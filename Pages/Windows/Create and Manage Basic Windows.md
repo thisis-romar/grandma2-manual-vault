@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Create and Manage Basic Windows"
 slug: "key_windows_create_manage"
 url: "https://help.malighting.com/grandMA2/en/help/key_windows_create_manage.html"

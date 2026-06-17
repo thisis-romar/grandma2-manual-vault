@@ -1,5 +1,7 @@
 ---
 type: "section"
+cssclasses:
+  - "gma2-section"
 section: "Workspace"
 slug: "key_workspace"
 url: "https://help.malighting.com/grandMA2/en/help/key_workspace.html"

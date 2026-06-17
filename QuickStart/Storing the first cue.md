@@ -1,5 +1,7 @@
 ---
 type: "quick-start"
+cssclasses:
+  - "gma2-quick-start"
 slug: "key_06_store_the_first_cue"
 url: "https://help.malighting.com/grandMA2/en/help/grandma2_quick_start_guide/key_06_store_the_first_cue.html"
 tags:

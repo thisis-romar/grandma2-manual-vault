@@ -1,5 +1,7 @@
 ---
 type: "key"
+cssclasses:
+  - "gma2-key"
 key_label: "V1 - V10 Keys"
 slug: "key_key_v1-v10"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_v1-v10.html"

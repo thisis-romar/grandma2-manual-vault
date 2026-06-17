@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Store Options and Defaults"
 slug: "key_cs_store_options_default"
 url: "https://help.malighting.com/grandMA2/en/help/key_cs_store_options_default.html"

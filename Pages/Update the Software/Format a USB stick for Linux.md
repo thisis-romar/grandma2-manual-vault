@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Format a USB stick for Linux"
 slug: "key_update_format"
 url: "https://help.malighting.com/grandMA2/en/help/key_update_format.html"

@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Preset Pool Options"
 slug: "key_presets_pool_options"
 url: "https://help.malighting.com/grandMA2/en/help/key_presets_pool_options.html"

@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Change Screen Options"
 slug: "key_window_screenoptions"
 url: "https://help.malighting.com/grandMA2/en/help/key_window_screenoptions.html"

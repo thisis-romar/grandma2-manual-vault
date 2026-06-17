@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Work with the switch configuration"
 slug: "key_control_ma_switch_configuration"
 url: "https://help.malighting.com/grandMA2/en/help/key_control_ma_switch_configuration.html"

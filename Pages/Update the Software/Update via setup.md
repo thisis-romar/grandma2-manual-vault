@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Update via setup"
 slug: "key_update_setup"
 url: "https://help.malighting.com/grandMA2/en/help/key_update_setup.html"

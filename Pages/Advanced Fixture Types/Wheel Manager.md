@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Wheel Manager"
 slug: "key_adv_fixture_anatomy_wheel"
 url: "https://help.malighting.com/grandMA2/en/help/key_adv_fixture_anatomy_wheel.html"

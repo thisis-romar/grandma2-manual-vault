@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "FTP connection to console and NPU"
 slug: "key_network_ftp"
 url: "https://help.malighting.com/grandMA2/en/help/key_network_ftp.html"

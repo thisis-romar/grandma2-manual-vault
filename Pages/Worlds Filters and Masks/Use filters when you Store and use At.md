@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Use filters when you Store and use At"
 slug: "key_wfm_use_filter"
 url: "https://help.malighting.com/grandMA2/en/help/key_wfm_use_filter.html"

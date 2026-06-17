@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "MAtricks Pool"
 slug: "key_matricks_pool"
 url: "https://help.malighting.com/grandMA2/en/help/key_matricks_pool.html"

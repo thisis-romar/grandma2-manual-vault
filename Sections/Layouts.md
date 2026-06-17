@@ -1,5 +1,7 @@
 ---
 type: "section"
+cssclasses:
+  - "gma2-section"
 section: "Layouts"
 slug: "key_layouts"
 url: "https://help.malighting.com/grandMA2/en/help/key_layouts.html"

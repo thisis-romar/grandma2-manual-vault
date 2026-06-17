@@ -1,5 +1,7 @@
 ---
 type: "key"
+cssclasses:
+  - "gma2-key"
 key_label: "Learn Key"
 slug: "key_key_learn"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_learn.html"

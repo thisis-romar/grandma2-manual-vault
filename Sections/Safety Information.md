@@ -1,5 +1,7 @@
 ---
 type: "section"
+cssclasses:
+  - "gma2-section"
 section: "Safety Information"
 slug: "key_safety_information"
 url: "https://help.malighting.com/grandMA2/en/help/key_safety_information.html"

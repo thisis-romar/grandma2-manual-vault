@@ -1,5 +1,7 @@
 ---
 type: "keyword"
+cssclasses:
+  - "gma2-keyword"
 keyword: "Item3D keyword"
 slug: "key_keyword_item3d"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_item3d.html"

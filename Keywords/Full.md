@@ -1,5 +1,7 @@
 ---
 type: "keyword"
+cssclasses:
+  - "gma2-keyword"
 keyword: "Full"
 slug: "key_keyword_full"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_full.html"

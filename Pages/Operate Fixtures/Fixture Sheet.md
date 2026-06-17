@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Fixture Sheet"
 slug: "key_of_fixture_sheet"
 url: "https://help.malighting.com/grandMA2/en/help/key_of_fixture_sheet.html"

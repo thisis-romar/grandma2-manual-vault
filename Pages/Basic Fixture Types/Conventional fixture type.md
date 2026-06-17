@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Conventional fixture type"
 slug: "key_basic_fixture_type_conv"
 url: "https://help.malighting.com/grandMA2/en/help/key_basic_fixture_type_conv.html"

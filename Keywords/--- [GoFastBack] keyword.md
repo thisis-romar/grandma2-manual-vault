@@ -1,5 +1,7 @@
 ---
 type: "keyword"
+cssclasses:
+  - "gma2-keyword"
 keyword: "<<< [GoFastBack] keyword"
 slug: "key_keyword_skipminus"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_skipminus.html"

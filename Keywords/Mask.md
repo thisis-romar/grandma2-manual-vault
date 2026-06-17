@@ -1,5 +1,7 @@
 ---
 type: "keyword"
+cssclasses:
+  - "gma2-keyword"
 keyword: "Mask"
 slug: "key_keyword_mask"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_mask.html"

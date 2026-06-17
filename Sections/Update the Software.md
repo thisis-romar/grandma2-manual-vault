@@ -1,5 +1,7 @@
 ---
 type: "section"
+cssclasses:
+  - "gma2-section"
 section: "Update the Software"
 slug: "key_update"
 url: "https://help.malighting.com/grandMA2/en/help/key_update.html"

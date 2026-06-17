@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Apply bitmap fixture in the layout view"
 slug: "key_bitmapfixture_layout"
 url: "https://help.malighting.com/grandMA2/en/help/key_bitmapfixture_layout.html"

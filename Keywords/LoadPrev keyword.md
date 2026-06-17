@@ -1,5 +1,7 @@
 ---
 type: "keyword"
+cssclasses:
+  - "gma2-keyword"
 keyword: "LoadPrev keyword"
 slug: "key_keyword_loadprev"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_loadprev.html"

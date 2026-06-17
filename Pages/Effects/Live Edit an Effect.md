@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Live Edit an Effect"
 slug: "key_effects_live_edit"
 url: "https://help.malighting.com/grandMA2/en/help/key_effects_live_edit.html"

@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Set the IP address in the console"
 slug: "key_network_set_ip_console"
 url: "https://help.malighting.com/grandMA2/en/help/key_network_set_ip_console.html"

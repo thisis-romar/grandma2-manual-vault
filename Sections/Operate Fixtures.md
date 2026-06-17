@@ -1,5 +1,7 @@
 ---
 type: "section"
+cssclasses:
+  - "gma2-section"
 section: "Operate Fixtures"
 slug: "key_operate_fixtures"
 url: "https://help.malighting.com/grandMA2/en/help/key_operate_fixtures.html"

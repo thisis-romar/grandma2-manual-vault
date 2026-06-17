@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Special Characters"
 slug: "key_cs_special_characters"
 url: "https://help.malighting.com/grandMA2/en/help/key_cs_special_characters.html"

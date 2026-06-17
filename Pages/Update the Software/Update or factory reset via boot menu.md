@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Update or factory reset via boot menu"
 slug: "key_update_boot_menu"
 url: "https://help.malighting.com/grandMA2/en/help/key_update_boot_menu.html"

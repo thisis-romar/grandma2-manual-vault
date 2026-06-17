@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Playback Masters"
 slug: "key_adv_exec_spec_master_playback"
 url: "https://help.malighting.com/grandMA2/en/help/key_adv_exec_spec_master_playback.html"

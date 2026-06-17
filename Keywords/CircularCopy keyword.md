@@ -1,5 +1,7 @@
 ---
 type: "keyword"
+cssclasses:
+  - "gma2-keyword"
 keyword: "CircularCopy keyword"
 slug: "key_keyword_circularcopy"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_circularcopy.html"

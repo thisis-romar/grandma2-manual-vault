@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Getting DMX in and out of the system"
 slug: "key_network_dmx_get_in_out"
 url: "https://help.malighting.com/grandMA2/en/help/key_network_dmx_get_in_out.html"

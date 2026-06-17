@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Update firmware of the MA Network Switch"
 slug: "key_control_ma_switch_update"
 url: "https://help.malighting.com/grandMA2/en/help/key_control_ma_switch_update.html"

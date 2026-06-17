@@ -1,5 +1,7 @@
 ---
 type: "keyword"
+cssclasses:
+  - "gma2-keyword"
 keyword: "VPU pixel mapper view"
 slug: "key_keyword_vpupixelmapperview"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_vpupixelmapperview.html"

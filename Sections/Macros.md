@@ -1,5 +1,7 @@
 ---
 type: "section"
+cssclasses:
+  - "gma2-section"
 section: "Macros"
 slug: "key_macro"
 url: "https://help.malighting.com/grandMA2/en/help/key_macro.html"

@@ -1,5 +1,7 @@
 ---
 type: "section"
+cssclasses:
+  - "gma2-section"
 section: "Timer"
 slug: "key_timer"
 url: "https://help.malighting.com/grandMA2/en/help/key_timer.html"

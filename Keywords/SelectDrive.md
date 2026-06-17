@@ -1,5 +1,7 @@
 ---
 type: "keyword"
+cssclasses:
+  - "gma2-keyword"
 keyword: "SelectDrive"
 slug: "key_keyword_selectdrive"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_selectdrive.html"

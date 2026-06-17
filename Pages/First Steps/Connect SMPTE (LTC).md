@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Connect SMPTE (LTC)"
 slug: "key_fs_connect_smpte_ltc"
 url: "https://help.malighting.com/grandMA2/en/help/key_fs_connect_smpte_ltc.html"

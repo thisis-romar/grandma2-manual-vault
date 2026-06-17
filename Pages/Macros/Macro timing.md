@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Macro timing"
 slug: "key_macro_create_timing"
 url: "https://help.malighting.com/grandMA2/en/help/key_macro_create_timing.html"

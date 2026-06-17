@@ -1,5 +1,7 @@
 ---
 type: "quick-start"
+cssclasses:
+  - "gma2-quick-start"
 slug: "key_12_preset_pool"
 url: "https://help.malighting.com/grandMA2/en/help/grandma2_quick_start_guide/key_12_preset_pool.html"
 tags:

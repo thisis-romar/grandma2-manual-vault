@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Using The Color Picker"
 slug: "key_of_color_picker"
 url: "https://help.malighting.com/grandMA2/en/help/key_of_color_picker.html"

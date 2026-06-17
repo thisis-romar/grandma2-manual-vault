@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Touch gestures"
 slug: "key_ws_touch_gestures"
 url: "https://help.malighting.com/grandMA2/en/help/key_ws_touch_gestures.html"

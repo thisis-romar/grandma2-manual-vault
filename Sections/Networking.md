@@ -1,5 +1,7 @@
 ---
 type: "section"
+cssclasses:
+  - "gma2-section"
 section: "Networking"
 slug: "key_network"
 url: "https://help.malighting.com/grandMA2/en/help/key_network.html"

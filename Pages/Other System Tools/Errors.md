@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Errors"
 slug: "key_ost_errors"
 url: "https://help.malighting.com/grandMA2/en/help/key_ost_errors.html"

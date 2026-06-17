@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Work with RDM sensors"
 slug: "key_rdm_sensors"
 url: "https://help.malighting.com/grandMA2/en/help/key_rdm_sensors.html"

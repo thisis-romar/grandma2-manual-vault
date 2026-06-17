@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Connect Sound"
 slug: "key_fs_connect_sound"
 url: "https://help.malighting.com/grandMA2/en/help/key_fs_connect_sound.html"

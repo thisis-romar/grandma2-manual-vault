@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "About this Manual"
 slug: "key_introduction_about_this_manual"
 url: "https://help.malighting.com/grandMA2/en/help/key_introduction_about_this_manual.html"

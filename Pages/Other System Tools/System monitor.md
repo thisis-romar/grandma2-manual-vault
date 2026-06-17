@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "System monitor"
 slug: "key_ost_system_monitor"
 url: "https://help.malighting.com/grandMA2/en/help/key_ost_system_monitor.html"

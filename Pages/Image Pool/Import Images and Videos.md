@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Import Images and Videos"
 slug: "key_image_import"
 url: "https://help.malighting.com/grandMA2/en/help/key_image_import.html"

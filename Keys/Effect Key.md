@@ -1,5 +1,7 @@
 ---
 type: "key"
+cssclasses:
+  - "gma2-key"
 key_label: "Effect Key"
 slug: "key_key_effect"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_effect.html"

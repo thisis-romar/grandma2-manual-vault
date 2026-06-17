@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Command wing bar"
 slug: "key_ws_command_wing_bar"
 url: "https://help.malighting.com/grandMA2/en/help/key_ws_command_wing_bar.html"

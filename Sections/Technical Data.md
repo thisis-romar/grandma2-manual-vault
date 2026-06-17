@@ -1,5 +1,7 @@
 ---
 type: "section"
+cssclasses:
+  - "gma2-section"
 section: "Technical Data"
 slug: "key_technical_data"
 url: "https://help.malighting.com/grandMA2/en/help/key_technical_data.html"

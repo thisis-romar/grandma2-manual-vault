@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Edit Layout"
 slug: "key_layouts_edit"
 url: "https://help.malighting.com/grandMA2/en/help/key_layouts_edit.html"

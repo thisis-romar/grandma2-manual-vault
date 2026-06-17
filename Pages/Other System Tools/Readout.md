@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Readout"
 slug: "key_ost_readout"
 url: "https://help.malighting.com/grandMA2/en/help/key_ost_readout.html"

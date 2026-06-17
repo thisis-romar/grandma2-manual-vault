@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "grandMA2 to grandMA3 Show File Converter"
 slug: "key_backup_menu_save_as_grandma3"
 url: "https://help.malighting.com/grandMA2/en/help/key_backup_menu_save_as_grandma3.html"

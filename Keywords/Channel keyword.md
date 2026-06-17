@@ -1,5 +1,7 @@
 ---
 type: "keyword"
+cssclasses:
+  - "gma2-keyword"
 keyword: "Channel keyword"
 slug: "key_keyword_channel"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_channel.html"

@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "System Requirements grandMA2 onPC"
 slug: "key_introduction_system_requirements_grandma2_onpc"
 url: "https://help.malighting.com/grandMA2/en/help/key_introduction_system_requirements_grandma2_onpc.html"

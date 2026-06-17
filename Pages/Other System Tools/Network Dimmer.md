@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Network Dimmer"
 slug: "key_ost_network_dimmer"
 url: "https://help.malighting.com/grandMA2/en/help/key_ost_network_dimmer.html"

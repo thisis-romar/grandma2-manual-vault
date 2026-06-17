@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Looping cues"
 slug: "key_adv_seq_loop"
 url: "https://help.malighting.com/grandMA2/en/help/key_adv_seq_loop.html"

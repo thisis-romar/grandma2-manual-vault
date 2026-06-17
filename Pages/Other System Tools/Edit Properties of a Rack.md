@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Edit Properties of a Rack"
 slug: "key_ost_edit_properties_of_rack"
 url: "https://help.malighting.com/grandMA2/en/help/key_ost_edit_properties_of_rack.html"

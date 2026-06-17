@@ -1,5 +1,7 @@
 ---
 type: "keyword"
+cssclasses:
+  - "gma2-keyword"
 keyword: "PresetType"
 slug: "key_keyword_presettype"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_presettype.html"

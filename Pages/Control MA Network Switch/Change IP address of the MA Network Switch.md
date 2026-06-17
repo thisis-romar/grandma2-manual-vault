@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Change IP address of the MA Network Switch"
 slug: "key_control_ma_switch_ip_address"
 url: "https://help.malighting.com/grandMA2/en/help/key_control_ma_switch_ip_address.html"

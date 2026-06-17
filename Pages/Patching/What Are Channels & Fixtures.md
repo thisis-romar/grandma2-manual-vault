@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "What Are Channels & Fixtures"
 slug: "key_patch_what_are_channel_fixture"
 url: "https://help.malighting.com/grandMA2/en/help/key_patch_what_are_channel_fixture.html"

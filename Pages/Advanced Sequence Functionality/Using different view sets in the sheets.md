@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Using different view sets in the sheets"
 slug: "key_adv_seq_view_sets"
 url: "https://help.malighting.com/grandMA2/en/help/key_adv_seq_view_sets.html"

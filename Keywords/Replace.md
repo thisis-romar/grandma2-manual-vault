@@ -1,5 +1,7 @@
 ---
 type: "keyword"
+cssclasses:
+  - "gma2-keyword"
 keyword: "Replace"
 slug: "key_keyword_replace"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_replace.html"

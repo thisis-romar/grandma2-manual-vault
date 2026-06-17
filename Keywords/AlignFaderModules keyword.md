@@ -1,5 +1,7 @@
 ---
 type: "keyword"
+cssclasses:
+  - "gma2-keyword"
 keyword: "AlignFaderModules keyword"
 slug: "key_keyword_alignfadermodules"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_alignfadermodules.html"

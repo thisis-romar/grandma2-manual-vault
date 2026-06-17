@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Update cues"
 slug: "key_cs_update_cues"
 url: "https://help.malighting.com/grandMA2/en/help/key_cs_update_cues.html"

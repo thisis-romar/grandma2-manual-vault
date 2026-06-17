@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "XYZ and Pan/Tilt in cues and sequences"
 slug: "key_xyz_pan_tilt_in_cues_sequences"
 url: "https://help.malighting.com/grandMA2/en/help/key_xyz_pan_tilt_in_cues_sequences.html"

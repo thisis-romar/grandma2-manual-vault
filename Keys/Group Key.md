@@ -1,5 +1,7 @@
 ---
 type: "key"
+cssclasses:
+  - "gma2-key"
 key_label: "Group Key"
 slug: "key_key_group"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_group.html"

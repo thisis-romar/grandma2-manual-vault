@@ -1,5 +1,7 @@
 ---
 type: "section"
+cssclasses:
+  - "gma2-section"
 section: "Worlds, Filters and Masks"
 slug: "key_wfm_world_filter_mask"
 url: "https://help.malighting.com/grandMA2/en/help/key_wfm_world_filter_mask.html"

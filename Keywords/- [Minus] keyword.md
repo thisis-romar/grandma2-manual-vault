@@ -1,5 +1,7 @@
 ---
 type: "keyword"
+cssclasses:
+  - "gma2-keyword"
 keyword: "- [Minus] keyword"
 slug: "key_keyword_minus"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_minus.html"

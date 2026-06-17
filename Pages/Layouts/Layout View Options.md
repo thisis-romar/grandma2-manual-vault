@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Layout View Options"
 slug: "key_layouts_view_options"
 url: "https://help.malighting.com/grandMA2/en/help/key_layouts_view_options.html"

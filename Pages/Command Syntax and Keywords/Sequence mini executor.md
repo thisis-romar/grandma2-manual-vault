@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Sequence mini executor"
 slug: "key_cs_sequence_mini_executor"
 url: "https://help.malighting.com/grandMA2/en/help/key_cs_sequence_mini_executor.html"

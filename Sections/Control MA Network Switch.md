@@ -1,5 +1,7 @@
 ---
 type: "section"
+cssclasses:
+  - "gma2-section"
 section: "Control the MA Network Switch from a grandMA2"
 slug: "key_control_ma_switch"
 url: "https://help.malighting.com/grandMA2/en/help/key_control_ma_switch.html"

@@ -1,5 +1,7 @@
 ---
 type: "section"
+cssclasses:
+  - "gma2-section"
 section: "Glossary"
 slug: "key_glossary"
 url: "https://help.malighting.com/grandMA2/en/help/key_glossary.html"

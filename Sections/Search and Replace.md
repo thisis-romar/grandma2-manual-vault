@@ -1,5 +1,7 @@
 ---
 type: "section"
+cssclasses:
+  - "gma2-section"
 section: "Search and Replace"
 slug: "key_search_replace"
 url: "https://help.malighting.com/grandMA2/en/help/key_search_replace.html"

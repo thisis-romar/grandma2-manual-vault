@@ -1,5 +1,7 @@
 ---
 type: "keyword"
+cssclasses:
+  - "gma2-keyword"
 keyword: "Block keyword"
 slug: "key_keyword_block"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_block.html"

@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Record a macro"
 slug: "key_macro_record"
 url: "https://help.malighting.com/grandMA2/en/help/key_macro_record.html"

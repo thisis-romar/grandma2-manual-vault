@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Position the Device"
 slug: "key_fs_position_the_device"
 url: "https://help.malighting.com/grandMA2/en/help/key_fs_position_the_device.html"

@@ -1,5 +1,7 @@
 ---
 type: "section"
+cssclasses:
+  - "gma2-section"
 section: "Using the Backup Menu"
 slug: "key_backup_menu"
 url: "https://help.malighting.com/grandMA2/en/help/key_backup_menu.html"

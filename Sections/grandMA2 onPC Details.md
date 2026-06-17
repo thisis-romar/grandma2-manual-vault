@@ -1,5 +1,7 @@
 ---
 type: "section"
+cssclasses:
+  - "gma2-section"
 section: "grandMA2 onPC Details"
 slug: "key_onpc_details"
 url: "https://help.malighting.com/grandMA2/en/help/key_onpc_details.html"

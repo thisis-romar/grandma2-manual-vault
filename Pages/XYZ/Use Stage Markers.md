@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Use Stage Markers"
 slug: "key_xyz_use_stage_markers"
 url: "https://help.malighting.com/grandMA2/en/help/key_xyz_use_stage_markers.html"

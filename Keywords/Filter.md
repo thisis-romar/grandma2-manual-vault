@@ -1,5 +1,7 @@
 ---
 type: "keyword"
+cssclasses:
+  - "gma2-keyword"
 keyword: "Filter"
 slug: "key_keyword_filter"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_filter.html"

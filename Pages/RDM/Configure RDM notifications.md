@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Configure RDM notifications"
 slug: "key_rdm_notifications"
 url: "https://help.malighting.com/grandMA2/en/help/key_rdm_notifications.html"

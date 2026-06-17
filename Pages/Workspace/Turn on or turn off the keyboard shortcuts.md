@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Turn on or turn off the keyboard shortcuts"
 slug: "key_ws_keyboard_shortcuts_on_off"
 url: "https://help.malighting.com/grandMA2/en/help/key_ws_keyboard_shortcuts_on_off.html"

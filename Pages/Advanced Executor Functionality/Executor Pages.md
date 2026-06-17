@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Executor Pages"
 slug: "key_adv_exec_pages"
 url: "https://help.malighting.com/grandMA2/en/help/key_adv_exec_pages.html"

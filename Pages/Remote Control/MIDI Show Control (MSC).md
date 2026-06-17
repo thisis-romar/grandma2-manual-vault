@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "MIDI Show Control (MSC)"
 slug: "key_remote_control_msc"
 url: "https://help.malighting.com/grandMA2/en/help/key_remote_control_msc.html"

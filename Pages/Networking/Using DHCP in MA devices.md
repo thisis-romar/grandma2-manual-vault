@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Using DHCP in MA devices"
 slug: "key_network_dhcp"
 url: "https://help.malighting.com/grandMA2/en/help/key_network_dhcp.html"

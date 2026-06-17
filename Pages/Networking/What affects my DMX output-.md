@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "What affects my DMX output?"
 slug: "key_networking_dmx_output"
 url: "https://help.malighting.com/grandMA2/en/help/key_networking_dmx_output.html"

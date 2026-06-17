@@ -1,5 +1,7 @@
 ---
 type: "key"
+cssclasses:
+  - "gma2-key"
 key_label: "Time Key"
 slug: "key_key_time"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_time.html"

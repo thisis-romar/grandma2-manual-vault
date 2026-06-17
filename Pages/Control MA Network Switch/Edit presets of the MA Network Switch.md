@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Edit presets of the MA Network Switch"
 slug: "key_control_ma_switch_presets"
 url: "https://help.malighting.com/grandMA2/en/help/key_control_ma_switch_presets.html"

@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Commands in cues"
 slug: "key_cs_cmd_in_cues"
 url: "https://help.malighting.com/grandMA2/en/help/key_cs_cmd_in_cues.html"

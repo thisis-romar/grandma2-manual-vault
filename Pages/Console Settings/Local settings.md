@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Local settings"
 slug: "key_local_settings"
 url: "https://help.malighting.com/grandMA2/en/help/key_local_settings.html"

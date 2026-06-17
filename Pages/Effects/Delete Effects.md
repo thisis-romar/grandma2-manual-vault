@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Delete Effects"
 slug: "key_effects_delete"
 url: "https://help.malighting.com/grandMA2/en/help/key_effects_delete.html"

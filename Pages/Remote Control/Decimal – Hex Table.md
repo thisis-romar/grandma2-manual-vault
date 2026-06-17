@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Decimal – Hex Table"
 slug: "key_remote_control_hex_table"
 url: "https://help.malighting.com/grandMA2/en/help/key_remote_control_hex_table.html"

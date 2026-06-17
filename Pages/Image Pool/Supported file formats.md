@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Supported file formats"
 slug: "key_image_supported_file_formats"
 url: "https://help.malighting.com/grandMA2/en/help/key_image_supported_file_formats.html"

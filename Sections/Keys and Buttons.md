@@ -1,5 +1,7 @@
 ---
 type: "section"
+cssclasses:
+  - "gma2-section"
 section: "Keys & Buttons on the Console"
 slug: "key_keys_and_buttons_on_the_console"
 url: "https://help.malighting.com/grandMA2/en/help/key_keys_and_buttons_on_the_console.html"

@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Edit keyboard shortcuts"
 slug: "key_ws_keyboard_shortcuts_edit"
 url: "https://help.malighting.com/grandMA2/en/help/key_ws_keyboard_shortcuts_edit.html"

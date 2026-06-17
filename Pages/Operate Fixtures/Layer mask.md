@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Layer mask"
 slug: "key_of_sheet_options_layer_mask"
 url: "https://help.malighting.com/grandMA2/en/help/key_of_sheet_options_layer_mask.html"

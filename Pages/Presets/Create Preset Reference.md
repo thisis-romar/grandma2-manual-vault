@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Create Preset Reference"
 slug: "key_presets_create_preset_reference"
 url: "https://help.malighting.com/grandMA2/en/help/key_presets_create_preset_reference.html"

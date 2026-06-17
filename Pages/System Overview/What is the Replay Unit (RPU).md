@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "What is the Replay Unit (RPU)"
 slug: "key_so_what_is_the_replay_unit_rpu"
 url: "https://help.malighting.com/grandMA2/en/help/key_so_what_is_the_replay_unit_rpu.html"

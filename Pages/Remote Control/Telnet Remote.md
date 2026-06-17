@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Telnet Remote"
 slug: "key_remote_control_telnet"
 url: "https://help.malighting.com/grandMA2/en/help/key_remote_control_telnet.html"

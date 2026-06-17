@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Import predefined objects"
 slug: "key_ei_import_predefined"
 url: "https://help.malighting.com/grandMA2/en/help/key_ei_import_predefined.html"

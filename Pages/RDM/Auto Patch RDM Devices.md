@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Auto Patch RDM Devices"
 slug: "key_rdm_auto_patch"
 url: "https://help.malighting.com/grandMA2/en/help/key_rdm_auto_patch.html"

@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Apply worlds or filters to executors and sequences"
 slug: "key_wfm_apply_to_exec_seq"
 url: "https://help.malighting.com/grandMA2/en/help/key_wfm_apply_to_exec_seq.html"

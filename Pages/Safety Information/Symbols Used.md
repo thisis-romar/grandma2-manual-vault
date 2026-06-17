@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Symbols Used"
 slug: "key_safety_information_symbols_used"
 url: "https://help.malighting.com/grandMA2/en/help/key_safety_information_symbols_used.html"

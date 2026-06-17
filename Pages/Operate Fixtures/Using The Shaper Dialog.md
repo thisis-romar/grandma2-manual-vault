@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Using The Shaper Dialog"
 slug: "key_of_shaper_dialog"
 url: "https://help.malighting.com/grandMA2/en/help/key_of_shaper_dialog.html"

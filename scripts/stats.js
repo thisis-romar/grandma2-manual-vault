@@ -1,13 +1,16 @@
 /**
- * stats.js — print vault statistics
- * node stats.js
+ * stats.js — compute vault statistics, print them, and write them into
+ * README.md (the Map of Content stats table is filled by generate-moc.js).
+ *
+ * Usage: node stats.js   (prints + updates README.md)
+ * Exports: computeStats(root), updateReadme(root, stats)
  */
 
 import { promises as fs } from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
 
-const VAULT_ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
+const VAULT_ROOT_DEFAULT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 
 async function countDir(p) {
   try {
@@ -16,24 +19,56 @@ async function countDir(p) {
   } catch { return 0; }
 }
 
-const [sections, pages, keywords, keys, qs] = await Promise.all([
-  countDir(path.join(VAULT_ROOT, 'Sections')),
-  countDir(path.join(VAULT_ROOT, 'Pages')),
-  countDir(path.join(VAULT_ROOT, 'Keywords')),
-  countDir(path.join(VAULT_ROOT, 'Keys')),
-  countDir(path.join(VAULT_ROOT, 'QuickStart')),
-]);
+export async function computeStats(root = VAULT_ROOT_DEFAULT) {
+  const [sections, pages, keywords, keys, quickStart] = await Promise.all([
+    countDir(path.join(root, 'Sections')),
+    countDir(path.join(root, 'Pages')),
+    countDir(path.join(root, 'Keywords')),
+    countDir(path.join(root, 'Keys')),
+    countDir(path.join(root, 'QuickStart')),
+  ]);
+  const total = sections + pages + keywords + keys + quickStart;
+  return { sections, pages, keywords, keys, quickStart, total };
+}
 
-const total = sections + pages + keywords + keys + qs;
+/** Replace the count cell in a `| Label | … |` markdown table row. */
+function setRow(md, label, count) {
+  const re = new RegExp(`(\\|\\s*${label}\\s*\\|)[^|\\n]*(\\|)`);
+  return re.test(md) ? md.replace(re, `$1 ${count} $2`) : md;
+}
 
-console.log(`
+export async function updateReadme(root = VAULT_ROOT_DEFAULT, stats) {
+  const s = stats || await computeStats(root);
+  const readmePath = path.join(root, 'README.md');
+  let md;
+  try { md = await fs.readFile(readmePath, 'utf8'); } catch { return false; }
+  md = setRow(md, 'Sections', s.sections);
+  md = setRow(md, 'Pages', s.pages);
+  md = setRow(md, 'Keywords', s.keywords);
+  md = setRow(md, 'Keys', s.keys);
+  md = setRow(md, 'Quick Start', s.quickStart);
+  await fs.writeFile(readmePath, md, 'utf8');
+  return true;
+}
+
+function printStats(s) {
+  console.log(`
 grandMA2 Manual Vault — Stats
 ═══════════════════════════
-  Sections   ${sections}
-  Pages      ${pages}
-  Keywords   ${keywords}
-  Keys       ${keys}
-  QuickStart ${qs}
+  Sections   ${s.sections}
+  Pages      ${s.pages}
+  Keywords   ${s.keywords}
+  Keys       ${s.keys}
+  QuickStart ${s.quickStart}
   ─────────────────
-  Total      ${total}
+  Total      ${s.total}
 `);
+}
+
+// Run as CLI
+if (process.argv[1] === fileURLToPath(import.meta.url)) {
+  const stats = await computeStats();
+  printStats(stats);
+  const wrote = await updateReadme(VAULT_ROOT_DEFAULT, stats);
+  console.log(wrote ? '  README.md stats table updated.' : '  README.md not found — skipped.');
+}

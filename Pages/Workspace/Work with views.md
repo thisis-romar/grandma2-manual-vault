@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Work with views"
 slug: "key_ws_work_with_views"
 url: "https://help.malighting.com/grandMA2/en/help/key_ws_work_with_views.html"

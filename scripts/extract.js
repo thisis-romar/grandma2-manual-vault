@@ -165,7 +165,7 @@ const SECTION_SLUG_MAP = {
   'new_in_the_manual':    'New in the Manual',
 };
 
-function sectionFromSlug(slug) {
+export function sectionFromSlug(slug) {
   const inner = slug.replace(/^key_/, '');
   const parts = inner.split('_');
   // Try progressively longer prefixes
@@ -363,7 +363,7 @@ async function extractPageContent(url) {
 
 // ─── Note generators ──────────────────────────────────────────────────────────
 
-function sanitizeFilename(name) {
+export function sanitizeFilename(name) {
   return name
     .replace(/[\/\\:*?"<>|]/g, '-')
     .replace(/\s+/g, ' ')
@@ -375,7 +375,7 @@ function sanitizeFilename(name) {
  * The SAME value is used both for the file path and for every wikilink that
  * targets this entry, so links always match filenames (no case/title drift).
  */
-function computeFileName(entry, content) {
+export function computeFileName(entry, content) {
   const displayTitle = (content && content.title) || entry.title;
   switch (entry.type) {
     case 'keyword':
@@ -439,6 +439,7 @@ function buildKeywordNote(entry, content, keyEntry) {
     keyword_type:     'unknown',   // can be enriched post-generate
     related_key:      relatedKey,
     aliases,
+    cssclasses:       ['gma2-keyword'],
     tags:             ['type/keyword'],
   });
 
@@ -467,6 +468,7 @@ function buildKeyNote(entry, content, keywordEntry) {
     url:               entry.url,
     related_keyword:   relatedKw,
     aliases,
+    cssclasses:        ['gma2-key'],
     tags:              ['type/key'],
   });
 
@@ -496,6 +498,7 @@ function buildSectionNote(entry, content, childEntries) {
     url:         entry.url,
     page_count:  childEntries.length,
     aliases,
+    cssclasses:  ['gma2-section'],
     tags:        ['type/section'],
     pages:       childEntries.map(pageLink),
   });
@@ -541,6 +544,7 @@ function buildPageNote(entry, content, siblingEntries, sectionEntry) {
     next_page:    nextLink,
     depth:        Math.max(2, Math.min((entry.depth || 3) - 1, 3)),
     aliases,
+    cssclasses:   ['gma2-page'],
     tags:         ['type/page', `section/${entry.slug.replace('key_', '').split('_')[0]}`],
   });
 
@@ -563,10 +567,11 @@ function buildQuickStartNote(entry, content) {
   const pageTitle = title || entry.title;
 
   const fm = buildFrontmatter({
-    type:  'quick-start',
-    slug:  entry.slug,
-    url:   entry.url,
-    tags:  ['type/quick-start'],
+    type:        'quick-start',
+    slug:        entry.slug,
+    url:         entry.url,
+    cssclasses:  ['gma2-quick-start'],
+    tags:        ['type/quick-start'],
   });
 
   const source = `\n> [!source]- Source\n> [MA Lighting Help – ${pageTitle}](${entry.url})\n`;
@@ -715,7 +720,9 @@ async function main() {
   }
 }
 
-main().catch(err => {
-  console.error('Fatal:', err);
-  process.exit(1);
-});
+if (process.argv[1] === fileURLToPath(import.meta.url)) {
+  main().catch(err => {
+    console.error('Fatal:', err);
+    process.exit(1);
+  });
+}

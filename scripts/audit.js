@@ -70,9 +70,9 @@ function lineOf(content, index) {
   return content.slice(0, index).split('\n').length;
 }
 
-async function main() {
+export async function auditVault(root = VAULT_ROOT) {
   const files = [];
-  await collect(VAULT_ROOT, '', files);
+  await collect(root, '', files);
 
   // Build resolution indexes (key = relpath without .md, forward-slashed)
   const exact = new Map();        // "Pages/Presets/Create Presets" -> relpath
@@ -109,7 +109,7 @@ async function main() {
   const wikiRe = /\[\[(.+?)\]\]/g;
 
   for (const f of files) {
-    const raw = await fs.readFile(path.join(VAULT_ROOT, f), 'utf8');
+    const raw = await fs.readFile(path.join(root, f), 'utf8');
     let parsed;
     try { parsed = matter(raw); } catch { parsed = { data: {}, content: raw }; }
     const data = parsed.data || {};
@@ -154,10 +154,14 @@ async function main() {
     }
   }
 
-  // ---- report ----
+  return { root, files, linkTotal, findings };
+}
+
+/** Print the audit report; returns the hard-failure count. */
+export function printReport({ root, files, linkTotal, findings }) {
   const show = (arr, n = 15) => arr.slice(0, n).map((x) => `    ${x}`).join('\n') + (arr.length > n ? `\n    … +${arr.length - n} more` : '');
 
-  console.log(`\n=== Vault audit: ${VAULT_ROOT} ===`);
+  console.log(`\n=== Vault audit: ${root} ===`);
   console.log(`Notes scanned: ${files.length} · wikilinks: ${linkTotal}\n`);
 
   console.log(`(a) LINKS`);
@@ -193,7 +197,12 @@ async function main() {
   const hardFail = findings.brokenLinks.length + findings.caseLinks.length +
     findings.structure.length + findings.frontmatter.length;
   console.log(`\n=== ${hardFail ? `FAIL — ${hardFail} hard issue(s)` : 'PASS'} ===\n`);
-  process.exit(hardFail ? 1 : 0);
+  return hardFail;
 }
 
-main().catch((e) => { console.error(e); process.exit(2); });
+// Run as CLI
+if (process.argv[1] === fileURLToPath(import.meta.url)) {
+  auditVault()
+    .then((result) => process.exit(printReport(result) ? 1 : 0))
+    .catch((e) => { console.error(e); process.exit(2); });
+}

@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Configure the MA xPort Nodes as Splitters or Mergers"
 slug: "key_control_ma_xport_node_configure_as_splitters_merg"
 url: "https://help.malighting.com/grandMA2/en/help/key_control_ma_xport_node_configure_as_splitters_merg.html"

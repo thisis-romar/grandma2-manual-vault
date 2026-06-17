@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Export by using user interface"
 slug: "key_ei_export_gui"
 url: "https://help.malighting.com/grandMA2/en/help/key_ei_export_gui.html"

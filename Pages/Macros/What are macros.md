@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "What are macros"
 slug: "key_macro_what_are"
 url: "https://help.malighting.com/grandMA2/en/help/key_macro_what_are.html"

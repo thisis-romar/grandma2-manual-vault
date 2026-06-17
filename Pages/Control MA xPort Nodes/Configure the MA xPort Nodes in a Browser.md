@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Configure the MA xPort Nodes in a Browser"
 slug: "key_control_ma_xport_node_configure_in_browser"
 url: "https://help.malighting.com/grandMA2/en/help/key_control_ma_xport_node_configure_in_browser.html"

@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "DMX and Parameter lists"
 slug: "key_patch_dmx_parameter_list"
 url: "https://help.malighting.com/grandMA2/en/help/key_patch_dmx_parameter_list.html"

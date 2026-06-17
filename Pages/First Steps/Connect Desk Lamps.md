@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Connect Desk Lamps"
 slug: "key_fs_connect_desk_lamps"
 url: "https://help.malighting.com/grandMA2/en/help/key_fs_connect_desk_lamps.html"

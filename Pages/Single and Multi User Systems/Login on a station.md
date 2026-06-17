@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Login on a station"
 slug: "key_single_multi_systems_login"
 url: "https://help.malighting.com/grandMA2/en/help/key_single_multi_systems_login.html"

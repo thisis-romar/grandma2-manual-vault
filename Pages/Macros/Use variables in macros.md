@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Use variables in macros"
 slug: "key_macro_create_variables"
 url: "https://help.malighting.com/grandMA2/en/help/key_macro_create_variables.html"

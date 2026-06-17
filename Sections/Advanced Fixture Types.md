@@ -1,5 +1,7 @@
 ---
 type: "section"
+cssclasses:
+  - "gma2-section"
 section: "Advanced Fixture Types"
 slug: "key_advanced_fixture_types"
 url: "https://help.malighting.com/grandMA2/en/help/key_advanced_fixture_types.html"

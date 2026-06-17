@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Connect USB Mouse and USB Keyboad"
 slug: "key_fs_connect_usb_mouse_and_usb_keyboad"
 url: "https://help.malighting.com/grandMA2/en/help/key_fs_connect_usb_mouse_and_usb_keyboad.html"

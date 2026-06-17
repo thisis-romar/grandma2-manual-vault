@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Performance window"
 slug: "key_ost_performance_window"
 url: "https://help.malighting.com/grandMA2/en/help/key_ost_performance_window.html"

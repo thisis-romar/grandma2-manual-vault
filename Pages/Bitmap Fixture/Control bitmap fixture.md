@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Control bitmap fixture"
 slug: "key_bitmapfixture_control"
 url: "https://help.malighting.com/grandMA2/en/help/key_bitmapfixture_control.html"

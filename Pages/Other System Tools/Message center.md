@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Message center"
 slug: "key_message_center"
 url: "https://help.malighting.com/grandMA2/en/help/key_message_center.html"

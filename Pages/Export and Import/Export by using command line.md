@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Export by using command line"
 slug: "key_ei_export_commandline"
 url: "https://help.malighting.com/grandMA2/en/help/key_ei_export_commandline.html"

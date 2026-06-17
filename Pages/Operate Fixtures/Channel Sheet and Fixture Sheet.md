@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Channel Sheet and Fixture Sheet"
 slug: "key_of_layers_in_sheets_channel_and_fixture"
 url: "https://help.malighting.com/grandMA2/en/help/key_of_layers_in_sheets_channel_and_fixture.html"

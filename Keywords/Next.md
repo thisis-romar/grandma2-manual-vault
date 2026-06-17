@@ -1,5 +1,7 @@
 ---
 type: "keyword"
+cssclasses:
+  - "gma2-keyword"
 keyword: "Next"
 slug: "key_keyword_next"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_next.html"

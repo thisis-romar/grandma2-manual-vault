@@ -1,5 +1,7 @@
 ---
 type: "keyword"
+cssclasses:
+  - "gma2-keyword"
 keyword: "ListPluginLibrary"
 slug: "key_keyword_listpluginlibrary"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_listpluginlibrary.html"

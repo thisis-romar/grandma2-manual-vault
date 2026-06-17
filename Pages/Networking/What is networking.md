@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "What is networking"
 slug: "key_network_what_is_network"
 url: "https://help.malighting.com/grandMA2/en/help/key_network_what_is_network.html"

@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Clear the Screen or Delete Windows"
 slug: "key_windows_clear_delete"
 url: "https://help.malighting.com/grandMA2/en/help/key_windows_clear_delete.html"

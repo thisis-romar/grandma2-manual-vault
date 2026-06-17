@@ -1,5 +1,7 @@
 ---
 type: "section"
+cssclasses:
+  - "gma2-section"
 section: "Executors"
 slug: "key_exec"
 url: "https://help.malighting.com/grandMA2/en/help/key_exec.html"

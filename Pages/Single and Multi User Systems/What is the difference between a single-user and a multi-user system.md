@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "What is the difference between a single-user and a multi-user system"
 slug: "key_single_multi_systems_difference"
 url: "https://help.malighting.com/grandMA2/en/help/key_single_multi_systems_difference.html"

@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Icons"
 slug: "key_ws_icons"
 url: "https://help.malighting.com/grandMA2/en/help/key_ws_icons.html"

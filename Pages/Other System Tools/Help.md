@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Help"
 slug: "key_ost_help_viewer"
 url: "https://help.malighting.com/grandMA2/en/help/key_ost_help_viewer.html"

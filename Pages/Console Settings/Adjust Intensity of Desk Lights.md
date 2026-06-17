@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Adjust Intensity of Desk Lights"
 slug: "key_window_desklights"
 url: "https://help.malighting.com/grandMA2/en/help/key_window_desklights.html"

@@ -1,5 +1,7 @@
 ---
 type: "section"
+cssclasses:
+  - "gma2-section"
 section: "Chasers"
 slug: "key_chaser"
 url: "https://help.malighting.com/grandMA2/en/help/key_chaser.html"

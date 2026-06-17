@@ -1,5 +1,7 @@
 ---
 type: "keyword"
+cssclasses:
+  - "gma2-keyword"
 keyword: "DefGoForward keyword"
 slug: "key_keyword_defgoforward"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_defgoforward.html"

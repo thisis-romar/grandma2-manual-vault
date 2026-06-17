@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Enable DHCP client for the MA Network Switch"
 slug: "key_control_ma_switch_dhcp"
 url: "https://help.malighting.com/grandMA2/en/help/key_control_ma_switch_dhcp.html"

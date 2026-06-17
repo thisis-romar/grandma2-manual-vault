@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Master Section"
 slug: "key_widget_master_section"
 url: "https://help.malighting.com/grandMA2/en/help/key_widget_master_section.html"

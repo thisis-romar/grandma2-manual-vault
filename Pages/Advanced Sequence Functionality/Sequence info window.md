@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Sequence info window"
 slug: "key_adv_seq_info"
 url: "https://help.malighting.com/grandMA2/en/help/key_adv_seq_info.html"

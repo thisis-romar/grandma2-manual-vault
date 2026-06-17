@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Clone Presets"
 slug: "key_clone_clone_presets"
 url: "https://help.malighting.com/grandMA2/en/help/key_clone_clone_presets.html"

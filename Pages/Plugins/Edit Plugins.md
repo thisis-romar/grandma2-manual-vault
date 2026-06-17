@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Edit Plugins"
 slug: "key_plugins_edit"
 url: "https://help.malighting.com/grandMA2/en/help/key_plugins_edit.html"

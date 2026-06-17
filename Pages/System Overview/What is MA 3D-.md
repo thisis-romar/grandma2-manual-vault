@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "What is MA 3D?"
 slug: "key_so_what_is_ma_3d"
 url: "https://help.malighting.com/grandMA2/en/help/key_so_what_is_ma_3d.html"

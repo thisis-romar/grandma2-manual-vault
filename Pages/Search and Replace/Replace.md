@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Replace"
 slug: "key_search_replace_replace"
 url: "https://help.malighting.com/grandMA2/en/help/key_search_replace_replace.html"

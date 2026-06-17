@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Desk status"
 slug: "key_ost_desk_status"
 url: "https://help.malighting.com/grandMA2/en/help/key_ost_desk_status.html"

@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Media systems and CITP"
 slug: "key_so_media_systems_and_citp"
 url: "https://help.malighting.com/grandMA2/en/help/key_so_media_systems_and_citp.html"

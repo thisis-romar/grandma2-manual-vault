@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Anatomy of a Fixture Type"
 slug: "key_adv_fixture_anatomy"
 url: "https://help.malighting.com/grandMA2/en/help/key_adv_fixture_anatomy.html"

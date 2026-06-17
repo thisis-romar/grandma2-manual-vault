@@ -1,5 +1,7 @@
 ---
 type: "key"
+cssclasses:
+  - "gma2-key"
 key_label: "B.O. (Blackout) Key"
 slug: "key_key_blackout"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_blackout.html"

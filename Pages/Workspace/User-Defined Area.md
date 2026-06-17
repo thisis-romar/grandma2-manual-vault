@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "User-Defined Area"
 slug: "key_widget_user_defined_area"
 url: "https://help.malighting.com/grandMA2/en/help/key_widget_user_defined_area.html"

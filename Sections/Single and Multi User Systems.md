@@ -1,5 +1,7 @@
 ---
 type: "section"
+cssclasses:
+  - "gma2-section"
 section: "Single User and Multi User systems"
 slug: "key_single_multi_systems"
 url: "https://help.malighting.com/grandMA2/en/help/key_single_multi_systems.html"

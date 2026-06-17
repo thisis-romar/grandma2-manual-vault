@@ -1,5 +1,7 @@
 ---
 type: "keyword"
+cssclasses:
+  - "gma2-keyword"
 keyword: "LeaveSession"
 slug: "key_keyword_leavesession"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_leavesession.html"

@@ -1,5 +1,7 @@
 ---
 type: "keyword"
+cssclasses:
+  - "gma2-keyword"
 keyword: "DmxUniverse keyword"
 slug: "key_keyword_dmxuniverse"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_dmxuniverse.html"

@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Conditional expressions"
 slug: "key_macro_create_condition"
 url: "https://help.malighting.com/grandMA2/en/help/key_macro_create_condition.html"

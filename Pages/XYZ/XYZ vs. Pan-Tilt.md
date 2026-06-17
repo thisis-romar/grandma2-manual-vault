@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "XYZ vs. Pan/Tilt"
 slug: "key_xyz_vs_pan_tilt"
 url: "https://help.malighting.com/grandMA2/en/help/key_xyz_vs_pan_tilt.html"

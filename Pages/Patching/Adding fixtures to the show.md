@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Adding fixtures to the show"
 slug: "key_patch_add_fixtures"
 url: "https://help.malighting.com/grandMA2/en/help/key_patch_add_fixtures.html"

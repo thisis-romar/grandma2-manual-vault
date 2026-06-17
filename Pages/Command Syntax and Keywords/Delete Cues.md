@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Delete Cues"
 slug: "key_cs_delete_cues"
 url: "https://help.malighting.com/grandMA2/en/help/key_cs_delete_cues.html"

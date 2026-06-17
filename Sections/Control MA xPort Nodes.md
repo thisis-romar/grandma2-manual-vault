@@ -1,5 +1,7 @@
 ---
 type: "section"
+cssclasses:
+  - "gma2-section"
 section: "Control the MA xPort Nodes"
 slug: "key_control_ma_xport_node"
 url: "https://help.malighting.com/grandMA2/en/help/key_control_ma_xport_node.html"

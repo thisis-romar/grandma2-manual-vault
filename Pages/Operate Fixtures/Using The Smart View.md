@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Using The Smart View"
 slug: "key_of_smart_view"
 url: "https://help.malighting.com/grandMA2/en/help/key_of_smart_view.html"

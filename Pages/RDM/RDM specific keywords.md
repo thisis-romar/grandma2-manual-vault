@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "RDM specific keywords"
 slug: "key_rdm_keywords"
 url: "https://help.malighting.com/grandMA2/en/help/key_rdm_keywords.html"

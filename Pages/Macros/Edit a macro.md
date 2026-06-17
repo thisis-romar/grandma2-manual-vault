@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Edit a macro"
 slug: "key_macro_edit"
 url: "https://help.malighting.com/grandMA2/en/help/key_macro_edit.html"

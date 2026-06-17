@@ -10,7 +10,8 @@
     "links":         "cd scripts && node convert-links.js ..",
     "audit":         "cd scripts && node audit.js ..",
     "stats":         "cd scripts && node stats.js",
-    "moc":           "cd scripts && node generate-moc.js"
+    "moc":           "cd scripts && node generate-moc.js",
+    "test":          "cd scripts && node --test"
   },
   "keywords": ["obsidian", "grandma2", "lighting-console", "knowledge-graph", "ma2"],
   "license": "CC-BY-4.0"

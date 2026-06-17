@@ -1,5 +1,7 @@
 ---
 type: "section"
+cssclasses:
+  - "gma2-section"
 section: "DMX Profiles"
 slug: "key_dmx_profiles"
 url: "https://help.malighting.com/grandMA2/en/help/key_dmx_profiles.html"

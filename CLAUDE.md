@@ -62,6 +62,8 @@ QuickStart/          — ~20 Quick Start Guide notes (type: quick-start)
 - **url**: canonical source URL
 - **tags**: array — `type/{type}`, `section/{slug}` for non-keyword nodes
 - **aliases**: from `meta-keywords` and `meta-searchwords` in page `<head>`
+- **cssclasses**: `gma2-{type}` — drives per-type reading-view styling via the
+  `.obsidian/snippets/note-types.css` snippet
 
 ### `page` notes (additional)
 - **section**: parent section title string
@@ -116,6 +118,11 @@ These notes are the primary knowledge source for the `ma2-onPC-MCP` RAG pipeline
 | QuickStart | `#59A14F` |
 | MOC | `#F97316` |
 
+This system is **shipped, not just documented**: `.obsidian/graph.json` defines the
+six graph-view color groups (by path), and `.obsidian/snippets/note-types.css`
+(auto-enabled via `.obsidian/appearance.json`) applies matching per-type accents in
+reading view, keyed off each note's `cssclasses`.
+
 ---
 
 ## Stats (post-generation)
@@ -148,6 +155,10 @@ Both `github-browse` and `gh-pages` update automatically when `main` is pushed.
 - **`npm run audit`** (`scripts/audit.js`) is a read-only conformance check against this SOP:
   it reports unresolved wikilinks, structure/`type`-vs-location mismatches, missing required
   frontmatter, and missing source-callout / nav-footer conventions. Run it after any extract.
-  (Known open issues: ~831 cross-reference links — mostly `key → [[Keywords/<label>]]` and
-  some page prev/next — point at non-existent note names from `extract.js`; ~374 pages lack
-  `ma2_section`/`depth`. These are generation-level and tracked for a future `extract.js` pass.)
+  Current state: **PASS** (0 unresolved links, 0 structure/frontmatter issues).
+- **`npm test`** (`scripts/test/`, built-in `node --test`, no extra deps) covers the
+  link-conversion, slug/filename, and audit logic.
+- **CI** (`.github/workflows/ci.yml`) runs `npm test` + `npm run audit` on every push to `main`
+  and on PRs — the quality gate that keeps broken links / frontmatter off `main`.
+- **`npm run stats` / `npm run moc`** write live note counts into `README.md` and
+  `000 Map of Content.md` (no longer placeholder `—`).

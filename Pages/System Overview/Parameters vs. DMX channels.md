@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Parameters vs. DMX channels"
 slug: "key_so_parameters_vs_dmx_channels"
 url: "https://help.malighting.com/grandMA2/en/help/key_so_parameters_vs_dmx_channels.html"

@@ -1,5 +1,7 @@
 ---
 type: "keyword"
+cssclasses:
+  - "gma2-keyword"
 keyword: "RdmList"
 slug: "key_keyword_rdmlist"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_rdmlist.html"

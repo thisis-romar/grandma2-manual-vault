@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "DMX Sheet"
 slug: "key_patch_dmx_sheet"
 url: "https://help.malighting.com/grandMA2/en/help/key_patch_dmx_sheet.html"

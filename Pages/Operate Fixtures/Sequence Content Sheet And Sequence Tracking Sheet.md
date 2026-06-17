@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Sequence Content Sheet And Sequence Tracking Sheet"
 slug: "key_of_layers_in_sheets_content_and_tracking"
 url: "https://help.malighting.com/grandMA2/en/help/key_of_layers_in_sheets_content_and_tracking.html"

@@ -1,5 +1,7 @@
 ---
 type: "keyword"
+cssclasses:
+  - "gma2-keyword"
 keyword: "DropControl keyword"
 slug: "key_keyword_dropcontrol"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_dropcontrol.html"

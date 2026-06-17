@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Big systems"
 slug: "key_so_big_systems"
 url: "https://help.malighting.com/grandMA2/en/help/key_so_big_systems.html"

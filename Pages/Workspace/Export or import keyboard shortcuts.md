@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Export or import keyboard shortcuts"
 slug: "key_ws_keyboard_shortcuts_export_import"
 url: "https://help.malighting.com/grandMA2/en/help/key_ws_keyboard_shortcuts_export_import.html"

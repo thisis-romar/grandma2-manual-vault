@@ -1,5 +1,7 @@
 ---
 type: "keyword"
+cssclasses:
+  - "gma2-keyword"
 keyword: "Thru"
 slug: "key_keyword_thru"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_thru.html"

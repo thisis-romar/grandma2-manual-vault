@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Change password of the MA Network Switch"
 slug: "key_control_ma_switch_password"
 url: "https://help.malighting.com/grandMA2/en/help/key_control_ma_switch_password.html"

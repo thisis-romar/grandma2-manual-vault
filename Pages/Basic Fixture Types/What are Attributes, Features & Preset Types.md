@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "What are Attributes, Features & Preset Types"
 slug: "key_basic_fixture_attribute_feature_preset"
 url: "https://help.malighting.com/grandMA2/en/help/key_basic_fixture_attribute_feature_preset.html"

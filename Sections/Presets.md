@@ -1,5 +1,7 @@
 ---
 type: "section"
+cssclasses:
+  - "gma2-section"
 section: "What Are Presets?"
 slug: "key_presets"
 url: "https://help.malighting.com/grandMA2/en/help/key_presets.html"

@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Use Template and Selective Effects"
 slug: "key_effects_template_and_selective"
 url: "https://help.malighting.com/grandMA2/en/help/key_effects_template_and_selective.html"

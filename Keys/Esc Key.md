@@ -1,5 +1,7 @@
 ---
 type: "key"
+cssclasses:
+  - "gma2-key"
 key_label: "Esc Key"
 slug: "key_key_escape"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_escape.html"

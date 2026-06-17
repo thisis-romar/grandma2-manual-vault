@@ -1,5 +1,7 @@
 ---
 type: "keyword"
+cssclasses:
+  - "gma2-keyword"
 keyword: "RemoveIndividuals"
 slug: "key_keyword_removeindividuals"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_removeindividuals.html"

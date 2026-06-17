@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Command Section"
 slug: "key_ws_command_section"
 url: "https://help.malighting.com/grandMA2/en/help/key_ws_command_section.html"

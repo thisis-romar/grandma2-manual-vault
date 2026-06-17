@@ -1,5 +1,7 @@
 ---
 type: "section"
+cssclasses:
+  - "gma2-section"
 section: "Export and Import"
 slug: "key_export_and_import"
 url: "https://help.malighting.com/grandMA2/en/help/key_export_and_import.html"

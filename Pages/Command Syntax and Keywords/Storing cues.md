@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Storing cues"
 slug: "key_cs_store"
 url: "https://help.malighting.com/grandMA2/en/help/key_cs_store.html"

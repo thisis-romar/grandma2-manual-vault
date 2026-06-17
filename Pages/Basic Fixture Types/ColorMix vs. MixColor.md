@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "ColorMix vs. MixColor"
 slug: "key_basic_fixture_colormix_mixcolor"
 url: "https://help.malighting.com/grandMA2/en/help/key_basic_fixture_colormix_mixcolor.html"

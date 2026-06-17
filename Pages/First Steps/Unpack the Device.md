@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Unpack the Device"
 slug: "key_fs_unpack_the_device"
 url: "https://help.malighting.com/grandMA2/en/help/key_fs_unpack_the_device.html"

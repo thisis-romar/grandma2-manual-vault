@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Record a Timecode Show"
 slug: "key_timecode_record"
 url: "https://help.malighting.com/grandMA2/en/help/key_timecode_record.html"

@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Dangers Caused by Electric Current"
 slug: "key_safety_information_dangers_caused_by_electric_cur"
 url: "https://help.malighting.com/grandMA2/en/help/key_safety_information_dangers_caused_by_electric_cur.html"

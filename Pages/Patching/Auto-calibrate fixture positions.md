@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Auto-calibrate fixture positions"
 slug: "key_patch_autocalibrate"
 url: "https://help.malighting.com/grandMA2/en/help/key_patch_autocalibrate.html"

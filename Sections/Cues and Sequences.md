@@ -1,5 +1,7 @@
 ---
 type: "section"
+cssclasses:
+  - "gma2-section"
 section: "Cues and Sequences"
 slug: "key_cues_and_sequences"
 url: "https://help.malighting.com/grandMA2/en/help/key_cues_and_sequences.html"

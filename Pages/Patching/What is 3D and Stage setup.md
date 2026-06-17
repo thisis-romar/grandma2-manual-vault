@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "What is 3D and Stage setup"
 slug: "key_patch_what_is_3d_stage"
 url: "https://help.malighting.com/grandMA2/en/help/key_patch_what_is_3d_stage.html"

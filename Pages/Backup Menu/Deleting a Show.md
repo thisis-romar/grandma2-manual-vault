@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Deleting a Show"
 slug: "key_backup_menu_delete_show"
 url: "https://help.malighting.com/grandMA2/en/help/key_backup_menu_delete_show.html"

@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Update Presets"
 slug: "key_presets_update"
 url: "https://help.malighting.com/grandMA2/en/help/key_presets_update.html"

@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Create filters"
 slug: "key_wfm_create_filters"
 url: "https://help.malighting.com/grandMA2/en/help/key_wfm_create_filters.html"

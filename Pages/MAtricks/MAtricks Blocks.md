@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "MAtricks Blocks"
 slug: "key_matricks_blocks"
 url: "https://help.malighting.com/grandMA2/en/help/key_matricks_blocks.html"

@@ -1,5 +1,7 @@
 ---
 type: "section"
+cssclasses:
+  - "gma2-section"
 section: "Shut Down the System"
 slug: "key_shut_down_the_system"
 url: "https://help.malighting.com/grandMA2/en/help/key_shut_down_the_system.html"

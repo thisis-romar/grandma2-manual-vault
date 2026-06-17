@@ -1,5 +1,7 @@
 ---
 type: "section"
+cssclasses:
+  - "gma2-section"
 section: "First Steps"
 slug: "key_first_steps"
 url: "https://help.malighting.com/grandMA2/en/help/key_first_steps.html"

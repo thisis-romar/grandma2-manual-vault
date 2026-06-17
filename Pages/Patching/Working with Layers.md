@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Working with Layers"
 slug: "key_patch_layers"
 url: "https://help.malighting.com/grandMA2/en/help/key_patch_layers.html"

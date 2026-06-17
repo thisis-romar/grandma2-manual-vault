@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Effects in a Cue"
 slug: "key_effects_in_cue"
 url: "https://help.malighting.com/grandMA2/en/help/key_effects_in_cue.html"

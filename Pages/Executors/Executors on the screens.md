@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Executors on the screens"
 slug: "key_exec_on_screen"
 url: "https://help.malighting.com/grandMA2/en/help/key_exec_on_screen.html"

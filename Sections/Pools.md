@@ -1,5 +1,7 @@
 ---
 type: "section"
+cssclasses:
+  - "gma2-section"
 section: "Pools in General"
 slug: "key_pools"
 url: "https://help.malighting.com/grandMA2/en/help/key_pools.html"

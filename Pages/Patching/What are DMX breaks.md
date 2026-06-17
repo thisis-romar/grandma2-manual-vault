@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "What are DMX breaks"
 slug: "key_patch_dmx_break"
 url: "https://help.malighting.com/grandMA2/en/help/key_patch_dmx_break.html"

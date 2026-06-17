@@ -1,5 +1,7 @@
 ---
 type: "section"
+cssclasses:
+  - "gma2-section"
 section: "Timecode"
 slug: "key_timecode"
 url: "https://help.malighting.com/grandMA2/en/help/key_timecode.html"

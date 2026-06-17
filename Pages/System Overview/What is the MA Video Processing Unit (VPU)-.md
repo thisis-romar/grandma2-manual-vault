@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "What is the MA Video Processing Unit (VPU)?"
 slug: "key_so_what_is_the_video_processing_unit_vpu"
 url: "https://help.malighting.com/grandMA2/en/help/key_so_what_is_the_video_processing_unit_vpu.html"

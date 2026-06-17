@@ -1,5 +1,7 @@
 ---
 type: "key"
+cssclasses:
+  - "gma2-key"
 key_label: "On Key"
 slug: "key_key_on"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_on.html"

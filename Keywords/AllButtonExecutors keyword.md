@@ -1,5 +1,7 @@
 ---
 type: "keyword"
+cssclasses:
+  - "gma2-keyword"
 keyword: "AllButtonExecutors keyword"
 slug: "key_keyword_allbuttonexecutors"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_allbuttonexecutors.html"

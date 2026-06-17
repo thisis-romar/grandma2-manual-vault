@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "What is Partial Show Read (PSR)"
 slug: "key_psr_what_is"
 url: "https://help.malighting.com/grandMA2/en/help/key_psr_what_is.html"

@@ -1,5 +1,7 @@
 ---
 type: "keyword"
+cssclasses:
+  - "gma2-keyword"
 keyword: "Default"
 slug: "key_keyword_default"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_default.html"

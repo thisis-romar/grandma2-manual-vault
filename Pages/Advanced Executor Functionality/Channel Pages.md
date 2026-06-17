@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Channel Pages"
 slug: "key_adv_exec_ch_pages"
 url: "https://help.malighting.com/grandMA2/en/help/key_adv_exec_ch_pages.html"

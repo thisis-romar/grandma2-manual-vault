@@ -1,5 +1,7 @@
 ---
 type: "keyword"
+cssclasses:
+  - "gma2-keyword"
 keyword: "Timer"
 slug: "key_keyword_timer"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_timer.html"

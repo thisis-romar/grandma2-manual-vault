@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Marker Colors"
 slug: "key_ws_colors_marker"
 url: "https://help.malighting.com/grandMA2/en/help/key_ws_colors_marker.html"

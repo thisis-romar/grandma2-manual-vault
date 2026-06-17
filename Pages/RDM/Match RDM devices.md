@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Match RDM devices"
 slug: "key_rdm_match"
 url: "https://help.malighting.com/grandMA2/en/help/key_rdm_match.html"

@@ -1,5 +1,7 @@
 ---
 type: "section"
+cssclasses:
+  - "gma2-section"
 section: "Bitmap Fixture"
 slug: "key_bitmapfixture"
 url: "https://help.malighting.com/grandMA2/en/help/key_bitmapfixture.html"

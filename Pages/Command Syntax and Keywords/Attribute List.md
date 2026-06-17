@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Attribute List"
 slug: "key_cs_attribute_list"
 url: "https://help.malighting.com/grandMA2/en/help/key_cs_attribute_list.html"

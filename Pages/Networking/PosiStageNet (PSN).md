@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "PosiStageNet (PSN)"
 slug: "key_network_psn"
 url: "https://help.malighting.com/grandMA2/en/help/key_network_psn.html"

@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Manually create a macro"
 slug: "key_macro_create"
 url: "https://help.malighting.com/grandMA2/en/help/key_macro_create.html"

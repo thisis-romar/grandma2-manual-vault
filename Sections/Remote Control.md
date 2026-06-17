@@ -1,5 +1,7 @@
 ---
 type: "section"
+cssclasses:
+  - "gma2-section"
 section: "Remote Controlling the System"
 slug: "key_remote_control"
 url: "https://help.malighting.com/grandMA2/en/help/key_remote_control.html"

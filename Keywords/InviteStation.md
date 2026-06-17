@@ -1,5 +1,7 @@
 ---
 type: "keyword"
+cssclasses:
+  - "gma2-keyword"
 keyword: "InviteStation"
 slug: "key_keyword_invitestation"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_invitestation.html"

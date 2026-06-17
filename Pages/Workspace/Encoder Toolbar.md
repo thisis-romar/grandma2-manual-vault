@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Encoder Toolbar"
 slug: "key_ws_encoder_toolbar"
 url: "https://help.malighting.com/grandMA2/en/help/key_ws_encoder_toolbar.html"

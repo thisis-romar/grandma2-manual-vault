@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Link Objects to Stage Markers in MA 3D"
 slug: "key_xyz_link_object_to_stage_markers"
 url: "https://help.malighting.com/grandMA2/en/help/key_xyz_link_object_to_stage_markers.html"

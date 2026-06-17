@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "What are the MA nodes?"
 slug: "key_so_what_are_the_ma_nodes"
 url: "https://help.malighting.com/grandMA2/en/help/key_so_what_are_the_ma_nodes.html"

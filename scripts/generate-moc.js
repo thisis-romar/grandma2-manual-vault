@@ -7,11 +7,14 @@
 import { promises as fs } from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
+import { computeStats, updateReadme } from './stats.js';
 
 const VAULT_ROOT_DEFAULT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 
 export async function generateMOC(vaultRoot = VAULT_ROOT_DEFAULT, allEntries = null) {
   console.log('\nGenerating MOC and index notes...');
+
+  const stats = await computeStats(vaultRoot);
 
   // ── 000 Map of Content ────────────────────────────────────────────────────
 
@@ -58,11 +61,12 @@ ${sectionLinks || '*No sections generated yet. Run npm run obsidian.*'}
 
 | Node type | Count |
 |---|---|
-| Sections | ${sectionFiles.length} |
-| Pages | *(run npm run stats)* |
-| Keywords | *(run npm run stats)* |
-| Keys | *(run npm run stats)* |
-| Quick Start | *(run npm run stats)* |
+| Sections | ${stats.sections} |
+| Pages | ${stats.pages} |
+| Keywords | ${stats.keywords} |
+| Keys | ${stats.keys} |
+| Quick Start | ${stats.quickStart} |
+| **Total** | **${stats.total}** |
 `;
 
   await fs.writeFile(path.join(vaultRoot, '000 Map of Content.md'), mocContent, 'utf8');
@@ -137,6 +141,10 @@ Part of [[000 Map of Content]]
 
   await fs.writeFile(path.join(vaultRoot, '000 Key Index.md'), keyIndexContent, 'utf8');
   console.log('  Written: 000 Key Index.md');
+
+  // Keep the README stats table in sync too.
+  await updateReadme(vaultRoot, stats);
+  console.log('  README.md stats table updated.');
 
   console.log('MOC generation complete.');
 }

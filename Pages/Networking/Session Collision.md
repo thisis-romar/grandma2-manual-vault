@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Session Collision"
 slug: "key_network_session_collision"
 url: "https://help.malighting.com/grandMA2/en/help/key_network_session_collision.html"

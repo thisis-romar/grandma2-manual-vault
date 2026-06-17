@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "How to end or leave a session"
 slug: "key_network_session_end_leave"
 url: "https://help.malighting.com/grandMA2/en/help/key_network_session_end_leave.html"

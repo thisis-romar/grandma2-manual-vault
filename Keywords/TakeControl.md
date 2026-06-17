@@ -1,5 +1,7 @@
 ---
 type: "keyword"
+cssclasses:
+  - "gma2-keyword"
 keyword: "TakeControl"
 slug: "key_keyword_takecontrol"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_takecontrol.html"

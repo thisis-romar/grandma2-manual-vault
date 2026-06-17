@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Time Control"
 slug: "key_ws_time_control"
 url: "https://help.malighting.com/grandMA2/en/help/key_ws_time_control.html"

@@ -1,5 +1,7 @@
 ---
 type: "keyword"
+cssclasses:
+  - "gma2-keyword"
 keyword: "Effect keyword"
 slug: "key_keyword_effect"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_effect.html"

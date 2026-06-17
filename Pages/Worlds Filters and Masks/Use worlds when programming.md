@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Use worlds when programming"
 slug: "key_wfm_use_worlds"
 url: "https://help.malighting.com/grandMA2/en/help/key_wfm_use_worlds.html"

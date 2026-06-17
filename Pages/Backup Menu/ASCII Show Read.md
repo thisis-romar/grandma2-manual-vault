@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "ASCII Show Read"
 slug: "key_backup_menu_ascii_show_read"
 url: "https://help.malighting.com/grandMA2/en/help/key_backup_menu_ascii_show_read.html"

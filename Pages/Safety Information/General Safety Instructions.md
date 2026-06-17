@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "General Safety Instructions"
 slug: "key_safety_information_general_safety_instructions"
 url: "https://help.malighting.com/grandMA2/en/help/key_safety_information_general_safety_instructions.html"

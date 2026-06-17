@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Create Effect Forms"
 slug: "key_effects_create_forms"
 url: "https://help.malighting.com/grandMA2/en/help/key_effects_create_forms.html"

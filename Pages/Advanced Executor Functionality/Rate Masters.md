@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Rate Masters"
 slug: "key_adv_exec_spec_master_rate"
 url: "https://help.malighting.com/grandMA2/en/help/key_adv_exec_spec_master_rate.html"

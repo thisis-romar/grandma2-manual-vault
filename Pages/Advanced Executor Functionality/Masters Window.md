@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Masters Window"
 slug: "key_adv_exec_master_window"
 url: "https://help.malighting.com/grandMA2/en/help/key_adv_exec_master_window.html"

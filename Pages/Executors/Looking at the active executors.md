@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Looking at the active executors"
 slug: "key_exec_running_playbacks"
 url: "https://help.malighting.com/grandMA2/en/help/key_exec_running_playbacks.html"

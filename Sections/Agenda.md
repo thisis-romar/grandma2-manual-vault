@@ -1,5 +1,7 @@
 ---
 type: "section"
+cssclasses:
+  - "gma2-section"
 section: "Agenda"
 slug: "key_agenda"
 url: "https://help.malighting.com/grandMA2/en/help/key_agenda.html"

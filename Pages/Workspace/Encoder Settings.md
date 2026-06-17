@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Encoder Settings"
 slug: "key_ws_encoder_settings"
 url: "https://help.malighting.com/grandMA2/en/help/key_ws_encoder_settings.html"

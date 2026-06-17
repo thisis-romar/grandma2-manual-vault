@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Create an Effect that Uses Presets"
 slug: "key_effects_effect_using_presets"
 url: "https://help.malighting.com/grandMA2/en/help/key_effects_effect_using_presets.html"

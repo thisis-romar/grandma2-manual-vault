@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Tools"
 slug: "key_of_sheet_options_tools"
 url: "https://help.malighting.com/grandMA2/en/help/key_of_sheet_options_tools.html"

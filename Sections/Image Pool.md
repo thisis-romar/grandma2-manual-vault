@@ -1,5 +1,7 @@
 ---
 type: "section"
+cssclasses:
+  - "gma2-section"
 section: "Image Pool"
 slug: "key_image"
 url: "https://help.malighting.com/grandMA2/en/help/key_image.html"

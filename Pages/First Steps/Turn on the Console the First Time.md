@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Turn on the Console the First Time"
 slug: "key_fs_turn_on_the_console_the_first_time"
 url: "https://help.malighting.com/grandMA2/en/help/key_fs_turn_on_the_console_the_first_time.html"

@@ -1,5 +1,7 @@
 ---
 type: "quick-start"
+cssclasses:
+  - "gma2-quick-start"
 slug: "index"
 url: "https://help.malighting.com/grandMA2/en/help/grandma2_quick_start_guide/index.html"
 tags:

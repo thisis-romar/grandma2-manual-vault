@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Live patching"
 slug: "key_patch_livepatch"
 url: "https://help.malighting.com/grandMA2/en/help/key_patch_livepatch.html"

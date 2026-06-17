@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Setup your PC"
 slug: "key_fs_setup_your_pc"
 url: "https://help.malighting.com/grandMA2/en/help/key_fs_setup_your_pc.html"

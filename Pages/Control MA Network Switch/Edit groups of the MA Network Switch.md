@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Edit groups of the MA Network Switch"
 slug: "key_control_ma_switch_groups"
 url: "https://help.malighting.com/grandMA2/en/help/key_control_ma_switch_groups.html"

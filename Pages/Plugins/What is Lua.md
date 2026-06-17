@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "What is Lua"
 slug: "key_plugins_what_is_lua"
 url: "https://help.malighting.com/grandMA2/en/help/key_plugins_what_is_lua.html"

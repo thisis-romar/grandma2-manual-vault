@@ -1,5 +1,7 @@
 ---
 type: "keyword"
+cssclasses:
+  - "gma2-keyword"
 keyword: "Rotate3D"
 slug: "key_keyword_rotate3d"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_rotate3d.html"

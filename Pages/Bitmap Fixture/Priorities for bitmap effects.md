@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Priorities for bitmap effects"
 slug: "key_bitmapfixture_priorities"
 url: "https://help.malighting.com/grandMA2/en/help/key_bitmapfixture_priorities.html"

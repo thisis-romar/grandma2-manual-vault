@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Sound input window"
 slug: "key_ost_sound_input_window"
 url: "https://help.malighting.com/grandMA2/en/help/key_ost_sound_input_window.html"

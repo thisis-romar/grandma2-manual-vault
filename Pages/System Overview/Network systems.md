@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Network systems"
 slug: "key_so_network_systems"
 url: "https://help.malighting.com/grandMA2/en/help/key_so_network_systems.html"

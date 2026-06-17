@@ -1,5 +1,7 @@
 ---
 type: "section"
+cssclasses:
+  - "gma2-section"
 section: "Partial Show Read"
 slug: "key_psr"
 url: "https://help.malighting.com/grandMA2/en/help/key_psr.html"

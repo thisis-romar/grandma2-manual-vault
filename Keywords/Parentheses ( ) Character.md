@@ -1,5 +1,7 @@
 ---
 type: "keyword"
+cssclasses:
+  - "gma2-keyword"
 keyword: "Parentheses ( ) Character"
 slug: "key_keyword_parentheses"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_parentheses.html"

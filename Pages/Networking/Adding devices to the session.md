@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Adding devices to the session"
 slug: "key_network_session_add_device"
 url: "https://help.malighting.com/grandMA2/en/help/key_network_session_add_device.html"

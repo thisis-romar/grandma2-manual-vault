@@ -1,5 +1,7 @@
 ---
 type: "section"
+cssclasses:
+  - "gma2-section"
 section: "Clone"
 slug: "key_clone"
 url: "https://help.malighting.com/grandMA2/en/help/key_clone.html"

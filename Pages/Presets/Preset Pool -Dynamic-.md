@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Preset Pool \"Dynamic\""
 slug: "key_presets_dynamic_pool"
 url: "https://help.malighting.com/grandMA2/en/help/key_presets_dynamic_pool.html"

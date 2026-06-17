@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Chaser mini executor"
 slug: "key_chaser_mini_executer"
 url: "https://help.malighting.com/grandMA2/en/help/key_chaser_mini_executer.html"

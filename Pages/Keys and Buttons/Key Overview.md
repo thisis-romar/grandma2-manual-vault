@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Key Overview"
 slug: "key_keys_key_overview"
 url: "https://help.malighting.com/grandMA2/en/help/key_keys_key_overview.html"

@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Connect External Screens"
 slug: "key_fs_connect_external_screens"
 url: "https://help.malighting.com/grandMA2/en/help/key_fs_connect_external_screens.html"

@@ -1,5 +1,7 @@
 ---
 type: "key"
+cssclasses:
+  - "gma2-key"
 key_label: "Fixture Key"
 slug: "key_key_fixture"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_fixture.html"

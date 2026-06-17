@@ -1,5 +1,7 @@
 ---
 type: "page"
+cssclasses:
+  - "gma2-page"
 title_str: "Delete MA Network Switch from the network configuration"
 slug: "key_control_ma_switch_delete"
 url: "https://help.malighting.com/grandMA2/en/help/key_control_ma_switch_delete.html"
