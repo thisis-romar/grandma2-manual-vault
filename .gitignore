@@ -1,5 +1,6 @@
 scripts/node_modules/
 node_modules/
 _quartz/
+analytics/
 .DS_Store
 *.log

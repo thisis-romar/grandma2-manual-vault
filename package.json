@@ -11,6 +11,8 @@
     "audit":         "cd scripts && node audit.js ..",
     "stats":         "cd scripts && node stats.js",
     "moc":           "cd scripts && node generate-moc.js",
+    "analytics":     "cd scripts && node analytics.js",
+    "semantics":     "cd scripts && node semantics.js",
     "test":          "cd scripts && node --test"
   },
   "keywords": ["obsidian", "grandma2", "lighting-console", "knowledge-graph", "ma2"],
