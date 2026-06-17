@@ -146,8 +146,12 @@ in-memory; output goes to the **gitignored** `analytics/`.
 - `nlp.js` (`npm run topics`) — local term+keyword topics; optional `openai`
   provider via fetch (`NLP_PROVIDER=openai`, no SDK).
 - `viz.js` (`npm run viz`) — standalone `analytics/graph.html` (vis-network CDN).
-- `graph.js` (`npm run graph <search|similar|serve|cypher>`) — in-memory search +
-  HTTP API (:3100); `cypher` exports for the **optional** Neo4j (`docker-compose.yml`).
+- `db.js` (`npm run db <import|summary|search <q>|similar <note>|orphans>`) — SQLite
+  catalog (`better-sqlite3`) in `analytics/vault.db` with an **FTS5** full-text index.
+- `graph.js` (`npm run graph <search|similar|index|serve|cypher>`) — in-memory search +
+  HTTP API (:3100). **Optional Neo4j** (`neo4j-driver`, gated on `NEO4J_URI`/
+  `NEO4J_PASSWORD`): `index` loads the graph, `search` queries its full-text index;
+  `cypher` exports a loadable script. See `docker-compose.yml`.
 
 Dev tooling: ESLint + Prettier (vault markdown excluded via `.prettierignore`),
 Husky (pre-commit lint-staged, commit-msg commitlint, pre-push test+audit), all

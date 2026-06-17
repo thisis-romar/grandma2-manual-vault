@@ -61,12 +61,17 @@ npm run analytics topics                # pages-per-section + keyword-type distr
 npm run analytics -- similar Keywords/Store   # Jaccard-similar notes by shared links
 npm run topics                          # per-note topic extraction (local; OpenAI optional)
 npm run viz                             # interactive graph → analytics/graph.html
-npm run graph -- search store preset    # full-text search across note bodies
+npm run db:import                       # build SQLite catalog → analytics/vault.db (FTS5)
+npm run db:summary                      # counts / orphans / most-linked (SQL)
+npm run db -- search "store preset"     # FTS5 full-text search
+npm run graph -- search store preset    # full-text search (Neo4j if configured, else in-memory)
 npm run graph -- serve                  # HTTP API on :3100 (/search · /similar · /summary)
-npm run graph -- cypher                 # export analytics/graph.cypher for Neo4j (optional)
 ```
 
-Neo4j is optional (`docker compose up -d`); the default graph engine is in-memory.
+**Neo4j (optional):** `docker compose up -d`, set `NEO4J_URI`/`NEO4J_PASSWORD`, then
+`npm run graph -- index` to load the graph and `npm run graph -- search …` to query its
+full-text index. Without it, the SQLite (`npm run db`) and in-memory (`npm run graph`) engines
+need no infrastructure. `npm run graph -- cypher` exports a Neo4j-loadable script too.
 
 ## Develop
 
