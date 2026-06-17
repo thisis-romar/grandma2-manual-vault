@@ -50,6 +50,14 @@ const SKIP_FILES = new Set(['README.md', 'CLAUDE.md']);
 
 let unresolved = 0;
 
+// Percent-encode a relative path for use as a markdown link destination.
+// Filenames contain spaces, parentheses and brackets (e.g. "B.O. (Blackout)
+// Key.md", "+ [Plus] keyword.md"); unencoded ( ) [ ] / spaces break GitHub's
+// CommonMark renderer. encodeURI handles spaces and [ ]; ( ) must be added.
+function encodeDest(relPath) {
+  return encodeURI(relPath).replace(/\(/g, '%28').replace(/\)/g, '%29');
+}
+
 function convertWikilinks(content, currentRelPath, index) {
   const currentDir = path.dirname(currentRelPath);
 
@@ -62,16 +70,17 @@ function convertWikilinks(content, currentRelPath, index) {
     const note = noteOnly.trim();
     const displayText = (alias || rawNote).trim();
 
-    let target = index.exact.get(note) || index.ci.get(note.toLowerCase());
+    const target = index.exact.get(note) || index.ci.get(note.toLowerCase());
     if (!target) {
       unresolved++;
       console.warn(`  [warn] unresolved: ${currentRelPath} -> [[${inner}]]`);
-      return `[${displayText}](./${note}.md${anchor ? `#${anchor}` : ''})`; // best-effort
+      const dest = encodeDest(`./${note}.md`) + (anchor ? `#${encodeURIComponent(anchor)}` : '');
+      return `[${displayText}](${dest})`; // best-effort
     }
 
-    let relTarget = path.relative(currentDir, target).replace(/\\/g, '/');
-    if (anchor) relTarget += `#${anchor}`;
-    return `[${displayText}](${relTarget})`;
+    const relTarget = path.relative(currentDir, target).replace(/\\/g, '/');
+    const dest = encodeDest(relTarget) + (anchor ? `#${encodeURIComponent(anchor)}` : '');
+    return `[${displayText}](${dest})`;
   });
 }
 
