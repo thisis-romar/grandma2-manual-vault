@@ -11,7 +11,7 @@ import { computeStats, updateReadme } from './stats.js';
 
 const VAULT_ROOT_DEFAULT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 
-export async function generateMOC(vaultRoot = VAULT_ROOT_DEFAULT, allEntries = null) {
+export async function generateMOC(vaultRoot = VAULT_ROOT_DEFAULT, _allEntries = null) {
   console.log('\nGenerating MOC and index notes...');
 
   const stats = await computeStats(vaultRoot);
@@ -22,11 +22,11 @@ export async function generateMOC(vaultRoot = VAULT_ROOT_DEFAULT, allEntries = n
   let sectionFiles = [];
   try {
     sectionFiles = await fs.readdir(path.join(vaultRoot, 'Sections'));
-    sectionFiles = sectionFiles.filter(f => f.endsWith('.md'));
+    sectionFiles = sectionFiles.filter((f) => f.endsWith('.md'));
   } catch {}
 
   const sectionLinks = sectionFiles
-    .map(f => `- [[Sections/${f.replace('.md', '')}]]`)
+    .map((f) => `- [[Sections/${f.replace('.md', '')}]]`)
     .sort()
     .join('\n');
 
@@ -77,12 +77,12 @@ ${sectionLinks || '*No sections generated yet. Run npm run obsidian.*'}
   let kwFiles = [];
   try {
     kwFiles = await fs.readdir(path.join(vaultRoot, 'Keywords'));
-    kwFiles = kwFiles.filter(f => f.endsWith('.md'));
+    kwFiles = kwFiles.filter((f) => f.endsWith('.md'));
   } catch {}
 
   const kwLinks = kwFiles
     .sort((a, b) => a.localeCompare(b, undefined, { sensitivity: 'base' }))
-    .map(f => `- [[Keywords/${f.replace('.md', '')}]]`)
+    .map((f) => `- [[Keywords/${f.replace('.md', '')}]]`)
     .join('\n');
 
   const kwIndexContent = `---
@@ -112,12 +112,12 @@ Part of [[000 Map of Content]]
   let keyFiles = [];
   try {
     keyFiles = await fs.readdir(path.join(vaultRoot, 'Keys'));
-    keyFiles = keyFiles.filter(f => f.endsWith('.md'));
+    keyFiles = keyFiles.filter((f) => f.endsWith('.md'));
   } catch {}
 
   const keyLinks = keyFiles
     .sort()
-    .map(f => `- [[Keys/${f.replace('.md', '')}]]`)
+    .map((f) => `- [[Keys/${f.replace('.md', '')}]]`)
     .join('\n');
 
   const keyIndexContent = `---
@@ -151,5 +151,8 @@ Part of [[000 Map of Content]]
 
 // Run standalone
 if (process.argv[1] === fileURLToPath(import.meta.url)) {
-  generateMOC().catch(e => { console.error(e); process.exit(1); });
+  generateMOC().catch((e) => {
+    console.error(e);
+    process.exit(1);
+  });
 }

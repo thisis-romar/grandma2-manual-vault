@@ -49,7 +49,7 @@ const REQUIRED_FIELDS = {
 // Fields required for a given type (MOC is exempt from the _all slug/url set).
 function requiredFor(type) {
   if (type === 'moc') return REQUIRED_FIELDS.moc;
-  return [...REQUIRED_FIELDS._all, ...((REQUIRED_FIELDS[type]) || [])];
+  return [...REQUIRED_FIELDS._all, ...(REQUIRED_FIELDS[type] || [])];
 }
 
 async function collect(dir, rel, out) {
@@ -75,8 +75,8 @@ export async function auditVault(root = VAULT_ROOT) {
   await collect(root, '', files);
 
   // Build resolution indexes (key = relpath without .md, forward-slashed)
-  const exact = new Map();        // "Pages/Presets/Create Presets" -> relpath
-  const ciMap = new Map();        // lowercased relpath -> [relpaths]
+  const exact = new Map(); // "Pages/Presets/Create Presets" -> relpath
+  const ciMap = new Map(); // lowercased relpath -> [relpaths]
   for (const f of files) {
     const noExt = f.replace(/\.md$/, '');
     exact.set(noExt, f);
@@ -86,11 +86,11 @@ export async function auditVault(root = VAULT_ROOT) {
   }
 
   const findings = {
-    brokenLinks: [],      // unresolvable even case-insensitively (target note absent)
-    caseLinks: [],        // resolve only case-insensitively (broken on case-sensitive FS / github-browse)
-    structure: [],        // missing folder/MOC or type/location mismatch
-    frontmatter: [],      // missing required fields
-    conventions: [],      // missing source callout / nav footer
+    brokenLinks: [], // unresolvable even case-insensitively (target note absent)
+    caseLinks: [], // resolve only case-insensitively (broken on case-sensitive FS / github-browse)
+    structure: [], // missing folder/MOC or type/location mismatch
+    frontmatter: [], // missing required fields
+    conventions: [], // missing source callout / nav footer
   };
 
   let linkTotal = 0;
@@ -111,7 +111,11 @@ export async function auditVault(root = VAULT_ROOT) {
   for (const f of files) {
     const raw = await fs.readFile(path.join(root, f), 'utf8');
     let parsed;
-    try { parsed = matter(raw); } catch { parsed = { data: {}, content: raw }; }
+    try {
+      parsed = matter(raw);
+    } catch {
+      parsed = { data: {}, content: raw };
+    }
     const data = parsed.data || {};
     const type = data.type;
 
@@ -120,13 +124,17 @@ export async function auditVault(root = VAULT_ROOT) {
       const need = requiredFor(type);
       let missing = need.filter((k) => !(k in data));
       // A section with no child pages legitimately has no `pages` list.
-      if (type === 'section' && Number(data.page_count) === 0) missing = missing.filter((k) => k !== 'pages');
-      if (missing.length) findings.frontmatter.push(`${f}  [${type}] missing: ${missing.join(', ')}`);
+      if (type === 'section' && Number(data.page_count) === 0)
+        missing = missing.filter((k) => k !== 'pages');
+      if (missing.length)
+        findings.frontmatter.push(`${f}  [${type}] missing: ${missing.join(', ')}`);
 
       // (b) type vs location
       const expectPrefix = TYPE_LOCATION[type];
       if (expectPrefix && !f.startsWith(expectPrefix)) {
-        findings.structure.push(`TYPE/LOCATION: ${f} has type=${type} (expected under ${expectPrefix})`);
+        findings.structure.push(
+          `TYPE/LOCATION: ${f} has type=${type} (expected under ${expectPrefix})`,
+        );
       }
       if (type === 'moc' && (f.includes('/') || !f.startsWith('000 '))) {
         findings.structure.push(`TYPE/LOCATION: ${f} has type=moc (expected root "000 *.md")`);
@@ -136,7 +144,8 @@ export async function auditVault(root = VAULT_ROOT) {
     // (d) conventions (notes only, skip moc index files)
     if (type && type !== 'moc') {
       if (!raw.includes('> [!source]')) findings.conventions.push(`${f}  no source callout`);
-      if (!/Part of \[\[/.test(raw)) findings.conventions.push(`${f}  no nav footer ("Part of [[…]]")`);
+      if (!/Part of \[\[/.test(raw))
+        findings.conventions.push(`${f}  no nav footer ("Part of [[…]]")`);
     }
 
     // (a) links — resolve every wikilink
@@ -149,7 +158,10 @@ export async function auditVault(root = VAULT_ROOT) {
       const loc = `${f}:${ln}  [[${inner}]]`;
       if (exact.has(inner)) continue;
       const ci = ciMap.get(inner.toLowerCase());
-      if (ci && ci.length) { findings.caseLinks.push(`${loc} -> ${ci[0]}`); continue; }
+      if (ci && ci.length) {
+        findings.caseLinks.push(`${loc} -> ${ci[0]}`);
+        continue;
+      }
       findings.brokenLinks.push(loc);
     }
   }
@@ -159,16 +171,26 @@ export async function auditVault(root = VAULT_ROOT) {
 
 /** Print the audit report; returns the hard-failure count. */
 export function printReport({ root, files, linkTotal, findings }) {
-  const show = (arr, n = 15) => arr.slice(0, n).map((x) => `    ${x}`).join('\n') + (arr.length > n ? `\n    … +${arr.length - n} more` : '');
+  const show = (arr, n = 15) =>
+    arr
+      .slice(0, n)
+      .map((x) => `    ${x}`)
+      .join('\n') + (arr.length > n ? `\n    … +${arr.length - n} more` : '');
 
   console.log(`\n=== Vault audit: ${root} ===`);
   console.log(`Notes scanned: ${files.length} · wikilinks: ${linkTotal}\n`);
 
   console.log(`(a) LINKS`);
-  console.log(`  exact-resolved:        ${linkTotal - findings.caseLinks.length - findings.brokenLinks.length}`);
-  console.log(`  case-only (FS-broken): ${findings.caseLinks.length}  (resolve case-insensitively; break on github-browse)`);
+  console.log(
+    `  exact-resolved:        ${linkTotal - findings.caseLinks.length - findings.brokenLinks.length}`,
+  );
+  console.log(
+    `  case-only (FS-broken): ${findings.caseLinks.length}  (resolve case-insensitively; break on github-browse)`,
+  );
   if (findings.caseLinks.length) console.log(show(findings.caseLinks));
-  console.log(`  UNRESOLVABLE:          ${findings.brokenLinks.length}  (target note does not exist)`);
+  console.log(
+    `  UNRESOLVABLE:          ${findings.brokenLinks.length}  (target note does not exist)`,
+  );
   if (findings.brokenLinks.length) console.log(show(findings.brokenLinks));
 
   console.log(`\n(b) STRUCTURE — ${findings.structure.length} issue(s)`);
@@ -181,7 +203,8 @@ export function printReport({ root, files, linkTotal, findings }) {
       const key = x.split('missing: ')[1] || x;
       byMissing[key] = (byMissing[key] || 0) + 1;
     }
-    for (const [k, v] of Object.entries(byMissing).sort((a, b) => b[1] - a[1])) console.log(`    ${v}×  missing: ${k}`);
+    for (const [k, v] of Object.entries(byMissing).sort((a, b) => b[1] - a[1]))
+      console.log(`    ${v}×  missing: ${k}`);
     console.log('  examples:');
     console.log(show(findings.frontmatter, 8));
   }
@@ -194,8 +217,11 @@ export function printReport({ root, files, linkTotal, findings }) {
     console.log(show(findings.conventions, 8));
   }
 
-  const hardFail = findings.brokenLinks.length + findings.caseLinks.length +
-    findings.structure.length + findings.frontmatter.length;
+  const hardFail =
+    findings.brokenLinks.length +
+    findings.caseLinks.length +
+    findings.structure.length +
+    findings.frontmatter.length;
   console.log(`\n=== ${hardFail ? `FAIL — ${hardFail} hard issue(s)` : 'PASS'} ===\n`);
   return hardFail;
 }
@@ -204,5 +230,8 @@ export function printReport({ root, files, linkTotal, findings }) {
 if (process.argv[1] === fileURLToPath(import.meta.url)) {
   auditVault()
     .then((result) => process.exit(printReport(result) ? 1 : 0))
-    .catch((e) => { console.error(e); process.exit(2); });
+    .catch((e) => {
+      console.error(e);
+      process.exit(2);
+    });
 }

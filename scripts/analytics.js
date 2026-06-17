@@ -99,10 +99,18 @@ async function main() {
     case 'summary': {
       const s = summary(vault);
       console.log('\nVault summary\n═════════════');
-      console.log(`  notes: ${s.notes}  ·  links: ${s.totalLinks}  ·  avg ${s.avgLinksPerNote}/note  ·  orphans: ${s.orphans}`);
-      console.log('  by type:', Object.entries(s.counts).map(([k, v]) => `${k}=${v}`).join('  '));
+      console.log(
+        `  notes: ${s.notes}  ·  links: ${s.totalLinks}  ·  avg ${s.avgLinksPerNote}/note  ·  orphans: ${s.orphans}`,
+      );
+      console.log(
+        '  by type:',
+        Object.entries(s.counts)
+          .map(([k, v]) => `${k}=${v}`)
+          .join('  '),
+      );
       console.log('\n  Most-linked notes:');
-      for (const m of s.mostLinked) console.log(`    ${String(m.backlinks).padStart(4)}  ${m.note}`);
+      for (const m of s.mostLinked)
+        console.log(`    ${String(m.backlinks).padStart(4)}  ${m.note}`);
       break;
     }
     case 'topics': {
@@ -113,9 +121,15 @@ async function main() {
       break;
     }
     case 'similar': {
-      if (!arg) { console.error('usage: analytics similar <note-key>  e.g. "Keywords/Store"'); process.exit(2); }
+      if (!arg) {
+        console.error('usage: analytics similar <note-key>  e.g. "Keywords/Store"');
+        process.exit(2);
+      }
       const res = similar(vault, arg);
-      if (!res) { console.error(`note not found: ${arg}`); process.exit(2); }
+      if (!res) {
+        console.error(`note not found: ${arg}`);
+        process.exit(2);
+      }
       console.log(`\nSimilar to ${arg}\n`);
       for (const r of res) console.log(`  ${r.score.toFixed(3)}  ${r.note}`);
       break;
@@ -134,5 +148,8 @@ async function main() {
 }
 
 if (process.argv[1] === fileURLToPath(import.meta.url)) {
-  main().catch((e) => { console.error(e); process.exit(1); });
+  main().catch((e) => {
+    console.error(e);
+    process.exit(1);
+  });
 }

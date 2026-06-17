@@ -15,15 +15,28 @@ test('extractTopics drops stopwords and ranks by frequency', () => {
 });
 
 test('extractTopics tags known MA2 keywords', () => {
-  const { keywords } = extractTopics('Press Store then Assign the executor.', new Set(['store', 'assign', 'preset']));
+  const { keywords } = extractTopics(
+    'Press Store then Assign the executor.',
+    new Set(['store', 'assign', 'preset']),
+  );
   assert.deepEqual(keywords, ['assign', 'store']);
 });
 
 test('buildGraph emits typed, coloured nodes and link edges', () => {
   const vault = {
     notes: [
-      { key: 'Sections/Presets', type: 'section', links: new Set(['Pages/Presets/Create Presets']), backlinks: new Set() },
-      { key: 'Pages/Presets/Create Presets', type: 'page', links: new Set(), backlinks: new Set(['Sections/Presets']) },
+      {
+        key: 'Sections/Presets',
+        type: 'section',
+        links: new Set(['Pages/Presets/Create Presets']),
+        backlinks: new Set(),
+      },
+      {
+        key: 'Pages/Presets/Create Presets',
+        type: 'page',
+        links: new Set(),
+        backlinks: new Set(['Sections/Presets']),
+      },
     ],
   };
   const g = buildGraph(vault);

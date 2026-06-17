@@ -16,16 +16,22 @@ before(async () => {
   await fs.mkdir(path.join(root, 'Sections'), { recursive: true });
   await fs.mkdir(path.join(root, 'Pages/Networking'), { recursive: true });
 
-  await fs.writeFile(path.join(root, 'Sections/Networking.md'),
-    '---\ntype: "section"\n---\n# Networking\n> [!source] x\nPart of [[000 Map of Content]]\n');
+  await fs.writeFile(
+    path.join(root, 'Sections/Networking.md'),
+    '---\ntype: "section"\n---\n# Networking\n> [!source] x\nPart of [[000 Map of Content]]\n',
+  );
 
-  await fs.writeFile(path.join(root, 'Pages/Networking/Page A.md'),
+  await fs.writeFile(
+    path.join(root, 'Pages/Networking/Page A.md'),
     '---\ntype: "page"\n---\n# Page A\n> [!source] x\n' +
-    'Links: [[Sections/Networking]] [[sections/networking]] [[Sections/Ghost]]\n' +
-    'Part of [[Sections/Networking]]\n');
+      'Links: [[Sections/Networking]] [[sections/networking]] [[Sections/Ghost]]\n' +
+      'Part of [[Sections/Networking]]\n',
+  );
 });
 
-after(async () => { await fs.rm(root, { recursive: true, force: true }); });
+after(async () => {
+  await fs.rm(root, { recursive: true, force: true });
+});
 
 test('detects a broken link to a non-existent note', async () => {
   const { findings } = await auditVault(root);

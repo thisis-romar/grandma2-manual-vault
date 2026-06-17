@@ -15,8 +15,10 @@ const VAULT_ROOT_DEFAULT = path.resolve(path.dirname(fileURLToPath(import.meta.u
 async function countDir(p) {
   try {
     const files = await fs.readdir(p, { recursive: true });
-    return files.filter(f => f.endsWith('.md')).length;
-  } catch { return 0; }
+    return files.filter((f) => f.endsWith('.md')).length;
+  } catch {
+    return 0;
+  }
 }
 
 export async function computeStats(root = VAULT_ROOT_DEFAULT) {
@@ -38,10 +40,14 @@ function setRow(md, label, count) {
 }
 
 export async function updateReadme(root = VAULT_ROOT_DEFAULT, stats) {
-  const s = stats || await computeStats(root);
+  const s = stats || (await computeStats(root));
   const readmePath = path.join(root, 'README.md');
   let md;
-  try { md = await fs.readFile(readmePath, 'utf8'); } catch { return false; }
+  try {
+    md = await fs.readFile(readmePath, 'utf8');
+  } catch {
+    return false;
+  }
   md = setRow(md, 'Sections', s.sections);
   md = setRow(md, 'Pages', s.pages);
   md = setRow(md, 'Keywords', s.keywords);

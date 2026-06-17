@@ -20,7 +20,7 @@ import { similar, summary } from './analytics.js';
 const PORT = Number(process.env.GRAPH_PORT || 3100);
 
 function tokenize(s) {
-  return (s.toLowerCase().match(/\b[a-z0-9][a-z0-9-]*\b/g) || []);
+  return s.toLowerCase().match(/\b[a-z0-9][a-z0-9-]*\b/g) || [];
 }
 
 /** Full-text search across note bodies, ranked by query-term frequency. */
@@ -48,23 +48,34 @@ const cy = (s) => String(s).replace(/\\/g, '\\\\').replace(/'/g, "\\'");
 
 /** Export the vault as a Neo4j-loadable Cypher script. */
 export function toCypher(vault) {
-  const lines = ['// grandMA2 vault graph — load with: cypher-shell < graph.cypher', 'MATCH (n) DETACH DELETE n;'];
+  const lines = [
+    '// grandMA2 vault graph — load with: cypher-shell < graph.cypher',
+    'MATCH (n) DETACH DELETE n;',
+  ];
   for (const n of vault.notes) {
-    lines.push(`CREATE (:Note {key:'${cy(n.key)}', type:'${cy(n.type)}', title:'${cy(n.title)}'});`);
+    lines.push(
+      `CREATE (:Note {key:'${cy(n.key)}', type:'${cy(n.type)}', title:'${cy(n.title)}'});`,
+    );
   }
   for (const n of vault.notes) {
     for (const l of n.links) {
-      lines.push(`MATCH (a:Note {key:'${cy(n.key)}'}),(b:Note {key:'${cy(l)}'}) CREATE (a)-[:LINKS_TO]->(b);`);
+      lines.push(
+        `MATCH (a:Note {key:'${cy(n.key)}'}),(b:Note {key:'${cy(l)}'}) CREATE (a)-[:LINKS_TO]->(b);`,
+      );
     }
   }
   return lines.join('\n') + '\n';
 }
 
 function serve(vault) {
-  const json = (res, code, body) => { res.writeHead(code, { 'content-type': 'application/json' }); res.end(JSON.stringify(body, null, 2)); };
+  const json = (res, code, body) => {
+    res.writeHead(code, { 'content-type': 'application/json' });
+    res.end(JSON.stringify(body, null, 2));
+  };
   const server = http.createServer((req, res) => {
     const u = new URL(req.url, `http://localhost:${PORT}`);
-    if (u.pathname === '/search') return json(res, 200, search(vault, u.searchParams.get('q') || ''));
+    if (u.pathname === '/search')
+      return json(res, 200, search(vault, u.searchParams.get('q') || ''));
     if (u.pathname === '/similar') {
       const r = similar(vault, u.searchParams.get('note') || '');
       return r ? json(res, 200, r) : json(res, 404, { error: 'note not found' });
@@ -72,7 +83,9 @@ function serve(vault) {
     if (u.pathname === '/summary') return json(res, 200, summary(vault));
     return json(res, 200, { endpoints: ['/search?q=', '/similar?note=', '/summary'] });
   });
-  server.listen(PORT, () => console.log(`graph API on http://localhost:${PORT}  (/search?q= · /similar?note= · /summary)`));
+  server.listen(PORT, () =>
+    console.log(`graph API on http://localhost:${PORT}  (/search?q= · /similar?note= · /summary)`),
+  );
 }
 
 async function main() {
@@ -81,15 +94,22 @@ async function main() {
   switch (sub) {
     case 'search': {
       const q = rest.join(' ');
-      if (!q) { console.error('usage: graph search <query>'); process.exit(2); }
+      if (!q) {
+        console.error('usage: graph search <query>');
+        process.exit(2);
+      }
       const res = search(vault, q);
       console.log(`\n${res.length} result(s) for "${q}"\n`);
-      for (const r of res) console.log(`  [${String(r.score).padStart(3)}] ${r.note}\n        …${r.snippet}…`);
+      for (const r of res)
+        console.log(`  [${String(r.score).padStart(3)}] ${r.note}\n        …${r.snippet}…`);
       break;
     }
     case 'similar': {
       const r = similar(vault, rest[0] || '');
-      if (!r) { console.error('note not found'); process.exit(2); }
+      if (!r) {
+        console.error('note not found');
+        process.exit(2);
+      }
       for (const x of r) console.log(`  ${x.score.toFixed(3)}  ${x.note}`);
       break;
     }
@@ -97,7 +117,9 @@ async function main() {
       const outDir = path.join(VAULT_ROOT_DEFAULT, 'analytics');
       await fs.mkdir(outDir, { recursive: true });
       await fs.writeFile(path.join(outDir, 'graph.cypher'), toCypher(vault), 'utf8');
-      console.log(`Wrote analytics/graph.cypher (${vault.notes.length} nodes). Load into Neo4j (see docker-compose.yml).`);
+      console.log(
+        `Wrote analytics/graph.cypher (${vault.notes.length} nodes). Load into Neo4j (see docker-compose.yml).`,
+      );
       break;
     }
     case 'serve':
@@ -110,5 +132,8 @@ async function main() {
 }
 
 if (process.argv[1] === fileURLToPath(import.meta.url)) {
-  main().catch((e) => { console.error(e); process.exit(1); });
+  main().catch((e) => {
+    console.error(e);
+    process.exit(1);
+  });
 }

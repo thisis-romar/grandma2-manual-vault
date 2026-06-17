@@ -10,7 +10,11 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 import matter from 'gray-matter';
 
-export const VAULT_ROOT_DEFAULT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..', '..');
+export const VAULT_ROOT_DEFAULT = path.resolve(
+  path.dirname(fileURLToPath(import.meta.url)),
+  '..',
+  '..',
+);
 
 const IGNORE_DIRS = new Set(['.git', '.github', 'node_modules', 'scripts', '.obsidian', '_quartz']);
 const NON_NOTES = new Set(['README.md', 'CLAUDE.md']);
@@ -53,13 +57,17 @@ export async function loadVault(root = VAULT_ROOT_DEFAULT) {
   await collect(root, '', files);
 
   const notes = [];
-  const byKey = new Map();   // "Sections/Networking" -> Note
+  const byKey = new Map(); // "Sections/Networking" -> Note
   const byPath = new Map();
 
   for (const rel of files) {
     const raw = await fs.readFile(path.join(root, rel), 'utf8');
     let parsed;
-    try { parsed = matter(raw); } catch { parsed = { data: {}, content: raw }; }
+    try {
+      parsed = matter(raw);
+    } catch {
+      parsed = { data: {}, content: raw };
+    }
     const data = parsed.data || {};
     const key = rel.replace(/\.md$/, '');
     const note = {
@@ -67,7 +75,8 @@ export async function loadVault(root = VAULT_ROOT_DEFAULT) {
       key,
       type: data.type || 'unknown',
       slug: data.slug || null,
-      title: data.title_str || data.keyword || data.key_label || data.section || key.split('/').pop(),
+      title:
+        data.title_str || data.keyword || data.key_label || data.section || key.split('/').pop(),
       data,
       body: parsed.content || '',
       links: new Set(),
@@ -103,7 +112,7 @@ export const byType = (notes, type) => notes.filter((n) => n.type === type);
  */
 export function stripBoilerplate(body) {
   return body
-    .replace(/^> \[!source\][^\n]*\n(?:> [^\n]*\n)+/m, '')   // source callout block
-    .replace(/^Version \d[\d.]*\s*$/m, '')                    // "Version 3.9"
-    .replace(/^(?:← [^\n]*|[^\n]*→|Part of [^\n]*)$/gm, '');  // nav footer lines
+    .replace(/^> \[!source\][^\n]*\n(?:> [^\n]*\n)+/m, '') // source callout block
+    .replace(/^Version \d[\d.]*\s*$/m, '') // "Version 3.9"
+    .replace(/^(?:← [^\n]*|[^\n]*→|Part of [^\n]*)$/gm, ''); // nav footer lines
 }

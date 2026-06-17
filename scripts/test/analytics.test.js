@@ -10,8 +10,12 @@ function mkVault(specs) {
   const byKey = new Map();
   const notes = specs.map((s) => {
     const n = {
-      path: `${s.key}.md`, key: s.key, type: s.type, data: s.data || {},
-      links: new Set(s.links || []), backlinks: new Set(),
+      path: `${s.key}.md`,
+      key: s.key,
+      type: s.type,
+      data: s.data || {},
+      links: new Set(s.links || []),
+      backlinks: new Set(),
     };
     byKey.set(s.key, n);
     return n;
@@ -22,10 +26,30 @@ function mkVault(specs) {
 
 const vault = mkVault([
   { key: '000 Map of Content', type: 'moc' },
-  { key: 'Sections/Presets', type: 'section', data: {}, links: ['Pages/Presets/Create Presets', '000 Map of Content'] },
-  { key: 'Pages/Presets/Create Presets', type: 'page', data: { section: 'Presets' }, links: ['Keywords/Store', 'Sections/Presets', '000 Map of Content'] },
-  { key: 'Pages/Presets/Edit Presets', type: 'page', data: { section: 'Presets' }, links: ['Keywords/Store', 'Sections/Presets'] },
-  { key: 'Keywords/Store', type: 'keyword', data: { keyword_type: 'function' }, links: ['Keys/Store Key'] },
+  {
+    key: 'Sections/Presets',
+    type: 'section',
+    data: {},
+    links: ['Pages/Presets/Create Presets', '000 Map of Content'],
+  },
+  {
+    key: 'Pages/Presets/Create Presets',
+    type: 'page',
+    data: { section: 'Presets' },
+    links: ['Keywords/Store', 'Sections/Presets', '000 Map of Content'],
+  },
+  {
+    key: 'Pages/Presets/Edit Presets',
+    type: 'page',
+    data: { section: 'Presets' },
+    links: ['Keywords/Store', 'Sections/Presets'],
+  },
+  {
+    key: 'Keywords/Store',
+    type: 'keyword',
+    data: { keyword_type: 'function' },
+    links: ['Keys/Store Key'],
+  },
   { key: 'Keys/Store Key', type: 'key', data: {}, links: [] },
 ]);
 
@@ -43,7 +67,10 @@ test('topics groups pages by section', () => {
   const t = topics(vault);
   const presets = t.bySection.find(([s]) => s === 'Presets');
   assert.deepEqual(presets, ['Presets', 2]);
-  assert.deepEqual(t.byKeywordType.find(([k]) => k === 'function'), ['function', 1]);
+  assert.deepEqual(
+    t.byKeywordType.find(([k]) => k === 'function'),
+    ['function', 1],
+  );
 });
 
 test('jaccard computes set overlap', () => {

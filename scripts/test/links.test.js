@@ -30,17 +30,29 @@ const index = mkIndex([
 ]);
 
 test('path-qualified link resolves to a relative path', () => {
-  const out = convertWikilinks('See [[Sections/Networking]].', 'Pages/Networking/How to create a session.md', index);
+  const out = convertWikilinks(
+    'See [[Sections/Networking]].',
+    'Pages/Networking/How to create a session.md',
+    index,
+  );
   assert.equal(out, 'See [Sections/Networking](../../Sections/Networking.md).');
 });
 
 test('bare root link resolves with correct ../ depth (spaces encoded)', () => {
-  const out = convertWikilinks('Part of [[000 Map of Content]]', 'Pages/Networking/How to create a session.md', index);
+  const out = convertWikilinks(
+    'Part of [[000 Map of Content]]',
+    'Pages/Networking/How to create a session.md',
+    index,
+  );
   assert.equal(out, 'Part of [000 Map of Content](../../000%20Map%20of%20Content.md)');
 });
 
 test('case-insensitive fallback resolves title-case drift', () => {
-  const out = convertWikilinks('[[Pages/Advanced Executor Functionality/Executor pages]]', '000 Map of Content.md', index);
+  const out = convertWikilinks(
+    '[[Pages/Advanced Executor Functionality/Executor pages]]',
+    '000 Map of Content.md',
+    index,
+  );
   assert.match(out, /\(Pages\/Advanced%20Executor%20Functionality\/Executor%20Pages\.md\)/);
 });
 
@@ -65,6 +77,13 @@ test('unresolved link falls back to a best-effort dead link', () => {
 });
 
 test('multiple links on one line each convert', () => {
-  const out = convertWikilinks('[[Sections/Networking]] and [[000 Map of Content]]', '000 Map of Content.md', index);
-  assert.equal(out, '[Sections/Networking](Sections/Networking.md) and [000 Map of Content](000%20Map%20of%20Content.md)');
+  const out = convertWikilinks(
+    '[[Sections/Networking]] and [[000 Map of Content]]',
+    '000 Map of Content.md',
+    index,
+  );
+  assert.equal(
+    out,
+    '[Sections/Networking](Sections/Networking.md) and [000 Map of Content](000%20Map%20of%20Content.md)',
+  );
 });

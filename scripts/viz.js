@@ -79,10 +79,15 @@ export async function runViz(root = VAULT_ROOT_DEFAULT) {
   await fs.mkdir(outDir, { recursive: true });
   const out = path.join(outDir, 'graph.html');
   await fs.writeFile(out, html(graph), 'utf8');
-  console.log(`Graph: ${graph.nodes.length} nodes, ${graph.edges.length} edges → analytics/graph.html`);
+  console.log(
+    `Graph: ${graph.nodes.length} nodes, ${graph.edges.length} edges → analytics/graph.html`,
+  );
   return { nodes: graph.nodes.length, edges: graph.edges.length };
 }
 
 if (process.argv[1] === fileURLToPath(import.meta.url)) {
-  runViz().catch((e) => { console.error(e); process.exit(1); });
+  runViz().catch((e) => {
+    console.error(e);
+    process.exit(1);
+  });
 }

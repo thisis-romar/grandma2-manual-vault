@@ -8,7 +8,15 @@ import { search, toCypher } from '../graph.js';
 function mkVault(specs) {
   const byKey = new Map();
   const notes = specs.map((s) => {
-    const n = { path: `${s.key}.md`, key: s.key, type: s.type, title: s.title || s.key, body: s.body || '', links: new Set(s.links || []), backlinks: new Set() };
+    const n = {
+      path: `${s.key}.md`,
+      key: s.key,
+      type: s.type,
+      title: s.title || s.key,
+      body: s.body || '',
+      links: new Set(s.links || []),
+      backlinks: new Set(),
+    };
     byKey.set(s.key, n);
     return n;
   });
@@ -16,9 +24,22 @@ function mkVault(specs) {
 }
 
 const vault = mkVault([
-  { key: 'Pages/Presets/Create Presets', type: 'page', body: 'A preset with the Store keyword. Presets are great.' },
-  { key: 'Pages/Cues/Store a cue', type: 'page', body: 'A cue stores playback state. Store it. Store again, Store more.' },
-  { key: 'Keywords/Store', type: 'keyword', body: 'The Store keyword saves data.', links: ['Keys/Store Key'] },
+  {
+    key: 'Pages/Presets/Create Presets',
+    type: 'page',
+    body: 'A preset with the Store keyword. Presets are great.',
+  },
+  {
+    key: 'Pages/Cues/Store a cue',
+    type: 'page',
+    body: 'A cue stores playback state. Store it. Store again, Store more.',
+  },
+  {
+    key: 'Keywords/Store',
+    type: 'keyword',
+    body: 'The Store keyword saves data.',
+    links: ['Keys/Store Key'],
+  },
   { key: '000 Map of Content', type: 'moc', body: 'index store everything' },
 ]);
 

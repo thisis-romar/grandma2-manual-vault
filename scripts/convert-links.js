@@ -26,7 +26,7 @@ const VAULT_ROOT = process.argv[2]
 // ([[000 Map of Content]]) both resolve against these.
 export async function buildIndex(vaultRoot) {
   const exact = new Map(); // "Sections/Networking" -> "Sections/Networking.md"
-  const ci = new Map();    // lowercased key -> relPath (first occurrence wins)
+  const ci = new Map(); // lowercased key -> relPath (first occurrence wins)
   async function walk(dir, rel) {
     const entries = await fs.readdir(dir, { withFileTypes: true });
     for (const e of entries) {
@@ -111,9 +111,15 @@ async function processVault() {
 
   await walk(VAULT_ROOT, '');
   console.log(`  Converted ${count} files with wikilinks.`);
-  if (unresolved) console.log(`  ${unresolved} unresolved wikilink(s) emitted as best-effort dead links (see warnings; run "npm run audit").`);
+  if (unresolved)
+    console.log(
+      `  ${unresolved} unresolved wikilink(s) emitted as best-effort dead links (see warnings; run "npm run audit").`,
+    );
 }
 
 if (process.argv[1] === fileURLToPath(import.meta.url)) {
-  processVault().catch(e => { console.error(e); process.exit(1); });
+  processVault().catch((e) => {
+    console.error(e);
+    process.exit(1);
+  });
 }

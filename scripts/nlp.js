@@ -11,10 +11,14 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 import { loadVault, byType, stripBoilerplate, VAULT_ROOT_DEFAULT } from './lib/vault.js';
 
-const STOPWORDS = new Set(('a an and are as at be but by for from has have if in into is it its of on or that the ' +
-  'their then there these this to was were will with you your can not all any may more such using used use see ' +
-  'when which while also been being how what when where who whom into onto out up down over under than them they ' +
-  'we our us his her him she he do does done each other some most via per about above below after before').split(' '));
+const STOPWORDS = new Set(
+  (
+    'a an and are as at be but by for from has have if in into is it its of on or that the ' +
+    'their then there these this to was were will with you your can not all any may more such using used use see ' +
+    'when which while also been being how what when where who whom into onto out up down over under than them they ' +
+    'we our us his her him she he do does done each other some most via per about above below after before'
+  ).split(' '),
+);
 
 /**
  * Extract topics from a note body.
@@ -54,19 +58,29 @@ async function openaiTopics(text) {
     headers: { 'content-type': 'application/json', authorization: `Bearer ${key}` },
     body: JSON.stringify({
       model,
-      messages: [{ role: 'user', content: `Return 5-8 comma-separated lighting-console topic tags for:\n\n${text.slice(0, 4000)}` }],
+      messages: [
+        {
+          role: 'user',
+          content: `Return 5-8 comma-separated lighting-console topic tags for:\n\n${text.slice(0, 4000)}`,
+        },
+      ],
       temperature: 0,
     }),
   });
   if (!res.ok) throw new Error(`OpenAI ${res.status}`);
   const json = await res.json();
-  return (json.choices?.[0]?.message?.content || '').split(',').map((s) => s.trim().toLowerCase()).filter(Boolean);
+  return (json.choices?.[0]?.message?.content || '')
+    .split(',')
+    .map((s) => s.trim().toLowerCase())
+    .filter(Boolean);
 }
 
 export async function runNlp(root = VAULT_ROOT_DEFAULT) {
   const vault = await loadVault(root);
   const keywordSet = new Set(
-    byType(vault.notes, 'keyword').map((n) => (n.data.keyword || n.key.split('/').pop()).toLowerCase()),
+    byType(vault.notes, 'keyword').map((n) =>
+      (n.data.keyword || n.key.split('/').pop()).toLowerCase(),
+    ),
   );
   const provider = process.env.NLP_PROVIDER || 'local';
   const perNote = [];
@@ -83,14 +97,18 @@ export async function runNlp(root = VAULT_ROOT_DEFAULT) {
       topics = extractTopics(clean, keywordSet);
     }
     perNote.push({ note: note.path, ...topics });
-    for (const t of [...topics.keywords, ...topics.terms]) topicFreq.set(t, (topicFreq.get(t) || 0) + 1);
+    for (const t of [...topics.keywords, ...topics.terms])
+      topicFreq.set(t, (topicFreq.get(t) || 0) + 1);
   }
 
   const report = {
     generated: new Date().toISOString(),
     provider,
     notes: perNote.length,
-    topTopics: [...topicFreq.entries()].sort((a, b) => b[1] - a[1]).slice(0, 40).map(([topic, count]) => ({ topic, count })),
+    topTopics: [...topicFreq.entries()]
+      .sort((a, b) => b[1] - a[1])
+      .slice(0, 40)
+      .map(([topic, count]) => ({ topic, count })),
     perNote,
   };
   const outDir = path.join(root, 'analytics');
@@ -99,11 +117,15 @@ export async function runNlp(root = VAULT_ROOT_DEFAULT) {
 
   console.log(`\nTopic extraction (${provider}) — ${perNote.length} notes`);
   console.log('Top topics:');
-  for (const { topic, count } of report.topTopics.slice(0, 20)) console.log(`  ${String(count).padStart(4)}  ${topic}`);
+  for (const { topic, count } of report.topTopics.slice(0, 20))
+    console.log(`  ${String(count).padStart(4)}  ${topic}`);
   console.log('  → analytics/topics.json');
   return report;
 }
 
 if (process.argv[1] === fileURLToPath(import.meta.url)) {
-  runNlp().catch((e) => { console.error(e); process.exit(1); });
+  runNlp().catch((e) => {
+    console.error(e);
+    process.exit(1);
+  });
 }

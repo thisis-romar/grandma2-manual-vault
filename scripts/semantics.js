@@ -18,9 +18,9 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 import { loadVault, byType, stripBoilerplate, VAULT_ROOT_DEFAULT } from './lib/vault.js';
 
-const PROMPT_RE = /\[[^\]\n]*\]>\s*([^\n`]+)/g;          // [Channel]> Store …
-const FLAG_RE = /(?:^|\s)(\/[A-Za-z][\w-]*)/g;            // /global, /overwrite
-const CODE_RE = /`([^`\n]+)`/g;                           // inline `code`
+const PROMPT_RE = /\[[^\]\n]*\]>\s*([^\n`]+)/g; // [Channel]> Store …
+const FLAG_RE = /(?:^|\s)(\/[A-Za-z][\w-]*)/g; // /global, /overwrite
+const CODE_RE = /`([^`\n]+)`/g; // inline `code`
 
 /**
  * Extract MA2 semantic content from one note body.
@@ -117,13 +117,18 @@ export async function runSemantics(root = VAULT_ROOT_DEFAULT) {
   console.log(`  prompt examples:   ${totalPrompts}`);
   console.log(`  code commands:     ${totalCommands}`);
   console.log(`\n  Top flags:`);
-  for (const { flag, count } of report.topFlags.slice(0, 12)) console.log(`    ${String(count).padStart(4)}  ${flag}`);
+  for (const { flag, count } of report.topFlags.slice(0, 12))
+    console.log(`    ${String(count).padStart(4)}  ${flag}`);
   console.log(`\n  Top keywords:`);
-  for (const { keyword, count } of report.topKeywords.slice(0, 12)) console.log(`    ${String(count).padStart(4)}  ${keyword}`);
+  for (const { keyword, count } of report.topKeywords.slice(0, 12))
+    console.log(`    ${String(count).padStart(4)}  ${keyword}`);
   console.log(`\n  → analytics/semantics.json`);
   return report;
 }
 
 if (process.argv[1] === fileURLToPath(import.meta.url)) {
-  runSemantics().catch((e) => { console.error(e); process.exit(1); });
+  runSemantics().catch((e) => {
+    console.error(e);
+    process.exit(1);
+  });
 }

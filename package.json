@@ -5,19 +5,39 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "obsidian":      "cd scripts && npm ci && node extract.js",
-    "extract":       "cd scripts && npm ci && node extract.js",
-    "links":         "cd scripts && node convert-links.js ..",
-    "audit":         "cd scripts && node audit.js ..",
-    "stats":         "cd scripts && node stats.js",
-    "moc":           "cd scripts && node generate-moc.js",
-    "analytics":     "cd scripts && node analytics.js",
-    "semantics":     "cd scripts && node semantics.js",
-    "topics":        "cd scripts && node nlp.js",
-    "viz":           "cd scripts && node viz.js",
-    "graph":         "cd scripts && node graph.js",
-    "test":          "cd scripts && node --test"
+    "obsidian": "cd scripts && npm ci && node extract.js",
+    "extract": "cd scripts && npm ci && node extract.js",
+    "links": "cd scripts && node convert-links.js ..",
+    "audit": "cd scripts && node audit.js ..",
+    "stats": "cd scripts && node stats.js",
+    "moc": "cd scripts && node generate-moc.js",
+    "analytics": "cd scripts && node analytics.js",
+    "semantics": "cd scripts && node semantics.js",
+    "topics": "cd scripts && node nlp.js",
+    "viz": "cd scripts && node viz.js",
+    "graph": "cd scripts && node graph.js",
+    "test": "cd scripts && node --test",
+    "lint": "eslint scripts eslint.config.js",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "prepare": "husky"
   },
-  "keywords": ["obsidian", "grandma2", "lighting-console", "knowledge-graph", "ma2"],
-  "license": "CC-BY-4.0"
+  "keywords": [
+    "obsidian",
+    "grandma2",
+    "lighting-console",
+    "knowledge-graph",
+    "ma2"
+  ],
+  "license": "CC-BY-4.0",
+  "devDependencies": {
+    "@commitlint/cli": "^21.0.2",
+    "@commitlint/config-conventional": "^21.0.2",
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.5.0",
+    "globals": "^17.6.0",
+    "husky": "^9.1.7",
+    "lint-staged": "^17.0.7",
+    "prettier": "^3.8.4"
+  }
 }

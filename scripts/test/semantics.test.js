@@ -8,7 +8,8 @@ import { extractSemantics } from '../semantics.js';
 const keywords = new Set(['store', 'preset', 'assign', 'fixture', 'if', 'at']);
 
 test('captures command-line prompt examples', () => {
-  const text = 'Type:\n\n[Channel]> Store Preset 2.1 Please\n\nthen\n\n[LiveSetup/Layers 4]> CD Fixture 1\n';
+  const text =
+    'Type:\n\n[Channel]> Store Preset 2.1 Please\n\nthen\n\n[LiveSetup/Layers 4]> CD Fixture 1\n';
   const s = extractSemantics(text, keywords);
   assert.deepEqual(s.prompts, ['Store Preset 2.1 Please', 'CD Fixture 1']);
 });
@@ -32,7 +33,8 @@ test('collects flags (lowercased, deduped, sorted)', () => {
 });
 
 test('detects known keyword usages whole-word and case-insensitively', () => {
-  const text = 'Press Store, then Assign the fixture. Storeroom should not count store-keyword oddly.';
+  const text =
+    'Press Store, then Assign the fixture. Storeroom should not count store-keyword oddly.';
   const s = extractSemantics(text, keywords);
   assert.ok(s.keywords.includes('store'));
   assert.ok(s.keywords.includes('assign'));
