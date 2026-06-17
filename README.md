@@ -43,8 +43,41 @@ npm test              # unit tests for the link/slug/audit logic (node --test)
 ```
 
 Extractor requires Node 18+. The `sync.yml` workflow (github-browse + Quartz gh-pages site)
-and the `ci.yml` quality gate (tests + audit) run on Node 22; Quartz is pinned to v4.5.2 —
-see `CLAUDE.md` → Branch structure.
+and the `ci.yml` quality gate (lint + format + tests + audit) run on Node 22; Quartz is pinned
+to v4.5.2 — see `CLAUDE.md` → Branch structure.
+
+---
+
+## Analyze & Explore
+
+Tooling for mining the vault (MA2-domain refactor of the
+[linkedin-learning-extractor](https://github.com/thisis-romar/linkedin-learning-extractor)
+analytics/graph features). Output goes to the gitignored `analytics/` folder.
+
+```bash
+npm run semantics                       # extract MA2 command syntax / flags / keyword usage
+npm run analytics summary               # counts, link density, most-linked, orphans
+npm run analytics topics                # pages-per-section + keyword-type distribution
+npm run analytics -- similar Keywords/Store   # Jaccard-similar notes by shared links
+npm run topics                          # per-note topic extraction (local; OpenAI optional)
+npm run viz                             # interactive graph → analytics/graph.html
+npm run graph -- search store preset    # full-text search across note bodies
+npm run graph -- serve                  # HTTP API on :3100 (/search · /similar · /summary)
+npm run graph -- cypher                 # export analytics/graph.cypher for Neo4j (optional)
+```
+
+Neo4j is optional (`docker compose up -d`); the default graph engine is in-memory.
+
+## Develop
+
+```bash
+npm run lint            # eslint (scripts)
+npm run format          # prettier --write (scripts/config; vault markdown is excluded)
+npm test                # node --test
+```
+
+Husky hooks: **pre-commit** runs lint-staged, **commit-msg** enforces
+[Conventional Commits](https://www.conventionalcommits.org/), **pre-push** runs tests + audit.
 
 ---
 

@@ -131,6 +131,30 @@ Populated by `npm run stats` after extract. Updated in README.md.
 
 ---
 
+## Analysis tooling (`scripts/`)
+
+MA2-domain refactor of the `linkedin-learning-extractor` analytics/graph stack
+(no-analog features — instructors, skills, durations, video timestamps — dropped).
+All read the vault via `lib/vault.js` (`loadVault`, `stripBoilerplate`) and run
+in-memory; output goes to the **gitignored** `analytics/`.
+
+- `semantics.js` (`npm run semantics`) — MA2 command syntax: prompt examples
+  (`[Channel]> …`), keyword-led inline-code commands, `/flags`, keyword usage.
+- `analytics.js` (`npm run analytics <summary|topics|similar <note>|orphans>`) —
+  counts/link-density/orphans, pages-per-section, Jaccard similarity (MOC links
+  excluded so overlap is meaningful).
+- `nlp.js` (`npm run topics`) — local term+keyword topics; optional `openai`
+  provider via fetch (`NLP_PROVIDER=openai`, no SDK).
+- `viz.js` (`npm run viz`) — standalone `analytics/graph.html` (vis-network CDN).
+- `graph.js` (`npm run graph <search|similar|serve|cypher>`) — in-memory search +
+  HTTP API (:3100); `cypher` exports for the **optional** Neo4j (`docker-compose.yml`).
+
+Dev tooling: ESLint + Prettier (vault markdown excluded via `.prettierignore`),
+Husky (pre-commit lint-staged, commit-msg commitlint, pre-push test+audit), all
+also enforced by `ci.yml`.
+
+---
+
 ## Branch structure
 
 | Branch | Purpose |
