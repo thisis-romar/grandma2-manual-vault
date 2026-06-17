@@ -4,7 +4,6 @@ keyword: "BlindEdit keyword"
 slug: "key_keyword_blindedit"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_blindedit.html"
 keyword_type: "unknown"
-related_key: "[[Keys/BlindEdit keyword]]"
 tags:
   - "type/keyword"
 ---

@@ -4,7 +4,7 @@ keyword: "Learn"
 slug: "key_keyword_learn"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_learn.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Learn]]"
+related_key: "[[Keys/Learn Key]]"
 tags:
   - "type/keyword"
 ---

@@ -4,7 +4,7 @@ keyword: "Fix"
 slug: "key_keyword_fix"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_fix.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Fix]]"
+related_key: "[[Keys/Fix Key]]"
 tags:
   - "type/keyword"
 ---

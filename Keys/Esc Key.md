@@ -3,7 +3,7 @@ type: "key"
 key_label: "Esc Key"
 slug: "key_key_escape"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_escape.html"
-related_keyword: "[[Keywords/Esc Key]]"
+related_keyword: "[[Keywords/Escape keyword]]"
 tags:
   - "type/key"
 ---

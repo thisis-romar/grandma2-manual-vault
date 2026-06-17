@@ -3,7 +3,7 @@ type: "key"
 key_label: "Store Key"
 slug: "key_key_store"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_store.html"
-related_keyword: "[[Keywords/Store Key]]"
+related_keyword: "[[Keywords/Store]]"
 tags:
   - "type/key"
 ---

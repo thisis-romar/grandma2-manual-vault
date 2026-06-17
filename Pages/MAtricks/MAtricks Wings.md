@@ -4,9 +4,11 @@ title_str: "MAtricks Wings"
 slug: "key_matricks_wings"
 url: "https://help.malighting.com/grandMA2/en/help/key_matricks_wings.html"
 section: "MAtricks"
+ma2_section: "key_matricks"
 section_ref: "[[Sections/MAtricks]]"
-prev_page: "[[Pages/MAtricks/MAtricks blocks]]"
-next_page: "[[Pages/MAtricks/MAtricks groups]]"
+prev_page: "[[Pages/MAtricks/MAtricks Blocks]]"
+next_page: "[[Pages/MAtricks/MAtricks Groups]]"
+depth: 2
 tags:
   - "type/page"
   - "section/matricks"
@@ -84,6 +86,6 @@ The wing on the right – the third wing – mirrors the adjacent wing in the mi
 
 ![](../../img/img_bulb_off_v3-3.png)![](../../img/img_bulb_on_v3-3.png)![](../../img/img_bulb_off_v3-3.png)![](../../img/img_bulb_off_v3-3.png) **|** ![](../../img/img_bulb_off_v3-3.png)![](../../img/img_bulb_off_v3-3.png)![](../../img/img_bulb_on_v3-3.png)![](../../img/img_bulb_off_v3-3.png) **|** ![](../../img/img_bulb_off_v3-3.png)![](../../img/img_bulb_on_v3-3.png)![](../../img/img_bulb_off_v3-3.png)![](../../img/img_bulb_off_v3-3.png)
 
-← [[Pages/MAtricks/MAtricks blocks]] | [[Pages/MAtricks/MAtricks groups]] →
+← [[Pages/MAtricks/MAtricks Blocks]] | [[Pages/MAtricks/MAtricks Groups]] →
 
 Part of [[Sections/MAtricks]] · [[000 Map of Content]]

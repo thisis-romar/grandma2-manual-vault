@@ -3,7 +3,6 @@ type: "key"
 key_label: "U1 - U4 keys"
 slug: "key_key_u1-u4"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_u1-u4.html"
-related_keyword: "[[Keywords/U1 - U4 keys]]"
 tags:
   - "type/key"
 ---

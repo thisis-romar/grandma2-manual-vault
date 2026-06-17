@@ -4,9 +4,11 @@ title_str: "Reset the MA Network Switch to its factory defaults"
 slug: "key_control_ma_switch_reset"
 url: "https://help.malighting.com/grandMA2/en/help/key_control_ma_switch_reset.html"
 section: "Control MA Network Switch"
+ma2_section: "key_control_ma_switch"
 section_ref: "[[Sections/Control MA Network Switch]]"
-prev_page: "[[Pages/Control MA Network Switch/Update firmware]]"
-next_page: "[[Pages/Control MA Network Switch/Delete MA Network Switch]]"
+prev_page: "[[Pages/Control MA Network Switch/Update firmware of the MA Network Switch]]"
+next_page: "[[Pages/Control MA Network Switch/Delete MA Network Switch from the network configuration]]"
+depth: 2
 tags:
   - "type/page"
   - "section/control"
@@ -48,6 +50,6 @@ To see the MA Network Switch in the MA Network Configuration window again, it is
 
 For more information to the MA Network Switch factory defaults, see MA Network Switch - Factory Defaults.
 
-← [[Pages/Control MA Network Switch/Update firmware]] | [[Pages/Control MA Network Switch/Delete MA Network Switch]] →
+← [[Pages/Control MA Network Switch/Update firmware of the MA Network Switch]] | [[Pages/Control MA Network Switch/Delete MA Network Switch from the network configuration]] →
 
 Part of [[Sections/Control MA Network Switch]] · [[000 Map of Content]]

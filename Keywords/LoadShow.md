@@ -4,7 +4,6 @@ keyword: "LoadShow"
 slug: "key_keyword_loadshow"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_loadshow.html"
 keyword_type: "unknown"
-related_key: "[[Keys/LoadShow]]"
 tags:
   - "type/keyword"
 ---

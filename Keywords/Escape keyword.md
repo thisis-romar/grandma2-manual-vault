@@ -4,7 +4,7 @@ keyword: "Escape keyword"
 slug: "key_keyword_escape"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_escape.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Escape keyword]]"
+related_key: "[[Keys/Esc Key]]"
 tags:
   - "type/keyword"
 ---

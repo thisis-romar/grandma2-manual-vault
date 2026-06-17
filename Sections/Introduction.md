@@ -7,10 +7,10 @@ page_count: 4
 tags:
   - "type/section"
 pages:
-  - "[[Pages/Introduction/About this manual]]"
-  - "[[Pages/Introduction/System requirements grandMA2 onPC]]"
+  - "[[Pages/Introduction/About this Manual]]"
+  - "[[Pages/Introduction/System Requirements grandMA2 onPC]]"
   - "[[Pages/Introduction/Installation of grandMA2 onPC]]"
-  - "[[Pages/Introduction/Help from MA technical support]]"
+  - "[[Pages/Introduction/Help from MA Technical Support]]"
 ---
 
 # Introduction
@@ -42,9 +42,9 @@ All grandMA2 consoles are optionally available as Silent Version with optimized 
 
 ## Pages in This Section
 
-- [[Pages/Introduction/About this manual]]
-- [[Pages/Introduction/System requirements grandMA2 onPC]]
+- [[Pages/Introduction/About this Manual]]
+- [[Pages/Introduction/System Requirements grandMA2 onPC]]
 - [[Pages/Introduction/Installation of grandMA2 onPC]]
-- [[Pages/Introduction/Help from MA technical support]]
+- [[Pages/Introduction/Help from MA Technical Support]]
 
 Part of [[000 Map of Content]]

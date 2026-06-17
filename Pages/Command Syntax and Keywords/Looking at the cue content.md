@@ -4,9 +4,11 @@ title_str: "Looking at the cue content"
 slug: "key_cs_cue_content"
 url: "https://help.malighting.com/grandMA2/en/help/key_cs_cue_content.html"
 section: "Command Syntax and Keywords"
-section_ref: "[[Sections/Command Syntax and Keywords]]"
-prev_page: "[[Pages/Command Syntax and Keywords/Playing back cues]]"
+ma2_section: "key_cues_and_sequences"
+section_ref: "[[Sections/Cues and Sequences]]"
+prev_page: "[[Pages/Command Syntax and Keywords/Playing back Cues]]"
 next_page: "[[Pages/Command Syntax and Keywords/Update cues]]"
+depth: 2
 tags:
   - "type/page"
   - "section/cs"
@@ -176,6 +178,6 @@ With a combination of the different parts and the Edit button you can make almos
 
 The pop-up can be closed by tapping the yellow X in the upper right corner of the pop-up. This will cancel any actions.
 
-← [[Pages/Command Syntax and Keywords/Playing back cues]] | [[Pages/Command Syntax and Keywords/Update cues]] →
+← [[Pages/Command Syntax and Keywords/Playing back Cues]] | [[Pages/Command Syntax and Keywords/Update cues]] →
 
-Part of [[Sections/Command Syntax and Keywords]] · [[000 Map of Content]]
+Part of [[Sections/Cues and Sequences]] · [[000 Map of Content]]

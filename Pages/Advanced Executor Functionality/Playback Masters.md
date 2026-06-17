@@ -4,8 +4,10 @@ title_str: "Playback Masters"
 slug: "key_adv_exec_spec_master_playback"
 url: "https://help.malighting.com/grandMA2/en/help/key_adv_exec_spec_master_playback.html"
 section: "Advanced Executor Functionality"
+ma2_section: "key_adv_exec"
 section_ref: "[[Sections/Advanced Executor Functionality]]"
-prev_page: "[[Pages/Advanced Executor Functionality/Rate masters]]"
+prev_page: "[[Pages/Advanced Executor Functionality/Rate Masters]]"
+depth: 3
 tags:
   - "type/page"
   - "section/adv"
@@ -36,6 +38,6 @@ Read more about assigning playback masters to sequence executors in the [Executo
 
 All the Playback Masters can be seen and adjusted in the [Masters window](key_adv_exec_master_window.html).
 
-← [[Pages/Advanced Executor Functionality/Rate masters]]
+← [[Pages/Advanced Executor Functionality/Rate Masters]]
 
 Part of [[Sections/Advanced Executor Functionality]] · [[000 Map of Content]]

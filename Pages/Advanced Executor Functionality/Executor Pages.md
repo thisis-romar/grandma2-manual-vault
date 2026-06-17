@@ -4,8 +4,10 @@ title_str: "Executor Pages"
 slug: "key_adv_exec_pages"
 url: "https://help.malighting.com/grandMA2/en/help/key_adv_exec_pages.html"
 section: "Advanced Executor Functionality"
+ma2_section: "key_adv_exec"
 section_ref: "[[Sections/Advanced Executor Functionality]]"
-next_page: "[[Pages/Advanced Executor Functionality/Channel pages]]"
+next_page: "[[Pages/Advanced Executor Functionality/Channel Pages]]"
+depth: 2
 tags:
   - "type/page"
   - "section/adv"
@@ -72,6 +74,6 @@ Change both faders and buttons to a page called **Rainbow**:
 
 \[Channel\]> Page Rainbow
 
-[[Pages/Advanced Executor Functionality/Channel pages]] →
+[[Pages/Advanced Executor Functionality/Channel Pages]] →
 
 Part of [[Sections/Advanced Executor Functionality]] · [[000 Map of Content]]

@@ -4,9 +4,11 @@ title_str: "Chaser settings"
 slug: "key_chaser_settings"
 url: "https://help.malighting.com/grandMA2/en/help/key_chaser_settings.html"
 section: "Chasers"
+ma2_section: "key_chaser"
 section_ref: "[[Sections/Chasers]]"
 prev_page: "[[Pages/Chasers/Create a chaser]]"
 next_page: "[[Pages/Chasers/Chaser mini executor]]"
+depth: 2
 tags:
   - "type/page"
   - "section/chaser"

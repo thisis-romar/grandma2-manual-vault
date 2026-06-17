@@ -4,9 +4,11 @@ title_str: "Layer in Sheets"
 slug: "key_of_layers_in_sheets"
 url: "https://help.malighting.com/grandMA2/en/help/key_of_layers_in_sheets.html"
 section: "Operate Fixtures"
+ma2_section: "key_operate_fixtures"
 section_ref: "[[Sections/Operate Fixtures]]"
 prev_page: "[[Pages/Operate Fixtures/Sheet options]]"
-next_page: "[[Pages/Operate Fixtures/What is the programmer]]"
+next_page: "[[Pages/Operate Fixtures/What is the Programmer]]"
+depth: 2
 tags:
   - "type/page"
   - "section/of"
@@ -41,6 +43,6 @@ These are the following sheets:
 *   [Channel sheet and fixture sheet](key_of_layers_in_sheets_channel_and_fixture.html)
 *   [Sequence content and sequence tracking sheet](key_of_layers_in_sheets_content_and_tracking.html)
 
-← [[Pages/Operate Fixtures/Sheet options]] | [[Pages/Operate Fixtures/What is the programmer]] →
+← [[Pages/Operate Fixtures/Sheet options]] | [[Pages/Operate Fixtures/What is the Programmer]] →
 
 Part of [[Sections/Operate Fixtures]] · [[000 Map of Content]]

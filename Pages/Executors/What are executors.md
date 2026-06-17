@@ -4,8 +4,10 @@ title_str: "What are executors"
 slug: "key_exec_what_are"
 url: "https://help.malighting.com/grandMA2/en/help/key_exec_what_are.html"
 section: "Executors"
+ma2_section: "key_exec"
 section_ref: "[[Sections/Executors]]"
 next_page: "[[Pages/Executors/Executors on the screens]]"
+depth: 2
 tags:
   - "type/page"
   - "section/exec"

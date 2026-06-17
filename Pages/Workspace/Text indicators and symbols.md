@@ -4,9 +4,11 @@ title_str: "Text indicators and symbols"
 slug: "key_ws_text_indicators"
 url: "https://help.malighting.com/grandMA2/en/help/key_ws_text_indicators.html"
 section: "Workspace"
+ma2_section: "key_workspace"
 section_ref: "[[Sections/Workspace]]"
 prev_page: "[[Pages/Workspace/Colors]]"
 next_page: "[[Pages/Workspace/Icons]]"
+depth: 2
 tags:
   - "type/page"
   - "section/ws"

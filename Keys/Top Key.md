@@ -3,7 +3,7 @@ type: "key"
 key_label: "Top Key"
 slug: "key_key_top"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_top.html"
-related_keyword: "[[Keywords/Top Key]]"
+related_keyword: "[[Keywords/Top]]"
 tags:
   - "type/key"
 ---

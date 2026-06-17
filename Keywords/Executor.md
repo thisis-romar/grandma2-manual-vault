@@ -4,7 +4,7 @@ keyword: "Executor"
 slug: "key_keyword_executor"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_executor.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Executor]]"
+related_key: "[[Keys/Exec (Executor) Key]]"
 tags:
   - "type/keyword"
 ---

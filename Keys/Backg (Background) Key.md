@@ -3,7 +3,6 @@ type: "key"
 key_label: "Backg (Background) Key"
 slug: "key_key_background"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_background.html"
-related_keyword: "[[Keywords/Backg (Background) Key]]"
 tags:
   - "type/key"
 ---

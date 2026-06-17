@@ -4,9 +4,11 @@ title_str: "Work with views"
 slug: "key_ws_work_with_views"
 url: "https://help.malighting.com/grandMA2/en/help/key_ws_work_with_views.html"
 section: "Workspace"
+ma2_section: "key_workspace"
 section_ref: "[[Sections/Workspace]]"
 prev_page: "[[Pages/Workspace/Mini executor bar]]"
 next_page: "[[Pages/Workspace/Touch gestures]]"
+depth: 2
 tags:
   - "type/page"
   - "section/ws"

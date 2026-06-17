@@ -4,9 +4,11 @@ title_str: "Edit Properties of a Rack"
 slug: "key_ost_edit_properties_of_rack"
 url: "https://help.malighting.com/grandMA2/en/help/key_ost_edit_properties_of_rack.html"
 section: "Other System Tools"
+ma2_section: "key_ost"
 section_ref: "[[Sections/Other System Tools]]"
 prev_page: "[[Pages/Other System Tools/Readout]]"
-next_page: "[[Pages/Other System Tools/Edit a module]]"
+next_page: "[[Pages/Other System Tools/Edit a Module]]"
+depth: 3
 tags:
   - "type/page"
   - "section/ost"
@@ -172,6 +174,6 @@ It is possible to load racks from an internal drive and previous software versio
 
 The rack is configured and the settings are applied.
 
-← [[Pages/Other System Tools/Readout]] | [[Pages/Other System Tools/Edit a module]] →
+← [[Pages/Other System Tools/Readout]] | [[Pages/Other System Tools/Edit a Module]] →
 
 Part of [[Sections/Other System Tools]] · [[000 Map of Content]]

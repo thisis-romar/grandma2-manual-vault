@@ -4,7 +4,6 @@ keyword: "SetNetworkSpeed"
 slug: "key_keyword_setnetworkspeed"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_setnetworkspeed.html"
 keyword_type: "unknown"
-related_key: "[[Keys/SetNetworkSpeed]]"
 tags:
   - "type/keyword"
 ---

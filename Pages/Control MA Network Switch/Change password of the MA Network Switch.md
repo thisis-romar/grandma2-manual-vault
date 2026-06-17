@@ -4,9 +4,11 @@ title_str: "Change password of the MA Network Switch"
 slug: "key_control_ma_switch_password"
 url: "https://help.malighting.com/grandMA2/en/help/key_control_ma_switch_password.html"
 section: "Control MA Network Switch"
+ma2_section: "key_control_ma_switch"
 section_ref: "[[Sections/Control MA Network Switch]]"
 prev_page: "[[Pages/Control MA Network Switch/Disable SNMP]]"
-next_page: "[[Pages/Control MA Network Switch/Update firmware]]"
+next_page: "[[Pages/Control MA Network Switch/Update firmware of the MA Network Switch]]"
+depth: 2
 tags:
   - "type/page"
   - "section/control"
@@ -58,6 +60,6 @@ The password is changed and you are logged in with the new password.
 
 If you have forgotten the password you can reset the password to the default by a [factory reset](key_control_ma_switch_reset.html).
 
-← [[Pages/Control MA Network Switch/Disable SNMP]] | [[Pages/Control MA Network Switch/Update firmware]] →
+← [[Pages/Control MA Network Switch/Disable SNMP]] | [[Pages/Control MA Network Switch/Update firmware of the MA Network Switch]] →
 
 Part of [[Sections/Control MA Network Switch]] · [[000 Map of Content]]

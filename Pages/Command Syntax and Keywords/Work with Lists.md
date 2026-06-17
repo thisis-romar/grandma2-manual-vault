@@ -4,8 +4,10 @@ title_str: "Work with Lists"
 slug: "key_cs_work_with_lists"
 url: "https://help.malighting.com/grandMA2/en/help/key_cs_work_with_lists.html"
 section: "Command Syntax and Keywords"
+ma2_section: "key_command_syntax_and_keywords"
 section_ref: "[[Sections/Command Syntax and Keywords]]"
 prev_page: "[[Pages/Command Syntax and Keywords/All keywords]]"
+depth: 2
 tags:
   - "type/page"
   - "section/cs"

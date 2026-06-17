@@ -4,7 +4,6 @@ keyword: "AlignFaderModules keyword"
 slug: "key_keyword_alignfadermodules"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_alignfadermodules.html"
 keyword_type: "unknown"
-related_key: "[[Keys/AlignFaderModules keyword]]"
 tags:
   - "type/keyword"
 ---

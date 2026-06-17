@@ -3,7 +3,6 @@ type: "key"
 key_label: "Set Key"
 slug: "key_key_set"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_set.html"
-related_keyword: "[[Keywords/Set Key]]"
 tags:
   - "type/key"
 ---

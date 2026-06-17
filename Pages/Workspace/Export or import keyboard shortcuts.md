@@ -4,8 +4,10 @@ title_str: "Export or import keyboard shortcuts"
 slug: "key_ws_keyboard_shortcuts_export_import"
 url: "https://help.malighting.com/grandMA2/en/help/key_ws_keyboard_shortcuts_export_import.html"
 section: "Workspace"
+ma2_section: "key_workspace"
 section_ref: "[[Sections/Workspace]]"
 prev_page: "[[Pages/Workspace/Add or delete keyboard shortcuts]]"
+depth: 3
 tags:
   - "type/page"
   - "section/ws"

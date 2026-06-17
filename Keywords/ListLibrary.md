@@ -4,7 +4,6 @@ keyword: "ListLibrary"
 slug: "key_keyword_listlibrary"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_listlibrary.html"
 keyword_type: "unknown"
-related_key: "[[Keys/ListLibrary]]"
 tags:
   - "type/keyword"
 ---

@@ -3,7 +3,7 @@ type: "key"
 key_label: "Del (Delete) Key"
 slug: "key_key_delete"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_delete.html"
-related_keyword: "[[Keywords/Del (Delete) Key]]"
+related_keyword: "[[Keywords/Delete keyword]]"
 tags:
   - "type/key"
 ---

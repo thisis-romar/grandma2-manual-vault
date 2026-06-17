@@ -4,7 +4,6 @@ keyword: "Insert"
 slug: "key_keyword_insert"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_insert.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Insert]]"
 tags:
   - "type/keyword"
 ---

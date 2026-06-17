@@ -4,9 +4,11 @@ title_str: "Create an Effect that Uses Presets"
 slug: "key_effects_effect_using_presets"
 url: "https://help.malighting.com/grandMA2/en/help/key_effects_effect_using_presets.html"
 section: "Effects"
+ma2_section: "key_effects"
 section_ref: "[[Sections/Effects]]"
 prev_page: "[[Pages/Effects/Create an effect in the programmer]]"
-next_page: "[[Pages/Effects/Create effect forms]]"
+next_page: "[[Pages/Effects/Create Effect Forms]]"
+depth: 2
 tags:
   - "type/page"
   - "section/effects"
@@ -98,6 +100,6 @@ Create an effect that uses presets in the programmer:
 
 The preset is instantly applied and executed.
 
-← [[Pages/Effects/Create an effect in the programmer]] | [[Pages/Effects/Create effect forms]] →
+← [[Pages/Effects/Create an effect in the programmer]] | [[Pages/Effects/Create Effect Forms]] →
 
 Part of [[Sections/Effects]] · [[000 Map of Content]]

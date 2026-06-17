@@ -4,9 +4,11 @@ title_str: "Splitters and Mergers that Support RDM"
 slug: "key_rdm_list_of_splitters_mergers"
 url: "https://help.malighting.com/grandMA2/en/help/key_rdm_list_of_splitters_mergers.html"
 section: "RDM"
+ma2_section: "key_rdm"
 section_ref: "[[Sections/RDM]]"
 prev_page: "[[Pages/RDM/Unmatch RDM devices]]"
 next_page: "[[Pages/RDM/Turn RDM off]]"
+depth: 2
 tags:
   - "type/page"
   - "section/rdm"

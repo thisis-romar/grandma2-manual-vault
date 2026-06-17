@@ -4,7 +4,6 @@ keyword: "MidiControl"
 slug: "key_keyword_midicontrol"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_midicontrol.html"
 keyword_type: "unknown"
-related_key: "[[Keys/MidiControl]]"
 tags:
   - "type/keyword"
 ---

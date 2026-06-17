@@ -4,7 +4,6 @@ keyword: "ListVar"
 slug: "key_keyword_listvar"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_listvar.html"
 keyword_type: "unknown"
-related_key: "[[Keys/ListVar]]"
 tags:
   - "type/keyword"
 ---

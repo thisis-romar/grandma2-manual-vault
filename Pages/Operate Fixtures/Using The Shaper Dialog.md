@@ -4,9 +4,11 @@ title_str: "Using The Shaper Dialog"
 slug: "key_of_shaper_dialog"
 url: "https://help.malighting.com/grandMA2/en/help/key_of_shaper_dialog.html"
 section: "Operate Fixtures"
+ma2_section: "key_operate_fixtures"
 section_ref: "[[Sections/Operate Fixtures]]"
-prev_page: "[[Pages/Operate Fixtures/Using the color picker]]"
-next_page: "[[Pages/Operate Fixtures/Using the smart view]]"
+prev_page: "[[Pages/Operate Fixtures/Using The Color Picker]]"
+next_page: "[[Pages/Operate Fixtures/Using The Smart View]]"
+depth: 2
 tags:
   - "type/page"
   - "section/of"
@@ -171,6 +173,6 @@ Is used to zoom in and out of the fader scale. 
 
 To close the shaper, tap ![](../../img/icon_close_small_v3-2.png) in the upper right corner of the dialog.
 
-← [[Pages/Operate Fixtures/Using the color picker]] | [[Pages/Operate Fixtures/Using the smart view]] →
+← [[Pages/Operate Fixtures/Using The Color Picker]] | [[Pages/Operate Fixtures/Using The Smart View]] →
 
 Part of [[Sections/Operate Fixtures]] · [[000 Map of Content]]

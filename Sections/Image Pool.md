@@ -7,10 +7,10 @@ page_count: 4
 tags:
   - "type/section"
 pages:
-  - "[[Pages/Image Pool/Import images and videos]]"
-  - "[[Pages/Image Pool/Image limitations & guidelines for symbols]]"
+  - "[[Pages/Image Pool/Import Images and Videos]]"
+  - "[[Pages/Image Pool/Image Limitations and Guidelines for Symbols]]"
   - "[[Pages/Image Pool/Supported file formats]]"
-  - "[[Pages/Image Pool/Delete images and videos]]"
+  - "[[Pages/Image Pool/Delete Images and Videos]]"
 ---
 
 # Image Pool
@@ -85,9 +85,9 @@ The options of the image pool generally behave the same as in the most pools. He
 
 ## Pages in This Section
 
-- [[Pages/Image Pool/Import images and videos]]
-- [[Pages/Image Pool/Image limitations & guidelines for symbols]]
+- [[Pages/Image Pool/Import Images and Videos]]
+- [[Pages/Image Pool/Image Limitations and Guidelines for Symbols]]
 - [[Pages/Image Pool/Supported file formats]]
-- [[Pages/Image Pool/Delete images and videos]]
+- [[Pages/Image Pool/Delete Images and Videos]]
 
 Part of [[000 Map of Content]]

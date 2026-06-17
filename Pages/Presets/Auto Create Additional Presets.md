@@ -4,9 +4,11 @@ title_str: "Auto Create Additional Presets"
 slug: "key_presets_auto_create_additional"
 url: "https://help.malighting.com/grandMA2/en/help/key_presets_auto_create_additional.html"
 section: "Presets"
+ma2_section: "key_presets"
 section_ref: "[[Sections/Presets]]"
-prev_page: "[[Pages/Presets/Auto create presets]]"
-next_page: "[[Pages/Presets/Embedded presets]]"
+prev_page: "[[Pages/Presets/Auto Create Presets]]"
+next_page: "[[Pages/Presets/Embedded Presets]]"
+depth: 2
 tags:
   - "type/page"
   - "section/presets"
@@ -110,6 +112,6 @@ This button toggles between Color Name, Color Key and Color Name + Key.
 
 _Color presets_
 
-← [[Pages/Presets/Auto create presets]] | [[Pages/Presets/Embedded presets]] →
+← [[Pages/Presets/Auto Create Presets]] | [[Pages/Presets/Embedded Presets]] →
 
 Part of [[Sections/Presets]] · [[000 Map of Content]]

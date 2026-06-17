@@ -4,9 +4,11 @@ title_str: "Media Server"
 slug: "key_basic_fixture_type_server"
 url: "https://help.malighting.com/grandMA2/en/help/key_basic_fixture_type_server.html"
 section: "Basic Fixture Types"
+ma2_section: "key_basic_fixture"
 section_ref: "[[Sections/Basic Fixture Types]]"
-prev_page: "[[Pages/Basic Fixture Types/Moving lights]]"
-next_page: "[[Pages/Basic Fixture Types/Virtual fixtures]]"
+prev_page: "[[Pages/Basic Fixture Types/Moving Lights]]"
+next_page: "[[Pages/Basic Fixture Types/Virtual Fixtures]]"
+depth: 3
 tags:
   - "type/page"
   - "section/basic"
@@ -35,6 +37,6 @@ It can be very complex to create good fixture profiles for media servers.
 
 Selecting the **Media Server** fixture type does not necessary assign a class to the fixture profile. Since the server is not visualized as a fixture in MA 3D, then this OK. The video output from the server might be used as a CITP stream into the MA 3D (read more about CITP in the [Using CITP topics](key_network_citp.html)).
 
-← [[Pages/Basic Fixture Types/Moving lights]] | [[Pages/Basic Fixture Types/Virtual fixtures]] →
+← [[Pages/Basic Fixture Types/Moving Lights]] | [[Pages/Basic Fixture Types/Virtual Fixtures]] →
 
 Part of [[Sections/Basic Fixture Types]] · [[000 Map of Content]]

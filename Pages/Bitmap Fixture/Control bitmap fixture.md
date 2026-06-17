@@ -4,9 +4,11 @@ title_str: "Control bitmap fixture"
 slug: "key_bitmapfixture_control"
 url: "https://help.malighting.com/grandMA2/en/help/key_bitmapfixture_control.html"
 section: "Bitmap Fixture"
+ma2_section: "key_bitmapfixture"
 section_ref: "[[Sections/Bitmap Fixture]]"
-prev_page: "[[Pages/Bitmap Fixture/Apply bitmap fixture in the layout]]"
+prev_page: "[[Pages/Bitmap Fixture/Apply bitmap fixture in the layout view]]"
 next_page: "[[Pages/Bitmap Fixture/Edit bitmap fixture]]"
+depth: 2
 tags:
   - "type/page"
   - "section/bitmapfixture"
@@ -135,6 +137,6 @@ _Layout view with bitmap VImg attribute split y tile-_
 
 _Layout view with bitmap VImg attribute split x tile+ split y tile+_
 
-← [[Pages/Bitmap Fixture/Apply bitmap fixture in the layout]] | [[Pages/Bitmap Fixture/Edit bitmap fixture]] →
+← [[Pages/Bitmap Fixture/Apply bitmap fixture in the layout view]] | [[Pages/Bitmap Fixture/Edit bitmap fixture]] →
 
 Part of [[Sections/Bitmap Fixture]] · [[000 Map of Content]]

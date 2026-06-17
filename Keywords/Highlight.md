@@ -4,7 +4,7 @@ keyword: "Highlight"
 slug: "key_keyword_highlight"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_highlight.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Highlight]]"
+related_key: "[[Keys/Highlt (Highlight) Key]]"
 tags:
   - "type/keyword"
 ---

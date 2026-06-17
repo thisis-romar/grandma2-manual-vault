@@ -4,7 +4,6 @@ keyword: "HalfRate"
 slug: "key_keyword_halfrate"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_halfrate.html"
 keyword_type: "unknown"
-related_key: "[[Keys/HalfRate]]"
 tags:
   - "type/keyword"
 ---

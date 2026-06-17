@@ -4,9 +4,11 @@ title_str: "Channel Pages"
 slug: "key_adv_exec_ch_pages"
 url: "https://help.malighting.com/grandMA2/en/help/key_adv_exec_ch_pages.html"
 section: "Advanced Executor Functionality"
+ma2_section: "key_adv_exec"
 section_ref: "[[Sections/Advanced Executor Functionality]]"
-prev_page: "[[Pages/Advanced Executor Functionality/Executor pages]]"
-next_page: "[[Pages/Advanced Executor Functionality/Executor options]]"
+prev_page: "[[Pages/Advanced Executor Functionality/Executor Pages]]"
+next_page: "[[Pages/Advanced Executor Functionality/Executor Options]]"
+depth: 2
 tags:
   - "type/page"
   - "section/adv"
@@ -154,6 +156,6 @@ It can also be used to create special combinations of attributes. 
 
 Read more about it following the link to the ChannelLink above.
 
-← [[Pages/Advanced Executor Functionality/Executor pages]] | [[Pages/Advanced Executor Functionality/Executor options]] →
+← [[Pages/Advanced Executor Functionality/Executor Pages]] | [[Pages/Advanced Executor Functionality/Executor Options]] →
 
 Part of [[Sections/Advanced Executor Functionality]] · [[000 Map of Content]]

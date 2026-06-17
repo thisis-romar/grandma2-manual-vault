@@ -4,7 +4,7 @@ keyword: "<<< [GoFastBack] keyword"
 slug: "key_keyword_skipminus"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_skipminus.html"
 keyword_type: "unknown"
-related_key: "[[Keys/--- [GoFastBack] keyword]]"
+related_key: "[[Keys/--- Key]]"
 tags:
   - "type/keyword"
 ---

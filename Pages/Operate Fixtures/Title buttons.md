@@ -4,9 +4,11 @@ title_str: "Title buttons"
 slug: "key_of_sheet_options_title_buttons"
 url: "https://help.malighting.com/grandMA2/en/help/key_of_sheet_options_title_buttons.html"
 section: "Operate Fixtures"
+ma2_section: "key_operate_fixtures"
 section_ref: "[[Sections/Operate Fixtures]]"
 prev_page: "[[Pages/Operate Fixtures/Display]]"
 next_page: "[[Pages/Operate Fixtures/Assign executor]]"
+depth: 3
 tags:
   - "type/page"
   - "section/of"

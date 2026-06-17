@@ -4,9 +4,11 @@ title_str: "DMX testing in the DMX Sheet"
 slug: "key_patch_dmx_testing"
 url: "https://help.malighting.com/grandMA2/en/help/key_patch_dmx_testing.html"
 section: "Patching"
+ma2_section: "key_patch"
 section_ref: "[[Sections/Patching]]"
-prev_page: "[[Pages/Patching/DMX sheet]]"
-next_page: "[[Pages/Patching/DMX and parameter lists]]"
+prev_page: "[[Pages/Patching/DMX Sheet]]"
+next_page: "[[Pages/Patching/DMX and Parameter lists]]"
+depth: 2
 tags:
   - "type/page"
   - "section/patch"
@@ -109,6 +111,6 @@ Off DMX Thru
 
 Will release all DMX addresses.
 
-← [[Pages/Patching/DMX sheet]] | [[Pages/Patching/DMX and parameter lists]] →
+← [[Pages/Patching/DMX Sheet]] | [[Pages/Patching/DMX and Parameter lists]] →
 
 Part of [[Sections/Patching]] · [[000 Map of Content]]

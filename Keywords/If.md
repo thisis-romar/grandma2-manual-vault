@@ -4,7 +4,7 @@ keyword: "If"
 slug: "key_keyword_if"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_if.html"
 keyword_type: "unknown"
-related_key: "[[Keys/If]]"
+related_key: "[[Keys/If Key]]"
 tags:
   - "type/keyword"
 ---

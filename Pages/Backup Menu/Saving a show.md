@@ -4,9 +4,11 @@ title_str: "Saving a show"
 slug: "key_backup_menu_save_show"
 url: "https://help.malighting.com/grandMA2/en/help/key_backup_menu_save_show.html"
 section: "Backup Menu"
+ma2_section: "key_backup_menu"
 section_ref: "[[Sections/Backup Menu]]"
-prev_page: "[[Pages/Backup Menu/Load show]]"
-next_page: "[[Pages/Backup Menu/Save show as...]]"
+prev_page: "[[Pages/Backup Menu/Loading a show]]"
+next_page: "[[Pages/Backup Menu/Saving a show with a new name]]"
+depth: 2
 tags:
   - "type/page"
   - "section/backup"
@@ -39,6 +41,6 @@ There is also a fast way to save the show. It is called "Quick Save".
 
 When the backup menu is **not** open then press the Backup key twice (like a double click on a mouse) will perform the Quick Save.
 
-← [[Pages/Backup Menu/Load show]] | [[Pages/Backup Menu/Save show as...]] →
+← [[Pages/Backup Menu/Loading a show]] | [[Pages/Backup Menu/Saving a show with a new name]] →
 
 Part of [[Sections/Backup Menu]] · [[000 Map of Content]]

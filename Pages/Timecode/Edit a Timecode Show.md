@@ -4,9 +4,11 @@ title_str: "Edit a Timecode Show"
 slug: "key_timecode_editor"
 url: "https://help.malighting.com/grandMA2/en/help/key_timecode_editor.html"
 section: "Timecode"
+ma2_section: "key_timecode"
 section_ref: "[[Sections/Timecode]]"
-prev_page: "[[Pages/Timecode/Record a timecode show]]"
-next_page: "[[Pages/Timecode/Playing back a timecode show]]"
+prev_page: "[[Pages/Timecode/Record a Timecode Show]]"
+next_page: "[[Pages/Timecode/Playing Back a Timecode Show]]"
+depth: 2
 tags:
   - "type/page"
   - "section/timecode"
@@ -289,6 +291,6 @@ This is a short description of the different options:
 
 The options can be closed by tapping the yellow "X" in the upper right corner.
 
-← [[Pages/Timecode/Record a timecode show]] | [[Pages/Timecode/Playing back a timecode show]] →
+← [[Pages/Timecode/Record a Timecode Show]] | [[Pages/Timecode/Playing Back a Timecode Show]] →
 
 Part of [[Sections/Timecode]] · [[000 Map of Content]]

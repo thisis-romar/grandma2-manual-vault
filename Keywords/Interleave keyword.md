@@ -4,7 +4,6 @@ keyword: "Interleave keyword"
 slug: "key_keyword_interleave"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_interleave.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Interleave keyword]]"
 tags:
   - "type/keyword"
 ---

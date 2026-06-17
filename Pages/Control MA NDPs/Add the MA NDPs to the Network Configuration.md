@@ -4,8 +4,10 @@ title_str: "Add the MA NDPs to the Network Configuration"
 slug: "key_control_ndp_add"
 url: "https://help.malighting.com/grandMA2/en/help/key_control_ndp_add.html"
 section: "Control MA NDPs"
+ma2_section: "key_control_ma_ndp"
 section_ref: "[[Sections/Control MA NDPs]]"
 next_page: "[[Pages/Control MA NDPs/Configure the MA NDPs]]"
+depth: 2
 tags:
   - "type/page"
   - "section/control"

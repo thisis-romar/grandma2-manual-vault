@@ -4,7 +4,6 @@ keyword: "DefGoBack keyword"
 slug: "key_keyword_defgoback"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_defgoback.html"
 keyword_type: "unknown"
-related_key: "[[Keys/DefGoBack keyword]]"
 tags:
   - "type/keyword"
 ---

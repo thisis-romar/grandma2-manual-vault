@@ -4,9 +4,11 @@ title_str: "Executors on the screens"
 slug: "key_exec_on_screen"
 url: "https://help.malighting.com/grandMA2/en/help/key_exec_on_screen.html"
 section: "Executors"
+ma2_section: "key_exec"
 section_ref: "[[Sections/Executors]]"
 prev_page: "[[Pages/Executors/What are executors]]"
 next_page: "[[Pages/Executors/Assign a function]]"
+depth: 2
 tags:
   - "type/page"
   - "section/exec"

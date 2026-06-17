@@ -4,8 +4,10 @@ title_str: "Create an appointment in the agenda"
 slug: "key_agenda_create_appointment"
 url: "https://help.malighting.com/grandMA2/en/help/key_agenda_create_appointment.html"
 section: "Agenda"
+ma2_section: "key_agenda"
 section_ref: "[[Sections/Agenda]]"
 prev_page: "[[Pages/Agenda/What is agenda]]"
+depth: 2
 tags:
   - "type/page"
   - "section/agenda"

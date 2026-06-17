@@ -8,16 +8,16 @@ tags:
   - "type/section"
 pages:
   - "[[Pages/Command Syntax and Keywords/What are cues and sequences]]"
-  - "[[Pages/Command Syntax and Keywords/Looking at the cue sequence]]"
-  - "[[Pages/Command Syntax and Keywords/Store cues]]"
-  - "[[Pages/Command Syntax and Keywords/Store options and defaults]]"
+  - "[[Pages/Command Syntax and Keywords/Looking at the Cue Sequence]]"
+  - "[[Pages/Command Syntax and Keywords/Storing cues]]"
+  - "[[Pages/Command Syntax and Keywords/Store Options and Defaults]]"
   - "[[Pages/Command Syntax and Keywords/Cue timings]]"
   - "[[Pages/Command Syntax and Keywords/Renumber cues]]"
-  - "[[Pages/Command Syntax and Keywords/Delete cues]]"
-  - "[[Pages/Command Syntax and Keywords/Playing back cues]]"
+  - "[[Pages/Command Syntax and Keywords/Delete Cues]]"
+  - "[[Pages/Command Syntax and Keywords/Playing back Cues]]"
   - "[[Pages/Command Syntax and Keywords/Looking at the cue content]]"
   - "[[Pages/Command Syntax and Keywords/Update cues]]"
-  - "[[Pages/Command Syntax and Keywords/What is tracking]]"
+  - "[[Pages/Command Syntax and Keywords/What is Tracking]]"
   - "[[Pages/Command Syntax and Keywords/What is MIB]]"
   - "[[Pages/Command Syntax and Keywords/Sequence mini executor]]"
   - "[[Pages/Command Syntax and Keywords/Commands in cues]]"
@@ -62,16 +62,16 @@ The more advanced options and functions for sequences are described in the [Adva
 ## Pages in This Section
 
 - [[Pages/Command Syntax and Keywords/What are cues and sequences]]
-- [[Pages/Command Syntax and Keywords/Looking at the cue sequence]]
-- [[Pages/Command Syntax and Keywords/Store cues]]
-- [[Pages/Command Syntax and Keywords/Store options and defaults]]
+- [[Pages/Command Syntax and Keywords/Looking at the Cue Sequence]]
+- [[Pages/Command Syntax and Keywords/Storing cues]]
+- [[Pages/Command Syntax and Keywords/Store Options and Defaults]]
 - [[Pages/Command Syntax and Keywords/Cue timings]]
 - [[Pages/Command Syntax and Keywords/Renumber cues]]
-- [[Pages/Command Syntax and Keywords/Delete cues]]
-- [[Pages/Command Syntax and Keywords/Playing back cues]]
+- [[Pages/Command Syntax and Keywords/Delete Cues]]
+- [[Pages/Command Syntax and Keywords/Playing back Cues]]
 - [[Pages/Command Syntax and Keywords/Looking at the cue content]]
 - [[Pages/Command Syntax and Keywords/Update cues]]
-- [[Pages/Command Syntax and Keywords/What is tracking]]
+- [[Pages/Command Syntax and Keywords/What is Tracking]]
 - [[Pages/Command Syntax and Keywords/What is MIB]]
 - [[Pages/Command Syntax and Keywords/Sequence mini executor]]
 - [[Pages/Command Syntax and Keywords/Commands in cues]]

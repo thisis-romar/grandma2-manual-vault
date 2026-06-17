@@ -4,7 +4,6 @@ keyword: "Replace"
 slug: "key_keyword_replace"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_replace.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Replace]]"
 tags:
   - "type/keyword"
 ---

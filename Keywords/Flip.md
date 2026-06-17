@@ -4,7 +4,6 @@ keyword: "Flip"
 slug: "key_keyword_flip"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_flip.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Flip]]"
 tags:
   - "type/keyword"
 ---

@@ -4,7 +4,6 @@ keyword: "EffectLow"
 slug: "key_keyword_effectlow"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_effectlow.html"
 keyword_type: "unknown"
-related_key: "[[Keys/EffectLow]]"
 tags:
   - "type/keyword"
 ---

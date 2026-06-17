@@ -3,7 +3,6 @@ type: "key"
 key_label: "Time Key"
 slug: "key_key_time"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_time.html"
-related_keyword: "[[Keywords/Time Key]]"
 tags:
   - "type/key"
 ---

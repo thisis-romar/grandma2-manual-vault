@@ -4,8 +4,10 @@ title_str: "Edit a Channel or a Fixture"
 slug: "key_of_edit_channel_or_fixture"
 url: "https://help.malighting.com/grandMA2/en/help/key_of_edit_channel_or_fixture.html"
 section: "Operate Fixtures"
+ma2_section: "key_operate_fixtures"
 section_ref: "[[Sections/Operate Fixtures]]"
-prev_page: "[[Pages/Operate Fixtures/Using the smart view]]"
+prev_page: "[[Pages/Operate Fixtures/Using The Smart View]]"
+depth: 2
 tags:
   - "type/page"
   - "section/of"
@@ -58,6 +60,6 @@ Furthermore, it is possible to edit the order within the column in the pop-up. T
 
 To close the edit pop-up, tap ![](../../img/icon_close_small_v3-2.png) in the upper right corner.
 
-← [[Pages/Operate Fixtures/Using the smart view]]
+← [[Pages/Operate Fixtures/Using The Smart View]]
 
 Part of [[Sections/Operate Fixtures]] · [[000 Map of Content]]

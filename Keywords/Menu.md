@@ -4,7 +4,6 @@ keyword: "Menu"
 slug: "key_keyword_menu"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_menu.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Menu]]"
 tags:
   - "type/keyword"
 ---

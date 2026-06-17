@@ -4,9 +4,11 @@ title_str: "What is the MA Video Processing Unit (VPU)?"
 slug: "key_so_what_is_the_video_processing_unit_vpu"
 url: "https://help.malighting.com/grandMA2/en/help/key_so_what_is_the_video_processing_unit_vpu.html"
 section: "System Overview"
+ma2_section: "key_so_system_overview"
 section_ref: "[[Sections/System Overview]]"
-prev_page: "[[Pages/System Overview/What is the network processing unit (NPU)]]"
-next_page: "[[Pages/System Overview/What is the network dimmer processor (NDP)]]"
+prev_page: "[[Pages/System Overview/What is the Network Processing Unit (NPU)]]"
+next_page: "[[Pages/System Overview/What is the Network Dimmer Processor (NDP)-]]"
+depth: 3
 tags:
   - "type/page"
   - "section/so"
@@ -39,6 +41,6 @@ One of the big advantages of the MA VPU is the option to use the pixel mapper in
 
 The MA VPU is a feature-rich software and hardware and it got its own manual.
 
-← [[Pages/System Overview/What is the network processing unit (NPU)]] | [[Pages/System Overview/What is the network dimmer processor (NDP)]] →
+← [[Pages/System Overview/What is the Network Processing Unit (NPU)]] | [[Pages/System Overview/What is the Network Dimmer Processor (NDP)-]] →
 
 Part of [[Sections/System Overview]] · [[000 Map of Content]]

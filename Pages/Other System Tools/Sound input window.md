@@ -4,9 +4,11 @@ title_str: "Sound input window"
 slug: "key_ost_sound_input_window"
 url: "https://help.malighting.com/grandMA2/en/help/key_ost_sound_input_window.html"
 section: "Other System Tools"
+ma2_section: "key_ost"
 section_ref: "[[Sections/Other System Tools]]"
 prev_page: "[[Pages/Other System Tools/Clock]]"
-next_page: "[[Pages/Other System Tools/VPU pixel mapper view]]"
+next_page: "[[Pages/Other System Tools/Network Dimmer]]"
+depth: 2
 tags:
   - "type/page"
   - "section/ost"
@@ -65,6 +67,6 @@ The three buttons to the right are responding to the BPM.
 *   Learn will allow you to tap the beat manually, and adjust the BPM to this level.
 *   HS will half the value of the BPM counter.
 
-← [[Pages/Other System Tools/Clock]] | [[Pages/Other System Tools/VPU pixel mapper view]] →
+← [[Pages/Other System Tools/Clock]] | [[Pages/Other System Tools/Network Dimmer]] →
 
 Part of [[Sections/Other System Tools]] · [[000 Map of Content]]

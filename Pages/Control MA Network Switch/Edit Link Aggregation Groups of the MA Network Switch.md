@@ -4,9 +4,11 @@ title_str: "Edit Link Aggregation Groups of the MA Network Switch"
 slug: "key_control_ma_switch_lags"
 url: "https://help.malighting.com/grandMA2/en/help/key_control_ma_switch_lags.html"
 section: "Control MA Network Switch"
+ma2_section: "key_control_ma_switch"
 section_ref: "[[Sections/Control MA Network Switch]]"
-prev_page: "[[Pages/Control MA Network Switch/Edit presets]]"
-next_page: "[[Pages/Control MA Network Switch/Mirror ports]]"
+prev_page: "[[Pages/Control MA Network Switch/Edit presets of the MA Network Switch]]"
+next_page: "[[Pages/Control MA Network Switch/Mirror Ports of the MA Network Switch]]"
+depth: 2
 tags:
   - "type/page"
   - "section/control"
@@ -57,6 +59,6 @@ Use a maximum of 8 characters. 
 5.  After adjusting the names of the LAGs tap Please.
 6.  The LAGs are now edited.
 
-← [[Pages/Control MA Network Switch/Edit presets]] | [[Pages/Control MA Network Switch/Mirror ports]] →
+← [[Pages/Control MA Network Switch/Edit presets of the MA Network Switch]] | [[Pages/Control MA Network Switch/Mirror Ports of the MA Network Switch]] →
 
 Part of [[Sections/Control MA Network Switch]] · [[000 Map of Content]]

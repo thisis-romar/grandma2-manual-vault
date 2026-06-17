@@ -4,7 +4,6 @@ keyword: "SaveShow"
 slug: "key_keyword_saveshow"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_saveshow.html"
 keyword_type: "unknown"
-related_key: "[[Keys/SaveShow]]"
 tags:
   - "type/keyword"
 ---

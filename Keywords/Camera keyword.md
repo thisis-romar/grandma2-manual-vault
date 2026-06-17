@@ -4,7 +4,6 @@ keyword: "Camera keyword"
 slug: "key_keyword_camera"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_camera.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Camera keyword]]"
 tags:
   - "type/keyword"
 ---

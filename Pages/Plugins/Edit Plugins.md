@@ -4,8 +4,10 @@ title_str: "Edit Plugins"
 slug: "key_plugins_edit"
 url: "https://help.malighting.com/grandMA2/en/help/key_plugins_edit.html"
 section: "Plugins"
+ma2_section: "key_plugins"
 section_ref: "[[Sections/Plugins]]"
 prev_page: "[[Pages/Plugins/What is Lua]]"
+depth: 2
 tags:
   - "type/page"
   - "section/plugins"

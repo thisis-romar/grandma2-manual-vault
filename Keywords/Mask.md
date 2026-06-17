@@ -4,7 +4,6 @@ keyword: "Mask"
 slug: "key_keyword_mask"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_mask.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Mask]]"
 tags:
   - "type/keyword"
 ---

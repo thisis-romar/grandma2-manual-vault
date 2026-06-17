@@ -4,9 +4,11 @@ title_str: "User specific settings"
 slug: "key_single_multi_systems_user_settings"
 url: "https://help.malighting.com/grandMA2/en/help/key_single_multi_systems_user_settings.html"
 section: "Single and Multi User Systems"
+ma2_section: "key_single_multi_systems"
 section_ref: "[[Sections/Single and Multi User Systems]]"
 prev_page: "[[Pages/Single and Multi User Systems/Create user profiles and users]]"
-next_page: "[[Pages/Single and Multi User Systems/Login]]"
+next_page: "[[Pages/Single and Multi User Systems/Login on a station]]"
+depth: 2
 tags:
   - "type/page"
   - "section/single"
@@ -229,6 +231,6 @@ This section contains different settings all related to the User (Profile).
     
     *   **Programmer Colors** - This setting allows to change between two different set of visual color feedback regarding the programmer. The two options are **Standard** and **High Contrast**. Read about the in the [System Colors topic](key_ws_colors_system.html).
 
-← [[Pages/Single and Multi User Systems/Create user profiles and users]] | [[Pages/Single and Multi User Systems/Login]] →
+← [[Pages/Single and Multi User Systems/Create user profiles and users]] | [[Pages/Single and Multi User Systems/Login on a station]] →
 
 Part of [[Sections/Single and Multi User Systems]] · [[000 Map of Content]]

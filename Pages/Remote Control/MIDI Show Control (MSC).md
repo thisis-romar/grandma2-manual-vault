@@ -4,9 +4,11 @@ title_str: "MIDI Show Control (MSC)"
 slug: "key_remote_control_msc"
 url: "https://help.malighting.com/grandMA2/en/help/key_remote_control_msc.html"
 section: "Remote Control"
+ma2_section: "key_remote_control"
 section_ref: "[[Sections/Remote Control]]"
-prev_page: "[[Pages/Remote Control/Remote input]]"
-next_page: "[[Pages/Remote Control/Web remote]]"
+prev_page: "[[Pages/Remote Control/Remote Inputs]]"
+next_page: "[[Pages/Remote Control/Web Remote]]"
+depth: 2
 tags:
   - "type/page"
   - "section/remote"
@@ -672,6 +674,6 @@ The message is:
 
 **47 4D 41 00 4D 53 43 00 13 00 00 00 F0 7F 7F 02 7F 07 01 F7**
 
-← [[Pages/Remote Control/Remote input]] | [[Pages/Remote Control/Web remote]] →
+← [[Pages/Remote Control/Remote Inputs]] | [[Pages/Remote Control/Web Remote]] →
 
 Part of [[Sections/Remote Control]] · [[000 Map of Content]]

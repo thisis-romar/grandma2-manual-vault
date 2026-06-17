@@ -4,7 +4,7 @@ keyword: "Align keyword"
 slug: "key_keyword_align"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_align.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Align keyword]]"
+related_key: "[[Keys/Align Key]]"
 tags:
   - "type/keyword"
 ---

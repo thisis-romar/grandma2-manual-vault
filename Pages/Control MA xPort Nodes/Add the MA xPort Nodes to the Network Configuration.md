@@ -4,8 +4,10 @@ title_str: "Add the MA xPort Nodes to the Network Configuration"
 slug: "key_control_node_add"
 url: "https://help.malighting.com/grandMA2/en/help/key_control_node_add.html"
 section: "Control MA xPort Nodes"
+ma2_section: "key_control_ma_xport_node"
 section_ref: "[[Sections/Control MA xPort Nodes]]"
-next_page: "[[Pages/Control MA xPort Nodes/Configure the MA xPort Nodes in the console]]"
+next_page: "[[Pages/Control MA xPort Nodes/Configure the MA xPort Nodes in the Console]]"
+depth: 2
 tags:
   - "type/page"
   - "section/control"
@@ -44,6 +46,6 @@ _MA Network Configuration – DMX Node_
 
 The MA xPort Nodes have been added to the network configuration and can now be configured.
 
-[[Pages/Control MA xPort Nodes/Configure the MA xPort Nodes in the console]] →
+[[Pages/Control MA xPort Nodes/Configure the MA xPort Nodes in the Console]] →
 
 Part of [[Sections/Control MA xPort Nodes]] · [[000 Map of Content]]

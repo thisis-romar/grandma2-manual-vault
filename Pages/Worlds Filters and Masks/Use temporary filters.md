@@ -4,9 +4,11 @@ title_str: "Use temporary filters"
 slug: "key_wfm_temporary_filters"
 url: "https://help.malighting.com/grandMA2/en/help/key_wfm_temporary_filters.html"
 section: "Worlds Filters and Masks"
+ma2_section: "key_wfm_world_filter_mask"
 section_ref: "[[Sections/Worlds Filters and Masks]]"
-prev_page: "[[Pages/Worlds Filters and Masks/Use filters when programming]]"
+prev_page: "[[Pages/Worlds Filters and Masks/Use filters when you Store and use At]]"
 next_page: "[[Pages/Worlds Filters and Masks/What are masks]]"
+depth: 2
 tags:
   - "type/page"
   - "section/wfm"
@@ -164,6 +166,6 @@ Now we would like to grab the color values only from the first fixture. We do no
 
 Now both fixtures have the same color values.
 
-← [[Pages/Worlds Filters and Masks/Use filters when programming]] | [[Pages/Worlds Filters and Masks/What are masks]] →
+← [[Pages/Worlds Filters and Masks/Use filters when you Store and use At]] | [[Pages/Worlds Filters and Masks/What are masks]] →
 
 Part of [[Sections/Worlds Filters and Masks]] · [[000 Map of Content]]

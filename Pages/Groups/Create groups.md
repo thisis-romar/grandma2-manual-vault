@@ -4,8 +4,10 @@ title_str: "Create groups"
 slug: "key_groups_create_groups"
 url: "https://help.malighting.com/grandMA2/en/help/key_groups_create_groups.html"
 section: "Groups"
+ma2_section: "key_groups"
 section_ref: "[[Sections/Groups]]"
-next_page: "[[Pages/Groups/Auto create groups]]"
+next_page: "[[Pages/Groups/Auto Create groups]]"
+depth: 2
 tags:
   - "type/page"
   - "section/groups"
@@ -63,6 +65,6 @@ When you are in the edit mode, then you get the group content as selected fixtur
 
 For more information on how to edit groups see [Manage pool objects](key_pools_manage.html).
 
-[[Pages/Groups/Auto create groups]] →
+[[Pages/Groups/Auto Create groups]] →
 
 Part of [[Sections/Groups]] · [[000 Map of Content]]

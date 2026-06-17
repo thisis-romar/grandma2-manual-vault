@@ -4,8 +4,10 @@ title_str: "Clear the Screen or Delete Windows"
 slug: "key_windows_clear_delete"
 url: "https://help.malighting.com/grandMA2/en/help/key_windows_clear_delete.html"
 section: "Windows"
+ma2_section: "key_windows"
 section_ref: "[[Sections/Windows]]"
-prev_page: "[[Pages/Windows/Create and manage basic windows]]"
+prev_page: "[[Pages/Windows/Create and Manage Basic Windows]]"
+depth: 2
 tags:
   - "type/page"
   - "section/windows"
@@ -55,6 +57,6 @@ To delete windows from the user-defined area:
 
 The window is deleted in the user-defined area.
 
-← [[Pages/Windows/Create and manage basic windows]]
+← [[Pages/Windows/Create and Manage Basic Windows]]
 
 Part of [[Sections/Windows]] · [[000 Map of Content]]

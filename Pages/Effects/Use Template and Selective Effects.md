@@ -4,9 +4,11 @@ title_str: "Use Template and Selective Effects"
 slug: "key_effects_template_and_selective"
 url: "https://help.malighting.com/grandMA2/en/help/key_effects_template_and_selective.html"
 section: "Effects"
+ma2_section: "key_effects"
 section_ref: "[[Sections/Effects]]"
-prev_page: "[[Pages/Effects/Use predefined effects]]"
+prev_page: "[[Pages/Effects/Use Predefined Effects]]"
 next_page: "[[Pages/Effects/Create an effect in the programmer]]"
+depth: 2
 tags:
   - "type/page"
   - "section/effects"
@@ -60,6 +62,6 @@ To apply a selective effect:
 
 The effect is executed.
 
-← [[Pages/Effects/Use predefined effects]] | [[Pages/Effects/Create an effect in the programmer]] →
+← [[Pages/Effects/Use Predefined Effects]] | [[Pages/Effects/Create an effect in the programmer]] →
 
 Part of [[Sections/Effects]] · [[000 Map of Content]]

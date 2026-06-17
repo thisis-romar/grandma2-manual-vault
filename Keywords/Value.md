@@ -4,7 +4,6 @@ keyword: "Value"
 slug: "key_keyword_value"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_value.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Value]]"
 tags:
   - "type/keyword"
 ---

@@ -4,9 +4,11 @@ title_str: "Masters Window"
 slug: "key_adv_exec_master_window"
 url: "https://help.malighting.com/grandMA2/en/help/key_adv_exec_master_window.html"
 section: "Advanced Executor Functionality"
+ma2_section: "key_adv_exec"
 section_ref: "[[Sections/Advanced Executor Functionality]]"
-prev_page: "[[Pages/Advanced Executor Functionality/Executor options]]"
-next_page: "[[Pages/Advanced Executor Functionality/Special masters]]"
+prev_page: "[[Pages/Advanced Executor Functionality/Executor Options]]"
+next_page: "[[Pages/Advanced Executor Functionality/Special Masters]]"
+depth: 2
 tags:
   - "type/page"
   - "section/adv"
@@ -125,6 +127,6 @@ Each master has two buttons to set the master at **Full** and at **Zero**.
 
 Below all the playback master are two buttons: **All Full** and **All Zero**. They set all the playback master to full or zero.
 
-← [[Pages/Advanced Executor Functionality/Executor options]] | [[Pages/Advanced Executor Functionality/Special masters]] →
+← [[Pages/Advanced Executor Functionality/Executor Options]] | [[Pages/Advanced Executor Functionality/Special Masters]] →
 
 Part of [[Sections/Advanced Executor Functionality]] · [[000 Map of Content]]

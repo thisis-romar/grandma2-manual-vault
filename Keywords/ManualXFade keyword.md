@@ -4,7 +4,6 @@ keyword: "ManualXFade keyword"
 slug: "key_keyword_manualxfade"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_manualxfade.html"
 keyword_type: "unknown"
-related_key: "[[Keys/ManualXFade keyword]]"
 tags:
   - "type/keyword"
 ---

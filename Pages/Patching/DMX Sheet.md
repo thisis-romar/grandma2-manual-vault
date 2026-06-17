@@ -4,9 +4,11 @@ title_str: "DMX Sheet"
 slug: "key_patch_dmx_sheet"
 url: "https://help.malighting.com/grandMA2/en/help/key_patch_dmx_sheet.html"
 section: "Patching"
+ma2_section: "key_patch"
 section_ref: "[[Sections/Patching]]"
 prev_page: "[[Pages/Patching/Live patching]]"
-next_page: "[[Pages/Patching/DMX testing]]"
+next_page: "[[Pages/Patching/DMX testing in the DMX Sheet]]"
+depth: 2
 tags:
   - "type/page"
   - "section/patch"
@@ -65,6 +67,6 @@ The options can be opened by tapping the yellow ball in the upper left corner.
 
 The options are all described in the [Sheet Options topics](key_of_sheet_options.html).
 
-← [[Pages/Patching/Live patching]] | [[Pages/Patching/DMX testing]] →
+← [[Pages/Patching/Live patching]] | [[Pages/Patching/DMX testing in the DMX Sheet]] →
 
 Part of [[Sections/Patching]] · [[000 Map of Content]]

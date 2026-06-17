@@ -4,7 +4,7 @@ keyword: "Previous"
 slug: "key_keyword_previous"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_previous.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Previous]]"
+related_key: "[[Keys/Prev (Previous) Key]]"
 tags:
   - "type/keyword"
 ---

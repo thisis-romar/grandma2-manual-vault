@@ -4,9 +4,11 @@ title_str: "Using DHCP in MA devices"
 slug: "key_network_dhcp"
 url: "https://help.malighting.com/grandMA2/en/help/key_network_dhcp.html"
 section: "Networking"
+ma2_section: "key_network"
 section_ref: "[[Sections/Networking]]"
 prev_page: "[[Pages/Networking/Set the IP address in the onPC]]"
 next_page: "[[Pages/Networking/Session control]]"
+depth: 2
 tags:
   - "type/page"
   - "section/network"

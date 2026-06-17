@@ -4,7 +4,6 @@ keyword: "Locate"
 slug: "key_keyword_locate"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_locate.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Locate]]"
 tags:
   - "type/keyword"
 ---

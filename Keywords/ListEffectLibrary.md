@@ -4,7 +4,6 @@ keyword: "ListEffectLibrary"
 slug: "key_keyword_listeffectlibrary"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_listeffectlibrary.html"
 keyword_type: "unknown"
-related_key: "[[Keys/ListEffectLibrary]]"
 tags:
   - "type/keyword"
 ---

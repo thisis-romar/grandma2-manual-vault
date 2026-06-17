@@ -4,9 +4,11 @@ title_str: "All keywords"
 slug: "key_cs_all_keywords"
 url: "https://help.malighting.com/grandMA2/en/help/key_cs_all_keywords.html"
 section: "Command Syntax and Keywords"
+ma2_section: "key_command_syntax_and_keywords"
 section_ref: "[[Sections/Command Syntax and Keywords]]"
-prev_page: "[[Pages/Command Syntax and Keywords/General syntax rules]]"
-next_page: "[[Pages/Command Syntax and Keywords/Work with lists]]"
+prev_page: "[[Pages/Command Syntax and Keywords/General Syntax Rules]]"
+next_page: "[[Pages/Command Syntax and Keywords/Work with Lists]]"
+depth: 2
 tags:
   - "type/page"
   - "section/cs"
@@ -349,6 +351,6 @@ To view the individual keywords, either use the tree structure of the manual or 
 *   [World](key_keyword_world.html)
 *   [Zero](key_keyword_zero.html)
 
-← [[Pages/Command Syntax and Keywords/General syntax rules]] | [[Pages/Command Syntax and Keywords/Work with lists]] →
+← [[Pages/Command Syntax and Keywords/General Syntax Rules]] | [[Pages/Command Syntax and Keywords/Work with Lists]] →
 
 Part of [[Sections/Command Syntax and Keywords]] · [[000 Map of Content]]

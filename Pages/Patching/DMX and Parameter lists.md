@@ -4,9 +4,11 @@ title_str: "DMX and Parameter lists"
 slug: "key_patch_dmx_parameter_list"
 url: "https://help.malighting.com/grandMA2/en/help/key_patch_dmx_parameter_list.html"
 section: "Patching"
+ma2_section: "key_patch"
 section_ref: "[[Sections/Patching]]"
-prev_page: "[[Pages/Patching/DMX testing]]"
-next_page: "[[Pages/Patching/Universe pool]]"
+prev_page: "[[Pages/Patching/DMX testing in the DMX Sheet]]"
+next_page: "[[Pages/Patching/Universe Pool]]"
+depth: 2
 tags:
   - "type/page"
   - "section/patch"
@@ -128,6 +130,6 @@ The changes you make here are executed immediately.
 
 You can change the same things by editing the fixture (Edit Fixture X).
 
-← [[Pages/Patching/DMX testing]] | [[Pages/Patching/Universe pool]] →
+← [[Pages/Patching/DMX testing in the DMX Sheet]] | [[Pages/Patching/Universe Pool]] →
 
 Part of [[Sections/Patching]] · [[000 Map of Content]]

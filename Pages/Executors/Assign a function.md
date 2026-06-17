@@ -4,9 +4,11 @@ title_str: "Assign a function"
 slug: "key_exec_assign"
 url: "https://help.malighting.com/grandMA2/en/help/key_exec_assign.html"
 section: "Executors"
+ma2_section: "key_exec"
 section_ref: "[[Sections/Executors]]"
 prev_page: "[[Pages/Executors/Executors on the screens]]"
 next_page: "[[Pages/Executors/Looking at the active executors]]"
+depth: 2
 tags:
   - "type/page"
   - "section/exec"

@@ -4,7 +4,6 @@ keyword: "ButtonPage keyword"
 slug: "key_keyword_buttonpage"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_buttonpage.html"
 keyword_type: "unknown"
-related_key: "[[Keys/ButtonPage keyword]]"
 tags:
   - "type/keyword"
 ---

@@ -3,7 +3,7 @@ type: "key"
 key_label: "Fixture Key"
 slug: "key_key_fixture"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_fixture.html"
-related_keyword: "[[Keywords/Fixture Key]]"
+related_keyword: "[[Keywords/Fixture]]"
 tags:
   - "type/key"
 ---

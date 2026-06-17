@@ -4,9 +4,11 @@ title_str: "MAtricks Blocks"
 slug: "key_matricks_blocks"
 url: "https://help.malighting.com/grandMA2/en/help/key_matricks_blocks.html"
 section: "MAtricks"
+ma2_section: "key_matricks"
 section_ref: "[[Sections/MAtricks]]"
-prev_page: "[[Pages/MAtricks/MAtricks interleave]]"
-next_page: "[[Pages/MAtricks/MAtricks wings]]"
+prev_page: "[[Pages/MAtricks/MAtricks Interleave]]"
+next_page: "[[Pages/MAtricks/MAtricks Wings]]"
+depth: 2
 tags:
   - "type/page"
   - "section/matricks"
@@ -111,6 +113,6 @@ A block of 3 fixtures is applied on the x-axis and a block of 3 fixtures on the 
 
 ![](../../img/img_bulb_off_v3-3.png)![](../../img/img_bulb_off_v3-3.png)![](../../img/img_bulb_off_v3-3.png)![](../../img/img_bulb_off_v3-3.png)
 
-← [[Pages/MAtricks/MAtricks interleave]] | [[Pages/MAtricks/MAtricks wings]] →
+← [[Pages/MAtricks/MAtricks Interleave]] | [[Pages/MAtricks/MAtricks Wings]] →
 
 Part of [[Sections/MAtricks]] · [[000 Map of Content]]

@@ -4,9 +4,11 @@ title_str: "Encoder Settings"
 slug: "key_ws_encoder_settings"
 url: "https://help.malighting.com/grandMA2/en/help/key_ws_encoder_settings.html"
 section: "Workspace"
+ma2_section: "key_workspace"
 section_ref: "[[Sections/Workspace]]"
-prev_page: "[[Pages/Workspace/Encoder bar]]"
+prev_page: "[[Pages/Workspace/Encoder Bar]]"
 next_page: "[[Pages/Workspace/Command wing bar]]"
+depth: 2
 tags:
   - "type/page"
   - "section/ws"
@@ -154,6 +156,6 @@ To clear all screens:
 
 All screens are cleared.
 
-← [[Pages/Workspace/Encoder bar]] | [[Pages/Workspace/Command wing bar]] →
+← [[Pages/Workspace/Encoder Bar]] | [[Pages/Workspace/Command wing bar]] →
 
 Part of [[Sections/Workspace]] · [[000 Map of Content]]

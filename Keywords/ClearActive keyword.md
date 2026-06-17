@@ -4,7 +4,6 @@ keyword: "ClearActive keyword"
 slug: "key_keyword_clearactive"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_clearactive.html"
 keyword_type: "unknown"
-related_key: "[[Keys/ClearActive keyword]]"
 tags:
   - "type/keyword"
 ---

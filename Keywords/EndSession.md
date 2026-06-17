@@ -4,7 +4,6 @@ keyword: "EndSession"
 slug: "key_keyword_endsession"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_endsession.html"
 keyword_type: "unknown"
-related_key: "[[Keys/EndSession]]"
 tags:
   - "type/keyword"
 ---

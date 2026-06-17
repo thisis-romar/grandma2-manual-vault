@@ -4,7 +4,6 @@ keyword: "LoadNext"
 slug: "key_keyword_loadnext"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_loadnext.html"
 keyword_type: "unknown"
-related_key: "[[Keys/LoadNext]]"
 tags:
   - "type/keyword"
 ---

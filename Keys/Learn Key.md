@@ -3,7 +3,7 @@ type: "key"
 key_label: "Learn Key"
 slug: "key_key_learn"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_learn.html"
-related_keyword: "[[Keywords/Learn Key]]"
+related_keyword: "[[Keywords/Learn]]"
 tags:
   - "type/key"
 ---

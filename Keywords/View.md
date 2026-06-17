@@ -4,7 +4,7 @@ keyword: "View"
 slug: "key_keyword_view"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_view.html"
 keyword_type: "unknown"
-related_key: "[[Keys/View]]"
+related_key: "[[Keys/View Key]]"
 tags:
   - "type/keyword"
 ---

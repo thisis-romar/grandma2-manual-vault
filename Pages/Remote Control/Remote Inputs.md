@@ -4,8 +4,10 @@ title_str: "Remote Inputs"
 slug: "key_remote_control_input"
 url: "https://help.malighting.com/grandMA2/en/help/key_remote_control_input.html"
 section: "Remote Control"
+ma2_section: "key_remote_control"
 section_ref: "[[Sections/Remote Control]]"
-next_page: "[[Pages/Remote Control/MIDI show control (MSC)]]"
+next_page: "[[Pages/Remote Control/MIDI Show Control (MSC)]]"
+depth: 2
 tags:
   - "type/page"
   - "section/remote"
@@ -111,6 +113,6 @@ The remote input has a special column called **DMX**. Here a DMX universe and ch
 
 If the DMX value is 128 and above then the input is triggered. If it triggers a **Fader** then the DMX values is used to position the fader.
 
-[[Pages/Remote Control/MIDI show control (MSC)]] →
+[[Pages/Remote Control/MIDI Show Control (MSC)]] →
 
 Part of [[Sections/Remote Control]] · [[000 Map of Content]]

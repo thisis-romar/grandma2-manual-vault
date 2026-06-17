@@ -4,7 +4,6 @@ keyword: "Cut keyword"
 slug: "key_keyword_cut"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_cut.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Cut keyword]]"
 tags:
   - "type/keyword"
 ---

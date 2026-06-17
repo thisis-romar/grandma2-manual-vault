@@ -3,7 +3,7 @@ type: "key"
 key_label: "Oops Key"
 slug: "key_key_oops"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_oops.html"
-related_keyword: "[[Keywords/Oops Key]]"
+related_keyword: "[[Keywords/Oops]]"
 tags:
   - "type/key"
 ---

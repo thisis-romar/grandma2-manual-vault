@@ -4,7 +4,6 @@ keyword: "RdmSetpatch"
 slug: "key_keyword_rdmsetpatch"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_rdmsetpatch.html"
 keyword_type: "unknown"
-related_key: "[[Keys/RdmSetpatch]]"
 tags:
   - "type/keyword"
 ---

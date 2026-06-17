@@ -4,9 +4,11 @@ title_str: "Add or delete keyboard shortcuts"
 slug: "key_ws_keyboard_shortcuts_add_delete"
 url: "https://help.malighting.com/grandMA2/en/help/key_ws_keyboard_shortcuts_add_delete.html"
 section: "Workspace"
+ma2_section: "key_workspace"
 section_ref: "[[Sections/Workspace]]"
 prev_page: "[[Pages/Workspace/Edit keyboard shortcuts]]"
 next_page: "[[Pages/Workspace/Export or import keyboard shortcuts]]"
+depth: 3
 tags:
   - "type/page"
   - "section/ws"

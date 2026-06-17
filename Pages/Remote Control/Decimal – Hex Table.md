@@ -4,8 +4,10 @@ title_str: "Decimal – Hex Table"
 slug: "key_remote_control_hex_table"
 url: "https://help.malighting.com/grandMA2/en/help/key_remote_control_hex_table.html"
 section: "Remote Control"
+ma2_section: "key_remote_control"
 section_ref: "[[Sections/Remote Control]]"
-prev_page: "[[Pages/Remote Control/Telnet remote]]"
+prev_page: "[[Pages/Remote Control/Telnet Remote]]"
+depth: 2
 tags:
   - "type/page"
   - "section/remote"
@@ -3110,6 +3112,6 @@ F : F
 
 FF
 
-← [[Pages/Remote Control/Telnet remote]]
+← [[Pages/Remote Control/Telnet Remote]]
 
 Part of [[Sections/Remote Control]] · [[000 Map of Content]]

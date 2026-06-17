@@ -4,7 +4,6 @@ keyword: "Toggle"
 slug: "key_keyword_toggle"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_toggle.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Toggle]]"
 tags:
   - "type/keyword"
 ---

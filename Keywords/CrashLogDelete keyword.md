@@ -4,7 +4,6 @@ keyword: "CrashLogDelete keyword"
 slug: "key_keyword_crashlogdelete"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_crashlogdelete.html"
 keyword_type: "unknown"
-related_key: "[[Keys/CrashLogDelete keyword]]"
 tags:
   - "type/keyword"
 ---

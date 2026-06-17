@@ -4,7 +4,7 @@ keyword: "Move"
 slug: "key_keyword_move"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_move.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Move]]"
+related_key: "[[Keys/Move Key]]"
 tags:
   - "type/keyword"
 ---

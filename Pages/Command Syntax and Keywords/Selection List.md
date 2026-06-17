@@ -4,9 +4,11 @@ title_str: "Selection List"
 slug: "key_cs_selection_list"
 url: "https://help.malighting.com/grandMA2/en/help/key_cs_selection_list.html"
 section: "Command Syntax and Keywords"
+ma2_section: "key_command_syntax_and_keywords"
 section_ref: "[[Sections/Command Syntax and Keywords]]"
-prev_page: "[[Pages/Command Syntax and Keywords/Object list]]"
-next_page: "[[Pages/Command Syntax and Keywords/Executor list]]"
+prev_page: "[[Pages/Command Syntax and Keywords/Object List]]"
+next_page: "[[Pages/Command Syntax and Keywords/Executor List]]"
+depth: 3
 tags:
   - "type/page"
   - "section/cs"
@@ -68,6 +70,6 @@ Selects fixture 3 and channel 6.
 
 Selects fixtures in group 3 and fixtures in cue 4.
 
-← [[Pages/Command Syntax and Keywords/Object list]] | [[Pages/Command Syntax and Keywords/Executor list]] →
+← [[Pages/Command Syntax and Keywords/Object List]] | [[Pages/Command Syntax and Keywords/Executor List]] →
 
 Part of [[Sections/Command Syntax and Keywords]] · [[000 Map of Content]]

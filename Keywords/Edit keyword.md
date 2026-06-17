@@ -4,7 +4,7 @@ keyword: "Edit keyword"
 slug: "key_keyword_edit"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_edit.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Edit keyword]]"
+related_key: "[[Keys/Edit Key]]"
 tags:
   - "type/keyword"
 ---

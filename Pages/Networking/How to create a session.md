@@ -4,8 +4,10 @@ title_str: "How to create a session"
 slug: "key_network_session_create"
 url: "https://help.malighting.com/grandMA2/en/help/key_network_session_create.html"
 section: "Networking"
+ma2_section: "key_network"
 section_ref: "[[Sections/Networking]]"
 next_page: "[[Pages/Networking/Protecting the session and station]]"
+depth: 3
 tags:
   - "type/page"
   - "section/network"

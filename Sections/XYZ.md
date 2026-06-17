@@ -7,10 +7,10 @@ page_count: 4
 tags:
   - "type/section"
 pages:
-  - "[[Pages/XYZ/XYZ vs. pan-tilt]]"
-  - "[[Pages/XYZ/XYZ and pan-tilt in cues and sequences]]"
-  - "[[Pages/XYZ/Use stage markers]]"
-  - "[[Pages/XYZ/Link objects to stage markers in MA 3D]]"
+  - "[[Pages/XYZ/XYZ vs. Pan-Tilt]]"
+  - "[[Pages/XYZ/XYZ and Pan-Tilt in cues and sequences]]"
+  - "[[Pages/XYZ/Use Stage Markers]]"
+  - "[[Pages/XYZ/Link Objects to Stage Markers in MA 3D]]"
 ---
 
 # XYZ
@@ -108,9 +108,9 @@ For information on different combinations of pan/tilt see [the Flip keyword](key
 
 ## Pages in This Section
 
-- [[Pages/XYZ/XYZ vs. pan-tilt]]
-- [[Pages/XYZ/XYZ and pan-tilt in cues and sequences]]
-- [[Pages/XYZ/Use stage markers]]
-- [[Pages/XYZ/Link objects to stage markers in MA 3D]]
+- [[Pages/XYZ/XYZ vs. Pan-Tilt]]
+- [[Pages/XYZ/XYZ and Pan-Tilt in cues and sequences]]
+- [[Pages/XYZ/Use Stage Markers]]
+- [[Pages/XYZ/Link Objects to Stage Markers in MA 3D]]
 
 Part of [[000 Map of Content]]

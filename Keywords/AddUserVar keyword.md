@@ -4,7 +4,6 @@ keyword: "AddUserVar keyword"
 slug: "key_keyword_adduservar"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_adduservar.html"
 keyword_type: "unknown"
-related_key: "[[Keys/AddUserVar keyword]]"
 tags:
   - "type/keyword"
 ---

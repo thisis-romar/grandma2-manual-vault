@@ -4,8 +4,10 @@ title_str: "User Interface"
 slug: "key_ws_user_interface"
 url: "https://help.malighting.com/grandMA2/en/help/key_ws_user_interface.html"
 section: "Workspace"
+ma2_section: "key_workspace"
 section_ref: "[[Sections/Workspace]]"
-next_page: "[[Pages/Workspace/Encoder bar]]"
+next_page: "[[Pages/Workspace/Encoder Bar]]"
+depth: 2
 tags:
   - "type/page"
   - "section/ws"
@@ -36,6 +38,6 @@ This chapter gives you an understanding of the grandMA2 user interface, the diff
 *   [Master section](key_widget_master_section.html)
 *   [Time control](key_ws_time_control.html)
 
-[[Pages/Workspace/Encoder bar]] →
+[[Pages/Workspace/Encoder Bar]] →
 
 Part of [[Sections/Workspace]] · [[000 Map of Content]]

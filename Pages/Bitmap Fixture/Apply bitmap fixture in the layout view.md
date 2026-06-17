@@ -4,9 +4,11 @@ title_str: "Apply bitmap fixture in the layout view"
 slug: "key_bitmapfixture_layout"
 url: "https://help.malighting.com/grandMA2/en/help/key_bitmapfixture_layout.html"
 section: "Bitmap Fixture"
+ma2_section: "key_bitmapfixture"
 section_ref: "[[Sections/Bitmap Fixture]]"
 prev_page: "[[Pages/Bitmap Fixture/Import bitmap fixture]]"
 next_page: "[[Pages/Bitmap Fixture/Control bitmap fixture]]"
+depth: 2
 tags:
   - "type/page"
   - "section/bitmapfixture"

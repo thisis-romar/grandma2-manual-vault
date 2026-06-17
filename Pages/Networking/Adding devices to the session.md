@@ -4,9 +4,11 @@ title_str: "Adding devices to the session"
 slug: "key_network_session_add_device"
 url: "https://help.malighting.com/grandMA2/en/help/key_network_session_add_device.html"
 section: "Networking"
+ma2_section: "key_network"
 section_ref: "[[Sections/Networking]]"
 prev_page: "[[Pages/Networking/Protecting the session and station]]"
 next_page: "[[Pages/Networking/How to end or leave a session]]"
+depth: 3
 tags:
   - "type/page"
   - "section/network"

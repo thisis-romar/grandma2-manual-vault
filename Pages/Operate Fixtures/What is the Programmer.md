@@ -4,9 +4,11 @@ title_str: "What is the Programmer"
 slug: "key_of_what_is_the_programmer"
 url: "https://help.malighting.com/grandMA2/en/help/key_of_what_is_the_programmer.html"
 section: "Operate Fixtures"
+ma2_section: "key_operate_fixtures"
 section_ref: "[[Sections/Operate Fixtures]]"
-prev_page: "[[Pages/Operate Fixtures/Layers in sheets]]"
-next_page: "[[Pages/Operate Fixtures/Encoder grouping]]"
+prev_page: "[[Pages/Operate Fixtures/Layer in Sheets]]"
+next_page: "[[Pages/Operate Fixtures/Encoder Grouping]]"
+depth: 2
 tags:
   - "type/page"
   - "section/of"
@@ -93,6 +95,6 @@ The programmer is now empty.
 
 _Empty Programmer_
 
-← [[Pages/Operate Fixtures/Layers in sheets]] | [[Pages/Operate Fixtures/Encoder grouping]] →
+← [[Pages/Operate Fixtures/Layer in Sheets]] | [[Pages/Operate Fixtures/Encoder Grouping]] →
 
 Part of [[Sections/Operate Fixtures]] · [[000 Map of Content]]

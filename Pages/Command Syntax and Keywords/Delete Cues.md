@@ -4,9 +4,11 @@ title_str: "Delete Cues"
 slug: "key_cs_delete_cues"
 url: "https://help.malighting.com/grandMA2/en/help/key_cs_delete_cues.html"
 section: "Command Syntax and Keywords"
-section_ref: "[[Sections/Command Syntax and Keywords]]"
+ma2_section: "key_cues_and_sequences"
+section_ref: "[[Sections/Cues and Sequences]]"
 prev_page: "[[Pages/Command Syntax and Keywords/Renumber cues]]"
-next_page: "[[Pages/Command Syntax and Keywords/Playing back cues]]"
+next_page: "[[Pages/Command Syntax and Keywords/Playing back Cues]]"
+depth: 2
 tags:
   - "type/page"
   - "section/cs"
@@ -70,6 +72,6 @@ Cue number 3 is gone. The orange color stored in the cue is now stored in cue nu
 
 Tracking is discussed in details in the [What is Tracking topic](key_cs_what_is_tracking.html).
 
-← [[Pages/Command Syntax and Keywords/Renumber cues]] | [[Pages/Command Syntax and Keywords/Playing back cues]] →
+← [[Pages/Command Syntax and Keywords/Renumber cues]] | [[Pages/Command Syntax and Keywords/Playing back Cues]] →
 
-Part of [[Sections/Command Syntax and Keywords]] · [[000 Map of Content]]
+Part of [[Sections/Cues and Sequences]] · [[000 Map of Content]]

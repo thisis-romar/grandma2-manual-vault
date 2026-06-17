@@ -4,9 +4,11 @@ title_str: "ColorMix vs. MixColor"
 slug: "key_basic_fixture_colormix_mixcolor"
 url: "https://help.malighting.com/grandMA2/en/help/key_basic_fixture_colormix_mixcolor.html"
 section: "Basic Fixture Types"
+ma2_section: "key_basic_fixture"
 section_ref: "[[Sections/Basic Fixture Types]]"
-prev_page: "[[Pages/Basic Fixture Types/What are attributes, features & preset types]]"
-next_page: "[[Pages/Basic Fixture Types/Different fixture types]]"
+prev_page: "[[Pages/Basic Fixture Types/What are Attributes, Features & Preset Types]]"
+next_page: "[[Pages/Basic Fixture Types/Different Fixture Types]]"
+depth: 2
 tags:
   - "type/page"
   - "section/basic"
@@ -70,6 +72,6 @@ There is currently 22 defined ColorRGBs. They are:
 **Important:**  
 MixColor has been called ColorDim and ColorMix (CM) in the past. These names are now obsolete and depreciated
 
-← [[Pages/Basic Fixture Types/What are attributes, features & preset types]] | [[Pages/Basic Fixture Types/Different fixture types]] →
+← [[Pages/Basic Fixture Types/What are Attributes, Features & Preset Types]] | [[Pages/Basic Fixture Types/Different Fixture Types]] →
 
 Part of [[Sections/Basic Fixture Types]] · [[000 Map of Content]]

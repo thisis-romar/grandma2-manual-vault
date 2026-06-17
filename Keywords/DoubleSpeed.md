@@ -4,7 +4,6 @@ keyword: "DoubleSpeed"
 slug: "key_keyword_doublespeed"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_doublespeed.html"
 keyword_type: "unknown"
-related_key: "[[Keys/DoubleSpeed]]"
 tags:
   - "type/keyword"
 ---

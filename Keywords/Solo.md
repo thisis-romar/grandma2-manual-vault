@@ -4,7 +4,7 @@ keyword: "Solo"
 slug: "key_keyword_solo"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_solo.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Solo]]"
+related_key: "[[Keys/Solo Key]]"
 tags:
   - "type/keyword"
 ---

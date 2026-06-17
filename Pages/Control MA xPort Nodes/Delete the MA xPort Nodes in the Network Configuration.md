@@ -4,8 +4,10 @@ title_str: "Delete the MA xPort Nodes in the Network Configuration"
 slug: "key_control_node_delete"
 url: "https://help.malighting.com/grandMA2/en/help/key_control_node_delete.html"
 section: "Control MA xPort Nodes"
+ma2_section: "key_control_ma_xport_node"
 section_ref: "[[Sections/Control MA xPort Nodes]]"
-prev_page: "[[Pages/Control MA xPort Nodes/Configure the MA xPort Nodes as splitters or mergers]]"
+prev_page: "[[Pages/Control MA xPort Nodes/Configure the MA xPort Nodes as Splitters or Mergers]]"
+depth: 2
 tags:
   - "type/page"
   - "section/control"
@@ -36,6 +38,6 @@ _MA Network Configuration – DMX Node_
 
 The MA xPort Nodes have been deleted in the network configuration.
 
-← [[Pages/Control MA xPort Nodes/Configure the MA xPort Nodes as splitters or mergers]]
+← [[Pages/Control MA xPort Nodes/Configure the MA xPort Nodes as Splitters or Mergers]]
 
 Part of [[Sections/Control MA xPort Nodes]] · [[000 Map of Content]]

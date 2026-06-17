@@ -4,7 +4,7 @@ keyword: "Thru"
 slug: "key_keyword_thru"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_thru.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Thru]]"
+related_key: "[[Keys/Thru Key]]"
 tags:
   - "type/keyword"
 ---

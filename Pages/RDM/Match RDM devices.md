@@ -4,9 +4,11 @@ title_str: "Match RDM devices"
 slug: "key_rdm_match"
 url: "https://help.malighting.com/grandMA2/en/help/key_rdm_match.html"
 section: "RDM"
+ma2_section: "key_rdm"
 section_ref: "[[Sections/RDM]]"
 prev_page: "[[Pages/RDM/Turn RDM on]]"
-next_page: "[[Pages/RDM/Auto patch RDM devices]]"
+next_page: "[[Pages/RDM/Auto Patch RDM Devices]]"
+depth: 2
 tags:
   - "type/page"
   - "section/rdm"
@@ -106,6 +108,6 @@ _Matched RDM devices_
 **Hint:**  
 You can also use the [keyword RdmAutomatch](key_keyword_rdmautomatch.html) to auto-match RDM devices by using the command line.
 
-← [[Pages/RDM/Turn RDM on]] | [[Pages/RDM/Auto patch RDM devices]] →
+← [[Pages/RDM/Turn RDM on]] | [[Pages/RDM/Auto Patch RDM Devices]] →
 
 Part of [[Sections/RDM]] · [[000 Map of Content]]

@@ -4,9 +4,11 @@ title_str: "Renumber cues"
 slug: "key_cs_renumber_cues"
 url: "https://help.malighting.com/grandMA2/en/help/key_cs_renumber_cues.html"
 section: "Command Syntax and Keywords"
-section_ref: "[[Sections/Command Syntax and Keywords]]"
+ma2_section: "key_cues_and_sequences"
+section_ref: "[[Sections/Cues and Sequences]]"
 prev_page: "[[Pages/Command Syntax and Keywords/Cue timings]]"
-next_page: "[[Pages/Command Syntax and Keywords/Delete cues]]"
+next_page: "[[Pages/Command Syntax and Keywords/Delete Cues]]"
+depth: 2
 tags:
   - "type/page"
   - "section/cs"
@@ -61,6 +63,6 @@ Unless you use the command line input to specify a color then the **Select Color
 
 The sheet options control if this color is visible and how may cells will have the background color. Read more about this in the [Sheet Options - Display - Cue Color Columns](key_of_sheet_options_display.html#cue_color_columns).
 
-← [[Pages/Command Syntax and Keywords/Cue timings]] | [[Pages/Command Syntax and Keywords/Delete cues]] →
+← [[Pages/Command Syntax and Keywords/Cue timings]] | [[Pages/Command Syntax and Keywords/Delete Cues]] →
 
-Part of [[Sections/Command Syntax and Keywords]] · [[000 Map of Content]]
+Part of [[Sections/Cues and Sequences]] · [[000 Map of Content]]

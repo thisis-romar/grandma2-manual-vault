@@ -3,7 +3,7 @@ type: "key"
 key_label: "Next Key"
 slug: "key_key_next"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_next.html"
-related_keyword: "[[Keywords/Next Key]]"
+related_keyword: "[[Keywords/Next]]"
 tags:
   - "type/key"
 ---

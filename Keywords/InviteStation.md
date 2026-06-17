@@ -4,7 +4,6 @@ keyword: "InviteStation"
 slug: "key_keyword_invitestation"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_invitestation.html"
 keyword_type: "unknown"
-related_key: "[[Keys/InviteStation]]"
 tags:
   - "type/keyword"
 ---

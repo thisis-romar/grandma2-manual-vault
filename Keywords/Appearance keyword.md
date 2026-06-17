@@ -4,7 +4,6 @@ keyword: "Appearance keyword"
 slug: "key_keyword_appearance"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_appearance.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Appearance keyword]]"
 tags:
   - "type/keyword"
 ---

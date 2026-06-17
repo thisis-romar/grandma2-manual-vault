@@ -4,7 +4,6 @@ keyword: "VPU pixel mapper view"
 slug: "key_keyword_vpupixelmapperview"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_vpupixelmapperview.html"
 keyword_type: "unknown"
-related_key: "[[Keys/VPU pixel mapper view]]"
 tags:
   - "type/keyword"
 ---

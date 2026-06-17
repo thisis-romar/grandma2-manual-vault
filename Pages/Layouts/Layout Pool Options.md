@@ -4,9 +4,11 @@ title_str: "Layout Pool Options"
 slug: "key_layouts_pool_options"
 url: "https://help.malighting.com/grandMA2/en/help/key_layouts_pool_options.html"
 section: "Layouts"
+ma2_section: "key_layouts"
 section_ref: "[[Sections/Layouts]]"
-prev_page: "[[Pages/Layouts/Create a layout]]"
-next_page: "[[Pages/Layouts/Edit layout]]"
+prev_page: "[[Pages/Layouts/Create a Layout]]"
+next_page: "[[Pages/Layouts/Edit Layout]]"
+depth: 2
 tags:
   - "type/page"
   - "section/layouts"
@@ -41,6 +43,6 @@ _Layout pool options_
     \-Tap ![](../../img/icon_close_small_v3-2.png) in the upper right corner of the dialog and the dialog closes.  
     \-If you would like to close the layout pool altogether, tap Delete Window.
 
-← [[Pages/Layouts/Create a layout]] | [[Pages/Layouts/Edit layout]] →
+← [[Pages/Layouts/Create a Layout]] | [[Pages/Layouts/Edit Layout]] →
 
 Part of [[Sections/Layouts]] · [[000 Map of Content]]

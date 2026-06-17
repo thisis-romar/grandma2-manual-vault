@@ -7,12 +7,12 @@ page_count: 6
 tags:
   - "type/section"
 pages:
-  - "[[Pages/MAtricks/MAtricks toolbar]]"
-  - "[[Pages/MAtricks/MAtricks pool]]"
-  - "[[Pages/MAtricks/MAtricks interleave]]"
-  - "[[Pages/MAtricks/MAtricks blocks]]"
-  - "[[Pages/MAtricks/MAtricks wings]]"
-  - "[[Pages/MAtricks/MAtricks groups]]"
+  - "[[Pages/MAtricks/MAtricks Toolbar]]"
+  - "[[Pages/MAtricks/MAtricks Pool]]"
+  - "[[Pages/MAtricks/MAtricks Interleave]]"
+  - "[[Pages/MAtricks/MAtricks Blocks]]"
+  - "[[Pages/MAtricks/MAtricks Wings]]"
+  - "[[Pages/MAtricks/MAtricks Groups]]"
 ---
 
 # MAtricks
@@ -106,11 +106,11 @@ Prev + Next execute the All keyword. For more information see the [All keyword]
 
 ## Pages in This Section
 
-- [[Pages/MAtricks/MAtricks toolbar]]
-- [[Pages/MAtricks/MAtricks pool]]
-- [[Pages/MAtricks/MAtricks interleave]]
-- [[Pages/MAtricks/MAtricks blocks]]
-- [[Pages/MAtricks/MAtricks wings]]
-- [[Pages/MAtricks/MAtricks groups]]
+- [[Pages/MAtricks/MAtricks Toolbar]]
+- [[Pages/MAtricks/MAtricks Pool]]
+- [[Pages/MAtricks/MAtricks Interleave]]
+- [[Pages/MAtricks/MAtricks Blocks]]
+- [[Pages/MAtricks/MAtricks Wings]]
+- [[Pages/MAtricks/MAtricks Groups]]
 
 Part of [[000 Map of Content]]

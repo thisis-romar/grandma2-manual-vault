@@ -4,7 +4,6 @@ keyword: "DropControl keyword"
 slug: "key_keyword_dropcontrol"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_dropcontrol.html"
 keyword_type: "unknown"
-related_key: "[[Keys/DropControl keyword]]"
 tags:
   - "type/keyword"
 ---

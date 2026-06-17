@@ -4,8 +4,10 @@ title_str: "RDM specific keywords"
 slug: "key_rdm_keywords"
 url: "https://help.malighting.com/grandMA2/en/help/key_rdm_keywords.html"
 section: "RDM"
+ma2_section: "key_rdm"
 section_ref: "[[Sections/RDM]]"
 prev_page: "[[Pages/RDM/Turn RDM off]]"
+depth: 2
 tags:
   - "type/page"
   - "section/rdm"

@@ -4,7 +4,6 @@ keyword: "StoreLook"
 slug: "key_keyword_storelook"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_storelook.html"
 keyword_type: "unknown"
-related_key: "[[Keys/StoreLook]]"
 tags:
   - "type/keyword"
 ---

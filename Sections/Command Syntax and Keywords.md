@@ -7,9 +7,9 @@ page_count: 3
 tags:
   - "type/section"
 pages:
-  - "[[Pages/Command Syntax and Keywords/General syntax rules]]"
+  - "[[Pages/Command Syntax and Keywords/General Syntax Rules]]"
   - "[[Pages/Command Syntax and Keywords/All keywords]]"
-  - "[[Pages/Command Syntax and Keywords/Work with lists]]"
+  - "[[Pages/Command Syntax and Keywords/Work with Lists]]"
 ---
 
 # Function of the Command Line
@@ -75,8 +75,8 @@ For more information on how to use the command line in detail see [Command line]
 
 ## Pages in This Section
 
-- [[Pages/Command Syntax and Keywords/General syntax rules]]
+- [[Pages/Command Syntax and Keywords/General Syntax Rules]]
 - [[Pages/Command Syntax and Keywords/All keywords]]
-- [[Pages/Command Syntax and Keywords/Work with lists]]
+- [[Pages/Command Syntax and Keywords/Work with Lists]]
 
 Part of [[000 Map of Content]]

@@ -7,17 +7,17 @@ page_count: 12
 tags:
   - "type/section"
 pages:
-  - "[[Pages/Worlds Filters and Masks/What are worlds]]"
+  - "[[Pages/Worlds Filters and Masks/What are Worlds]]"
   - "[[Pages/Worlds Filters and Masks/Create worlds]]"
   - "[[Pages/Worlds Filters and Masks/Auto create worlds]]"
   - "[[Pages/Worlds Filters and Masks/Use worlds when programming]]"
   - "[[Pages/Worlds Filters and Masks/What are filters]]"
   - "[[Pages/Worlds Filters and Masks/Create filters]]"
-  - "[[Pages/Worlds Filters and Masks/Use filters when programming]]"
+  - "[[Pages/Worlds Filters and Masks/Use filters when you Store and use At]]"
   - "[[Pages/Worlds Filters and Masks/Use temporary filters]]"
   - "[[Pages/Worlds Filters and Masks/What are masks]]"
   - "[[Pages/Worlds Filters and Masks/Create masks]]"
-  - "[[Pages/Worlds Filters and Masks/Use masks in the sheets]]"
+  - "[[Pages/Worlds Filters and Masks/Use masks in the sheets and windows]]"
   - "[[Pages/Worlds Filters and Masks/Apply worlds or filters to executors and sequences]]"
 ---
 
@@ -61,17 +61,17 @@ They are called Worlds, Filters, and Masks.
 
 ## Pages in This Section
 
-- [[Pages/Worlds Filters and Masks/What are worlds]]
+- [[Pages/Worlds Filters and Masks/What are Worlds]]
 - [[Pages/Worlds Filters and Masks/Create worlds]]
 - [[Pages/Worlds Filters and Masks/Auto create worlds]]
 - [[Pages/Worlds Filters and Masks/Use worlds when programming]]
 - [[Pages/Worlds Filters and Masks/What are filters]]
 - [[Pages/Worlds Filters and Masks/Create filters]]
-- [[Pages/Worlds Filters and Masks/Use filters when programming]]
+- [[Pages/Worlds Filters and Masks/Use filters when you Store and use At]]
 - [[Pages/Worlds Filters and Masks/Use temporary filters]]
 - [[Pages/Worlds Filters and Masks/What are masks]]
 - [[Pages/Worlds Filters and Masks/Create masks]]
-- [[Pages/Worlds Filters and Masks/Use masks in the sheets]]
+- [[Pages/Worlds Filters and Masks/Use masks in the sheets and windows]]
 - [[Pages/Worlds Filters and Masks/Apply worlds or filters to executors and sequences]]
 
 Part of [[000 Map of Content]]

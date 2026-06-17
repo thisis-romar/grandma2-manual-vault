@@ -4,8 +4,10 @@ title_str: "Update via setup"
 slug: "key_update_setup"
 url: "https://help.malighting.com/grandMA2/en/help/key_update_setup.html"
 section: "Update the Software"
+ma2_section: "key_update"
 section_ref: "[[Sections/Update the Software]]"
 next_page: "[[Pages/Update the Software/Format a USB stick for Linux]]"
+depth: 2
 tags:
   - "type/page"
   - "section/update"

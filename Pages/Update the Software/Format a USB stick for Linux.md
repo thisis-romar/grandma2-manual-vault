@@ -4,9 +4,11 @@ title_str: "Format a USB stick for Linux"
 slug: "key_update_format"
 url: "https://help.malighting.com/grandMA2/en/help/key_update_format.html"
 section: "Update the Software"
+ma2_section: "key_update"
 section_ref: "[[Sections/Update the Software]]"
 prev_page: "[[Pages/Update the Software/Update via setup]]"
 next_page: "[[Pages/Update the Software/Update or factory reset via boot menu]]"
+depth: 2
 tags:
   - "type/page"
   - "section/update"

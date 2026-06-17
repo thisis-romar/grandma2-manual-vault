@@ -3,7 +3,7 @@ type: "key"
 key_label: "Down Key"
 slug: "key_key_down"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_down.html"
-related_keyword: "[[Keywords/Down Key]]"
+related_keyword: "[[Keywords/Down keyword]]"
 tags:
   - "type/key"
 ---

@@ -7,21 +7,21 @@ page_count: 15
 tags:
   - "type/section"
 pages:
-  - "[[Pages/First Steps/Unpack the device]]"
-  - "[[Pages/First Steps/Check scope of delivery]]"
-  - "[[Pages/First Steps/Position the device]]"
-  - "[[Pages/First Steps/Connect power]]"
-  - "[[Pages/First Steps/Connect desk lamps]]"
-  - "[[Pages/First Steps/Connect external screens]]"
-  - "[[Pages/First Steps/Connect USB mouse and USB keyboad]]"
+  - "[[Pages/First Steps/Unpack the Device]]"
+  - "[[Pages/First Steps/Check Scope of Delivery]]"
+  - "[[Pages/First Steps/Position the Device]]"
+  - "[[Pages/First Steps/Connect Power]]"
+  - "[[Pages/First Steps/Connect Desk Lamps]]"
+  - "[[Pages/First Steps/Connect External Screens]]"
+  - "[[Pages/First Steps/Connect USB Mouse and USB Keyboad]]"
   - "[[Pages/First Steps/Connect DMX]]"
-  - "[[Pages/First Steps/Connect sound]]"
+  - "[[Pages/First Steps/Connect Sound]]"
   - "[[Pages/First Steps/Connect SMPTE (LTC)]]"
   - "[[Pages/First Steps/Connect Ethernet]]"
-  - "[[Pages/First Steps/Connect analog remote control]]"
+  - "[[Pages/First Steps/Connect Analog Remote Control]]"
   - "[[Pages/First Steps/Connect grandMA2 fader wing]]"
   - "[[Pages/First Steps/Setup your PC]]"
-  - "[[Pages/First Steps/Turn on the console the first time]]"
+  - "[[Pages/First Steps/Turn on the Console the First Time]]"
 ---
 
 # First Steps
@@ -59,20 +59,20 @@ This chapter describes how to prepare the console and your PC to use it.
 
 ## Pages in This Section
 
-- [[Pages/First Steps/Unpack the device]]
-- [[Pages/First Steps/Check scope of delivery]]
-- [[Pages/First Steps/Position the device]]
-- [[Pages/First Steps/Connect power]]
-- [[Pages/First Steps/Connect desk lamps]]
-- [[Pages/First Steps/Connect external screens]]
-- [[Pages/First Steps/Connect USB mouse and USB keyboad]]
+- [[Pages/First Steps/Unpack the Device]]
+- [[Pages/First Steps/Check Scope of Delivery]]
+- [[Pages/First Steps/Position the Device]]
+- [[Pages/First Steps/Connect Power]]
+- [[Pages/First Steps/Connect Desk Lamps]]
+- [[Pages/First Steps/Connect External Screens]]
+- [[Pages/First Steps/Connect USB Mouse and USB Keyboad]]
 - [[Pages/First Steps/Connect DMX]]
-- [[Pages/First Steps/Connect sound]]
+- [[Pages/First Steps/Connect Sound]]
 - [[Pages/First Steps/Connect SMPTE (LTC)]]
 - [[Pages/First Steps/Connect Ethernet]]
-- [[Pages/First Steps/Connect analog remote control]]
+- [[Pages/First Steps/Connect Analog Remote Control]]
 - [[Pages/First Steps/Connect grandMA2 fader wing]]
 - [[Pages/First Steps/Setup your PC]]
-- [[Pages/First Steps/Turn on the console the first time]]
+- [[Pages/First Steps/Turn on the Console the First Time]]
 
 Part of [[000 Map of Content]]

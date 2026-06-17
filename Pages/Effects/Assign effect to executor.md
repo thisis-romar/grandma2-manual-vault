@@ -4,9 +4,11 @@ title_str: "Assign effect to executor"
 slug: "key_effects_assign_to_executor"
 url: "https://help.malighting.com/grandMA2/en/help/key_effects_assign_to_executor.html"
 section: "Effects"
+ma2_section: "key_effects"
 section_ref: "[[Sections/Effects]]"
-prev_page: "[[Pages/Effects/Effects in a cue]]"
-next_page: "[[Pages/Effects/Live edit an effect]]"
+prev_page: "[[Pages/Effects/Effects in a Cue]]"
+next_page: "[[Pages/Effects/Live Edit an Effect]]"
+depth: 2
 tags:
   - "type/page"
   - "section/effects"
@@ -66,6 +68,6 @@ The master of an effect executor affects the size of an effect. 
 **Important:**  
 Speed groups only work if they were assigned to the executor and not the effect itself.
 
-← [[Pages/Effects/Effects in a cue]] | [[Pages/Effects/Live edit an effect]] →
+← [[Pages/Effects/Effects in a Cue]] | [[Pages/Effects/Live Edit an Effect]] →
 
 Part of [[Sections/Effects]] · [[000 Map of Content]]

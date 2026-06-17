@@ -4,7 +4,6 @@ keyword: "BlackScreen keyword"
 slug: "key_keyword_blackscreen"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_blackscreen.html"
 keyword_type: "unknown"
-related_key: "[[Keys/BlackScreen keyword]]"
 tags:
   - "type/keyword"
 ---

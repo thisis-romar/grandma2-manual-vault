@@ -4,9 +4,11 @@ title_str: "System Requirements grandMA2 onPC"
 slug: "key_introduction_system_requirements_grandma2_onpc"
 url: "https://help.malighting.com/grandMA2/en/help/key_introduction_system_requirements_grandma2_onpc.html"
 section: "Introduction"
+ma2_section: "key_introduction"
 section_ref: "[[Sections/Introduction]]"
-prev_page: "[[Pages/Introduction/About this manual]]"
+prev_page: "[[Pages/Introduction/About this Manual]]"
 next_page: "[[Pages/Introduction/Installation of grandMA2 onPC]]"
+depth: 2
 tags:
   - "type/page"
   - "section/introduction"
@@ -118,6 +120,6 @@ Additional requirements:
 
 We recommend that you visit your PC manufacturer´s website for information about updated drivers and hardware compatibility.
 
-← [[Pages/Introduction/About this manual]] | [[Pages/Introduction/Installation of grandMA2 onPC]] →
+← [[Pages/Introduction/About this Manual]] | [[Pages/Introduction/Installation of grandMA2 onPC]] →
 
 Part of [[Sections/Introduction]] · [[000 Map of Content]]

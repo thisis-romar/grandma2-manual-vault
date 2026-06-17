@@ -4,7 +4,7 @@ keyword: "Group"
 slug: "key_keyword_group"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_group.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Group]]"
+related_key: "[[Keys/Group Key]]"
 tags:
   - "type/keyword"
 ---

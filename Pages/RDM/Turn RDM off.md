@@ -4,9 +4,11 @@ title_str: "Turn RDM off"
 slug: "key_rdm_turn_off"
 url: "https://help.malighting.com/grandMA2/en/help/key_rdm_turn_off.html"
 section: "RDM"
+ma2_section: "key_rdm"
 section_ref: "[[Sections/RDM]]"
-prev_page: "[[Pages/RDM/Splitters and mergers that support RDM]]"
+prev_page: "[[Pages/RDM/Splitters and Mergers that Support RDM]]"
 next_page: "[[Pages/RDM/RDM specific keywords]]"
+depth: 2
 tags:
   - "type/page"
   - "section/rdm"
@@ -87,6 +89,6 @@ Way B:
 
 RDM is global turned off. The **red RDM icon** ![](../../img/icon_rdm-red_v3-2.png) is displayed in the universe pool - pool style, if RDM is on for that universe.
 
-← [[Pages/RDM/Splitters and mergers that support RDM]] | [[Pages/RDM/RDM specific keywords]] →
+← [[Pages/RDM/Splitters and Mergers that Support RDM]] | [[Pages/RDM/RDM specific keywords]] →
 
 Part of [[Sections/RDM]] · [[000 Map of Content]]

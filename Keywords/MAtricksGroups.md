@@ -4,7 +4,6 @@ keyword: "MAtricksGroups"
 slug: "key_keyword_matricksgroups"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_matricksgroups.html"
 keyword_type: "unknown"
-related_key: "[[Keys/MAtricksGroups]]"
 tags:
   - "type/keyword"
 ---

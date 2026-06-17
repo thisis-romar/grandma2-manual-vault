@@ -4,9 +4,11 @@ title_str: "Command Line"
 slug: "key_widget_command_line"
 url: "https://help.malighting.com/grandMA2/en/help/key_widget_command_line.html"
 section: "Workspace"
+ma2_section: "key_workspace"
 section_ref: "[[Sections/Workspace]]"
-prev_page: "[[Pages/Workspace/User-defined area]]"
-next_page: "[[Pages/Workspace/X-Key labels]]"
+prev_page: "[[Pages/Workspace/User-Defined Area]]"
+next_page: "[[Pages/Workspace/X-Key Labels]]"
+depth: 3
 tags:
   - "type/page"
   - "section/widget"
@@ -131,6 +133,6 @@ To change the default keyword:
 1.  Press a key with a default keyword on it, for example Fixture.
 2.  Press Please.
 
-← [[Pages/Workspace/User-defined area]] | [[Pages/Workspace/X-Key labels]] →
+← [[Pages/Workspace/User-Defined Area]] | [[Pages/Workspace/X-Key Labels]] →
 
 Part of [[Sections/Workspace]] · [[000 Map of Content]]

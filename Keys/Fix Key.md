@@ -3,7 +3,7 @@ type: "key"
 key_label: "Fix Key"
 slug: "key_key_fix"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_fix.html"
-related_keyword: "[[Keywords/Fix Key]]"
+related_keyword: "[[Keywords/Fix]]"
 tags:
   - "type/key"
 ---

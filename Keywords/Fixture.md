@@ -4,7 +4,7 @@ keyword: "Fixture"
 slug: "key_keyword_fixture"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_fixture.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Fixture]]"
+related_key: "[[Keys/Fixture Key]]"
 tags:
   - "type/keyword"
 ---

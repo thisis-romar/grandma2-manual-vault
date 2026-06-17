@@ -3,7 +3,7 @@ type: "key"
 key_label: "Clear Key"
 slug: "key_key_clear"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_clear.html"
-related_keyword: "[[Keywords/Clear Key]]"
+related_keyword: "[[Keywords/Clear keyword]]"
 tags:
   - "type/key"
 ---

@@ -4,7 +4,6 @@ keyword: "EffectHZ"
 slug: "key_keyword_effecthz"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_effecthz.html"
 keyword_type: "unknown"
-related_key: "[[Keys/EffectHZ]]"
 tags:
   - "type/keyword"
 ---

@@ -4,7 +4,6 @@ keyword: "Paste"
 slug: "key_keyword_paste"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_paste.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Paste]]"
 tags:
   - "type/keyword"
 ---

@@ -4,8 +4,10 @@ title_str: "Encoder Toolbar"
 slug: "key_ws_encoder_toolbar"
 url: "https://help.malighting.com/grandMA2/en/help/key_ws_encoder_toolbar.html"
 section: "Workspace"
+ma2_section: "key_workspace"
 section_ref: "[[Sections/Workspace]]"
-prev_page: "[[Pages/Workspace/Preset control bar]]"
+prev_page: "[[Pages/Workspace/Preset Control Bar]]"
+depth: 3
 tags:
   - "type/page"
   - "section/ws"
@@ -77,6 +79,6 @@ Choose the encoder link option you like to have.
 
 The encoder link option is saved in the user settings.
 
-← [[Pages/Workspace/Preset control bar]]
+← [[Pages/Workspace/Preset Control Bar]]
 
 Part of [[Sections/Workspace]] · [[000 Map of Content]]

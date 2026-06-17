@@ -4,9 +4,11 @@ title_str: "Create Preset Reference"
 slug: "key_presets_create_preset_reference"
 url: "https://help.malighting.com/grandMA2/en/help/key_presets_create_preset_reference.html"
 section: "Presets"
+ma2_section: "key_presets"
 section_ref: "[[Sections/Presets]]"
-prev_page: "[[Pages/Presets/Preset pool options]]"
-next_page: "[[Pages/Presets/Auto create presets]]"
+prev_page: "[[Pages/Presets/Preset Pool Options]]"
+next_page: "[[Pages/Presets/Auto Create Presets]]"
+depth: 2
 tags:
   - "type/page"
   - "section/presets"
@@ -49,6 +51,6 @@ To use preset references in other show files, export the fixture type after crea
 
 10.  To close the menu, tap ![](../../img/icon_close_small_v3-2.png) in the upper right corner of the window.
 
-← [[Pages/Presets/Preset pool options]] | [[Pages/Presets/Auto create presets]] →
+← [[Pages/Presets/Preset Pool Options]] | [[Pages/Presets/Auto Create Presets]] →
 
 Part of [[Sections/Presets]] · [[000 Map of Content]]

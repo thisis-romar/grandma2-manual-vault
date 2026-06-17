@@ -4,9 +4,11 @@ title_str: "Update Presets"
 slug: "key_presets_update"
 url: "https://help.malighting.com/grandMA2/en/help/key_presets_update.html"
 section: "Presets"
+ma2_section: "key_presets"
 section_ref: "[[Sections/Presets]]"
-prev_page: "[[Pages/Presets/Edit presets]]"
-next_page: "[[Pages/Presets/Delete presets]]"
+prev_page: "[[Pages/Presets/Edit Presets]]"
+next_page: "[[Pages/Presets/Delete Presets]]"
+depth: 2
 tags:
   - "type/page"
   - "section/presets"
@@ -48,6 +50,6 @@ _Update preset_
 **Hint:**  
 For more information on filter, selective, global, universal and default see [Create presets](key_presets_create.html#preset_filter).
 
-← [[Pages/Presets/Edit presets]] | [[Pages/Presets/Delete presets]] →
+← [[Pages/Presets/Edit Presets]] | [[Pages/Presets/Delete Presets]] →
 
 Part of [[Sections/Presets]] · [[000 Map of Content]]

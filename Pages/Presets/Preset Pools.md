@@ -4,9 +4,11 @@ title_str: "Preset Pools"
 slug: "key_presets_pools"
 url: "https://help.malighting.com/grandMA2/en/help/key_presets_pools.html"
 section: "Presets"
+ma2_section: "key_presets"
 section_ref: "[[Sections/Presets]]"
-prev_page: "[[Pages/Presets/What are special modes]]"
-next_page: "[[Pages/Presets/Preset pool -Dynamic-]]"
+prev_page: "[[Pages/Presets/What Are Special Modes-]]"
+next_page: "[[Pages/Presets/Preset Pool -Dynamic-]]"
+depth: 2
 tags:
   - "type/page"
   - "section/presets"
@@ -58,6 +60,6 @@ Here is an outline of all preset pools. 
 
 _Preset pools_
 
-← [[Pages/Presets/What are special modes]] | [[Pages/Presets/Preset pool -Dynamic-]] →
+← [[Pages/Presets/What Are Special Modes-]] | [[Pages/Presets/Preset Pool -Dynamic-]] →
 
 Part of [[Sections/Presets]] · [[000 Map of Content]]

@@ -4,9 +4,11 @@ title_str: "Protecting the session and station"
 slug: "key_network_session_protect"
 url: "https://help.malighting.com/grandMA2/en/help/key_network_session_protect.html"
 section: "Networking"
+ma2_section: "key_network"
 section_ref: "[[Sections/Networking]]"
 prev_page: "[[Pages/Networking/How to create a session]]"
 next_page: "[[Pages/Networking/Adding devices to the session]]"
+depth: 3
 tags:
   - "type/page"
   - "section/network"

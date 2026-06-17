@@ -3,7 +3,7 @@ type: "key"
 key_label: "- Key"
 slug: "key_key_minus"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_minus.html"
-related_keyword: "[[Keywords/- Key]]"
+related_keyword: "[[Keywords/- [Minus] keyword]]"
 tags:
   - "type/key"
 ---

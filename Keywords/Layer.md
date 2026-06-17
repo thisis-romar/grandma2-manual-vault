@@ -4,7 +4,6 @@ keyword: "Layer"
 slug: "key_keyword_layer"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_layer.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Layer]]"
 tags:
   - "type/keyword"
 ---

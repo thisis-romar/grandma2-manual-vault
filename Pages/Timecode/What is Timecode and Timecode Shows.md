@@ -4,8 +4,10 @@ title_str: "What is Timecode and Timecode Shows"
 slug: "key_timecode_what_is"
 url: "https://help.malighting.com/grandMA2/en/help/key_timecode_what_is.html"
 section: "Timecode"
+ma2_section: "key_timecode"
 section_ref: "[[Sections/Timecode]]"
-next_page: "[[Pages/Timecode/Record a timecode show]]"
+next_page: "[[Pages/Timecode/Record a Timecode Show]]"
+depth: 2
 tags:
   - "type/page"
   - "section/timecode"
@@ -114,6 +116,6 @@ This window shows the playback status and current time of the timecode show. The
 
 The timecode view is very similar to the timecode editor, except the editor has more options. Please read the [Edit a Timecode Show topic](key_timecode_editor.html) for more information about the editor and thereby also this viewer.
 
-[[Pages/Timecode/Record a timecode show]] →
+[[Pages/Timecode/Record a Timecode Show]] →
 
 Part of [[Sections/Timecode]] · [[000 Map of Content]]

@@ -4,9 +4,11 @@ title_str: "Attribute List"
 slug: "key_cs_attribute_list"
 url: "https://help.malighting.com/grandMA2/en/help/key_cs_attribute_list.html"
 section: "Command Syntax and Keywords"
+ma2_section: "key_command_syntax_and_keywords"
 section_ref: "[[Sections/Command Syntax and Keywords]]"
-prev_page: "[[Pages/Command Syntax and Keywords/Executor list]]"
-next_page: "[[Pages/Command Syntax and Keywords/Station list]]"
+prev_page: "[[Pages/Command Syntax and Keywords/Executor List]]"
+next_page: "[[Pages/Command Syntax and Keywords/Station List]]"
+depth: 3
 tags:
   - "type/page"
   - "section/cs"
@@ -44,6 +46,6 @@ Activates attributes in feature "GOBO1". 
 
 Knocks out the first 4 shaper attributes out of the programmer.
 
-← [[Pages/Command Syntax and Keywords/Executor list]] | [[Pages/Command Syntax and Keywords/Station list]] →
+← [[Pages/Command Syntax and Keywords/Executor List]] | [[Pages/Command Syntax and Keywords/Station List]] →
 
 Part of [[Sections/Command Syntax and Keywords]] · [[000 Map of Content]]

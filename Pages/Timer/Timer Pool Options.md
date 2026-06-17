@@ -4,8 +4,10 @@ title_str: "Timer Pool Options"
 slug: "key_timers_timer_pool_options"
 url: "https://help.malighting.com/grandMA2/en/help/key_timers_timer_pool_options.html"
 section: "Timer"
+ma2_section: "key_timer"
 section_ref: "[[Sections/Timer]]"
-prev_page: "[[Pages/Timer/Timer pool]]"
+prev_page: "[[Pages/Timer/Timer Pool]]"
+depth: 2
 tags:
   - "type/page"
   - "section/timers"
@@ -36,6 +38,6 @@ _Setting the options of the timer pool_
 **Hint:**  
 If you swipe the button back to Select, tapping the timer in the timer pool selects it.
 
-← [[Pages/Timer/Timer pool]]
+← [[Pages/Timer/Timer Pool]]
 
 Part of [[Sections/Timer]] · [[000 Map of Content]]

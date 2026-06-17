@@ -4,7 +4,6 @@ keyword: "Asterisk *"
 slug: "key_keyword_asterisk"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_asterisk.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Asterisk -]]"
 tags:
   - "type/keyword"
 ---

@@ -4,7 +4,6 @@ keyword: "RdmInfo"
 slug: "key_keyword_rdminfo"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_rdminfo.html"
 keyword_type: "unknown"
-related_key: "[[Keys/RdmInfo]]"
 tags:
   - "type/keyword"
 ---

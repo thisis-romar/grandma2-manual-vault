@@ -4,9 +4,11 @@ title_str: "Moving Lights"
 slug: "key_basic_fixture_type_moving"
 url: "https://help.malighting.com/grandMA2/en/help/key_basic_fixture_type_moving.html"
 section: "Basic Fixture Types"
+ma2_section: "key_basic_fixture"
 section_ref: "[[Sections/Basic Fixture Types]]"
 prev_page: "[[Pages/Basic Fixture Types/Mirror]]"
-next_page: "[[Pages/Basic Fixture Types/Media server]]"
+next_page: "[[Pages/Basic Fixture Types/Media Server]]"
+depth: 3
 tags:
   - "type/page"
   - "section/basic"
@@ -27,6 +29,6 @@ They are historically fitted with a discharge light source. Especially in the la
 
 The default 3D model is a mowing head fixture.
 
-← [[Pages/Basic Fixture Types/Mirror]] | [[Pages/Basic Fixture Types/Media server]] →
+← [[Pages/Basic Fixture Types/Mirror]] | [[Pages/Basic Fixture Types/Media Server]] →
 
 Part of [[Sections/Basic Fixture Types]] · [[000 Map of Content]]

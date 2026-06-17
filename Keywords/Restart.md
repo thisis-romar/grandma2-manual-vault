@@ -4,7 +4,6 @@ keyword: "Restart"
 slug: "key_keyword_restart"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_restart.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Restart]]"
 tags:
   - "type/keyword"
 ---

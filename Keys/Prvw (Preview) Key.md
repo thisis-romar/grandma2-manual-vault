@@ -3,7 +3,7 @@ type: "key"
 key_label: "Prvw (Preview) Key"
 slug: "key_key_preview"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_preview.html"
-related_keyword: "[[Keywords/Prvw (Preview) Key]]"
+related_keyword: "[[Keywords/Preview]]"
 tags:
   - "type/key"
 ---

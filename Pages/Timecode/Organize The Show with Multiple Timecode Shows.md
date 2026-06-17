@@ -4,8 +4,10 @@ title_str: "Organize The Show with Multiple Timecode Shows"
 slug: "key_timecode_organize"
 url: "https://help.malighting.com/grandMA2/en/help/key_timecode_organize.html"
 section: "Timecode"
+ma2_section: "key_timecode"
 section_ref: "[[Sections/Timecode]]"
-prev_page: "[[Pages/Timecode/Playing back a timecode show]]"
+prev_page: "[[Pages/Timecode/Playing Back a Timecode Show]]"
+depth: 2
 tags:
   - "type/page"
   - "section/timecode"
@@ -60,6 +62,6 @@ It can also be macros that selects the timecode slot.
 
 This was some inspiration or thoughts that might help you organizing a show with multiple timecode shows.
 
-← [[Pages/Timecode/Playing back a timecode show]]
+← [[Pages/Timecode/Playing Back a Timecode Show]]
 
 Part of [[Sections/Timecode]] · [[000 Map of Content]]

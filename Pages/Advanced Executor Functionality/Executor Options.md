@@ -4,9 +4,11 @@ title_str: "Executor Options"
 slug: "key_adv_exec_options"
 url: "https://help.malighting.com/grandMA2/en/help/key_adv_exec_options.html"
 section: "Advanced Executor Functionality"
+ma2_section: "key_adv_exec"
 section_ref: "[[Sections/Advanced Executor Functionality]]"
-prev_page: "[[Pages/Advanced Executor Functionality/Channel pages]]"
-next_page: "[[Pages/Advanced Executor Functionality/Masters window]]"
+prev_page: "[[Pages/Advanced Executor Functionality/Channel Pages]]"
+next_page: "[[Pages/Advanced Executor Functionality/Masters Window]]"
+depth: 2
 tags:
   - "type/page"
   - "section/adv"
@@ -230,6 +232,6 @@ This will turn the sequence into a Chaser. Read more about chaser in the [Chaser
 
 This option is only visible if there is an group master assigned to the executor. This option is explained in the [Group Masters topic](key_groups_master.html).
 
-← [[Pages/Advanced Executor Functionality/Channel pages]] | [[Pages/Advanced Executor Functionality/Masters window]] →
+← [[Pages/Advanced Executor Functionality/Channel Pages]] | [[Pages/Advanced Executor Functionality/Masters Window]] →
 
 Part of [[Sections/Advanced Executor Functionality]] · [[000 Map of Content]]

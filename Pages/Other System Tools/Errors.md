@@ -4,9 +4,11 @@ title_str: "Errors"
 slug: "key_ost_errors"
 url: "https://help.malighting.com/grandMA2/en/help/key_ost_errors.html"
 section: "Other System Tools"
+ma2_section: "key_ost"
 section_ref: "[[Sections/Other System Tools]]"
 prev_page: "[[Pages/Other System Tools/Views]]"
 next_page: "[[Pages/Other System Tools/Readout]]"
+depth: 3
 tags:
   - "type/page"
   - "section/ost"

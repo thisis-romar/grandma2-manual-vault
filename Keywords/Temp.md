@@ -4,7 +4,7 @@ keyword: "Temp"
 slug: "key_keyword_temp"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_temp.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Temp]]"
+related_key: "[[Keys/Temp Key]]"
 tags:
   - "type/keyword"
 ---

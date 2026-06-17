@@ -4,9 +4,11 @@ title_str: "Use masks in the sheets and windows"
 slug: "key_wfm_use_masks"
 url: "https://help.malighting.com/grandMA2/en/help/key_wfm_use_masks.html"
 section: "Worlds Filters and Masks"
+ma2_section: "key_wfm_world_filter_mask"
 section_ref: "[[Sections/Worlds Filters and Masks]]"
 prev_page: "[[Pages/Worlds Filters and Masks/Create masks]]"
 next_page: "[[Pages/Worlds Filters and Masks/Apply worlds or filters to executors and sequences]]"
+depth: 2
 tags:
   - "type/page"
   - "section/wfm"

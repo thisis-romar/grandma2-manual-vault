@@ -4,7 +4,7 @@ keyword: "Next"
 slug: "key_keyword_next"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_next.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Next]]"
+related_key: "[[Keys/Next Key]]"
 tags:
   - "type/keyword"
 ---

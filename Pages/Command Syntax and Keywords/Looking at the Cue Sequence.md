@@ -4,9 +4,11 @@ title_str: "Looking at the Cue Sequence"
 slug: "key_cs_cue_sequence"
 url: "https://help.malighting.com/grandMA2/en/help/key_cs_cue_sequence.html"
 section: "Command Syntax and Keywords"
-section_ref: "[[Sections/Command Syntax and Keywords]]"
+ma2_section: "key_cues_and_sequences"
+section_ref: "[[Sections/Cues and Sequences]]"
 prev_page: "[[Pages/Command Syntax and Keywords/What are cues and sequences]]"
-next_page: "[[Pages/Command Syntax and Keywords/Store cues]]"
+next_page: "[[Pages/Command Syntax and Keywords/Storing cues]]"
+depth: 2
 tags:
   - "type/page"
   - "section/cs"
@@ -189,6 +191,6 @@ The top part is all the settings that can be changed regarding the sequence. The
 
 The bottom part is all the columns and rows from the Sequence Executor Sheet. Everything with a gray background can be edited.
 
-← [[Pages/Command Syntax and Keywords/What are cues and sequences]] | [[Pages/Command Syntax and Keywords/Store cues]] →
+← [[Pages/Command Syntax and Keywords/What are cues and sequences]] | [[Pages/Command Syntax and Keywords/Storing cues]] →
 
-Part of [[Sections/Command Syntax and Keywords]] · [[000 Map of Content]]
+Part of [[Sections/Cues and Sequences]] · [[000 Map of Content]]

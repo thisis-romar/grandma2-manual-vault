@@ -4,9 +4,11 @@ title_str: "Touch gestures"
 slug: "key_ws_touch_gestures"
 url: "https://help.malighting.com/grandMA2/en/help/key_ws_touch_gestures.html"
 section: "Workspace"
+ma2_section: "key_workspace"
 section_ref: "[[Sections/Workspace]]"
 prev_page: "[[Pages/Workspace/Work with views]]"
 next_page: "[[Pages/Workspace/Calculator]]"
+depth: 2
 tags:
   - "type/page"
   - "section/ws"

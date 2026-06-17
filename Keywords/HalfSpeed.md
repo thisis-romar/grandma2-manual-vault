@@ -4,7 +4,6 @@ keyword: "HalfSpeed"
 slug: "key_keyword_halfspeed"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_halfspeed.html"
 keyword_type: "unknown"
-related_key: "[[Keys/HalfSpeed]]"
 tags:
   - "type/keyword"
 ---

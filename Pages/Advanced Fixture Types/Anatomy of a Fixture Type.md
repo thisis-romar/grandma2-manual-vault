@@ -4,8 +4,10 @@ title_str: "Anatomy of a Fixture Type"
 slug: "key_adv_fixture_anatomy"
 url: "https://help.malighting.com/grandMA2/en/help/key_adv_fixture_anatomy.html"
 section: "Advanced Fixture Types"
+ma2_section: "key_advanced_fixture_types"
 section_ref: "[[Sections/Advanced Fixture Types]]"
 next_page: "[[Pages/Advanced Fixture Types/Attribute & Encoder Grouping]]"
+depth: 2
 tags:
   - "type/page"
   - "section/adv"

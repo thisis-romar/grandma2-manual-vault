@@ -4,9 +4,11 @@ title_str: "Fixture Sheet"
 slug: "key_of_fixture_sheet"
 url: "https://help.malighting.com/grandMA2/en/help/key_of_fixture_sheet.html"
 section: "Operate Fixtures"
+ma2_section: "key_operate_fixtures"
 section_ref: "[[Sections/Operate Fixtures]]"
-prev_page: "[[Pages/Operate Fixtures/Channel sheet]]"
+prev_page: "[[Pages/Operate Fixtures/Channel Sheet]]"
 next_page: "[[Pages/Operate Fixtures/Sheet options]]"
+depth: 2
 tags:
   - "type/page"
   - "section/of"
@@ -103,6 +105,6 @@ To close the options, tap ![](../../img/icon_close_small_v3-2.png) in the uppe
 
 To close the fixture sheet altogether, tap ![](../../img/icon_yellow-ball_3_2.png) in the upper left corner of the window and tap Delete Window.
 
-← [[Pages/Operate Fixtures/Channel sheet]] | [[Pages/Operate Fixtures/Sheet options]] →
+← [[Pages/Operate Fixtures/Channel Sheet]] | [[Pages/Operate Fixtures/Sheet options]] →
 
 Part of [[Sections/Operate Fixtures]] · [[000 Map of Content]]

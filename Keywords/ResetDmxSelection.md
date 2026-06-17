@@ -4,7 +4,6 @@ keyword: "ResetDmxSelection"
 slug: "key_keyword_resetdmxselection"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_resetdmxselection.html"
 keyword_type: "unknown"
-related_key: "[[Keys/ResetDmxSelection]]"
 tags:
   - "type/keyword"
 ---

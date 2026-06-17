@@ -4,8 +4,10 @@ title_str: "System Colors"
 slug: "key_ws_colors_system"
 url: "https://help.malighting.com/grandMA2/en/help/key_ws_colors_system.html"
 section: "Workspace"
+ma2_section: "key_workspace"
 section_ref: "[[Sections/Workspace]]"
-next_page: "[[Pages/Workspace/Marker]]"
+next_page: "[[Pages/Workspace/Marker Colors]]"
+depth: 3
 tags:
   - "type/page"
   - "section/ws"
@@ -228,6 +230,6 @@ Included preset type markers indicate which preset types are stored in the pool 
 
 _White preset type markers indicate included position preset type_
 
-[[Pages/Workspace/Marker]] →
+[[Pages/Workspace/Marker Colors]] →
 
 Part of [[Sections/Workspace]] · [[000 Map of Content]]

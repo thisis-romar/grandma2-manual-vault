@@ -7,10 +7,10 @@ page_count: 4
 tags:
   - "type/section"
 pages:
-  - "[[Pages/Layouts/Create a layout]]"
-  - "[[Pages/Layouts/Layout pool options]]"
-  - "[[Pages/Layouts/Edit layout]]"
-  - "[[Pages/Layouts/Layout view options]]"
+  - "[[Pages/Layouts/Create a Layout]]"
+  - "[[Pages/Layouts/Layout Pool Options]]"
+  - "[[Pages/Layouts/Edit Layout]]"
+  - "[[Pages/Layouts/Layout View Options]]"
 ---
 
 # Layouts
@@ -39,9 +39,9 @@ Layouts are created in the layout pool and are displayed and edited in the layou
 
 ## Pages in This Section
 
-- [[Pages/Layouts/Create a layout]]
-- [[Pages/Layouts/Layout pool options]]
-- [[Pages/Layouts/Edit layout]]
-- [[Pages/Layouts/Layout view options]]
+- [[Pages/Layouts/Create a Layout]]
+- [[Pages/Layouts/Layout Pool Options]]
+- [[Pages/Layouts/Edit Layout]]
+- [[Pages/Layouts/Layout View Options]]
 
 Part of [[000 Map of Content]]

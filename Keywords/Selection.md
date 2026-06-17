@@ -4,7 +4,6 @@ keyword: "Selection"
 slug: "key_keyword_selection"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_selection.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Selection]]"
 tags:
   - "type/keyword"
 ---

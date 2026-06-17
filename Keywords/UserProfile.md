@@ -4,7 +4,6 @@ keyword: "UserProfile"
 slug: "key_keyword_userprofile"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_userprofile.html"
 keyword_type: "unknown"
-related_key: "[[Keys/UserProfile]]"
 tags:
   - "type/keyword"
 ---

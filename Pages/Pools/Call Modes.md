@@ -4,8 +4,10 @@ title_str: "Call Modes"
 slug: "key_pools_call_modes"
 url: "https://help.malighting.com/grandMA2/en/help/key_pools_call_modes.html"
 section: "Pools"
+ma2_section: "key_pools"
 section_ref: "[[Sections/Pools]]"
 prev_page: "[[Pages/Pools/Adjust pool options]]"
+depth: 2
 tags:
   - "type/page"
   - "section/pools"

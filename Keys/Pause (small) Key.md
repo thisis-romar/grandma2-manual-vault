@@ -3,7 +3,7 @@ type: "key"
 key_label: "Pause (small) Key"
 slug: "key_key_pause"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_pause.html"
-related_keyword: "[[Keywords/Pause (small) Key]]"
+related_keyword: "[[Keywords/Pause]]"
 tags:
   - "type/key"
 ---

@@ -4,8 +4,10 @@ title_str: "Views"
 slug: "key_ost_views"
 url: "https://help.malighting.com/grandMA2/en/help/key_ost_views.html"
 section: "Other System Tools"
+ma2_section: "key_ost"
 section_ref: "[[Sections/Other System Tools]]"
 next_page: "[[Pages/Other System Tools/Errors]]"
+depth: 3
 tags:
   - "type/page"
   - "section/ost"

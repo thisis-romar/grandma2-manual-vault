@@ -3,7 +3,6 @@ type: "key"
 key_label: "Mouse Key"
 slug: "key_key_mouse"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_mouse.html"
-related_keyword: "[[Keywords/Mouse Key]]"
 tags:
   - "type/key"
 ---

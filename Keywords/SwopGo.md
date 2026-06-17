@@ -4,7 +4,6 @@ keyword: "SwopGo"
 slug: "key_keyword_swopgo"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_swopgo.html"
 keyword_type: "unknown"
-related_key: "[[Keys/SwopGo]]"
 tags:
   - "type/keyword"
 ---

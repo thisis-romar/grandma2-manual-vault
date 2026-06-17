@@ -4,7 +4,6 @@ keyword: "And keyword"
 slug: "key_keyword_and"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_and.html"
 keyword_type: "unknown"
-related_key: "[[Keys/And keyword]]"
 tags:
   - "type/keyword"
 ---

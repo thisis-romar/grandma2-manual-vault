@@ -4,8 +4,10 @@ title_str: "How to do a Partial Show Read"
 slug: "key_psr_how_to"
 url: "https://help.malighting.com/grandMA2/en/help/key_psr_how_to.html"
 section: "Partial Show Read"
+ma2_section: "key_psr"
 section_ref: "[[Sections/Partial Show Read]]"
-prev_page: "[[Pages/Partial Show Read/What is partial show read (PSR)]]"
+prev_page: "[[Pages/Partial Show Read/What is Partial Show Read (PSR)]]"
+depth: 2
 tags:
   - "type/page"
   - "section/psr"
@@ -190,6 +192,6 @@ It has three options:
 **Hint:**  
 If the show has not been structurally changed or has not been reloaded, it is possible to open the Partial Show Read again without preparing it first. For example, entering **Patch & Fixture Schedule** forces a new PSR Prepare.
 
-← [[Pages/Partial Show Read/What is partial show read (PSR)]]
+← [[Pages/Partial Show Read/What is Partial Show Read (PSR)]]
 
 Part of [[Sections/Partial Show Read]] · [[000 Map of Content]]

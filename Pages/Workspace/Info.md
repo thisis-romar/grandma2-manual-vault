@@ -4,9 +4,11 @@ title_str: "Info"
 slug: "key_ws_info"
 url: "https://help.malighting.com/grandMA2/en/help/key_ws_info.html"
 section: "Workspace"
+ma2_section: "key_workspace"
 section_ref: "[[Sections/Workspace]]"
 prev_page: "[[Pages/Workspace/Calculator]]"
 next_page: "[[Pages/Workspace/Oops and undo]]"
+depth: 2
 tags:
   - "type/page"
   - "section/ws"

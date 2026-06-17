@@ -4,9 +4,11 @@ title_str: "Instance Manager"
 slug: "key_adv_fixture_anatomy_instance"
 url: "https://help.malighting.com/grandMA2/en/help/key_adv_fixture_anatomy_instance.html"
 section: "Advanced Fixture Types"
+ma2_section: "key_advanced_fixture_types"
 section_ref: "[[Sections/Advanced Fixture Types]]"
-prev_page: "[[Pages/Advanced Fixture Types/Module manager]]"
-next_page: "[[Pages/Advanced Fixture Types/Wheel manager]]"
+prev_page: "[[Pages/Advanced Fixture Types/Module Manager]]"
+next_page: "[[Pages/Advanced Fixture Types/Wheel Manager]]"
+depth: 3
 tags:
   - "type/page"
   - "section/adv"
@@ -50,6 +52,6 @@ This is done by editing the columns in the instance manager. This is short descr
 *   **Locked**:  
     Enable if instance should not be individually movable, but move together with the other instance, keeping the relative distance between them.
 
-← [[Pages/Advanced Fixture Types/Module manager]] | [[Pages/Advanced Fixture Types/Wheel manager]] →
+← [[Pages/Advanced Fixture Types/Module Manager]] | [[Pages/Advanced Fixture Types/Wheel Manager]] →
 
 Part of [[Sections/Advanced Fixture Types]] · [[000 Map of Content]]

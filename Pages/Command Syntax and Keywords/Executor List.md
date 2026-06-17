@@ -4,9 +4,11 @@ title_str: "Executor List"
 slug: "key_cs_executor_list"
 url: "https://help.malighting.com/grandMA2/en/help/key_cs_executor_list.html"
 section: "Command Syntax and Keywords"
+ma2_section: "key_command_syntax_and_keywords"
 section_ref: "[[Sections/Command Syntax and Keywords]]"
-prev_page: "[[Pages/Command Syntax and Keywords/Selection list]]"
-next_page: "[[Pages/Command Syntax and Keywords/Attribute list]]"
+prev_page: "[[Pages/Command Syntax and Keywords/Selection List]]"
+next_page: "[[Pages/Command Syntax and Keywords/Attribute List]]"
+depth: 3
 tags:
   - "type/page"
   - "section/cs"
@@ -46,6 +48,6 @@ Pauses executors on pages 1, 2, and 3.
 
 Deletes executors 10 through 13 of the current page.
 
-← [[Pages/Command Syntax and Keywords/Selection list]] | [[Pages/Command Syntax and Keywords/Attribute list]] →
+← [[Pages/Command Syntax and Keywords/Selection List]] | [[Pages/Command Syntax and Keywords/Attribute List]] →
 
 Part of [[Sections/Command Syntax and Keywords]] · [[000 Map of Content]]

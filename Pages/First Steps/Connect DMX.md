@@ -4,9 +4,11 @@ title_str: "Connect DMX"
 slug: "key_fs_connect_dmx"
 url: "https://help.malighting.com/grandMA2/en/help/key_fs_connect_dmx.html"
 section: "First Steps"
+ma2_section: "key_first_steps"
 section_ref: "[[Sections/First Steps]]"
-prev_page: "[[Pages/First Steps/Connect USB mouse and USB keyboad]]"
-next_page: "[[Pages/First Steps/Connect sound]]"
+prev_page: "[[Pages/First Steps/Connect USB Mouse and USB Keyboad]]"
+next_page: "[[Pages/First Steps/Connect Sound]]"
+depth: 2
 tags:
   - "type/page"
   - "section/fs"
@@ -38,6 +40,6 @@ _DMX IN_
 
 The console is connected to a DMX device.
 
-← [[Pages/First Steps/Connect USB mouse and USB keyboad]] | [[Pages/First Steps/Connect sound]] →
+← [[Pages/First Steps/Connect USB Mouse and USB Keyboad]] | [[Pages/First Steps/Connect Sound]] →
 
 Part of [[Sections/First Steps]] · [[000 Map of Content]]

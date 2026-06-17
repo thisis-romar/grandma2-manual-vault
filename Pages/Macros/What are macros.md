@@ -4,8 +4,10 @@ title_str: "What are macros"
 slug: "key_macro_what_are"
 url: "https://help.malighting.com/grandMA2/en/help/key_macro_what_are.html"
 section: "Macros"
+ma2_section: "key_macro"
 section_ref: "[[Sections/Macros]]"
 next_page: "[[Pages/Macros/Manually create a macro]]"
+depth: 2
 tags:
   - "type/page"
   - "section/macro"

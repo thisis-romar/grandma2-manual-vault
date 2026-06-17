@@ -3,7 +3,7 @@ type: "key"
 key_label: "Thru Key"
 slug: "key_key_thru"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_thru.html"
-related_keyword: "[[Keywords/Thru Key]]"
+related_keyword: "[[Keywords/Thru]]"
 tags:
   - "type/key"
 ---

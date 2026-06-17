@@ -4,8 +4,10 @@ title_str: "What are cues and sequences"
 slug: "key_cs_what_are"
 url: "https://help.malighting.com/grandMA2/en/help/key_cs_what_are.html"
 section: "Command Syntax and Keywords"
-section_ref: "[[Sections/Command Syntax and Keywords]]"
-next_page: "[[Pages/Command Syntax and Keywords/Looking at the cue sequence]]"
+ma2_section: "key_cues_and_sequences"
+section_ref: "[[Sections/Cues and Sequences]]"
+next_page: "[[Pages/Command Syntax and Keywords/Looking at the Cue Sequence]]"
+depth: 2
 tags:
   - "type/page"
   - "section/cs"
@@ -95,6 +97,6 @@ The Sequence Sheet displays each sequence as a row. The columns are the settings
 *   **Used Count:**  
     This is the number that indicates the amount of executors that have the sequence assigned. This is not a setting you can change here - it is for information.
 
-[[Pages/Command Syntax and Keywords/Looking at the cue sequence]] →
+[[Pages/Command Syntax and Keywords/Looking at the Cue Sequence]] →
 
-Part of [[Sections/Command Syntax and Keywords]] · [[000 Map of Content]]
+Part of [[Sections/Cues and Sequences]] · [[000 Map of Content]]

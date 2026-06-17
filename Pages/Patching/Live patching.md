@@ -4,9 +4,11 @@ title_str: "Live patching"
 slug: "key_patch_livepatch"
 url: "https://help.malighting.com/grandMA2/en/help/key_patch_livepatch.html"
 section: "Patching"
+ma2_section: "key_patch"
 section_ref: "[[Sections/Patching]]"
 prev_page: "[[Pages/Patching/Multipatching]]"
-next_page: "[[Pages/Patching/DMX sheet]]"
+next_page: "[[Pages/Patching/DMX Sheet]]"
+depth: 2
 tags:
   - "type/page"
   - "section/patch"
@@ -110,6 +112,6 @@ A second option for the DMX sheet is to press the Assign key and the Channel or 
 
 This was some different ways of editing the DMX address of a fixture without creating a show upload.
 
-← [[Pages/Patching/Multipatching]] | [[Pages/Patching/DMX sheet]] →
+← [[Pages/Patching/Multipatching]] | [[Pages/Patching/DMX Sheet]] →
 
 Part of [[Sections/Patching]] · [[000 Map of Content]]

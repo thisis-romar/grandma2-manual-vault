@@ -4,7 +4,6 @@ keyword: "Clone keyword"
 slug: "key_keyword_clone"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_clone.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Clone keyword]]"
 tags:
   - "type/keyword"
 ---

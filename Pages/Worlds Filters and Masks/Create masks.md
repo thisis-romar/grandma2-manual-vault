@@ -4,9 +4,11 @@ title_str: "Create masks"
 slug: "key_wfm_create_mask"
 url: "https://help.malighting.com/grandMA2/en/help/key_wfm_create_mask.html"
 section: "Worlds Filters and Masks"
+ma2_section: "key_wfm_world_filter_mask"
 section_ref: "[[Sections/Worlds Filters and Masks]]"
 prev_page: "[[Pages/Worlds Filters and Masks/What are masks]]"
-next_page: "[[Pages/Worlds Filters and Masks/Use masks in the sheets]]"
+next_page: "[[Pages/Worlds Filters and Masks/Use masks in the sheets and windows]]"
+depth: 2
 tags:
   - "type/page"
   - "section/wfm"
@@ -212,6 +214,6 @@ This button is only available if you have loaded a mask from the pool. This allo
 
 Please read the [Use Masks in Sheets topic](key_wfm_use_masks.html) to learn more about how it use the masks in the different sheets and windows.
 
-← [[Pages/Worlds Filters and Masks/What are masks]] | [[Pages/Worlds Filters and Masks/Use masks in the sheets]] →
+← [[Pages/Worlds Filters and Masks/What are masks]] | [[Pages/Worlds Filters and Masks/Use masks in the sheets and windows]] →
 
 Part of [[Sections/Worlds Filters and Masks]] · [[000 Map of Content]]

@@ -4,8 +4,10 @@ title_str: "Object List"
 slug: "key_cs_object_list"
 url: "https://help.malighting.com/grandMA2/en/help/key_cs_object_list.html"
 section: "Command Syntax and Keywords"
+ma2_section: "key_command_syntax_and_keywords"
 section_ref: "[[Sections/Command Syntax and Keywords]]"
-next_page: "[[Pages/Command Syntax and Keywords/Selection list]]"
+next_page: "[[Pages/Command Syntax and Keywords/Selection List]]"
+depth: 3
 tags:
   - "type/page"
   - "section/cs"
@@ -78,6 +80,6 @@ Selects channel 1 and 5.
   
 Selects all fixtures with a name starting with mac.
 
-[[Pages/Command Syntax and Keywords/Selection list]] →
+[[Pages/Command Syntax and Keywords/Selection List]] →
 
 Part of [[Sections/Command Syntax and Keywords]] · [[000 Map of Content]]

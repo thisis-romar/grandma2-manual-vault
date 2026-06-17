@@ -9,8 +9,8 @@ tags:
 pages:
   - "[[Pages/Advanced Sequence Functionality/Using different view sets in the sheets]]"
   - "[[Pages/Advanced Sequence Functionality/Working with MIB]]"
-  - "[[Pages/Advanced Sequence Functionality/Using cue modes]]"
-  - "[[Pages/Advanced Sequence Functionality/Cue zero]]"
+  - "[[Pages/Advanced Sequence Functionality/Using Cue Modes]]"
+  - "[[Pages/Advanced Sequence Functionality/Cue Zero]]"
   - "[[Pages/Advanced Sequence Functionality/Sequence info window]]"
   - "[[Pages/Advanced Sequence Functionality/Looping cues]]"
   - "[[Pages/Advanced Sequence Functionality/Cue path]]"
@@ -45,8 +45,8 @@ The following sub topics describes some of the more advanced functions regarding
 
 - [[Pages/Advanced Sequence Functionality/Using different view sets in the sheets]]
 - [[Pages/Advanced Sequence Functionality/Working with MIB]]
-- [[Pages/Advanced Sequence Functionality/Using cue modes]]
-- [[Pages/Advanced Sequence Functionality/Cue zero]]
+- [[Pages/Advanced Sequence Functionality/Using Cue Modes]]
+- [[Pages/Advanced Sequence Functionality/Cue Zero]]
 - [[Pages/Advanced Sequence Functionality/Sequence info window]]
 - [[Pages/Advanced Sequence Functionality/Looping cues]]
 - [[Pages/Advanced Sequence Functionality/Cue path]]

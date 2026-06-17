@@ -4,9 +4,11 @@ title_str: "Choose copy method"
 slug: "key_groups_choose_copy_method"
 url: "https://help.malighting.com/grandMA2/en/help/key_groups_choose_copy_method.html"
 section: "Groups"
+ma2_section: "key_groups"
 section_ref: "[[Sections/Groups]]"
 prev_page: "[[Pages/Groups/Using groups when programming]]"
-next_page: "[[Pages/Groups/Change specific group colors]]"
+next_page: "[[Pages/Groups/Change colors in group options for all in order and all out of order]]"
+depth: 2
 tags:
   - "type/page"
   - "section/groups"
@@ -36,6 +38,6 @@ When you copy a group to a location where there's already a group then a pop-up 
 
 **Cancel -** This will cancel the copy operation. You can also cancel copy by closing the pop-up by tapping the X in the upper right corner.
 
-← [[Pages/Groups/Using groups when programming]] | [[Pages/Groups/Change specific group colors]] →
+← [[Pages/Groups/Using groups when programming]] | [[Pages/Groups/Change colors in group options for all in order and all out of order]] →
 
 Part of [[Sections/Groups]] · [[000 Map of Content]]

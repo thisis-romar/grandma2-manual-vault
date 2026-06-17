@@ -4,9 +4,11 @@ title_str: "Enable DHCP client for the MA Network Switch"
 slug: "key_control_ma_switch_dhcp"
 url: "https://help.malighting.com/grandMA2/en/help/key_control_ma_switch_dhcp.html"
 section: "Control MA Network Switch"
+ma2_section: "key_control_ma_switch"
 section_ref: "[[Sections/Control MA Network Switch]]"
-prev_page: "[[Pages/Control MA Network Switch/Change IP address]]"
-next_page: "[[Pages/Control MA Network Switch/Change hostname]]"
+prev_page: "[[Pages/Control MA Network Switch/Change IP address of the MA Network Switch]]"
+next_page: "[[Pages/Control MA Network Switch/Change hostname of the MA Network Switch]]"
+depth: 2
 tags:
   - "type/page"
   - "section/control"
@@ -54,6 +56,6 @@ You can also enable the DHCP client by using the command line.
 \- Type in the command line Assign 1 / DHCPclientenabled = "Yes".  
 The DHCP client of the NetworkSwitch 1 is enabled.
 
-← [[Pages/Control MA Network Switch/Change IP address]] | [[Pages/Control MA Network Switch/Change hostname]] →
+← [[Pages/Control MA Network Switch/Change IP address of the MA Network Switch]] | [[Pages/Control MA Network Switch/Change hostname of the MA Network Switch]] →
 
 Part of [[Sections/Control MA Network Switch]] · [[000 Map of Content]]

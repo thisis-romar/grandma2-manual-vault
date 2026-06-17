@@ -4,9 +4,11 @@ title_str: "Multipatching"
 slug: "key_patch_multipatch"
 url: "https://help.malighting.com/grandMA2/en/help/key_patch_multipatch.html"
 section: "Patching"
+ma2_section: "key_patch"
 section_ref: "[[Sections/Patching]]"
-prev_page: "[[Pages/Patching/Working with layers]]"
+prev_page: "[[Pages/Patching/Working with Layers]]"
 next_page: "[[Pages/Patching/Live patching]]"
+depth: 2
 tags:
   - "type/page"
   - "section/patch"
@@ -74,6 +76,6 @@ Now you have multipatched fixtures.
 
 For more about positioning the fixture in MA 3D or the Stage view, please have look at the [Position fixtures in the 3D stage](key_patch_position_fixtures.html) topic.
 
-← [[Pages/Patching/Working with layers]] | [[Pages/Patching/Live patching]] →
+← [[Pages/Patching/Working with Layers]] | [[Pages/Patching/Live patching]] →
 
 Part of [[Sections/Patching]] · [[000 Map of Content]]

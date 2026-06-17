@@ -4,9 +4,11 @@ title_str: "Edit Presets"
 slug: "key_presets_edit"
 url: "https://help.malighting.com/grandMA2/en/help/key_presets_edit.html"
 section: "Presets"
+ma2_section: "key_presets"
 section_ref: "[[Sections/Presets]]"
-prev_page: "[[Pages/Presets/Embedded presets]]"
-next_page: "[[Pages/Presets/Update presets]]"
+prev_page: "[[Pages/Presets/Embedded Presets]]"
+next_page: "[[Pages/Presets/Update Presets]]"
+depth: 2
 tags:
   - "type/page"
   - "section/presets"
@@ -52,6 +54,6 @@ If you do not want to update the preset you have edited or you would like to clo
 
  See [Update presets](key_presets_update.html).
 
-← [[Pages/Presets/Embedded presets]] | [[Pages/Presets/Update presets]] →
+← [[Pages/Presets/Embedded Presets]] | [[Pages/Presets/Update Presets]] →
 
 Part of [[Sections/Presets]] · [[000 Map of Content]]

@@ -3,92 +3,12 @@ type: "section"
 section: "Keys & Buttons on the Console"
 slug: "key_keys_and_buttons_on_the_console"
 url: "https://help.malighting.com/grandMA2/en/help/key_keys_and_buttons_on_the_console.html"
-page_count: 82
+page_count: 2
 tags:
   - "type/section"
 pages:
-  - "[[Pages/Keys and Buttons/Key overview]]"
-  - "[[Pages/Key/--- [GoFastForward]]]"
-  - "[[Pages/Key/--- [GoFastBack]]]"
-  - "[[Pages/Key/. [Dot]]]"
-  - "[[Pages/Key/Align]]"
-  - "[[Pages/Key/Assign]]"
-  - "[[Pages/Key/At]]"
-  - "[[Pages/Key/Backg [Background]]]"
-  - "[[Pages/Key/Backup]]"
-  - "[[Pages/Key/Blind]]"
-  - "[[Pages/Key/Bt Pg +]]"
-  - "[[Pages/Key/Bt Pg -]]"
-  - "[[Pages/Key/B.O. [Blackout]]]"
-  - "[[Pages/Key/Channel]]"
-  - "[[Pages/Key/Ch Pg +]]"
-  - "[[Pages/Key/Ch Pg -]]"
-  - "[[Pages/Key/Clear]]"
-  - "[[Pages/Key/Copy]]"
-  - "[[Pages/Key/Cue]]"
-  - "[[Pages/Key/Del [Delete]]]"
-  - "[[Pages/Key/Down]]"
-  - "[[Pages/Key/Edit]]"
-  - "[[Pages/Key/Effect]]"
-  - "[[Pages/Key/[Encoder]]]"
-  - "[[Pages/Key/Esc]]"
-  - "[[Pages/Key/Exec [Executor]]]"
-  - "[[Pages/Key/Executor Buttons]]"
-  - "[[Pages/Key/Fd Pg +]]"
-  - "[[Pages/Key/Fd Pg -]]"
-  - "[[Pages/Key/Fix]]"
-  - "[[Pages/Key/Fixture]]"
-  - "[[Pages/Key/Freeze]]"
-  - "[[Pages/Key/Full]]"
-  - "[[Pages/Key/Go + [small]]]"
-  - "[[Pages/Key/Go + [large]]]"
-  - "[[Pages/Key/Go - [small]]]"
-  - "[[Pages/Key/Go - [large]]]"
-  - "[[Pages/Key/Goto]]"
-  - "[[Pages/Key/Group]]"
-  - "[[Pages/Key/Help]]"
-  - "[[Pages/Key/Highlt [Highlight]]]"
-  - "[[Pages/Key/If]]"
-  - "[[Pages/Keys and Buttons/Keyboard]]"
-  - "[[Pages/Key/Learn]]"
-  - "[[Pages/Key/List]]"
-  - "[[Pages/Key/MA]]"
-  - "[[Pages/Key/Macro]]"
-  - "[[Pages/Key/[Minus] -]]"
-  - "[[Pages/Key/Mouse]]"
-  - "[[Pages/Key/Move]]"
-  - "[[Pages/Key/Next]]"
-  - "[[Pages/Key/[Numeric]]]"
-  - "[[Pages/Key/Off]]"
-  - "[[Pages/Key/On]]"
-  - "[[Pages/Key/Oops]]"
-  - "[[Pages/Key/Page]]"
-  - "[[Pages/Key/Pause [small]]]"
-  - "[[Pages/Key/Pause [large]]]"
-  - "[[Pages/Key/Please]]"
-  - "[[Pages/Key/[Plus] +]]"
-  - "[[Pages/Key/Preset]]"
-  - "[[Pages/Key/Prev [Previous]]]"
-  - "[[Pages/Key/Prvw [Preview]]]"
-  - "[[Pages/Key/Select]]"
-  - "[[Pages/Key/Sequ [Sequence]]]"
-  - "[[Pages/Key/Set]]"
-  - "[[Pages/Key/Setup]]"
-  - "[[Pages/Key/Solo]]"
-  - "[[Pages/Key/Store]]"
-  - "[[Pages/Key/Temp]]"
-  - "[[Pages/Key/Thru]]"
-  - "[[Pages/Key/Time]]"
-  - "[[Pages/Key/Top]]"
-  - "[[Pages/Key/Tools]]"
-  - "[[Pages/Key/Up]]"
-  - "[[Pages/Key/Update]]"
-  - "[[Pages/Key/User 1]]"
-  - "[[Pages/Key/User 2]]"
-  - "[[Pages/Key/View]]"
-  - "[[Pages/Key/U1 - U4]]"
-  - "[[Pages/Key/V1 - V10]]"
-  - "[[Pages/Key/X1 - X20]]"
+  - "[[Pages/Keys and Buttons/Key Overview]]"
+  - "[[Pages/Keys and Buttons/Keyboard Keys]]"
 ---
 
 # Keys & Buttons on the Console
@@ -193,87 +113,7 @@ This chapter describes every key and button on the console along with their func
 
 ## Pages in This Section
 
-- [[Pages/Keys and Buttons/Key overview]]
-- [[Pages/Key/--- [GoFastForward]]]
-- [[Pages/Key/--- [GoFastBack]]]
-- [[Pages/Key/. [Dot]]]
-- [[Pages/Key/Align]]
-- [[Pages/Key/Assign]]
-- [[Pages/Key/At]]
-- [[Pages/Key/Backg [Background]]]
-- [[Pages/Key/Backup]]
-- [[Pages/Key/Blind]]
-- [[Pages/Key/Bt Pg +]]
-- [[Pages/Key/Bt Pg -]]
-- [[Pages/Key/B.O. [Blackout]]]
-- [[Pages/Key/Channel]]
-- [[Pages/Key/Ch Pg +]]
-- [[Pages/Key/Ch Pg -]]
-- [[Pages/Key/Clear]]
-- [[Pages/Key/Copy]]
-- [[Pages/Key/Cue]]
-- [[Pages/Key/Del [Delete]]]
-- [[Pages/Key/Down]]
-- [[Pages/Key/Edit]]
-- [[Pages/Key/Effect]]
-- [[Pages/Key/[Encoder]]]
-- [[Pages/Key/Esc]]
-- [[Pages/Key/Exec [Executor]]]
-- [[Pages/Key/Executor Buttons]]
-- [[Pages/Key/Fd Pg +]]
-- [[Pages/Key/Fd Pg -]]
-- [[Pages/Key/Fix]]
-- [[Pages/Key/Fixture]]
-- [[Pages/Key/Freeze]]
-- [[Pages/Key/Full]]
-- [[Pages/Key/Go + [small]]]
-- [[Pages/Key/Go + [large]]]
-- [[Pages/Key/Go - [small]]]
-- [[Pages/Key/Go - [large]]]
-- [[Pages/Key/Goto]]
-- [[Pages/Key/Group]]
-- [[Pages/Key/Help]]
-- [[Pages/Key/Highlt [Highlight]]]
-- [[Pages/Key/If]]
-- [[Pages/Keys and Buttons/Keyboard]]
-- [[Pages/Key/Learn]]
-- [[Pages/Key/List]]
-- [[Pages/Key/MA]]
-- [[Pages/Key/Macro]]
-- [[Pages/Key/[Minus] -]]
-- [[Pages/Key/Mouse]]
-- [[Pages/Key/Move]]
-- [[Pages/Key/Next]]
-- [[Pages/Key/[Numeric]]]
-- [[Pages/Key/Off]]
-- [[Pages/Key/On]]
-- [[Pages/Key/Oops]]
-- [[Pages/Key/Page]]
-- [[Pages/Key/Pause [small]]]
-- [[Pages/Key/Pause [large]]]
-- [[Pages/Key/Please]]
-- [[Pages/Key/[Plus] +]]
-- [[Pages/Key/Preset]]
-- [[Pages/Key/Prev [Previous]]]
-- [[Pages/Key/Prvw [Preview]]]
-- [[Pages/Key/Select]]
-- [[Pages/Key/Sequ [Sequence]]]
-- [[Pages/Key/Set]]
-- [[Pages/Key/Setup]]
-- [[Pages/Key/Solo]]
-- [[Pages/Key/Store]]
-- [[Pages/Key/Temp]]
-- [[Pages/Key/Thru]]
-- [[Pages/Key/Time]]
-- [[Pages/Key/Top]]
-- [[Pages/Key/Tools]]
-- [[Pages/Key/Up]]
-- [[Pages/Key/Update]]
-- [[Pages/Key/User 1]]
-- [[Pages/Key/User 2]]
-- [[Pages/Key/View]]
-- [[Pages/Key/U1 - U4]]
-- [[Pages/Key/V1 - V10]]
-- [[Pages/Key/X1 - X20]]
+- [[Pages/Keys and Buttons/Key Overview]]
+- [[Pages/Keys and Buttons/Keyboard Keys]]
 
 Part of [[000 Map of Content]]

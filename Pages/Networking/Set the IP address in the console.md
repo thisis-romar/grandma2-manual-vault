@@ -4,9 +4,11 @@ title_str: "Set the IP address in the console"
 slug: "key_network_set_ip_console"
 url: "https://help.malighting.com/grandMA2/en/help/key_network_set_ip_console.html"
 section: "Networking"
+ma2_section: "key_network"
 section_ref: "[[Sections/Networking]]"
 prev_page: "[[Pages/Networking/What is networking]]"
 next_page: "[[Pages/Networking/Set the IP address in the onPC]]"
+depth: 2
 tags:
   - "type/page"
   - "section/network"

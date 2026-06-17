@@ -7,18 +7,18 @@ page_count: 12
 tags:
   - "type/section"
 pages:
-  - "[[Pages/Effects/Use predefined effects]]"
-  - "[[Pages/Effects/Use template and selective effects]]"
+  - "[[Pages/Effects/Use Predefined Effects]]"
+  - "[[Pages/Effects/Use Template and Selective Effects]]"
   - "[[Pages/Effects/Create an effect in the programmer]]"
-  - "[[Pages/Effects/Create an effect that uses presets]]"
-  - "[[Pages/Effects/Create effect forms]]"
-  - "[[Pages/Effects/Pool options]]"
-  - "[[Pages/Effects/Effects in a cue]]"
+  - "[[Pages/Effects/Create an Effect that Uses Presets]]"
+  - "[[Pages/Effects/Create Effect Forms]]"
+  - "[[Pages/Effects/Pool Options]]"
+  - "[[Pages/Effects/Effects in a Cue]]"
   - "[[Pages/Effects/Assign effect to executor]]"
-  - "[[Pages/Effects/Live edit an effect]]"
-  - "[[Pages/Effects/Running effects]]"
-  - "[[Pages/Effects/Update effects]]"
-  - "[[Pages/Effects/Delete effects]]"
+  - "[[Pages/Effects/Live Edit an Effect]]"
+  - "[[Pages/Effects/Running Effects]]"
+  - "[[Pages/Effects/Update Effects]]"
+  - "[[Pages/Effects/Delete Effects]]"
 ---
 
 # Effects
@@ -78,17 +78,17 @@ For more information on the selective and template effects see [Use template and
 
 ## Pages in This Section
 
-- [[Pages/Effects/Use predefined effects]]
-- [[Pages/Effects/Use template and selective effects]]
+- [[Pages/Effects/Use Predefined Effects]]
+- [[Pages/Effects/Use Template and Selective Effects]]
 - [[Pages/Effects/Create an effect in the programmer]]
-- [[Pages/Effects/Create an effect that uses presets]]
-- [[Pages/Effects/Create effect forms]]
-- [[Pages/Effects/Pool options]]
-- [[Pages/Effects/Effects in a cue]]
+- [[Pages/Effects/Create an Effect that Uses Presets]]
+- [[Pages/Effects/Create Effect Forms]]
+- [[Pages/Effects/Pool Options]]
+- [[Pages/Effects/Effects in a Cue]]
 - [[Pages/Effects/Assign effect to executor]]
-- [[Pages/Effects/Live edit an effect]]
-- [[Pages/Effects/Running effects]]
-- [[Pages/Effects/Update effects]]
-- [[Pages/Effects/Delete effects]]
+- [[Pages/Effects/Live Edit an Effect]]
+- [[Pages/Effects/Running Effects]]
+- [[Pages/Effects/Update Effects]]
+- [[Pages/Effects/Delete Effects]]
 
 Part of [[000 Map of Content]]

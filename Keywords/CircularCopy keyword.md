@@ -4,7 +4,6 @@ keyword: "CircularCopy keyword"
 slug: "key_keyword_circularcopy"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_circularcopy.html"
 keyword_type: "unknown"
-related_key: "[[Keys/CircularCopy keyword]]"
 tags:
   - "type/keyword"
 ---

@@ -4,7 +4,6 @@ keyword: "StepOutFade"
 slug: "key_keyword_stepoutfade"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_stepoutfade.html"
 keyword_type: "unknown"
-related_key: "[[Keys/StepOutFade]]"
 tags:
   - "type/keyword"
 ---

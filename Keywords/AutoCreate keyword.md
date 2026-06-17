@@ -4,7 +4,6 @@ keyword: "AutoCreate keyword"
 slug: "key_keyword_autocreate"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_autocreate.html"
 keyword_type: "unknown"
-related_key: "[[Keys/AutoCreate keyword]]"
 tags:
   - "type/keyword"
 ---

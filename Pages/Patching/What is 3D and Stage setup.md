@@ -4,9 +4,11 @@ title_str: "What is 3D and Stage setup"
 slug: "key_patch_what_is_3d_stage"
 url: "https://help.malighting.com/grandMA2/en/help/key_patch_what_is_3d_stage.html"
 section: "Patching"
+ma2_section: "key_patch"
 section_ref: "[[Sections/Patching]]"
-prev_page: "[[Pages/Patching/What are channels &amp; fixtures]]"
+prev_page: "[[Pages/Patching/What Are Channels & Fixtures]]"
 next_page: "[[Pages/Patching/Adding fixtures to the show]]"
+depth: 2
 tags:
   - "type/page"
   - "section/patch"
@@ -43,6 +45,6 @@ You will need to have a [session running](key_network_session.html) on the conso
 
 The main idea behind the MA 3D is for pre-programming a show. It allows you to visualize and program your entire show without the need for all the MA hardware you might need onsite. You can download both grandMA2 onPC and MA 3D for free and start programming a show with the maximum amount of parameters. It is first when you need to output all these parameters to real world fixtures, that you need real MA hardware.
 
-← [[Pages/Patching/What are channels &amp; fixtures]] | [[Pages/Patching/Adding fixtures to the show]] →
+← [[Pages/Patching/What Are Channels & Fixtures]] | [[Pages/Patching/Adding fixtures to the show]] →
 
 Part of [[Sections/Patching]] · [[000 Map of Content]]

@@ -4,9 +4,11 @@ title_str: "Looking at the active executors"
 slug: "key_exec_running_playbacks"
 url: "https://help.malighting.com/grandMA2/en/help/key_exec_running_playbacks.html"
 section: "Executors"
+ma2_section: "key_exec"
 section_ref: "[[Sections/Executors]]"
 prev_page: "[[Pages/Executors/Assign a function]]"
 next_page: "[[Pages/Executors/Common executor options]]"
+depth: 2
 tags:
   - "type/page"
   - "section/exec"

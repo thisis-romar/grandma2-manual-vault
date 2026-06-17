@@ -4,7 +4,6 @@ keyword: "TakeControl"
 slug: "key_keyword_takecontrol"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_takecontrol.html"
 keyword_type: "unknown"
-related_key: "[[Keys/TakeControl]]"
 tags:
   - "type/keyword"
 ---

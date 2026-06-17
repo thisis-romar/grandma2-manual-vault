@@ -4,9 +4,11 @@ title_str: "Display"
 slug: "key_of_sheet_options_display"
 url: "https://help.malighting.com/grandMA2/en/help/key_of_sheet_options_display.html"
 section: "Operate Fixtures"
+ma2_section: "key_operate_fixtures"
 section_ref: "[[Sections/Operate Fixtures]]"
 prev_page: "[[Pages/Operate Fixtures/Layer mask]]"
 next_page: "[[Pages/Operate Fixtures/Title buttons]]"
+depth: 3
 tags:
   - "type/page"
   - "section/of"

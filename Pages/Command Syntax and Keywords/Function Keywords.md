@@ -4,8 +4,10 @@ title_str: "Function Keywords"
 slug: "key_cs_function_keywords"
 url: "https://help.malighting.com/grandMA2/en/help/key_cs_function_keywords.html"
 section: "Command Syntax and Keywords"
+ma2_section: "key_command_syntax_and_keywords"
 section_ref: "[[Sections/Command Syntax and Keywords]]"
-prev_page: "[[Pages/Command Syntax and Keywords/Object keywords]]"
+prev_page: "[[Pages/Command Syntax and Keywords/Object Keywords]]"
+depth: 3
 tags:
   - "type/page"
   - "section/cs"
@@ -185,6 +187,6 @@ Some functions are global and do not need to be followed by objects, for example
 *   [UpdateThumbnails keyword](key_keyword_updatethumbnails.html)
 *   [Version keyword](key_keyword_version.html)
 
-← [[Pages/Command Syntax and Keywords/Object keywords]]
+← [[Pages/Command Syntax and Keywords/Object Keywords]]
 
 Part of [[Sections/Command Syntax and Keywords]] · [[000 Map of Content]]

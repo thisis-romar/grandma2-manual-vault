@@ -4,9 +4,11 @@ title_str: "Configure ports of the MA Network Switch"
 slug: "key_control_ma_switch_ports"
 url: "https://help.malighting.com/grandMA2/en/help/key_control_ma_switch_ports.html"
 section: "Control MA Network Switch"
+ma2_section: "key_control_ma_switch"
 section_ref: "[[Sections/Control MA Network Switch]]"
 prev_page: "[[Pages/Control MA Network Switch/Change switch ID]]"
-next_page: "[[Pages/Control MA Network Switch/Edit groups]]"
+next_page: "[[Pages/Control MA Network Switch/Edit groups of the MA Network Switch]]"
+depth: 2
 tags:
   - "type/page"
   - "section/control"
@@ -169,6 +171,6 @@ To configure the ports:
 
 The port is configured and the changes are saved in the startup configuration.
 
-← [[Pages/Control MA Network Switch/Change switch ID]] | [[Pages/Control MA Network Switch/Edit groups]] →
+← [[Pages/Control MA Network Switch/Change switch ID]] | [[Pages/Control MA Network Switch/Edit groups of the MA Network Switch]] →
 
 Part of [[Sections/Control MA Network Switch]] · [[000 Map of Content]]

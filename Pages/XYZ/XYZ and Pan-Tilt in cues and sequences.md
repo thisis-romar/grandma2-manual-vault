@@ -4,9 +4,11 @@ title_str: "XYZ and Pan/Tilt in cues and sequences"
 slug: "key_xyz_pan_tilt_in_cues_sequences"
 url: "https://help.malighting.com/grandMA2/en/help/key_xyz_pan_tilt_in_cues_sequences.html"
 section: "XYZ"
+ma2_section: "key_xyz"
 section_ref: "[[Sections/XYZ]]"
-prev_page: "[[Pages/XYZ/XYZ vs. pan-tilt]]"
-next_page: "[[Pages/XYZ/Use stage markers]]"
+prev_page: "[[Pages/XYZ/XYZ vs. Pan-Tilt]]"
+next_page: "[[Pages/XYZ/Use Stage Markers]]"
+depth: 2
 tags:
   - "type/page"
   - "section/xyz"
@@ -107,6 +109,6 @@ _Select the position mode of a cue_
 4.  Tap the position you would like to set for the current cue.
 5.  The position has been adjusted.
 
-← [[Pages/XYZ/XYZ vs. pan-tilt]] | [[Pages/XYZ/Use stage markers]] →
+← [[Pages/XYZ/XYZ vs. Pan-Tilt]] | [[Pages/XYZ/Use Stage Markers]] →
 
 Part of [[Sections/XYZ]] · [[000 Map of Content]]

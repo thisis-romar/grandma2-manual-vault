@@ -4,8 +4,10 @@ title_str: "Turn on the Console the First Time"
 slug: "key_fs_turn_on_the_console_the_first_time"
 url: "https://help.malighting.com/grandMA2/en/help/key_fs_turn_on_the_console_the_first_time.html"
 section: "First Steps"
+ma2_section: "key_first_steps"
 section_ref: "[[Sections/First Steps]]"
 prev_page: "[[Pages/First Steps/Setup your PC]]"
+depth: 2
 tags:
   - "type/page"
   - "section/fs"

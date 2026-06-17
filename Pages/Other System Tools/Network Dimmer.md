@@ -4,9 +4,11 @@ title_str: "Network Dimmer"
 slug: "key_ost_network_dimmer"
 url: "https://help.malighting.com/grandMA2/en/help/key_ost_network_dimmer.html"
 section: "Other System Tools"
+ma2_section: "key_ost"
 section_ref: "[[Sections/Other System Tools]]"
-prev_page: "[[Pages/Other System Tools/VPU pixel mapper view]]"
+prev_page: "[[Pages/Other System Tools/Sound input window]]"
 next_page: "[[Pages/Other System Tools/Desk status]]"
+depth: 2
 tags:
   - "type/page"
   - "section/ost"
@@ -102,6 +104,6 @@ A dimmer holds all the corresponding configuration data. 
 *   [Edit properties of a rack](key_ost_edit_properties_of_rack.html)
 *   [Edit a module](key_ost_edit_module.html)
 
-← [[Pages/Other System Tools/VPU pixel mapper view]] | [[Pages/Other System Tools/Desk status]] →
+← [[Pages/Other System Tools/Sound input window]] | [[Pages/Other System Tools/Desk status]] →
 
 Part of [[Sections/Other System Tools]] · [[000 Map of Content]]

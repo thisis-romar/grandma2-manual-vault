@@ -3,7 +3,6 @@ type: "key"
 key_label: "Please Key"
 slug: "key_key_please"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_please.html"
-related_keyword: "[[Keywords/Please Key]]"
 tags:
   - "type/key"
 ---

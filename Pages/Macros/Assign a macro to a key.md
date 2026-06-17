@@ -4,9 +4,11 @@ title_str: "Assign a macro to a key"
 slug: "key_macro_assign"
 url: "https://help.malighting.com/grandMA2/en/help/key_macro_assign.html"
 section: "Macros"
+ma2_section: "key_macro"
 section_ref: "[[Sections/Macros]]"
 prev_page: "[[Pages/Macros/Command line interaction]]"
 next_page: "[[Pages/Macros/Example macros]]"
+depth: 2
 tags:
   - "type/page"
   - "section/macro"

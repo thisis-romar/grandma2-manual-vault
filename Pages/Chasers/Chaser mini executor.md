@@ -4,8 +4,10 @@ title_str: "Chaser mini executor"
 slug: "key_chaser_mini_executer"
 url: "https://help.malighting.com/grandMA2/en/help/key_chaser_mini_executer.html"
 section: "Chasers"
+ma2_section: "key_chaser"
 section_ref: "[[Sections/Chasers]]"
 prev_page: "[[Pages/Chasers/Chaser settings]]"
+depth: 2
 tags:
   - "type/page"
   - "section/chaser"

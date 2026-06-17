@@ -7,10 +7,10 @@ page_count: 5
 tags:
   - "type/section"
 pages:
-  - "[[Pages/Console Settings/Adjust the intensity of desk lights]]"
-  - "[[Pages/Console Settings/Change screen options]]"
+  - "[[Pages/Console Settings/Adjust Intensity of Desk Lights]]"
+  - "[[Pages/Console Settings/Change Screen Options]]"
   - "[[Pages/Console Settings/Local settings]]"
-  - "[[Pages/Console Settings/Wing &amp; monitor setup]]"
+  - "[[Pages/Console Settings/Wing & Monitor Setup]]"
   - "[[Pages/Console Settings/Date & Time]]"
 ---
 
@@ -41,10 +41,10 @@ For more information on the various settings see the links below:
 
 ## Pages in This Section
 
-- [[Pages/Console Settings/Adjust the intensity of desk lights]]
-- [[Pages/Console Settings/Change screen options]]
+- [[Pages/Console Settings/Adjust Intensity of Desk Lights]]
+- [[Pages/Console Settings/Change Screen Options]]
 - [[Pages/Console Settings/Local settings]]
-- [[Pages/Console Settings/Wing &amp; monitor setup]]
+- [[Pages/Console Settings/Wing & Monitor Setup]]
 - [[Pages/Console Settings/Date & Time]]
 
 Part of [[000 Map of Content]]

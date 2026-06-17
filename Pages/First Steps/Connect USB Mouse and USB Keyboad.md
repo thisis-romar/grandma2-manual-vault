@@ -4,9 +4,11 @@ title_str: "Connect USB Mouse and USB Keyboad"
 slug: "key_fs_connect_usb_mouse_and_usb_keyboad"
 url: "https://help.malighting.com/grandMA2/en/help/key_fs_connect_usb_mouse_and_usb_keyboad.html"
 section: "First Steps"
+ma2_section: "key_first_steps"
 section_ref: "[[Sections/First Steps]]"
-prev_page: "[[Pages/First Steps/Connect external screens]]"
+prev_page: "[[Pages/First Steps/Connect External Screens]]"
 next_page: "[[Pages/First Steps/Connect DMX]]"
+depth: 2
 tags:
   - "type/page"
   - "section/fs"
@@ -43,6 +45,6 @@ _grandMA2 full-size USB connector front panel_
 
 _grandMA2 full-size USB connector rear panel_
 
-← [[Pages/First Steps/Connect external screens]] | [[Pages/First Steps/Connect DMX]] →
+← [[Pages/First Steps/Connect External Screens]] | [[Pages/First Steps/Connect DMX]] →
 
 Part of [[Sections/First Steps]] · [[000 Map of Content]]

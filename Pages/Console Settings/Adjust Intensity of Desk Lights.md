@@ -4,8 +4,10 @@ title_str: "Adjust Intensity of Desk Lights"
 slug: "key_window_desklights"
 url: "https://help.malighting.com/grandMA2/en/help/key_window_desklights.html"
 section: "Console Settings"
+ma2_section: "key_console_settings"
 section_ref: "[[Sections/Console Settings]]"
-next_page: "[[Pages/Console Settings/Change screen options]]"
+next_page: "[[Pages/Console Settings/Change Screen Options]]"
+depth: 2
 tags:
   - "type/page"
   - "section/window"
@@ -44,6 +46,6 @@ To adjust the intensity of the desk lights:
 
 The light of your desk has now been adjusted.
 
-[[Pages/Console Settings/Change screen options]] →
+[[Pages/Console Settings/Change Screen Options]] →
 
 Part of [[Sections/Console Settings]] · [[000 Map of Content]]

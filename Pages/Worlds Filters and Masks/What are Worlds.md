@@ -4,8 +4,10 @@ title_str: "What are Worlds"
 slug: "key_wfm_what_are_worlds"
 url: "https://help.malighting.com/grandMA2/en/help/key_wfm_what_are_worlds.html"
 section: "Worlds Filters and Masks"
+ma2_section: "key_wfm_world_filter_mask"
 section_ref: "[[Sections/Worlds Filters and Masks]]"
 next_page: "[[Pages/Worlds Filters and Masks/Create worlds]]"
+depth: 2
 tags:
   - "type/page"
   - "section/wfm"

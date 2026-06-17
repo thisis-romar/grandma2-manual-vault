@@ -4,9 +4,11 @@ title_str: "Change switch ID"
 slug: "key_control_ma_switch_switch_id"
 url: "https://help.malighting.com/grandMA2/en/help/key_control_ma_switch_switch_id.html"
 section: "Control MA Network Switch"
+ma2_section: "key_control_ma_switch"
 section_ref: "[[Sections/Control MA Network Switch]]"
-prev_page: "[[Pages/Control MA Network Switch/Change hostname]]"
-next_page: "[[Pages/Control MA Network Switch/Configure ports]]"
+prev_page: "[[Pages/Control MA Network Switch/Change hostname of the MA Network Switch]]"
+next_page: "[[Pages/Control MA Network Switch/Configure ports of the MA Network Switch]]"
+depth: 2
 tags:
   - "type/page"
   - "section/control"
@@ -44,6 +46,6 @@ The allowed characters are 1...999.
 
 The MA Network Switch has a new ID. The new ID is saved in the startup configuration.
 
-← [[Pages/Control MA Network Switch/Change hostname]] | [[Pages/Control MA Network Switch/Configure ports]] →
+← [[Pages/Control MA Network Switch/Change hostname of the MA Network Switch]] | [[Pages/Control MA Network Switch/Configure ports of the MA Network Switch]] →
 
 Part of [[Sections/Control MA Network Switch]] · [[000 Map of Content]]

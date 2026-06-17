@@ -4,7 +4,6 @@ keyword: "Flash"
 slug: "key_keyword_flash"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_flash.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Flash]]"
 tags:
   - "type/keyword"
 ---

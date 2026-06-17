@@ -7,11 +7,11 @@ page_count: 5
 tags:
   - "type/section"
 pages:
-  - "[[Pages/Control MA xPort Nodes/Add the MA xPort Nodes]]"
-  - "[[Pages/Control MA xPort Nodes/Configure the MA xPort Nodes in the console]]"
-  - "[[Pages/Control MA xPort Nodes/Configure the MA xPort Nodes in a browser]]"
-  - "[[Pages/Control MA xPort Nodes/Configure the MA xPort Nodes as splitters or mergers]]"
-  - "[[Pages/Control MA xPort Nodes/Delete the MA xPort Nodes]]"
+  - "[[Pages/Control MA xPort Nodes/Add the MA xPort Nodes to the Network Configuration]]"
+  - "[[Pages/Control MA xPort Nodes/Configure the MA xPort Nodes in the Console]]"
+  - "[[Pages/Control MA xPort Nodes/Configure the MA xPort Nodes in a Browser]]"
+  - "[[Pages/Control MA xPort Nodes/Configure the MA xPort Nodes as Splitters or Mergers]]"
+  - "[[Pages/Control MA xPort Nodes/Delete the MA xPort Nodes in the Network Configuration]]"
 ---
 
 # Control the MA xPort Nodes
@@ -57,10 +57,10 @@ For more information read the corresponding topics. 
 
 ## Pages in This Section
 
-- [[Pages/Control MA xPort Nodes/Add the MA xPort Nodes]]
-- [[Pages/Control MA xPort Nodes/Configure the MA xPort Nodes in the console]]
-- [[Pages/Control MA xPort Nodes/Configure the MA xPort Nodes in a browser]]
-- [[Pages/Control MA xPort Nodes/Configure the MA xPort Nodes as splitters or mergers]]
-- [[Pages/Control MA xPort Nodes/Delete the MA xPort Nodes]]
+- [[Pages/Control MA xPort Nodes/Add the MA xPort Nodes to the Network Configuration]]
+- [[Pages/Control MA xPort Nodes/Configure the MA xPort Nodes in the Console]]
+- [[Pages/Control MA xPort Nodes/Configure the MA xPort Nodes in a Browser]]
+- [[Pages/Control MA xPort Nodes/Configure the MA xPort Nodes as Splitters or Mergers]]
+- [[Pages/Control MA xPort Nodes/Delete the MA xPort Nodes in the Network Configuration]]
 
 Part of [[000 Map of Content]]

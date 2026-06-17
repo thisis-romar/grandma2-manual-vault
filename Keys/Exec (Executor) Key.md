@@ -3,7 +3,7 @@ type: "key"
 key_label: "Exec (Executor) Key"
 slug: "key_key_executor"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_executor.html"
-related_keyword: "[[Keywords/Exec (Executor) Key]]"
+related_keyword: "[[Keywords/Executor]]"
 tags:
   - "type/key"
 ---

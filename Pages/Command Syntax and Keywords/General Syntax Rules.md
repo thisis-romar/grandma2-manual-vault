@@ -4,8 +4,10 @@ title_str: "General Syntax Rules"
 slug: "key_cs_general_syntax_rules"
 url: "https://help.malighting.com/grandMA2/en/help/key_cs_general_syntax_rules.html"
 section: "Command Syntax and Keywords"
+ma2_section: "key_command_syntax_and_keywords"
 section_ref: "[[Sections/Command Syntax and Keywords]]"
 next_page: "[[Pages/Command Syntax and Keywords/All keywords]]"
+depth: 2
 tags:
   - "type/page"
   - "section/cs"

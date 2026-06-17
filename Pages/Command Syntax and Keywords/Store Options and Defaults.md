@@ -4,9 +4,11 @@ title_str: "Store Options and Defaults"
 slug: "key_cs_store_options_default"
 url: "https://help.malighting.com/grandMA2/en/help/key_cs_store_options_default.html"
 section: "Command Syntax and Keywords"
-section_ref: "[[Sections/Command Syntax and Keywords]]"
-prev_page: "[[Pages/Command Syntax and Keywords/Store cues]]"
+ma2_section: "key_cues_and_sequences"
+section_ref: "[[Sections/Cues and Sequences]]"
+prev_page: "[[Pages/Command Syntax and Keywords/Storing cues]]"
 next_page: "[[Pages/Command Syntax and Keywords/Cue timings]]"
+depth: 2
 tags:
   - "type/page"
   - "section/cs"
@@ -126,6 +128,6 @@ It is only the bottom row that changes.
 
 Now the encoders control the "SnapPercent", CmdDelay", "Trig", and "TrigTime" values.
 
-← [[Pages/Command Syntax and Keywords/Store cues]] | [[Pages/Command Syntax and Keywords/Cue timings]] →
+← [[Pages/Command Syntax and Keywords/Storing cues]] | [[Pages/Command Syntax and Keywords/Cue timings]] →
 
-Part of [[Sections/Command Syntax and Keywords]] · [[000 Map of Content]]
+Part of [[Sections/Cues and Sequences]] · [[000 Map of Content]]

@@ -4,9 +4,11 @@ title_str: "Layer mask"
 slug: "key_of_sheet_options_layer_mask"
 url: "https://help.malighting.com/grandMA2/en/help/key_of_sheet_options_layer_mask.html"
 section: "Operate Fixtures"
+ma2_section: "key_operate_fixtures"
 section_ref: "[[Sections/Operate Fixtures]]"
 prev_page: "[[Pages/Operate Fixtures/Tools]]"
 next_page: "[[Pages/Operate Fixtures/Display]]"
+depth: 3
 tags:
   - "type/page"
   - "section/of"

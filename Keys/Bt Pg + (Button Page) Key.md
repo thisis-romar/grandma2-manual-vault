@@ -3,7 +3,6 @@ type: "key"
 key_label: "Bt Pg + (Button Page) Key"
 slug: "key_key_buttonpageplus"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_buttonpageplus.html"
-related_keyword: "[[Keywords/Bt Pg + (Button Page) Key]]"
 tags:
   - "type/key"
 ---

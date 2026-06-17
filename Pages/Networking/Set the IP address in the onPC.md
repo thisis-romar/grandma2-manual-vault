@@ -4,9 +4,11 @@ title_str: "Set the IP address in the onPC"
 slug: "key_network_set_ip_onpc"
 url: "https://help.malighting.com/grandMA2/en/help/key_network_set_ip_onpc.html"
 section: "Networking"
+ma2_section: "key_network"
 section_ref: "[[Sections/Networking]]"
 prev_page: "[[Pages/Networking/Set the IP address in the console]]"
 next_page: "[[Pages/Networking/Using DHCP in MA devices]]"
+depth: 2
 tags:
   - "type/page"
   - "section/network"

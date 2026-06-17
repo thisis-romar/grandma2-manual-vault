@@ -4,7 +4,6 @@ keyword: "Kill"
 slug: "key_keyword_kill"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_kill.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Kill]]"
 tags:
   - "type/keyword"
 ---

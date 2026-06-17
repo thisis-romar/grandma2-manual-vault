@@ -4,9 +4,11 @@ title_str: "Partial Show Read"
 slug: "key_backup_menu_partial_show_read"
 url: "https://help.malighting.com/grandMA2/en/help/key_backup_menu_partial_show_read.html"
 section: "Backup Menu"
+ma2_section: "key_backup_menu"
 section_ref: "[[Sections/Backup Menu]]"
 prev_page: "[[Pages/Backup Menu/Setting up a file server]]"
-next_page: "[[Pages/Backup Menu/ASCII show read]]"
+next_page: "[[Pages/Backup Menu/ASCII Show Read]]"
+depth: 2
 tags:
   - "type/page"
   - "section/backup"
@@ -29,6 +31,6 @@ After the comparison - called initialization - then access is granted to a new m
 
 The actual process is more complex, but this is the idea. Please read the [Partial Show Read](key_psr.html) chapters to learn more about it.
 
-← [[Pages/Backup Menu/Setting up a file server]] | [[Pages/Backup Menu/ASCII show read]] →
+← [[Pages/Backup Menu/Setting up a file server]] | [[Pages/Backup Menu/ASCII Show Read]] →
 
 Part of [[Sections/Backup Menu]] · [[000 Map of Content]]

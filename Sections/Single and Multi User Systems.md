@@ -7,10 +7,10 @@ page_count: 4
 tags:
   - "type/section"
 pages:
-  - "[[Pages/Single and Multi User Systems/The difference between a single user and a multi user system]]"
+  - "[[Pages/Single and Multi User Systems/What is the difference between a single-user and a multi-user system]]"
   - "[[Pages/Single and Multi User Systems/Create user profiles and users]]"
-  - "[[Pages/Single and Multi User Systems/User settings]]"
-  - "[[Pages/Single and Multi User Systems/Login]]"
+  - "[[Pages/Single and Multi User Systems/User specific settings]]"
+  - "[[Pages/Single and Multi User Systems/Login on a station]]"
 ---
 
 # Single User and Multi User systems
@@ -45,9 +45,9 @@ And finally a look at [different ways to login](key_single_multi_systems_login.h
 
 ## Pages in This Section
 
-- [[Pages/Single and Multi User Systems/The difference between a single user and a multi user system]]
+- [[Pages/Single and Multi User Systems/What is the difference between a single-user and a multi-user system]]
 - [[Pages/Single and Multi User Systems/Create user profiles and users]]
-- [[Pages/Single and Multi User Systems/User settings]]
-- [[Pages/Single and Multi User Systems/Login]]
+- [[Pages/Single and Multi User Systems/User specific settings]]
+- [[Pages/Single and Multi User Systems/Login on a station]]
 
 Part of [[000 Map of Content]]

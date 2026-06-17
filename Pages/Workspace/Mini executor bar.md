@@ -4,9 +4,11 @@ title_str: "Mini executor bar"
 slug: "key_ws_mini_executor_bar"
 url: "https://help.malighting.com/grandMA2/en/help/key_ws_mini_executor_bar.html"
 section: "Workspace"
+ma2_section: "key_workspace"
 section_ref: "[[Sections/Workspace]]"
-prev_page: "[[Pages/Workspace/Command section]]"
+prev_page: "[[Pages/Workspace/Command Section]]"
 next_page: "[[Pages/Workspace/Work with views]]"
+depth: 2
 tags:
   - "type/page"
   - "section/ws"
@@ -45,6 +47,6 @@ For more information, see:
 *   [Chaser mini executor](key_chaser_mini_executer.html)
 *   [Group master mini executor](key_groups_master.html)
 
-← [[Pages/Workspace/Command section]] | [[Pages/Workspace/Work with views]] →
+← [[Pages/Workspace/Command Section]] | [[Pages/Workspace/Work with views]] →
 
 Part of [[Sections/Workspace]] · [[000 Map of Content]]

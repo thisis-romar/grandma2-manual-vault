@@ -4,9 +4,11 @@ title_str: "What is MIB"
 slug: "key_cs_what_is_mib"
 url: "https://help.malighting.com/grandMA2/en/help/key_cs_what_is_mib.html"
 section: "Command Syntax and Keywords"
-section_ref: "[[Sections/Command Syntax and Keywords]]"
-prev_page: "[[Pages/Command Syntax and Keywords/What is tracking]]"
+ma2_section: "key_cues_and_sequences"
+section_ref: "[[Sections/Cues and Sequences]]"
+prev_page: "[[Pages/Command Syntax and Keywords/What is Tracking]]"
 next_page: "[[Pages/Command Syntax and Keywords/Sequence mini executor]]"
+depth: 2
 tags:
   - "type/page"
   - "section/cs"
@@ -54,6 +56,6 @@ The actual prepositioning of each attribute will not necessarily take place in t
 *   Dimmer has a value above zero in any of the cues between the current cue and the cue to prepare for
 *   The attribute is included in any of the cues between the current cue and the cue to prepare for
 
-← [[Pages/Command Syntax and Keywords/What is tracking]] | [[Pages/Command Syntax and Keywords/Sequence mini executor]] →
+← [[Pages/Command Syntax and Keywords/What is Tracking]] | [[Pages/Command Syntax and Keywords/Sequence mini executor]] →
 
-Part of [[Sections/Command Syntax and Keywords]] · [[000 Map of Content]]
+Part of [[Sections/Cues and Sequences]] · [[000 Map of Content]]

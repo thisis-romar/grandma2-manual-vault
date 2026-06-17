@@ -4,9 +4,11 @@ title_str: "Edit Layout"
 slug: "key_layouts_edit"
 url: "https://help.malighting.com/grandMA2/en/help/key_layouts_edit.html"
 section: "Layouts"
+ma2_section: "key_layouts"
 section_ref: "[[Sections/Layouts]]"
-prev_page: "[[Pages/Layouts/Layout pool options]]"
-next_page: "[[Pages/Layouts/Layout view options]]"
+prev_page: "[[Pages/Layouts/Layout Pool Options]]"
+next_page: "[[Pages/Layouts/Layout View Options]]"
+depth: 2
 tags:
   - "type/page"
   - "section/layouts"
@@ -194,6 +196,6 @@ It is possible to use the Double tap mode here. For more information see [Layout
 
 To delete single objects, press Del and then tap the object you would like to delete in the layout view.
 
-← [[Pages/Layouts/Layout pool options]] | [[Pages/Layouts/Layout view options]] →
+← [[Pages/Layouts/Layout Pool Options]] | [[Pages/Layouts/Layout View Options]] →
 
 Part of [[Sections/Layouts]] · [[000 Map of Content]]

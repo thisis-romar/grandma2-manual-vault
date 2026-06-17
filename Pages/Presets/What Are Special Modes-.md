@@ -4,8 +4,10 @@ title_str: "What Are Special Modes?"
 slug: "key_presets_special_modes"
 url: "https://help.malighting.com/grandMA2/en/help/key_presets_special_modes.html"
 section: "Presets"
+ma2_section: "key_presets"
 section_ref: "[[Sections/Presets]]"
-next_page: "[[Pages/Presets/Preset pools]]"
+next_page: "[[Pages/Presets/Preset Pools]]"
+depth: 2
 tags:
   - "type/page"
   - "section/presets"
@@ -52,6 +54,6 @@ _Pop-up assign preset_
 5.  Choose the special mode you would like to save your preset as.
 6.  After choosing a special mode, apply the fixtures to be modified with this preset.
 
-[[Pages/Presets/Preset pools]] →
+[[Pages/Presets/Preset Pools]] →
 
 Part of [[Sections/Presets]] · [[000 Map of Content]]

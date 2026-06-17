@@ -4,9 +4,11 @@ title_str: "Assign executor"
 slug: "key_of_sheet_options_assign_executor"
 url: "https://help.malighting.com/grandMA2/en/help/key_of_sheet_options_assign_executor.html"
 section: "Operate Fixtures"
+ma2_section: "key_operate_fixtures"
 section_ref: "[[Sections/Operate Fixtures]]"
 prev_page: "[[Pages/Operate Fixtures/Title buttons]]"
 next_page: "[[Pages/Operate Fixtures/Mask (local)]]"
+depth: 3
 tags:
   - "type/page"
   - "section/of"

@@ -4,9 +4,11 @@ title_str: "Effects in a Cue"
 slug: "key_effects_in_cue"
 url: "https://help.malighting.com/grandMA2/en/help/key_effects_in_cue.html"
 section: "Effects"
+ma2_section: "key_effects"
 section_ref: "[[Sections/Effects]]"
-prev_page: "[[Pages/Effects/Pool options]]"
+prev_page: "[[Pages/Effects/Pool Options]]"
 next_page: "[[Pages/Effects/Assign effect to executor]]"
+depth: 2
 tags:
   - "type/page"
   - "section/effects"
@@ -36,6 +38,6 @@ The color effect is now saved on an executor in cue 1. 
 Depending on the mode used in the effect, the color might not be applied correctly.  
 Relative effects add values on top of existing values when creating second cue. Change the mode to "Absolute" in the effect editor. For more information see [Use predefined effects](key_effects_predefined.html).
 
-← [[Pages/Effects/Pool options]] | [[Pages/Effects/Assign effect to executor]] →
+← [[Pages/Effects/Pool Options]] | [[Pages/Effects/Assign effect to executor]] →
 
 Part of [[Sections/Effects]] · [[000 Map of Content]]

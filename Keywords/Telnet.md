@@ -4,7 +4,6 @@ keyword: "Telnet"
 slug: "key_keyword_telnet"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_telnet.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Telnet]]"
 tags:
   - "type/keyword"
 ---

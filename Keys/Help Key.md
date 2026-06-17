@@ -3,7 +3,7 @@ type: "key"
 key_label: "Help Key"
 slug: "key_key_help"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_help.html"
-related_keyword: "[[Keywords/Help Key]]"
+related_keyword: "[[Keywords/Help]]"
 tags:
   - "type/key"
 ---

@@ -4,7 +4,6 @@ keyword: "PreviewEdit"
 slug: "key_keyword_previewedit"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_previewedit.html"
 keyword_type: "unknown"
-related_key: "[[Keys/PreviewEdit]]"
 tags:
   - "type/keyword"
 ---

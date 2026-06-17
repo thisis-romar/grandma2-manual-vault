@@ -4,8 +4,10 @@ title_str: "Edit a Module"
 slug: "key_ost_edit_module"
 url: "https://help.malighting.com/grandMA2/en/help/key_ost_edit_module.html"
 section: "Other System Tools"
+ma2_section: "key_ost"
 section_ref: "[[Sections/Other System Tools]]"
-prev_page: "[[Pages/Other System Tools/Edit properties of a rack]]"
+prev_page: "[[Pages/Other System Tools/Edit Properties of a Rack]]"
+depth: 3
 tags:
   - "type/page"
   - "section/ost"
@@ -62,6 +64,6 @@ You can edit columns in the **pop-up Module Properties**. For more information 
 
 The module is now edited.
 
-← [[Pages/Other System Tools/Edit properties of a rack]]
+← [[Pages/Other System Tools/Edit Properties of a Rack]]
 
 Part of [[Sections/Other System Tools]] · [[000 Map of Content]]

@@ -3,7 +3,7 @@ type: "key"
 key_label: "Edit Key"
 slug: "key_key_edit"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_edit.html"
-related_keyword: "[[Keywords/Edit Key]]"
+related_keyword: "[[Keywords/Edit keyword]]"
 tags:
   - "type/key"
 ---

@@ -4,9 +4,11 @@ title_str: "Getting DMX in and out of the system"
 slug: "key_network_dmx_get_in_out"
 url: "https://help.malighting.com/grandMA2/en/help/key_network_dmx_get_in_out.html"
 section: "Networking"
+ma2_section: "key_network"
 section_ref: "[[Sections/Networking]]"
 prev_page: "[[Pages/Networking/Session control]]"
 next_page: "[[Pages/Networking/Using CITP]]"
+depth: 2
 tags:
   - "type/page"
   - "section/network"

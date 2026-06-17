@@ -4,9 +4,11 @@ title_str: "Connect Ethernet"
 slug: "key_fs_connect_ethnert"
 url: "https://help.malighting.com/grandMA2/en/help/key_fs_connect_ethnert.html"
 section: "First Steps"
+ma2_section: "key_first_steps"
 section_ref: "[[Sections/First Steps]]"
 prev_page: "[[Pages/First Steps/Connect SMPTE (LTC)]]"
-next_page: "[[Pages/First Steps/Connect analog remote control]]"
+next_page: "[[Pages/First Steps/Connect Analog Remote Control]]"
+depth: 2
 tags:
   - "type/page"
   - "section/fs"
@@ -78,6 +80,6 @@ To connect Ethernet port 2:
 
 Ethernet is connected to port 2.
 
-← [[Pages/First Steps/Connect SMPTE (LTC)]] | [[Pages/First Steps/Connect analog remote control]] →
+← [[Pages/First Steps/Connect SMPTE (LTC)]] | [[Pages/First Steps/Connect Analog Remote Control]] →
 
 Part of [[Sections/First Steps]] · [[000 Map of Content]]

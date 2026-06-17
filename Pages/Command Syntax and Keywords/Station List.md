@@ -4,8 +4,10 @@ title_str: "Station List"
 slug: "key_cs_station_list"
 url: "https://help.malighting.com/grandMA2/en/help/key_cs_station_list.html"
 section: "Command Syntax and Keywords"
+ma2_section: "key_command_syntax_and_keywords"
 section_ref: "[[Sections/Command Syntax and Keywords]]"
-prev_page: "[[Pages/Command Syntax and Keywords/Attribute list]]"
+prev_page: "[[Pages/Command Syntax and Keywords/Attribute List]]"
+depth: 3
 tags:
   - "type/page"
   - "section/cs"
@@ -48,6 +50,6 @@ Sets the IP address. 
 
 For more information on how to set the IP address see [SetIP](key_keyword_setip.html).
 
-← [[Pages/Command Syntax and Keywords/Attribute list]]
+← [[Pages/Command Syntax and Keywords/Attribute List]]
 
 Part of [[Sections/Command Syntax and Keywords]] · [[000 Map of Content]]

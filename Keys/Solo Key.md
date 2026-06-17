@@ -3,7 +3,7 @@ type: "key"
 key_label: "Solo Key"
 slug: "key_key_solo"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_solo.html"
-related_keyword: "[[Keywords/Solo Key]]"
+related_keyword: "[[Keywords/Solo]]"
 tags:
   - "type/key"
 ---

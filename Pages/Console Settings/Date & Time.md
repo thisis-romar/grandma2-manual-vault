@@ -4,8 +4,10 @@ title_str: "Date & Time"
 slug: "key_date_time"
 url: "https://help.malighting.com/grandMA2/en/help/key_date_time.html"
 section: "Console Settings"
+ma2_section: "key_console_settings"
 section_ref: "[[Sections/Console Settings]]"
-prev_page: "[[Pages/Console Settings/Wing &amp; monitor setup]]"
+prev_page: "[[Pages/Console Settings/Wing & Monitor Setup]]"
+depth: 2
 tags:
   - "type/page"
   - "section/date"
@@ -121,6 +123,6 @@ To use a GPS on the system do as followed:
 
 The GPS Master refers to the console where the GPS is connected.
 
-← [[Pages/Console Settings/Wing &amp; monitor setup]]
+← [[Pages/Console Settings/Wing & Monitor Setup]]
 
 Part of [[Sections/Console Settings]] · [[000 Map of Content]]

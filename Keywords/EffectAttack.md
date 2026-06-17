@@ -4,7 +4,6 @@ keyword: "EffectAttack"
 slug: "key_keyword_effectattack"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_effectattack.html"
 keyword_type: "unknown"
-related_key: "[[Keys/EffectAttack]]"
 tags:
   - "type/keyword"
 ---

@@ -4,7 +4,6 @@ keyword: "Exit keyword"
 slug: "key_keyword_exit"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_exit.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Exit keyword]]"
 tags:
   - "type/keyword"
 ---

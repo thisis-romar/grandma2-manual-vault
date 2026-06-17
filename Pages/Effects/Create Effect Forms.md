@@ -4,9 +4,11 @@ title_str: "Create Effect Forms"
 slug: "key_effects_create_forms"
 url: "https://help.malighting.com/grandMA2/en/help/key_effects_create_forms.html"
 section: "Effects"
+ma2_section: "key_effects"
 section_ref: "[[Sections/Effects]]"
-prev_page: "[[Pages/Effects/Create an effect that uses presets]]"
-next_page: "[[Pages/Effects/Pool options]]"
+prev_page: "[[Pages/Effects/Create an Effect that Uses Presets]]"
+next_page: "[[Pages/Effects/Pool Options]]"
+depth: 2
 tags:
   - "type/page"
   - "section/effects"
@@ -159,6 +161,6 @@ The modes are applied between two points. 
 If all setting were adjusted accordingly, close the graph editor:  
 \-Tap ![](../../img/icon_close_small_v3-2.png) in the upper right corner of the window and the editor closes.
 
-← [[Pages/Effects/Create an effect that uses presets]] | [[Pages/Effects/Pool options]] →
+← [[Pages/Effects/Create an Effect that Uses Presets]] | [[Pages/Effects/Pool Options]] →
 
 Part of [[Sections/Effects]] · [[000 Map of Content]]

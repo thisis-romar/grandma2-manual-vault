@@ -4,7 +4,6 @@ keyword: "Fade"
 slug: "key_keyword_fade"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_fade.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Fade]]"
 tags:
   - "type/keyword"
 ---

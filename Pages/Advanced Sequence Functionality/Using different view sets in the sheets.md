@@ -4,8 +4,10 @@ title_str: "Using different view sets in the sheets"
 slug: "key_adv_seq_view_sets"
 url: "https://help.malighting.com/grandMA2/en/help/key_adv_seq_view_sets.html"
 section: "Advanced Sequence Functionality"
+ma2_section: "key_adv_seq"
 section_ref: "[[Sections/Advanced Sequence Functionality]]"
 next_page: "[[Pages/Advanced Sequence Functionality/Working with MIB]]"
+depth: 2
 tags:
   - "type/page"
   - "section/adv"

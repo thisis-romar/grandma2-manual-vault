@@ -4,7 +4,6 @@ keyword: "CmdHelp keyword"
 slug: "key_keyword_cmdhelp"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_cmdhelp.html"
 keyword_type: "unknown"
-related_key: "[[Keys/CmdHelp keyword]]"
 tags:
   - "type/keyword"
 ---

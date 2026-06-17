@@ -4,9 +4,11 @@ title_str: "Connect Power"
 slug: "key_fs_connect_power"
 url: "https://help.malighting.com/grandMA2/en/help/key_fs_connect_power.html"
 section: "First Steps"
+ma2_section: "key_first_steps"
 section_ref: "[[Sections/First Steps]]"
-prev_page: "[[Pages/First Steps/Position the device]]"
-next_page: "[[Pages/First Steps/Connect desk lamps]]"
+prev_page: "[[Pages/First Steps/Position the Device]]"
+next_page: "[[Pages/First Steps/Connect Desk Lamps]]"
+depth: 2
 tags:
   - "type/page"
   - "section/fs"
@@ -34,6 +36,6 @@ The console is connected to power.
 
 _grandMA2 full-size power connector_
 
-← [[Pages/First Steps/Position the device]] | [[Pages/First Steps/Connect desk lamps]] →
+← [[Pages/First Steps/Position the Device]] | [[Pages/First Steps/Connect Desk Lamps]] →
 
 Part of [[Sections/First Steps]] · [[000 Map of Content]]

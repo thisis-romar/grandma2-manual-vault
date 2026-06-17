@@ -4,8 +4,10 @@ title_str: "Layout View Options"
 slug: "key_layouts_view_options"
 url: "https://help.malighting.com/grandMA2/en/help/key_layouts_view_options.html"
 section: "Layouts"
+ma2_section: "key_layouts"
 section_ref: "[[Sections/Layouts]]"
-prev_page: "[[Pages/Layouts/Edit layout]]"
+prev_page: "[[Pages/Layouts/Edit Layout]]"
+depth: 2
 tags:
   - "type/page"
   - "section/layouts"
@@ -219,6 +221,6 @@ After adjusting the options to your liking tap ![](../../img/icon_close_small_v3
 
 To close the layout view altogether, tap Delete Window.
 
-← [[Pages/Layouts/Edit layout]]
+← [[Pages/Layouts/Edit Layout]]
 
 Part of [[Sections/Layouts]] · [[000 Map of Content]]

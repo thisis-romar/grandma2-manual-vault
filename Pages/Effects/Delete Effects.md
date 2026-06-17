@@ -4,8 +4,10 @@ title_str: "Delete Effects"
 slug: "key_effects_delete"
 url: "https://help.malighting.com/grandMA2/en/help/key_effects_delete.html"
 section: "Effects"
+ma2_section: "key_effects"
 section_ref: "[[Sections/Effects]]"
-prev_page: "[[Pages/Effects/Update effects]]"
+prev_page: "[[Pages/Effects/Update Effects]]"
+depth: 2
 tags:
   - "type/page"
   - "section/effects"
@@ -38,6 +40,6 @@ Delete single, several or all effects. 
 
 \[Channel\]> Delete Effect 1 Thru
 
-← [[Pages/Effects/Update effects]]
+← [[Pages/Effects/Update Effects]]
 
 Part of [[Sections/Effects]] · [[000 Map of Content]]

@@ -4,8 +4,10 @@ title_str: "Login on a station"
 slug: "key_single_multi_systems_login"
 url: "https://help.malighting.com/grandMA2/en/help/key_single_multi_systems_login.html"
 section: "Single and Multi User Systems"
+ma2_section: "key_single_multi_systems"
 section_ref: "[[Sections/Single and Multi User Systems]]"
-prev_page: "[[Pages/Single and Multi User Systems/User settings]]"
+prev_page: "[[Pages/Single and Multi User Systems/User specific settings]]"
+depth: 2
 tags:
   - "type/page"
   - "section/single"
@@ -53,6 +55,6 @@ If you wanted to log in as administrator then you would type:
 
 \[Channel\]> login administrator admin
 
-← [[Pages/Single and Multi User Systems/User settings]]
+← [[Pages/Single and Multi User Systems/User specific settings]]
 
 Part of [[Sections/Single and Multi User Systems]] · [[000 Map of Content]]

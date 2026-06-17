@@ -3,7 +3,7 @@ type: "key"
 key_label: "Preset Key"
 slug: "key_key_preset"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_preset.html"
-related_keyword: "[[Keywords/Preset Key]]"
+related_keyword: "[[Keywords/Preset]]"
 tags:
   - "type/key"
 ---

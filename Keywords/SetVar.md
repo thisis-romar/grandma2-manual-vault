@@ -4,7 +4,6 @@ keyword: "SetVar"
 slug: "key_keyword_setvar"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_setvar.html"
 keyword_type: "unknown"
-related_key: "[[Keys/SetVar]]"
 tags:
   - "type/keyword"
 ---

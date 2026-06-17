@@ -4,7 +4,6 @@ keyword: "Release"
 slug: "key_keyword_release"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_release.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Release]]"
 tags:
   - "type/keyword"
 ---

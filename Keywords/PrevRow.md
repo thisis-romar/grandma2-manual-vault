@@ -4,7 +4,6 @@ keyword: "PrevRow"
 slug: "key_keyword_prevrow"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_prevrow.html"
 keyword_type: "unknown"
-related_key: "[[Keys/PrevRow]]"
 tags:
   - "type/keyword"
 ---

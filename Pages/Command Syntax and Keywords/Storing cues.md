@@ -4,9 +4,11 @@ title_str: "Storing cues"
 slug: "key_cs_store"
 url: "https://help.malighting.com/grandMA2/en/help/key_cs_store.html"
 section: "Command Syntax and Keywords"
-section_ref: "[[Sections/Command Syntax and Keywords]]"
-prev_page: "[[Pages/Command Syntax and Keywords/Looking at the cue sequence]]"
-next_page: "[[Pages/Command Syntax and Keywords/Store options and defaults]]"
+ma2_section: "key_cues_and_sequences"
+section_ref: "[[Sections/Cues and Sequences]]"
+prev_page: "[[Pages/Command Syntax and Keywords/Looking at the Cue Sequence]]"
+next_page: "[[Pages/Command Syntax and Keywords/Store Options and Defaults]]"
+depth: 2
 tags:
   - "type/page"
   - "section/cs"
@@ -242,6 +244,6 @@ The values in the programmer are irrelevant in this case. They are simply an in
 
 For removal of a few values, the Sequence Tracking Sheet or Sequence Content Sheets might be good tools. Read about them in the [Looking at the Cue Content topic](key_cs_cue_content.html).
 
-← [[Pages/Command Syntax and Keywords/Looking at the cue sequence]] | [[Pages/Command Syntax and Keywords/Store options and defaults]] →
+← [[Pages/Command Syntax and Keywords/Looking at the Cue Sequence]] | [[Pages/Command Syntax and Keywords/Store Options and Defaults]] →
 
-Part of [[Sections/Command Syntax and Keywords]] · [[000 Map of Content]]
+Part of [[Sections/Cues and Sequences]] · [[000 Map of Content]]

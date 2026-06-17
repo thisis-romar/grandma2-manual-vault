@@ -4,7 +4,7 @@ keyword: "On"
 slug: "key_keyword_on"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_on.html"
 keyword_type: "unknown"
-related_key: "[[Keys/On]]"
+related_key: "[[Keys/On Key]]"
 tags:
   - "type/keyword"
 ---

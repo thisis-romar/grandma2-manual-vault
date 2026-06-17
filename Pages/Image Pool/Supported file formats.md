@@ -4,9 +4,11 @@ title_str: "Supported file formats"
 slug: "key_image_supported_file_formats"
 url: "https://help.malighting.com/grandMA2/en/help/key_image_supported_file_formats.html"
 section: "Image Pool"
+ma2_section: "key_image"
 section_ref: "[[Sections/Image Pool]]"
-prev_page: "[[Pages/Image Pool/Image limitations & guidelines for symbols]]"
-next_page: "[[Pages/Image Pool/Delete images and videos]]"
+prev_page: "[[Pages/Image Pool/Image Limitations and Guidelines for Symbols]]"
+next_page: "[[Pages/Image Pool/Delete Images and Videos]]"
+depth: 2
 tags:
   - "type/page"
   - "section/image"
@@ -63,6 +65,6 @@ Tagged Image File Format (.tif, .tiff) 
 
 If you are using a file format that is not listed above, convert your file first before importing it into the grandMA2.
 
-← [[Pages/Image Pool/Image limitations & guidelines for symbols]] | [[Pages/Image Pool/Delete images and videos]] →
+← [[Pages/Image Pool/Image Limitations and Guidelines for Symbols]] | [[Pages/Image Pool/Delete Images and Videos]] →
 
 Part of [[Sections/Image Pool]] · [[000 Map of Content]]

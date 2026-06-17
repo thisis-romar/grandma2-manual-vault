@@ -4,7 +4,6 @@ keyword: "ChannelFader keyword"
 slug: "key_keyword_channelfader"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_channelfader.html"
 keyword_type: "unknown"
-related_key: "[[Keys/ChannelFader keyword]]"
 tags:
   - "type/keyword"
 ---

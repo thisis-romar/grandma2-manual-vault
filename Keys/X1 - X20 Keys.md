@@ -3,7 +3,6 @@ type: "key"
 key_label: "X1 - X20 Keys"
 slug: "key_key_xkey"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_xkey.html"
-related_keyword: "[[Keywords/X1 - X20 Keys]]"
 tags:
   - "type/key"
 ---

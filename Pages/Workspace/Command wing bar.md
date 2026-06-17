@@ -4,9 +4,11 @@ title_str: "Command wing bar"
 slug: "key_ws_command_wing_bar"
 url: "https://help.malighting.com/grandMA2/en/help/key_ws_command_wing_bar.html"
 section: "Workspace"
+ma2_section: "key_workspace"
 section_ref: "[[Sections/Workspace]]"
-prev_page: "[[Pages/Workspace/Encoder settings]]"
-next_page: "[[Pages/Workspace/Command section]]"
+prev_page: "[[Pages/Workspace/Encoder Settings]]"
+next_page: "[[Pages/Workspace/Command Section]]"
+depth: 2
 tags:
   - "type/page"
   - "section/ws"
@@ -56,6 +58,6 @@ The command wing bar is visible at the bottom of screen 2, left beside the encod
 
 _Command wing bar grandMA2 onPC_
 
-← [[Pages/Workspace/Encoder settings]] | [[Pages/Workspace/Command section]] →
+← [[Pages/Workspace/Encoder Settings]] | [[Pages/Workspace/Command Section]] →
 
 Part of [[Sections/Workspace]] · [[000 Map of Content]]

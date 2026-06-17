@@ -4,7 +4,6 @@ keyword: "PMArea"
 slug: "key_keyword_pmarea"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_pmarea.html"
 keyword_type: "unknown"
-related_key: "[[Keys/PMArea]]"
 tags:
   - "type/keyword"
 ---

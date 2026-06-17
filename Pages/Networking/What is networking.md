@@ -4,8 +4,10 @@ title_str: "What is networking"
 slug: "key_network_what_is_network"
 url: "https://help.malighting.com/grandMA2/en/help/key_network_what_is_network.html"
 section: "Networking"
+ma2_section: "key_network"
 section_ref: "[[Sections/Networking]]"
 next_page: "[[Pages/Networking/Set the IP address in the console]]"
+depth: 2
 tags:
   - "type/page"
   - "section/network"

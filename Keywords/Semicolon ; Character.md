@@ -4,7 +4,6 @@ keyword: "Semicolon ; Character"
 slug: "key_keyword_semicolon"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_semicolon.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Semicolon ; Character]]"
 tags:
   - "type/keyword"
 ---

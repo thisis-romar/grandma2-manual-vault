@@ -4,8 +4,10 @@ title_str: "Cue path"
 slug: "key_adv_seq_cue_path"
 url: "https://help.malighting.com/grandMA2/en/help/key_adv_seq_cue_path.html"
 section: "Advanced Sequence Functionality"
+ma2_section: "key_adv_seq"
 section_ref: "[[Sections/Advanced Sequence Functionality]]"
 prev_page: "[[Pages/Advanced Sequence Functionality/Looping cues]]"
+depth: 2
 tags:
   - "type/page"
   - "section/adv"

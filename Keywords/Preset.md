@@ -4,7 +4,7 @@ keyword: "Preset"
 slug: "key_keyword_preset"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_preset.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Preset]]"
+related_key: "[[Keys/Preset Key]]"
 tags:
   - "type/keyword"
 ---

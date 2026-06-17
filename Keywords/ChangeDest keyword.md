@@ -4,7 +4,6 @@ keyword: "ChangeDest keyword"
 slug: "key_keyword_changedest"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_changedest.html"
 keyword_type: "unknown"
-related_key: "[[Keys/ChangeDest keyword]]"
 tags:
   - "type/keyword"
 ---

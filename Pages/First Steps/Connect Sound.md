@@ -4,9 +4,11 @@ title_str: "Connect Sound"
 slug: "key_fs_connect_sound"
 url: "https://help.malighting.com/grandMA2/en/help/key_fs_connect_sound.html"
 section: "First Steps"
+ma2_section: "key_first_steps"
 section_ref: "[[Sections/First Steps]]"
 prev_page: "[[Pages/First Steps/Connect DMX]]"
 next_page: "[[Pages/First Steps/Connect SMPTE (LTC)]]"
+depth: 2
 tags:
   - "type/page"
   - "section/fs"

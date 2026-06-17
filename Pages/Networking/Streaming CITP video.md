@@ -4,8 +4,10 @@ title_str: "Streaming CITP video"
 slug: "key_network_citp_stream"
 url: "https://help.malighting.com/grandMA2/en/help/key_network_citp_stream.html"
 section: "Networking"
+ma2_section: "key_network"
 section_ref: "[[Sections/Networking]]"
 next_page: "[[Pages/Networking/Thumbnail exchange]]"
+depth: 3
 tags:
   - "type/page"
   - "section/network"

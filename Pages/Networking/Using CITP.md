@@ -4,9 +4,11 @@ title_str: "Using CITP"
 slug: "key_network_citp"
 url: "https://help.malighting.com/grandMA2/en/help/key_network_citp.html"
 section: "Networking"
+ma2_section: "key_network"
 section_ref: "[[Sections/Networking]]"
 prev_page: "[[Pages/Networking/Getting DMX in and out of the system]]"
 next_page: "[[Pages/Networking/PosiStageNet (PSN)]]"
+depth: 2
 tags:
   - "type/page"
   - "section/network"

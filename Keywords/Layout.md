@@ -4,7 +4,6 @@ keyword: "Layout"
 slug: "key_keyword_layout"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_layout.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Layout]]"
 tags:
   - "type/keyword"
 ---

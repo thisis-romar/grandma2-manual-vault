@@ -4,7 +4,6 @@ keyword: "ViewButton"
 slug: "key_keyword_viewbutton"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_viewbutton.html"
 keyword_type: "unknown"
-related_key: "[[Keys/ViewButton]]"
 tags:
   - "type/keyword"
 ---

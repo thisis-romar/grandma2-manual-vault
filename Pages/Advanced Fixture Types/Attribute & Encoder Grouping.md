@@ -4,8 +4,10 @@ title_str: "Attribute & Encoder Grouping"
 slug: "key_adv_fixture_attribute_encoder_grouping"
 url: "https://help.malighting.com/grandMA2/en/help/key_adv_fixture_attribute_encoder_grouping.html"
 section: "Advanced Fixture Types"
+ma2_section: "key_advanced_fixture_types"
 section_ref: "[[Sections/Advanced Fixture Types]]"
-prev_page: "[[Pages/Advanced Fixture Types/Anatomy of a fixture type]]"
+prev_page: "[[Pages/Advanced Fixture Types/Anatomy of a Fixture Type]]"
+depth: 2
 tags:
   - "type/page"
   - "section/adv"
@@ -103,6 +105,6 @@ The **MixColor** (COLORRGB) attributes have a color defined as the color of the 
 
 Every attribute needs at least one subattribute. Some have more than one. For instance a gobo wheel might have a selection subattribute and a rotation subattribute.
 
-← [[Pages/Advanced Fixture Types/Anatomy of a fixture type]]
+← [[Pages/Advanced Fixture Types/Anatomy of a Fixture Type]]
 
 Part of [[Sections/Advanced Fixture Types]] · [[000 Map of Content]]

@@ -4,9 +4,11 @@ title_str: "grandMA2 replay unit (RPU)"
 slug: "key_device_overview_grandma2_replay_unit_rpu"
 url: "https://help.malighting.com/grandMA2/en/help/key_device_overview_grandma2_replay_unit_rpu.html"
 section: "Device Overview"
+ma2_section: "key_device_overview"
 section_ref: "[[Sections/Device Overview]]"
 prev_page: "[[Pages/Device Overview/grandMA2 console]]"
 next_page: "[[Pages/Device Overview/grandMA2 fader wing]]"
+depth: 2
 tags:
   - "type/page"
   - "section/device"

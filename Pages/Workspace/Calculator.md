@@ -4,9 +4,11 @@ title_str: "Calculator"
 slug: "key_ws_calculator"
 url: "https://help.malighting.com/grandMA2/en/help/key_ws_calculator.html"
 section: "Workspace"
+ma2_section: "key_workspace"
 section_ref: "[[Sections/Workspace]]"
 prev_page: "[[Pages/Workspace/Touch gestures]]"
 next_page: "[[Pages/Workspace/Info]]"
+depth: 2
 tags:
   - "type/page"
   - "section/ws"

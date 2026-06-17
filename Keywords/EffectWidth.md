@@ -4,7 +4,6 @@ keyword: "EffectWidth"
 slug: "key_keyword_effectwidth"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_effectwidth.html"
 keyword_type: "unknown"
-related_key: "[[Keys/EffectWidth]]"
 tags:
   - "type/keyword"
 ---

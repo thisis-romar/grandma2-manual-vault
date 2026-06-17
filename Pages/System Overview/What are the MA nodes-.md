@@ -4,8 +4,10 @@ title_str: "What are the MA nodes?"
 slug: "key_so_what_are_the_ma_nodes"
 url: "https://help.malighting.com/grandMA2/en/help/key_so_what_are_the_ma_nodes.html"
 section: "System Overview"
+ma2_section: "key_so_system_overview"
 section_ref: "[[Sections/System Overview]]"
-prev_page: "[[Pages/System Overview/What is MA 3D]]"
+prev_page: "[[Pages/System Overview/What is MA 3D-]]"
+depth: 3
 tags:
   - "type/page"
   - "section/so"
@@ -40,6 +42,6 @@ The older NSPs and nodes from grandMA1 only have a 100Mbit/s network card. The n
 
 There is no guarantee that the grandMA1 devices will continue to work with MA-Net2 in the future. They will however always be able to run Art-Net and sACN.
 
-← [[Pages/System Overview/What is MA 3D]]
+← [[Pages/System Overview/What is MA 3D-]]
 
 Part of [[Sections/System Overview]] · [[000 Map of Content]]

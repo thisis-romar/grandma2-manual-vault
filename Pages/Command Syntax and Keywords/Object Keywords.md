@@ -4,9 +4,11 @@ title_str: "Object Keywords"
 slug: "key_cs_object_keywords"
 url: "https://help.malighting.com/grandMA2/en/help/key_cs_object_keywords.html"
 section: "Command Syntax and Keywords"
+ma2_section: "key_command_syntax_and_keywords"
 section_ref: "[[Sections/Command Syntax and Keywords]]"
-prev_page: "[[Pages/Command Syntax and Keywords/Helping keywords]]"
-next_page: "[[Pages/Command Syntax and Keywords/Function keywords]]"
+prev_page: "[[Pages/Command Syntax and Keywords/Helping Keywords]]"
+next_page: "[[Pages/Command Syntax and Keywords/Function Keywords]]"
+depth: 3
 tags:
   - "type/page"
   - "section/cs"
@@ -90,6 +92,6 @@ Object keywords are object types which are usually **used with numbers, IDs, nam
 *   [World keyword](key_keyword_world.html)
 *   [Zero keyword](key_keyword_zero.html)
 
-← [[Pages/Command Syntax and Keywords/Helping keywords]] | [[Pages/Command Syntax and Keywords/Function keywords]] →
+← [[Pages/Command Syntax and Keywords/Helping Keywords]] | [[Pages/Command Syntax and Keywords/Function Keywords]] →
 
 Part of [[Sections/Command Syntax and Keywords]] · [[000 Map of Content]]

@@ -8,11 +8,11 @@ tags:
   - "type/section"
 pages:
   - "[[Pages/Groups/Create groups]]"
-  - "[[Pages/Groups/Auto create groups]]"
+  - "[[Pages/Groups/Auto Create groups]]"
   - "[[Pages/Groups/Using groups when programming]]"
   - "[[Pages/Groups/Choose copy method]]"
-  - "[[Pages/Groups/Change specific group colors]]"
-  - "[[Pages/Groups/Group masters]]"
+  - "[[Pages/Groups/Change colors in group options for all in order and all out of order]]"
+  - "[[Pages/Groups/Group Master on Executors]]"
 ---
 
 # Groups
@@ -91,10 +91,10 @@ How to [Delete, Copy and Move Groups](key_groups_choose_copy_method.html).
 ## Pages in This Section
 
 - [[Pages/Groups/Create groups]]
-- [[Pages/Groups/Auto create groups]]
+- [[Pages/Groups/Auto Create groups]]
 - [[Pages/Groups/Using groups when programming]]
 - [[Pages/Groups/Choose copy method]]
-- [[Pages/Groups/Change specific group colors]]
-- [[Pages/Groups/Group masters]]
+- [[Pages/Groups/Change colors in group options for all in order and all out of order]]
+- [[Pages/Groups/Group Master on Executors]]
 
 Part of [[000 Map of Content]]

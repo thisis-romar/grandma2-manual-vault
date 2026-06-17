@@ -4,7 +4,6 @@ keyword: "Logout"
 slug: "key_keyword_logout"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_logout.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Logout]]"
 tags:
   - "type/keyword"
 ---

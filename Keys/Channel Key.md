@@ -3,7 +3,7 @@ type: "key"
 key_label: "Channel Key"
 slug: "key_key_channel"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_channel.html"
-related_keyword: "[[Keywords/Channel Key]]"
+related_keyword: "[[Keywords/Channel keyword]]"
 tags:
   - "type/key"
 ---

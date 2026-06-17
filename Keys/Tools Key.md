@@ -3,7 +3,7 @@ type: "key"
 key_label: "Tools Key"
 slug: "key_key_tools"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_tools.html"
-related_keyword: "[[Keywords/Tools Key]]"
+related_keyword: "[[Keywords/Tools]]"
 tags:
   - "type/key"
 ---

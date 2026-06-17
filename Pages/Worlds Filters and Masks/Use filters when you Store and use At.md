@@ -4,9 +4,11 @@ title_str: "Use filters when you Store and use At"
 slug: "key_wfm_use_filter"
 url: "https://help.malighting.com/grandMA2/en/help/key_wfm_use_filter.html"
 section: "Worlds Filters and Masks"
+ma2_section: "key_wfm_world_filter_mask"
 section_ref: "[[Sections/Worlds Filters and Masks]]"
 prev_page: "[[Pages/Worlds Filters and Masks/Create filters]]"
 next_page: "[[Pages/Worlds Filters and Masks/Use temporary filters]]"
+depth: 2
 tags:
   - "type/page"
   - "section/wfm"

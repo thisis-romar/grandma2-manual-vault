@@ -4,7 +4,6 @@ keyword: "Messages"
 slug: "key_keyword_messages"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_messages.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Messages]]"
 tags:
   - "type/keyword"
 ---

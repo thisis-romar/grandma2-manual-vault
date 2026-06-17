@@ -4,8 +4,10 @@ title_str: "Clone In User Interface"
 slug: "key_clone_clone_in_user_interface"
 url: "https://help.malighting.com/grandMA2/en/help/key_clone_clone_in_user_interface.html"
 section: "Clone"
+ma2_section: "key_clone"
 section_ref: "[[Sections/Clone]]"
 next_page: "[[Pages/Clone/Examples]]"
+depth: 2
 tags:
   - "type/page"
   - "section/clone"

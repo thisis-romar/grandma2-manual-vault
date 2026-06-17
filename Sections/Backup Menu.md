@@ -7,16 +7,16 @@ page_count: 10
 tags:
   - "type/section"
 pages:
-  - "[[Pages/Backup Menu/New show]]"
-  - "[[Pages/Backup Menu/Load show]]"
-  - "[[Pages/Backup Menu/Save show]]"
-  - "[[Pages/Backup Menu/Save show as...]]"
-  - "[[Pages/Backup Menu/Delete shows]]"
+  - "[[Pages/Backup Menu/Create a new show]]"
+  - "[[Pages/Backup Menu/Loading a show]]"
+  - "[[Pages/Backup Menu/Saving a show]]"
+  - "[[Pages/Backup Menu/Saving a show with a new name]]"
+  - "[[Pages/Backup Menu/Deleting a Show]]"
   - "[[Pages/Backup Menu/Using a USB stick]]"
   - "[[Pages/Backup Menu/Setting up a file server]]"
-  - "[[Pages/Backup Menu/Partial show read]]"
-  - "[[Pages/Backup Menu/ASCII show read]]"
-  - "[[Pages/Backup Menu/grandMA2 to grandMA3 show file converter]]"
+  - "[[Pages/Backup Menu/Partial Show Read]]"
+  - "[[Pages/Backup Menu/ASCII Show Read]]"
+  - "[[Pages/Backup Menu/grandMA2 to grandMA3 Show File Converter]]"
 ---
 
 # Using the Backup Menu
@@ -159,15 +159,15 @@ Read the following pages to read about the different operations that can be done
 
 ## Pages in This Section
 
-- [[Pages/Backup Menu/New show]]
-- [[Pages/Backup Menu/Load show]]
-- [[Pages/Backup Menu/Save show]]
-- [[Pages/Backup Menu/Save show as...]]
-- [[Pages/Backup Menu/Delete shows]]
+- [[Pages/Backup Menu/Create a new show]]
+- [[Pages/Backup Menu/Loading a show]]
+- [[Pages/Backup Menu/Saving a show]]
+- [[Pages/Backup Menu/Saving a show with a new name]]
+- [[Pages/Backup Menu/Deleting a Show]]
 - [[Pages/Backup Menu/Using a USB stick]]
 - [[Pages/Backup Menu/Setting up a file server]]
-- [[Pages/Backup Menu/Partial show read]]
-- [[Pages/Backup Menu/ASCII show read]]
-- [[Pages/Backup Menu/grandMA2 to grandMA3 show file converter]]
+- [[Pages/Backup Menu/Partial Show Read]]
+- [[Pages/Backup Menu/ASCII Show Read]]
+- [[Pages/Backup Menu/grandMA2 to grandMA3 Show File Converter]]
 
 Part of [[000 Map of Content]]

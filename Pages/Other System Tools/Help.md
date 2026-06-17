@@ -4,9 +4,11 @@ title_str: "Help"
 slug: "key_ost_help_viewer"
 url: "https://help.malighting.com/grandMA2/en/help/key_ost_help_viewer.html"
 section: "Other System Tools"
+ma2_section: "key_ost"
 section_ref: "[[Sections/Other System Tools]]"
 prev_page: "[[Pages/Other System Tools/Message center]]"
 next_page: "[[Pages/Other System Tools/Clock]]"
+depth: 2
 tags:
   - "type/page"
   - "section/ost"

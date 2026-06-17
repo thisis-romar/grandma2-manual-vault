@@ -3,7 +3,7 @@ type: "key"
 key_label: "View Key"
 slug: "key_key_view"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_view.html"
-related_keyword: "[[Keywords/View Key]]"
+related_keyword: "[[Keywords/View]]"
 tags:
   - "type/key"
 ---

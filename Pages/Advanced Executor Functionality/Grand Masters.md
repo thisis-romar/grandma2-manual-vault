@@ -4,9 +4,11 @@ title_str: "Grand Masters"
 slug: "key_adv_exec_spec_master_grand"
 url: "https://help.malighting.com/grandMA2/en/help/key_adv_exec_spec_master_grand.html"
 section: "Advanced Executor Functionality"
+ma2_section: "key_adv_exec"
 section_ref: "[[Sections/Advanced Executor Functionality]]"
-prev_page: "[[Pages/Advanced Executor Functionality/Default masters]]"
-next_page: "[[Pages/Advanced Executor Functionality/Speed masters]]"
+prev_page: "[[Pages/Advanced Executor Functionality/Default Masters]]"
+next_page: "[[Pages/Advanced Executor Functionality/Speed Masters]]"
+depth: 3
 tags:
   - "type/page"
   - "section/adv"
@@ -40,6 +42,6 @@ The **Grand** is the Grand Master. This has a dedicated physical fader, but can 
 
 The **Snd In or Sound In** is the master for the incoming sound. Read more about this and the **Snd Fade** in the [Sound Input topic](key_ost_sound_input_window.html).
 
-← [[Pages/Advanced Executor Functionality/Default masters]] | [[Pages/Advanced Executor Functionality/Speed masters]] →
+← [[Pages/Advanced Executor Functionality/Default Masters]] | [[Pages/Advanced Executor Functionality/Speed Masters]] →
 
 Part of [[Sections/Advanced Executor Functionality]] · [[000 Map of Content]]

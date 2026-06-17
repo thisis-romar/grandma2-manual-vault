@@ -4,7 +4,6 @@ keyword: "Move3D"
 slug: "key_keyword_move3d"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_move3d.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Move3D]]"
 tags:
   - "type/keyword"
 ---

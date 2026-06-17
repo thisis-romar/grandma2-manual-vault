@@ -4,7 +4,7 @@ keyword: "Blackout keyword"
 slug: "key_keyword_blackout"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_blackout.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Blackout keyword]]"
+related_key: "[[Keys/B.O. (Blackout) Key]]"
 tags:
   - "type/keyword"
 ---

@@ -4,7 +4,7 @@ keyword: "List"
 slug: "key_keyword_list"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_list.html"
 keyword_type: "unknown"
-related_key: "[[Keys/List]]"
+related_key: "[[Keys/List Key]]"
 tags:
   - "type/keyword"
 ---

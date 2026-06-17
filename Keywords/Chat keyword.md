@@ -4,7 +4,6 @@ keyword: "Chat keyword"
 slug: "key_keyword_chat"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_chat.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Chat keyword]]"
 tags:
   - "type/keyword"
 ---

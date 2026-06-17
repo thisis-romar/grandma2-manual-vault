@@ -4,7 +4,6 @@ keyword: "RdmAutomatch"
 slug: "key_keyword_rdmautomatch"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_rdmautomatch.html"
 keyword_type: "unknown"
-related_key: "[[Keys/RdmAutomatch]]"
 tags:
   - "type/keyword"
 ---

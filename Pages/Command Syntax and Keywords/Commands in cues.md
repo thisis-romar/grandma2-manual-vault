@@ -4,8 +4,10 @@ title_str: "Commands in cues"
 slug: "key_cs_cmd_in_cues"
 url: "https://help.malighting.com/grandMA2/en/help/key_cs_cmd_in_cues.html"
 section: "Command Syntax and Keywords"
-section_ref: "[[Sections/Command Syntax and Keywords]]"
+ma2_section: "key_cues_and_sequences"
+section_ref: "[[Sections/Cues and Sequences]]"
 prev_page: "[[Pages/Command Syntax and Keywords/Sequence mini executor]]"
+depth: 2
 tags:
   - "type/page"
   - "section/cs"
@@ -34,4 +36,4 @@ A useful keyword to know, if you need to trigger a command on a specific station
 
 ← [[Pages/Command Syntax and Keywords/Sequence mini executor]]
 
-Part of [[Sections/Command Syntax and Keywords]] · [[000 Map of Content]]
+Part of [[Sections/Cues and Sequences]] · [[000 Map of Content]]

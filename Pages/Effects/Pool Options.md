@@ -4,9 +4,11 @@ title_str: "Pool Options"
 slug: "key_effects_pool_options"
 url: "https://help.malighting.com/grandMA2/en/help/key_effects_pool_options.html"
 section: "Effects"
+ma2_section: "key_effects"
 section_ref: "[[Sections/Effects]]"
-prev_page: "[[Pages/Effects/Create effect forms]]"
-next_page: "[[Pages/Effects/Effects in a cue]]"
+prev_page: "[[Pages/Effects/Create Effect Forms]]"
+next_page: "[[Pages/Effects/Effects in a Cue]]"
+depth: 2
 tags:
   - "type/page"
   - "section/effects"
@@ -43,6 +45,6 @@ Additionally to the general settings, the effect pool has also the setting of di
 
 For more information see [Pools in General – Call modes](key_pools_call_modes.html).
 
-← [[Pages/Effects/Create effect forms]] | [[Pages/Effects/Effects in a cue]] →
+← [[Pages/Effects/Create Effect Forms]] | [[Pages/Effects/Effects in a Cue]] →
 
 Part of [[Sections/Effects]] · [[000 Map of Content]]

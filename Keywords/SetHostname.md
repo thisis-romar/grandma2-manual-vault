@@ -4,7 +4,6 @@ keyword: "SetHostname"
 slug: "key_keyword_sethostname"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_sethostname.html"
 keyword_type: "unknown"
-related_key: "[[Keys/SetHostname]]"
 tags:
   - "type/keyword"
 ---

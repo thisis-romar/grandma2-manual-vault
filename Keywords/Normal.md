@@ -4,7 +4,6 @@ keyword: "Normal"
 slug: "key_keyword_normal"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_normal.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Normal]]"
 tags:
   - "type/keyword"
 ---

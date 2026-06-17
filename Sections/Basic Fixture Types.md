@@ -7,9 +7,9 @@ page_count: 3
 tags:
   - "type/section"
 pages:
-  - "[[Pages/Basic Fixture Types/What are attributes, features & preset types]]"
+  - "[[Pages/Basic Fixture Types/What are Attributes, Features & Preset Types]]"
   - "[[Pages/Basic Fixture Types/ColorMix vs. MixColor]]"
-  - "[[Pages/Basic Fixture Types/Different fixture types]]"
+  - "[[Pages/Basic Fixture Types/Different Fixture Types]]"
 ---
 
 # Basic Fixture Types
@@ -45,8 +45,8 @@ The MA Fixture Builder software can be downloaded from the MA dot2 site - MA dot
 
 ## Pages in This Section
 
-- [[Pages/Basic Fixture Types/What are attributes, features & preset types]]
+- [[Pages/Basic Fixture Types/What are Attributes, Features & Preset Types]]
 - [[Pages/Basic Fixture Types/ColorMix vs. MixColor]]
-- [[Pages/Basic Fixture Types/Different fixture types]]
+- [[Pages/Basic Fixture Types/Different Fixture Types]]
 
 Part of [[000 Map of Content]]

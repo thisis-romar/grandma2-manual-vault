@@ -4,9 +4,11 @@ title_str: "What is the Network Dimmer Processor (NDP)?"
 slug: "key_so_what_is_the_network_dimmer_processor_ndp"
 url: "https://help.malighting.com/grandMA2/en/help/key_so_what_is_the_network_dimmer_processor_ndp.html"
 section: "System Overview"
+ma2_section: "key_so_system_overview"
 section_ref: "[[Sections/System Overview]]"
-prev_page: "[[Pages/System Overview/What is the MA video processing unit (VPU)]]"
-next_page: "[[Pages/System Overview/What is MA 3D]]"
+prev_page: "[[Pages/System Overview/What is the MA Video Processing Unit (VPU)-]]"
+next_page: "[[Pages/System Overview/What is MA 3D-]]"
+depth: 3
 tags:
   - "type/page"
   - "section/so"
@@ -31,6 +33,6 @@ It can receive Art-Net and sACN data as well.
 
 It is a device from the grandMA1 system and it has a 100Mbit/s network adaptor.
 
-← [[Pages/System Overview/What is the MA video processing unit (VPU)]] | [[Pages/System Overview/What is MA 3D]] →
+← [[Pages/System Overview/What is the MA Video Processing Unit (VPU)-]] | [[Pages/System Overview/What is MA 3D-]] →
 
 Part of [[Sections/System Overview]] · [[000 Map of Content]]

@@ -4,7 +4,6 @@ keyword: "SelFix"
 slug: "key_keyword_selfix"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_selfix.html"
 keyword_type: "unknown"
-related_key: "[[Keys/SelFix]]"
 tags:
   - "type/keyword"
 ---

@@ -4,9 +4,10 @@ title_str: "Keyboard Keys"
 slug: "key_keyboard_keys"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyboard_keys.html"
 section: "Keys and Buttons"
+ma2_section: "key_keys_and_buttons_on_the_console"
 section_ref: "[[Sections/Keys and Buttons]]"
-prev_page: "[[Pages/Keys and Buttons/If]]"
-next_page: "[[Pages/Keys and Buttons/Learn]]"
+prev_page: "[[Pages/Keys and Buttons/Key Overview]]"
+depth: 2
 tags:
   - "type/page"
   - "section/keyboard"
@@ -59,6 +60,6 @@ Shift + left mouse button
 
 Selects range of cells in sheets.
 
-← [[Pages/Keys and Buttons/If]] | [[Pages/Keys and Buttons/Learn]] →
+← [[Pages/Keys and Buttons/Key Overview]]
 
 Part of [[Sections/Keys and Buttons]] · [[000 Map of Content]]

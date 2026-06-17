@@ -4,9 +4,11 @@ title_str: "Cue timings"
 slug: "key_cs_cue_timings"
 url: "https://help.malighting.com/grandMA2/en/help/key_cs_cue_timings.html"
 section: "Command Syntax and Keywords"
-section_ref: "[[Sections/Command Syntax and Keywords]]"
-prev_page: "[[Pages/Command Syntax and Keywords/Store options and defaults]]"
+ma2_section: "key_cues_and_sequences"
+section_ref: "[[Sections/Cues and Sequences]]"
+prev_page: "[[Pages/Command Syntax and Keywords/Store Options and Defaults]]"
 next_page: "[[Pages/Command Syntax and Keywords/Renumber cues]]"
+depth: 2
 tags:
   - "type/page"
   - "section/cs"
@@ -157,6 +159,6 @@ If the Snap Percent is set to 100% then the Snap will be performed when all fade
 
 The Snap Percent can be set to anything between 0% and 100%, allowing you to choose when the Snap is performed.
 
-← [[Pages/Command Syntax and Keywords/Store options and defaults]] | [[Pages/Command Syntax and Keywords/Renumber cues]] →
+← [[Pages/Command Syntax and Keywords/Store Options and Defaults]] | [[Pages/Command Syntax and Keywords/Renumber cues]] →
 
-Part of [[Sections/Command Syntax and Keywords]] · [[000 Map of Content]]
+Part of [[Sections/Cues and Sequences]] · [[000 Map of Content]]

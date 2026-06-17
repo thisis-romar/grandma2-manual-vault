@@ -4,9 +4,11 @@ title_str: "Stage View"
 slug: "key_patch_stage"
 url: "https://help.malighting.com/grandMA2/en/help/key_patch_stage.html"
 section: "Patching"
+ma2_section: "key_patch"
 section_ref: "[[Sections/Patching]]"
-prev_page: "[[Pages/Patching/Universe pool]]"
-next_page: "[[Pages/Patching/Virtual 3D cameras]]"
+prev_page: "[[Pages/Patching/Universe Pool]]"
+next_page: "[[Pages/Patching/Virtual 3D Cameras]]"
+depth: 2
 tags:
   - "type/page"
   - "section/patch"
@@ -116,6 +118,6 @@ In the options (see above) or by pressing the Edit key and then the Follow butto
 
 The Follow function overwrite all other Mouse Modes.
 
-← [[Pages/Patching/Universe pool]] | [[Pages/Patching/Virtual 3D cameras]] →
+← [[Pages/Patching/Universe Pool]] | [[Pages/Patching/Virtual 3D Cameras]] →
 
 Part of [[Sections/Patching]] · [[000 Map of Content]]

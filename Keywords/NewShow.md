@@ -4,7 +4,6 @@ keyword: "NewShow"
 slug: "key_keyword_newshow"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_newshow.html"
 keyword_type: "unknown"
-related_key: "[[Keys/NewShow]]"
 tags:
   - "type/keyword"
 ---

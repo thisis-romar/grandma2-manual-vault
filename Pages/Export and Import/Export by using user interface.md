@@ -4,9 +4,11 @@ title_str: "Export by using user interface"
 slug: "key_ei_export_gui"
 url: "https://help.malighting.com/grandMA2/en/help/key_ei_export_gui.html"
 section: "Export and Import"
+ma2_section: "key_export_and_import"
 section_ref: "[[Sections/Export and Import]]"
 prev_page: "[[Pages/Export and Import/Export by using command line]]"
 next_page: "[[Pages/Export and Import/Import by using command line]]"
+depth: 2
 tags:
   - "type/page"
   - "section/ei"

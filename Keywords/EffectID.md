@@ -4,7 +4,6 @@ keyword: "EffectID"
 slug: "key_keyword_effectid"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_effectid.html"
 keyword_type: "unknown"
-related_key: "[[Keys/EffectID]]"
 tags:
   - "type/keyword"
 ---

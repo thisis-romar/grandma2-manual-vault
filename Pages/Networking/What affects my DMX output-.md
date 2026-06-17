@@ -4,8 +4,10 @@ title_str: "What affects my DMX output?"
 slug: "key_networking_dmx_output"
 url: "https://help.malighting.com/grandMA2/en/help/key_networking_dmx_output.html"
 section: "Networking"
+ma2_section: "key_network"
 section_ref: "[[Sections/Networking]]"
 prev_page: "[[Pages/Networking/Network DMX protocols]]"
+depth: 3
 tags:
   - "type/page"
   - "section/networking"

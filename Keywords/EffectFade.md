@@ -4,7 +4,6 @@ keyword: "EffectFade"
 slug: "key_keyword_effectfade"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_effectfade.html"
 keyword_type: "unknown"
-related_key: "[[Keys/EffectFade]]"
 tags:
   - "type/keyword"
 ---

@@ -4,9 +4,11 @@ title_str: "Sheet options"
 slug: "key_of_sheet_options"
 url: "https://help.malighting.com/grandMA2/en/help/key_of_sheet_options.html"
 section: "Operate Fixtures"
+ma2_section: "key_operate_fixtures"
 section_ref: "[[Sections/Operate Fixtures]]"
-prev_page: "[[Pages/Operate Fixtures/Fixture sheet]]"
-next_page: "[[Pages/Operate Fixtures/Layers in sheets]]"
+prev_page: "[[Pages/Operate Fixtures/Fixture Sheet]]"
+next_page: "[[Pages/Operate Fixtures/Layer in Sheets]]"
+depth: 2
 tags:
   - "type/page"
   - "section/of"
@@ -71,6 +73,6 @@ Please read the following subtopics to learn more about the different options.
 *   [Assign executor](key_of_sheet_options_assign_executor.html)
 *   [Mask (local)](key_of_sheet_options_mask_local.html)
 
-← [[Pages/Operate Fixtures/Fixture sheet]] | [[Pages/Operate Fixtures/Layers in sheets]] →
+← [[Pages/Operate Fixtures/Fixture Sheet]] | [[Pages/Operate Fixtures/Layer in Sheets]] →
 
 Part of [[Sections/Operate Fixtures]] · [[000 Map of Content]]

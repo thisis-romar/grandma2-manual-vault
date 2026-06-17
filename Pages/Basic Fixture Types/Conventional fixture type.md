@@ -4,8 +4,10 @@ title_str: "Conventional fixture type"
 slug: "key_basic_fixture_type_conv"
 url: "https://help.malighting.com/grandMA2/en/help/key_basic_fixture_type_conv.html"
 section: "Basic Fixture Types"
+ma2_section: "key_basic_fixture"
 section_ref: "[[Sections/Basic Fixture Types]]"
 next_page: "[[Pages/Basic Fixture Types/LED]]"
+depth: 3
 tags:
   - "type/page"
   - "section/basic"

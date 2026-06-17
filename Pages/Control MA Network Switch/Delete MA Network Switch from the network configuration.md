@@ -4,8 +4,10 @@ title_str: "Delete MA Network Switch from the network configuration"
 slug: "key_control_ma_switch_delete"
 url: "https://help.malighting.com/grandMA2/en/help/key_control_ma_switch_delete.html"
 section: "Control MA Network Switch"
+ma2_section: "key_control_ma_switch"
 section_ref: "[[Sections/Control MA Network Switch]]"
-prev_page: "[[Pages/Control MA Network Switch/Reset to factory defaults]]"
+prev_page: "[[Pages/Control MA Network Switch/Reset the MA Network Switch to its factory defaults]]"
+depth: 2
 tags:
   - "type/page"
   - "section/control"
@@ -35,6 +37,6 @@ Use these steps to delete the MA Network Switch from the network configuration.
 
 The MA Network Switch is deleted from the network configuration.
 
-← [[Pages/Control MA Network Switch/Reset to factory defaults]]
+← [[Pages/Control MA Network Switch/Reset the MA Network Switch to its factory defaults]]
 
 Part of [[Sections/Control MA Network Switch]] · [[000 Map of Content]]

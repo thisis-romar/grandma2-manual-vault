@@ -3,7 +3,7 @@ type: "key"
 key_label: "Select Key"
 slug: "key_key_select"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_select.html"
-related_keyword: "[[Keywords/Select Key]]"
+related_keyword: "[[Keywords/Select]]"
 tags:
   - "type/key"
 ---

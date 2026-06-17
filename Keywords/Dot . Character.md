@@ -4,7 +4,7 @@ keyword: "Dot . Character"
 slug: "key_keyword_dot"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_dot.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Dot . Character]]"
+related_key: "[[Keys/. Key]]"
 tags:
   - "type/keyword"
 ---

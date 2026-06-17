@@ -4,7 +4,6 @@ keyword: "ListOwner"
 slug: "key_keyword_listowner"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_listowner.html"
 keyword_type: "unknown"
-related_key: "[[Keys/ListOwner]]"
 tags:
   - "type/keyword"
 ---

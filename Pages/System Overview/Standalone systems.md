@@ -4,8 +4,10 @@ title_str: "Standalone systems"
 slug: "key_so_standalone_systems"
 url: "https://help.malighting.com/grandMA2/en/help/key_so_standalone_systems.html"
 section: "System Overview"
+ma2_section: "key_so_system_overview"
 section_ref: "[[Sections/System Overview]]"
 next_page: "[[Pages/System Overview/Network systems]]"
+depth: 2
 tags:
   - "type/page"
   - "section/so"

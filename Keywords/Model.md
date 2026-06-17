@@ -4,7 +4,6 @@ keyword: "Model"
 slug: "key_keyword_model"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_model.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Model]]"
 tags:
   - "type/keyword"
 ---

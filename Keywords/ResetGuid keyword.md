@@ -4,7 +4,6 @@ keyword: "ResetGuid keyword"
 slug: "key_keyword_resetguid"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_resetguid.html"
 keyword_type: "unknown"
-related_key: "[[Keys/ResetGuid keyword]]"
 tags:
   - "type/keyword"
 ---

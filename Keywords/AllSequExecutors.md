@@ -4,7 +4,6 @@ keyword: "AllSequExecutors"
 slug: "key_keyword_allsequexecutors"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_allsequexecutors.html"
 keyword_type: "unknown"
-related_key: "[[Keys/AllSequExecutors]]"
 tags:
   - "type/keyword"
 ---

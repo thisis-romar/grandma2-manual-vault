@@ -4,8 +4,10 @@ title_str: "Clone Presets"
 slug: "key_clone_clone_presets"
 url: "https://help.malighting.com/grandMA2/en/help/key_clone_clone_presets.html"
 section: "Clone"
+ma2_section: "key_clone"
 section_ref: "[[Sections/Clone]]"
 prev_page: "[[Pages/Clone/Examples]]"
+depth: 2
 tags:
   - "type/page"
   - "section/clone"

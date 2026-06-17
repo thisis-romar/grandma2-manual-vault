@@ -4,7 +4,6 @@ keyword: "Image keyword"
 slug: "key_keyword_image"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_image.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Image keyword]]"
 tags:
   - "type/keyword"
 ---

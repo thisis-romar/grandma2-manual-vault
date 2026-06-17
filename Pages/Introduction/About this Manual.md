@@ -4,8 +4,10 @@ title_str: "About this Manual"
 slug: "key_introduction_about_this_manual"
 url: "https://help.malighting.com/grandMA2/en/help/key_introduction_about_this_manual.html"
 section: "Introduction"
+ma2_section: "key_introduction"
 section_ref: "[[Sections/Introduction]]"
-next_page: "[[Pages/Introduction/System requirements grandMA2 onPC]]"
+next_page: "[[Pages/Introduction/System Requirements grandMA2 onPC]]"
+depth: 2
 tags:
   - "type/page"
   - "section/introduction"
@@ -69,6 +71,6 @@ Command line entry is displayed with the help of the command line.
 
 Command line response is displayed in the command line feedback.
 
-[[Pages/Introduction/System requirements grandMA2 onPC]] →
+[[Pages/Introduction/System Requirements grandMA2 onPC]] →
 
 Part of [[Sections/Introduction]] · [[000 Map of Content]]

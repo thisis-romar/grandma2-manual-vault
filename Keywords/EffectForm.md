@@ -4,7 +4,6 @@ keyword: "EffectForm"
 slug: "key_keyword_effectform"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_effectform.html"
 keyword_type: "unknown"
-related_key: "[[Keys/EffectForm]]"
 tags:
   - "type/keyword"
 ---

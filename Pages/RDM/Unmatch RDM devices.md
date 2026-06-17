@@ -4,9 +4,11 @@ title_str: "Unmatch RDM devices"
 slug: "key_rdm_unmatch"
 url: "https://help.malighting.com/grandMA2/en/help/key_rdm_unmatch.html"
 section: "RDM"
+ma2_section: "key_rdm"
 section_ref: "[[Sections/RDM]]"
 prev_page: "[[Pages/RDM/Use the RDM sheet]]"
-next_page: "[[Pages/RDM/Splitters and mergers that support RDM]]"
+next_page: "[[Pages/RDM/Splitters and Mergers that Support RDM]]"
+depth: 2
 tags:
   - "type/page"
   - "section/rdm"
@@ -41,6 +43,6 @@ _Unmatched RDM device_
 **Hint:**  
 You can also unmatch RDM devices by using the [keyword RdmUnmatch](key_keyword_rdmunmatch.html).
 
-← [[Pages/RDM/Use the RDM sheet]] | [[Pages/RDM/Splitters and mergers that support RDM]] →
+← [[Pages/RDM/Use the RDM sheet]] | [[Pages/RDM/Splitters and Mergers that Support RDM]] →
 
 Part of [[Sections/RDM]] · [[000 Map of Content]]

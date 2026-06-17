@@ -7,11 +7,11 @@ page_count: 5
 tags:
   - "type/section"
 pages:
-  - "[[Pages/Remote Control/Remote input]]"
-  - "[[Pages/Remote Control/MIDI show control (MSC)]]"
-  - "[[Pages/Remote Control/Web remote]]"
-  - "[[Pages/Remote Control/Telnet remote]]"
-  - "[[Pages/Remote Control/Decimal – hex table]]"
+  - "[[Pages/Remote Control/Remote Inputs]]"
+  - "[[Pages/Remote Control/MIDI Show Control (MSC)]]"
+  - "[[Pages/Remote Control/Web Remote]]"
+  - "[[Pages/Remote Control/Telnet Remote]]"
+  - "[[Pages/Remote Control/Decimal – Hex Table]]"
 ---
 
 # Remote Controlling the System
@@ -51,10 +51,10 @@ Finally this section also has a very useful [Decimal, Hex, ASCII conversion tabl
 
 ## Pages in This Section
 
-- [[Pages/Remote Control/Remote input]]
-- [[Pages/Remote Control/MIDI show control (MSC)]]
-- [[Pages/Remote Control/Web remote]]
-- [[Pages/Remote Control/Telnet remote]]
-- [[Pages/Remote Control/Decimal – hex table]]
+- [[Pages/Remote Control/Remote Inputs]]
+- [[Pages/Remote Control/MIDI Show Control (MSC)]]
+- [[Pages/Remote Control/Web Remote]]
+- [[Pages/Remote Control/Telnet Remote]]
+- [[Pages/Remote Control/Decimal – Hex Table]]
 
 Part of [[000 Map of Content]]

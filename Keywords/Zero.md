@@ -4,7 +4,6 @@ keyword: "Zero"
 slug: "key_keyword_zero"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_zero.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Zero]]"
 tags:
   - "type/keyword"
 ---

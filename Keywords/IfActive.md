@@ -4,7 +4,6 @@ keyword: "IfActive"
 slug: "key_keyword_ifactive"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_ifactive.html"
 keyword_type: "unknown"
-related_key: "[[Keys/IfActive]]"
 tags:
   - "type/keyword"
 ---

@@ -4,9 +4,11 @@ title_str: "Mirror Ports of the MA Network Switch"
 slug: "key_control_ma_switch_mirror_ports"
 url: "https://help.malighting.com/grandMA2/en/help/key_control_ma_switch_mirror_ports.html"
 section: "Control MA Network Switch"
+ma2_section: "key_control_ma_switch"
 section_ref: "[[Sections/Control MA Network Switch]]"
-prev_page: "[[Pages/Control MA Network Switch/Edit LAGs]]"
+prev_page: "[[Pages/Control MA Network Switch/Edit Link Aggregation Groups of the MA Network Switch]]"
 next_page: "[[Pages/Control MA Network Switch/Work with the switch configuration]]"
+depth: 2
 tags:
   - "type/page"
   - "section/control"
@@ -60,6 +62,6 @@ _Mirror ports_
 **Hint:**  
 A port is never destination and source at the same time.
 
-← [[Pages/Control MA Network Switch/Edit LAGs]] | [[Pages/Control MA Network Switch/Work with the switch configuration]] →
+← [[Pages/Control MA Network Switch/Edit Link Aggregation Groups of the MA Network Switch]] | [[Pages/Control MA Network Switch/Work with the switch configuration]] →
 
 Part of [[Sections/Control MA Network Switch]] · [[000 Map of Content]]

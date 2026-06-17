@@ -4,7 +4,6 @@ keyword: "EffectDelay"
 slug: "key_keyword_effectdelay"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_effectdelay.html"
 keyword_type: "unknown"
-related_key: "[[Keys/EffectDelay]]"
 tags:
   - "type/keyword"
 ---

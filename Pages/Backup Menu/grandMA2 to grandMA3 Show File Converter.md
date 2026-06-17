@@ -4,8 +4,10 @@ title_str: "grandMA2 to grandMA3 Show File Converter"
 slug: "key_backup_menu_save_as_grandma3"
 url: "https://help.malighting.com/grandMA2/en/help/key_backup_menu_save_as_grandma3.html"
 section: "Backup Menu"
+ma2_section: "key_backup_menu"
 section_ref: "[[Sections/Backup Menu]]"
-prev_page: "[[Pages/Backup Menu/ASCII show read]]"
+prev_page: "[[Pages/Backup Menu/ASCII Show Read]]"
+depth: 2
 tags:
   - "type/page"
   - "section/backup"
@@ -81,6 +83,6 @@ When saving on an USB stick, the grandMA2 show file is saved in **D:\\grandMA3\\
 
 Now, this show file can be opened in the grandMA3 software.
 
-← [[Pages/Backup Menu/ASCII show read]]
+← [[Pages/Backup Menu/ASCII Show Read]]
 
 Part of [[Sections/Backup Menu]] · [[000 Map of Content]]

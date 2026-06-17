@@ -4,7 +4,6 @@ keyword: "Invert"
 slug: "key_keyword_invert"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_invert.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Invert]]"
 tags:
   - "type/keyword"
 ---

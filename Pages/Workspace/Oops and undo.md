@@ -4,9 +4,11 @@ title_str: "Oops and undo"
 slug: "key_ws_oops"
 url: "https://help.malighting.com/grandMA2/en/help/key_ws_oops.html"
 section: "Workspace"
+ma2_section: "key_workspace"
 section_ref: "[[Sections/Workspace]]"
 prev_page: "[[Pages/Workspace/Info]]"
 next_page: "[[Pages/Workspace/Colors]]"
+depth: 2
 tags:
   - "type/page"
   - "section/ws"

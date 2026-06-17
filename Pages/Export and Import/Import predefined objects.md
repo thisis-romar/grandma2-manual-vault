@@ -4,8 +4,10 @@ title_str: "Import predefined objects"
 slug: "key_ei_import_predefined"
 url: "https://help.malighting.com/grandMA2/en/help/key_ei_import_predefined.html"
 section: "Export and Import"
+ma2_section: "key_export_and_import"
 section_ref: "[[Sections/Export and Import]]"
 prev_page: "[[Pages/Export and Import/Import by using user interface]]"
+depth: 2
 tags:
   - "type/page"
   - "section/ei"

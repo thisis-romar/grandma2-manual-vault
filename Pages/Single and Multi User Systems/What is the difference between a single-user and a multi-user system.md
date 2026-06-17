@@ -4,8 +4,10 @@ title_str: "What is the difference between a single-user and a multi-user system
 slug: "key_single_multi_systems_difference"
 url: "https://help.malighting.com/grandMA2/en/help/key_single_multi_systems_difference.html"
 section: "Single and Multi User Systems"
+ma2_section: "key_single_multi_systems"
 section_ref: "[[Sections/Single and Multi User Systems]]"
 next_page: "[[Pages/Single and Multi User Systems/Create user profiles and users]]"
+depth: 2
 tags:
   - "type/page"
   - "section/single"

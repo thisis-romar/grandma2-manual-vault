@@ -4,9 +4,11 @@ title_str: "Using groups when programming"
 slug: "key_groups_using"
 url: "https://help.malighting.com/grandMA2/en/help/key_groups_using.html"
 section: "Groups"
+ma2_section: "key_groups"
 section_ref: "[[Sections/Groups]]"
-prev_page: "[[Pages/Groups/Auto create groups]]"
+prev_page: "[[Pages/Groups/Auto Create groups]]"
 next_page: "[[Pages/Groups/Choose copy method]]"
+depth: 2
 tags:
   - "type/page"
   - "section/groups"
@@ -49,6 +51,6 @@ In the last example we did not need the quotation marks. They are needed if the 
 
 The asterisk can also be used in front of the name. If there are several groups with the word **cold** in the name and all of them needs to go to 60, then write the following g \*cold\* at 60.
 
-← [[Pages/Groups/Auto create groups]] | [[Pages/Groups/Choose copy method]] →
+← [[Pages/Groups/Auto Create groups]] | [[Pages/Groups/Choose copy method]] →
 
 Part of [[Sections/Groups]] · [[000 Map of Content]]

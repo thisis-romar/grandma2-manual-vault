@@ -4,7 +4,7 @@ keyword: ">>> [GoFastForward] keyword"
 slug: "key_keyword_skipplus"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_skipplus.html"
 keyword_type: "unknown"
-related_key: "[[Keys/--- [GoFastForward] keyword]]"
+related_key: "[[Keys/--- Key]]"
 tags:
   - "type/keyword"
 ---

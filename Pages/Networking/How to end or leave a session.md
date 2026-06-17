@@ -4,9 +4,11 @@ title_str: "How to end or leave a session"
 slug: "key_network_session_end_leave"
 url: "https://help.malighting.com/grandMA2/en/help/key_network_session_end_leave.html"
 section: "Networking"
+ma2_section: "key_network"
 section_ref: "[[Sections/Networking]]"
 prev_page: "[[Pages/Networking/Adding devices to the session]]"
-next_page: "[[Pages/Networking/Session collision]]"
+next_page: "[[Pages/Networking/Session Collision]]"
+depth: 3
 tags:
   - "type/page"
   - "section/network"
@@ -47,6 +49,6 @@ You can also open the **MA Network Control** (in Setup) and tap the End Session 
 
 Ending a session will dismiss all stations and the session is no longer running.
 
-← [[Pages/Networking/Adding devices to the session]] | [[Pages/Networking/Session collision]] →
+← [[Pages/Networking/Adding devices to the session]] | [[Pages/Networking/Session Collision]] →
 
 Part of [[Sections/Networking]] · [[000 Map of Content]]

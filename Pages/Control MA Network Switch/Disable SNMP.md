@@ -4,9 +4,11 @@ title_str: "Disable SNMP"
 slug: "key_control_ma_switch_snmp"
 url: "https://help.malighting.com/grandMA2/en/help/key_control_ma_switch_snmp.html"
 section: "Control MA Network Switch"
+ma2_section: "key_control_ma_switch"
 section_ref: "[[Sections/Control MA Network Switch]]"
 prev_page: "[[Pages/Control MA Network Switch/Work with the switch configuration]]"
-next_page: "[[Pages/Control MA Network Switch/Change password]]"
+next_page: "[[Pages/Control MA Network Switch/Change password of the MA Network Switch]]"
+depth: 2
 tags:
   - "type/page"
   - "section/control"
@@ -51,6 +53,6 @@ _Disable SNMP_
 
 The SNMP is disabled. The settings are saved in the startup configuration.
 
-← [[Pages/Control MA Network Switch/Work with the switch configuration]] | [[Pages/Control MA Network Switch/Change password]] →
+← [[Pages/Control MA Network Switch/Work with the switch configuration]] | [[Pages/Control MA Network Switch/Change password of the MA Network Switch]] →
 
 Part of [[Sections/Control MA Network Switch]] · [[000 Map of Content]]

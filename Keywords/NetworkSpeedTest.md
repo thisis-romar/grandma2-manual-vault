@@ -4,7 +4,6 @@ keyword: "NetworkSpeedTest"
 slug: "key_keyword_networkspeedtest"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_networkspeedtest.html"
 keyword_type: "unknown"
-related_key: "[[Keys/NetworkSpeedTest]]"
 tags:
   - "type/keyword"
 ---

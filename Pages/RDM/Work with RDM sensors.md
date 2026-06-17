@@ -4,9 +4,11 @@ title_str: "Work with RDM sensors"
 slug: "key_rdm_sensors"
 url: "https://help.malighting.com/grandMA2/en/help/key_rdm_sensors.html"
 section: "RDM"
+ma2_section: "key_rdm"
 section_ref: "[[Sections/RDM]]"
 prev_page: "[[Pages/RDM/Work with RDM parameters]]"
 next_page: "[[Pages/RDM/Configure RDM notifications]]"
+depth: 2
 tags:
   - "type/page"
   - "section/rdm"

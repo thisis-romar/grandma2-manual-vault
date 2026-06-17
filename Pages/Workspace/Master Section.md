@@ -4,9 +4,11 @@ title_str: "Master Section"
 slug: "key_widget_master_section"
 url: "https://help.malighting.com/grandMA2/en/help/key_widget_master_section.html"
 section: "Workspace"
+ma2_section: "key_workspace"
 section_ref: "[[Sections/Workspace]]"
-prev_page: "[[Pages/Workspace/View buttons]]"
-next_page: "[[Pages/Workspace/Time control]]"
+prev_page: "[[Pages/Workspace/View Buttons]]"
+next_page: "[[Pages/Workspace/Time Control]]"
+depth: 3
 tags:
   - "type/page"
   - "section/widget"
@@ -75,6 +77,6 @@ _Fader Assignment_
 
 For more information, see [executor - assign a function](key_exec_assign.html).
 
-← [[Pages/Workspace/View buttons]] | [[Pages/Workspace/Time control]] →
+← [[Pages/Workspace/View Buttons]] | [[Pages/Workspace/Time Control]] →
 
 Part of [[Sections/Workspace]] · [[000 Map of Content]]

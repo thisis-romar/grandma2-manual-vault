@@ -3,7 +3,7 @@ type: "key"
 key_label: "Full Key"
 slug: "key_key_full"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_full.html"
-related_keyword: "[[Keywords/Full Key]]"
+related_keyword: "[[Keywords/Full]]"
 tags:
   - "type/key"
 ---

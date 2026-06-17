@@ -4,8 +4,10 @@ title_str: "What are DMX breaks"
 slug: "key_patch_dmx_break"
 url: "https://help.malighting.com/grandMA2/en/help/key_patch_dmx_break.html"
 section: "Patching"
+ma2_section: "key_patch"
 section_ref: "[[Sections/Patching]]"
-prev_page: "[[Pages/Patching/Attributes]]"
+prev_page: "[[Pages/Patching/What are Attributes]]"
+depth: 3
 tags:
   - "type/page"
   - "section/patch"
@@ -44,6 +46,6 @@ _DMX break in the Fixture Schedule window_
 
 _DMX break in the DMX patch window_
 
-← [[Pages/Patching/Attributes]]
+← [[Pages/Patching/What are Attributes]]
 
 Part of [[Sections/Patching]] · [[000 Map of Content]]

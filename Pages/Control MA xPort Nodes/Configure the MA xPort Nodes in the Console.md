@@ -4,9 +4,11 @@ title_str: "Configure the MA xPort Nodes in the Console"
 slug: "key_control_ma_xport_node_configure_on_console"
 url: "https://help.malighting.com/grandMA2/en/help/key_control_ma_xport_node_configure_on_console.html"
 section: "Control MA xPort Nodes"
+ma2_section: "key_control_ma_xport_node"
 section_ref: "[[Sections/Control MA xPort Nodes]]"
-prev_page: "[[Pages/Control MA xPort Nodes/Add the MA xPort Nodes]]"
-next_page: "[[Pages/Control MA xPort Nodes/Configure the MA xPort Nodes in a browser]]"
+prev_page: "[[Pages/Control MA xPort Nodes/Add the MA xPort Nodes to the Network Configuration]]"
+next_page: "[[Pages/Control MA xPort Nodes/Configure the MA xPort Nodes in a Browser]]"
+depth: 2
 tags:
   - "type/page"
   - "section/control"
@@ -79,6 +81,6 @@ For more information on the DMX Fail Mode see [DMX Fail Mode in Configure DMX po
 
 The configuration settings have now been applied to the node.
 
-← [[Pages/Control MA xPort Nodes/Add the MA xPort Nodes]] | [[Pages/Control MA xPort Nodes/Configure the MA xPort Nodes in a browser]] →
+← [[Pages/Control MA xPort Nodes/Add the MA xPort Nodes to the Network Configuration]] | [[Pages/Control MA xPort Nodes/Configure the MA xPort Nodes in a Browser]] →
 
 Part of [[Sections/Control MA xPort Nodes]] · [[000 Map of Content]]

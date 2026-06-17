@@ -4,9 +4,11 @@ title_str: "Create pop-ups in macros"
 slug: "key_macro_create_popup"
 url: "https://help.malighting.com/grandMA2/en/help/key_macro_create_popup.html"
 section: "Macros"
+ma2_section: "key_macro"
 section_ref: "[[Sections/Macros]]"
-prev_page: "[[Pages/Macros/Use variables]]"
+prev_page: "[[Pages/Macros/Use variables in macros]]"
 next_page: "[[Pages/Macros/Conditional expressions]]"
+depth: 3
 tags:
   - "type/page"
   - "section/macro"
@@ -96,6 +98,6 @@ It can often be a good idea to treat the user input as text. This, for instance,
 
 See more examples in the [Example macros topic](key_macro_examples.html).
 
-← [[Pages/Macros/Use variables]] | [[Pages/Macros/Conditional expressions]] →
+← [[Pages/Macros/Use variables in macros]] | [[Pages/Macros/Conditional expressions]] →
 
 Part of [[Sections/Macros]] · [[000 Map of Content]]

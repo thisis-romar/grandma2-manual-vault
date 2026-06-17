@@ -4,7 +4,6 @@ keyword: "Speed"
 slug: "key_keyword_speed"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_speed.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Speed]]"
 tags:
   - "type/keyword"
 ---

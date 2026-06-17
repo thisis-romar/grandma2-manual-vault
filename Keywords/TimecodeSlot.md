@@ -4,7 +4,6 @@ keyword: "TimecodeSlot"
 slug: "key_keyword_timecodeslot"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_timecodeslot.html"
 keyword_type: "unknown"
-related_key: "[[Keys/TimecodeSlot]]"
 tags:
   - "type/keyword"
 ---

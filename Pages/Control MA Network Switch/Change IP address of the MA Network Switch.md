@@ -4,9 +4,11 @@ title_str: "Change IP address of the MA Network Switch"
 slug: "key_control_ma_switch_ip_address"
 url: "https://help.malighting.com/grandMA2/en/help/key_control_ma_switch_ip_address.html"
 section: "Control MA Network Switch"
+ma2_section: "key_control_ma_switch"
 section_ref: "[[Sections/Control MA Network Switch]]"
-prev_page: "[[Pages/Control MA Network Switch/Add MA Network Switch]]"
-next_page: "[[Pages/Control MA Network Switch/Enable DHCP client]]"
+prev_page: "[[Pages/Control MA Network Switch/Add the MA Network Switch to the network configuration]]"
+next_page: "[[Pages/Control MA Network Switch/Enable DHCP client for the MA Network Switch]]"
+depth: 2
 tags:
   - "type/page"
   - "section/control"
@@ -50,6 +52,6 @@ Make sure that every device in the network has its unique IP address. If two dev
 
 The IP address is changed and saved in the startup configuration.
 
-← [[Pages/Control MA Network Switch/Add MA Network Switch]] | [[Pages/Control MA Network Switch/Enable DHCP client]] →
+← [[Pages/Control MA Network Switch/Add the MA Network Switch to the network configuration]] | [[Pages/Control MA Network Switch/Enable DHCP client for the MA Network Switch]] →
 
 Part of [[Sections/Control MA Network Switch]] · [[000 Map of Content]]

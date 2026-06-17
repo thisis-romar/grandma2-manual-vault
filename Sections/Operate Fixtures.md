@@ -7,16 +7,16 @@ page_count: 10
 tags:
   - "type/section"
 pages:
-  - "[[Pages/Operate Fixtures/Channel sheet]]"
-  - "[[Pages/Operate Fixtures/Fixture sheet]]"
+  - "[[Pages/Operate Fixtures/Channel Sheet]]"
+  - "[[Pages/Operate Fixtures/Fixture Sheet]]"
   - "[[Pages/Operate Fixtures/Sheet options]]"
-  - "[[Pages/Operate Fixtures/Layers in sheets]]"
-  - "[[Pages/Operate Fixtures/What is the programmer]]"
-  - "[[Pages/Operate Fixtures/Encoder grouping]]"
-  - "[[Pages/Operate Fixtures/Using the color picker]]"
-  - "[[Pages/Operate Fixtures/Using the shaper dialog]]"
-  - "[[Pages/Operate Fixtures/Using the smart view]]"
-  - "[[Pages/Operate Fixtures/Edit a channel or fixture]]"
+  - "[[Pages/Operate Fixtures/Layer in Sheets]]"
+  - "[[Pages/Operate Fixtures/What is the Programmer]]"
+  - "[[Pages/Operate Fixtures/Encoder Grouping]]"
+  - "[[Pages/Operate Fixtures/Using The Color Picker]]"
+  - "[[Pages/Operate Fixtures/Using The Shaper Dialog]]"
+  - "[[Pages/Operate Fixtures/Using The Smart View]]"
+  - "[[Pages/Operate Fixtures/Edit a Channel or a Fixture]]"
 ---
 
 # Operate Fixtures
@@ -61,15 +61,15 @@ For more information on how to patch fixtures see [Adding fixtures to your show]
 
 ## Pages in This Section
 
-- [[Pages/Operate Fixtures/Channel sheet]]
-- [[Pages/Operate Fixtures/Fixture sheet]]
+- [[Pages/Operate Fixtures/Channel Sheet]]
+- [[Pages/Operate Fixtures/Fixture Sheet]]
 - [[Pages/Operate Fixtures/Sheet options]]
-- [[Pages/Operate Fixtures/Layers in sheets]]
-- [[Pages/Operate Fixtures/What is the programmer]]
-- [[Pages/Operate Fixtures/Encoder grouping]]
-- [[Pages/Operate Fixtures/Using the color picker]]
-- [[Pages/Operate Fixtures/Using the shaper dialog]]
-- [[Pages/Operate Fixtures/Using the smart view]]
-- [[Pages/Operate Fixtures/Edit a channel or fixture]]
+- [[Pages/Operate Fixtures/Layer in Sheets]]
+- [[Pages/Operate Fixtures/What is the Programmer]]
+- [[Pages/Operate Fixtures/Encoder Grouping]]
+- [[Pages/Operate Fixtures/Using The Color Picker]]
+- [[Pages/Operate Fixtures/Using The Shaper Dialog]]
+- [[Pages/Operate Fixtures/Using The Smart View]]
+- [[Pages/Operate Fixtures/Edit a Channel or a Fixture]]
 
 Part of [[000 Map of Content]]

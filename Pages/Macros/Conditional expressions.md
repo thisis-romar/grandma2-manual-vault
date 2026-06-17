@@ -4,9 +4,11 @@ title_str: "Conditional expressions"
 slug: "key_macro_create_condition"
 url: "https://help.malighting.com/grandMA2/en/help/key_macro_create_condition.html"
 section: "Macros"
+ma2_section: "key_macro"
 section_ref: "[[Sections/Macros]]"
-prev_page: "[[Pages/Macros/Create pop-ups]]"
+prev_page: "[[Pages/Macros/Create pop-ups in macros]]"
 next_page: "[[Pages/Macros/Macro timing]]"
+depth: 3
 tags:
   - "type/page"
   - "section/macro"
@@ -57,6 +59,6 @@ Conditional expressions are recognized by Square Brackets, and accept the follow
 **Important:**  
 The two arguments a and b are not compared as numbers, but as text-strings, character by character, e.g. "61" is considered to be greater than "599", as 6 is larger than 5.
 
-← [[Pages/Macros/Create pop-ups]] | [[Pages/Macros/Macro timing]] →
+← [[Pages/Macros/Create pop-ups in macros]] | [[Pages/Macros/Macro timing]] →
 
 Part of [[Sections/Macros]] · [[000 Map of Content]]

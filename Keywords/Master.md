@@ -4,7 +4,6 @@ keyword: "Master"
 slug: "key_keyword_master"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_master.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Master]]"
 tags:
   - "type/keyword"
 ---

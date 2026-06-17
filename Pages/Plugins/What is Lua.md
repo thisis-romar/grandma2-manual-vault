@@ -4,8 +4,10 @@ title_str: "What is Lua"
 slug: "key_plugins_what_is_lua"
 url: "https://help.malighting.com/grandMA2/en/help/key_plugins_what_is_lua.html"
 section: "Plugins"
+ma2_section: "key_plugins"
 section_ref: "[[Sections/Plugins]]"
-next_page: "[[Pages/Plugins/Edit plugins]]"
+next_page: "[[Pages/Plugins/Edit Plugins]]"
+depth: 2
 tags:
   - "type/page"
   - "section/plugins"
@@ -24,6 +26,6 @@ Lua is a scripting language designed to support general procedural programming. 
 
 For more information on Lua see www.lua.org
 
-[[Pages/Plugins/Edit plugins]] →
+[[Pages/Plugins/Edit Plugins]] →
 
 Part of [[Sections/Plugins]] · [[000 Map of Content]]

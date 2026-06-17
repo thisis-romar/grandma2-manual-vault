@@ -4,7 +4,6 @@ keyword: "OutFade"
 slug: "key_keyword_outfade"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_outfade.html"
 keyword_type: "unknown"
-related_key: "[[Keys/OutFade]]"
 tags:
   - "type/keyword"
 ---

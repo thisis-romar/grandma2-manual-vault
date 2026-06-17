@@ -4,9 +4,11 @@ title_str: "Create filters"
 slug: "key_wfm_create_filters"
 url: "https://help.malighting.com/grandMA2/en/help/key_wfm_create_filters.html"
 section: "Worlds Filters and Masks"
+ma2_section: "key_wfm_world_filter_mask"
 section_ref: "[[Sections/Worlds Filters and Masks]]"
 prev_page: "[[Pages/Worlds Filters and Masks/What are filters]]"
-next_page: "[[Pages/Worlds Filters and Masks/Use filters when programming]]"
+next_page: "[[Pages/Worlds Filters and Masks/Use filters when you Store and use At]]"
+depth: 2
 tags:
   - "type/page"
   - "section/wfm"
@@ -73,6 +75,6 @@ _Filter without "Curve" attribute_
 
 Preset Type and Feature buttons are only On if all attributes inside them are On.
 
-← [[Pages/Worlds Filters and Masks/What are filters]] | [[Pages/Worlds Filters and Masks/Use filters when programming]] →
+← [[Pages/Worlds Filters and Masks/What are filters]] | [[Pages/Worlds Filters and Masks/Use filters when you Store and use At]] →
 
 Part of [[Sections/Worlds Filters and Masks]] · [[000 Map of Content]]

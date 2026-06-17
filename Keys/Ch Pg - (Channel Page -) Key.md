@@ -3,7 +3,6 @@ type: "key"
 key_label: "Ch Pg - (Channel Page -) Key"
 slug: "key_key_channelpageminus"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_channelpageminus.html"
-related_keyword: "[[Keywords/Ch Pg - (Channel Page -) Key]]"
 tags:
   - "type/key"
 ---

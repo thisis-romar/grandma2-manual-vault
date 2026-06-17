@@ -4,7 +4,6 @@ keyword: "NetworkNodeUpdate"
 slug: "key_keyword_networknodeupdate"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_networknodeupdate.html"
 keyword_type: "unknown"
-related_key: "[[Keys/NetworkNodeUpdate]]"
 tags:
   - "type/keyword"
 ---

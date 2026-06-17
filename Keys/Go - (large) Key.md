@@ -3,7 +3,6 @@ type: "key"
 key_label: "Go - (large) Key"
 slug: "key_key_defgominus"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_defgominus.html"
-related_keyword: "[[Keywords/Go - (large) Key]]"
 tags:
   - "type/key"
 ---

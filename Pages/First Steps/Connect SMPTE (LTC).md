@@ -4,9 +4,11 @@ title_str: "Connect SMPTE (LTC)"
 slug: "key_fs_connect_smpte_ltc"
 url: "https://help.malighting.com/grandMA2/en/help/key_fs_connect_smpte_ltc.html"
 section: "First Steps"
+ma2_section: "key_first_steps"
 section_ref: "[[Sections/First Steps]]"
-prev_page: "[[Pages/First Steps/Connect sound]]"
+prev_page: "[[Pages/First Steps/Connect Sound]]"
 next_page: "[[Pages/First Steps/Connect Ethernet]]"
+depth: 2
 tags:
   - "type/page"
   - "section/fs"
@@ -44,6 +46,6 @@ The SMPTE source is connected to the LTC IN connector.
 
 _grandMA2 full-size LTC IN connector_
 
-← [[Pages/First Steps/Connect sound]] | [[Pages/First Steps/Connect Ethernet]] →
+← [[Pages/First Steps/Connect Sound]] | [[Pages/First Steps/Connect Ethernet]] →
 
 Part of [[Sections/First Steps]] · [[000 Map of Content]]

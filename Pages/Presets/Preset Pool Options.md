@@ -4,9 +4,11 @@ title_str: "Preset Pool Options"
 slug: "key_presets_pool_options"
 url: "https://help.malighting.com/grandMA2/en/help/key_presets_pool_options.html"
 section: "Presets"
+ma2_section: "key_presets"
 section_ref: "[[Sections/Presets]]"
-prev_page: "[[Pages/Presets/Create presets]]"
-next_page: "[[Pages/Presets/Create preset reference]]"
+prev_page: "[[Pages/Presets/Create Presets]]"
+next_page: "[[Pages/Presets/Create Preset Reference]]"
+depth: 2
 tags:
   - "type/page"
   - "section/presets"
@@ -82,6 +84,6 @@ It is also possible to set the default of the preset type via **Setup**:
 **Hint:**  
 To close the preset pool altogether, tap Delete Window.
 
-← [[Pages/Presets/Create presets]] | [[Pages/Presets/Create preset reference]] →
+← [[Pages/Presets/Create Presets]] | [[Pages/Presets/Create Preset Reference]] →
 
 Part of [[Sections/Presets]] · [[000 Map of Content]]

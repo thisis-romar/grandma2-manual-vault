@@ -4,8 +4,10 @@ title_str: "Use variables in macros"
 slug: "key_macro_create_variables"
 url: "https://help.malighting.com/grandMA2/en/help/key_macro_create_variables.html"
 section: "Macros"
+ma2_section: "key_macro"
 section_ref: "[[Sections/Macros]]"
-next_page: "[[Pages/Macros/Create pop-ups]]"
+next_page: "[[Pages/Macros/Create pop-ups in macros]]"
+depth: 3
 tags:
   - "type/page"
   - "section/macro"
@@ -202,6 +204,6 @@ The result is a text that reads: **The answer is 42**.
 
 For more practical examples please read the [Example macros topic](key_macro_examples.html).
 
-[[Pages/Macros/Create pop-ups]] →
+[[Pages/Macros/Create pop-ups in macros]] →
 
 Part of [[Sections/Macros]] · [[000 Map of Content]]

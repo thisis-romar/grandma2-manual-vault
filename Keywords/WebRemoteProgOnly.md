@@ -4,7 +4,6 @@ keyword: "WebRemoteProgOnly"
 slug: "key_keyword_webremoteprogonly"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_webremoteprogonly.html"
 keyword_type: "unknown"
-related_key: "[[Keys/WebRemoteProgOnly]]"
 tags:
   - "type/keyword"
 ---

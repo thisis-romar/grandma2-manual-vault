@@ -4,9 +4,11 @@ title_str: "Edit a macro"
 slug: "key_macro_edit"
 url: "https://help.malighting.com/grandMA2/en/help/key_macro_edit.html"
 section: "Macros"
+ma2_section: "key_macro"
 section_ref: "[[Sections/Macros]]"
 prev_page: "[[Pages/Macros/Record a macro]]"
 next_page: "[[Pages/Macros/Command line interaction]]"
+depth: 2
 tags:
   - "type/page"
   - "section/macro"

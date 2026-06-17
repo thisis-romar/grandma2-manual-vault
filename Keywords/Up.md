@@ -4,7 +4,7 @@ keyword: "Up"
 slug: "key_keyword_up"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_up.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Up]]"
+related_key: "[[Keys/Up Key]]"
 tags:
   - "type/keyword"
 ---

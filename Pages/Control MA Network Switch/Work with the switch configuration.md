@@ -4,9 +4,11 @@ title_str: "Work with the switch configuration"
 slug: "key_control_ma_switch_configuration"
 url: "https://help.malighting.com/grandMA2/en/help/key_control_ma_switch_configuration.html"
 section: "Control MA Network Switch"
+ma2_section: "key_control_ma_switch"
 section_ref: "[[Sections/Control MA Network Switch]]"
-prev_page: "[[Pages/Control MA Network Switch/Mirror ports]]"
+prev_page: "[[Pages/Control MA Network Switch/Mirror Ports of the MA Network Switch]]"
 next_page: "[[Pages/Control MA Network Switch/Disable SNMP]]"
+depth: 2
 tags:
   - "type/page"
   - "section/control"
@@ -98,6 +100,6 @@ The switch configuration is uploading. The update process can take about 60 seco
 
 The switch configuration is uploaded and saved in the startup configuration.
 
-← [[Pages/Control MA Network Switch/Mirror ports]] | [[Pages/Control MA Network Switch/Disable SNMP]] →
+← [[Pages/Control MA Network Switch/Mirror Ports of the MA Network Switch]] | [[Pages/Control MA Network Switch/Disable SNMP]] →
 
 Part of [[Sections/Control MA Network Switch]] · [[000 Map of Content]]

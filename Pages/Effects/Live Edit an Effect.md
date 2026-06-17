@@ -4,9 +4,11 @@ title_str: "Live Edit an Effect"
 slug: "key_effects_live_edit"
 url: "https://help.malighting.com/grandMA2/en/help/key_effects_live_edit.html"
 section: "Effects"
+ma2_section: "key_effects"
 section_ref: "[[Sections/Effects]]"
 prev_page: "[[Pages/Effects/Assign effect to executor]]"
-next_page: "[[Pages/Effects/Running effects]]"
+next_page: "[[Pages/Effects/Running Effects]]"
+depth: 2
 tags:
   - "type/page"
   - "section/effects"
@@ -74,6 +76,6 @@ For more information on the different functionalities see [Use predefined effect
 **Important:**  
 If you accidentally tap anywhere, the encoder toolbar for live edit disappears. To regain it, tap the cell with displaying the name of the effect pool.
 
-← [[Pages/Effects/Assign effect to executor]] | [[Pages/Effects/Running effects]] →
+← [[Pages/Effects/Assign effect to executor]] | [[Pages/Effects/Running Effects]] →
 
 Part of [[Sections/Effects]] · [[000 Map of Content]]

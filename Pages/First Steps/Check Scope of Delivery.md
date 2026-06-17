@@ -4,9 +4,11 @@ title_str: "Check Scope of Delivery"
 slug: "key_fs_check_scope_of_delivery"
 url: "https://help.malighting.com/grandMA2/en/help/key_fs_check_scope_of_delivery.html"
 section: "First Steps"
+ma2_section: "key_first_steps"
 section_ref: "[[Sections/First Steps]]"
-prev_page: "[[Pages/First Steps/Unpack the device]]"
-next_page: "[[Pages/First Steps/Position the device]]"
+prev_page: "[[Pages/First Steps/Unpack the Device]]"
+next_page: "[[Pages/First Steps/Position the Device]]"
+depth: 2
 tags:
   - "type/page"
   - "section/fs"
@@ -64,6 +66,6 @@ The list below shows the scope of delivery. If anything is missing, contact your
 *   Power Cord 1.9 m IECC plug (lockable) open end
 *   1 x Quick Start Manual
 
-← [[Pages/First Steps/Unpack the device]] | [[Pages/First Steps/Position the device]] →
+← [[Pages/First Steps/Unpack the Device]] | [[Pages/First Steps/Position the Device]] →
 
 Part of [[Sections/First Steps]] · [[000 Map of Content]]

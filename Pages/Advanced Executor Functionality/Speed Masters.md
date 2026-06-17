@@ -4,9 +4,11 @@ title_str: "Speed Masters"
 slug: "key_adv_exec_spec_master_speed"
 url: "https://help.malighting.com/grandMA2/en/help/key_adv_exec_spec_master_speed.html"
 section: "Advanced Executor Functionality"
+ma2_section: "key_adv_exec"
 section_ref: "[[Sections/Advanced Executor Functionality]]"
-prev_page: "[[Pages/Advanced Executor Functionality/Grand masters]]"
-next_page: "[[Pages/Advanced Executor Functionality/Rate masters]]"
+prev_page: "[[Pages/Advanced Executor Functionality/Grand Masters]]"
+next_page: "[[Pages/Advanced Executor Functionality/Rate Masters]]"
+depth: 3
 tags:
   - "type/page"
   - "section/adv"
@@ -31,6 +33,6 @@ Read more about assigning masters to executors in the [Executor Options](key_adv
 
 All the Speed Masters can be seen and adjusted in the [Masters window](key_adv_exec_master_window.html).
 
-← [[Pages/Advanced Executor Functionality/Grand masters]] | [[Pages/Advanced Executor Functionality/Rate masters]] →
+← [[Pages/Advanced Executor Functionality/Grand Masters]] | [[Pages/Advanced Executor Functionality/Rate Masters]] →
 
 Part of [[Sections/Advanced Executor Functionality]] · [[000 Map of Content]]

@@ -4,7 +4,6 @@ keyword: "ToZero"
 slug: "key_keyword_tozero"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_tozero.html"
 keyword_type: "unknown"
-related_key: "[[Keys/ToZero]]"
 tags:
   - "type/keyword"
 ---

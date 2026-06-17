@@ -4,7 +4,7 @@ keyword: "Setup"
 slug: "key_keyword_setup"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_setup.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Setup]]"
+related_key: "[[Keys/Setup Key]]"
 tags:
   - "type/keyword"
 ---

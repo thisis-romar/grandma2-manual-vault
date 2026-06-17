@@ -4,9 +4,11 @@ title_str: "Marker Colors"
 slug: "key_ws_colors_marker"
 url: "https://help.malighting.com/grandMA2/en/help/key_ws_colors_marker.html"
 section: "Workspace"
+ma2_section: "key_workspace"
 section_ref: "[[Sections/Workspace]]"
-prev_page: "[[Pages/Workspace/System]]"
-next_page: "[[Pages/Workspace/Cue]]"
+prev_page: "[[Pages/Workspace/System Colors]]"
+next_page: "[[Pages/Workspace/Cue Colors]]"
+depth: 3
 tags:
   - "type/page"
   - "section/ws"
@@ -250,6 +252,6 @@ To enable or disable the markers in the:
 
 The markers are enabled or disabled. To save the the settings, save the settings as default or save the view.
 
-← [[Pages/Workspace/System]] | [[Pages/Workspace/Cue]] →
+← [[Pages/Workspace/System Colors]] | [[Pages/Workspace/Cue Colors]] →
 
 Part of [[Sections/Workspace]] · [[000 Map of Content]]

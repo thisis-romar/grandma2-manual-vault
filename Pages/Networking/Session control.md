@@ -4,9 +4,11 @@ title_str: "Session control"
 slug: "key_network_session"
 url: "https://help.malighting.com/grandMA2/en/help/key_network_session.html"
 section: "Networking"
+ma2_section: "key_network"
 section_ref: "[[Sections/Networking]]"
 prev_page: "[[Pages/Networking/Using DHCP in MA devices]]"
 next_page: "[[Pages/Networking/Getting DMX in and out of the system]]"
+depth: 2
 tags:
   - "type/page"
   - "section/network"

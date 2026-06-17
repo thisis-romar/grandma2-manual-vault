@@ -4,7 +4,7 @@ keyword: "Effect keyword"
 slug: "key_keyword_effect"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_effect.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Effect keyword]]"
+related_key: "[[Keys/Effect Key]]"
 tags:
   - "type/keyword"
 ---

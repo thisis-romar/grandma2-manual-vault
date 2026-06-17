@@ -4,7 +4,6 @@ keyword: "PresetType"
 slug: "key_keyword_presettype"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_presettype.html"
 keyword_type: "unknown"
-related_key: "[[Keys/PresetType]]"
 tags:
   - "type/keyword"
 ---

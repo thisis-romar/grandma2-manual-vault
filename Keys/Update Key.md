@@ -3,7 +3,7 @@ type: "key"
 key_label: "Update Key"
 slug: "key_key_update"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_update.html"
-related_keyword: "[[Keywords/Update Key]]"
+related_keyword: "[[Keywords/Update]]"
 tags:
   - "type/key"
 ---

@@ -4,7 +4,6 @@ keyword: "MAtricksInterleave"
 slug: "key_keyword_matricksinterleave"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_matricksinterleave.html"
 keyword_type: "unknown"
-related_key: "[[Keys/MAtricksInterleave]]"
 tags:
   - "type/keyword"
 ---

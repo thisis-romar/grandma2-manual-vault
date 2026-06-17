@@ -3,7 +3,7 @@ type: "key"
 key_label: "Temp Key"
 slug: "key_key_temp"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_temp.html"
-related_keyword: "[[Keywords/Temp Key]]"
+related_keyword: "[[Keywords/Temp]]"
 tags:
   - "type/key"
 ---

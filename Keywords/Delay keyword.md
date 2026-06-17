@@ -4,7 +4,6 @@ keyword: "Delay keyword"
 slug: "key_keyword_delay"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_delay.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Delay keyword]]"
 tags:
   - "type/keyword"
 ---

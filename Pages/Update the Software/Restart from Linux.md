@@ -4,8 +4,10 @@ title_str: "Restart from Linux"
 slug: "key_update_restart_linux"
 url: "https://help.malighting.com/grandMA2/en/help/key_update_restart_linux.html"
 section: "Update the Software"
+ma2_section: "key_update"
 section_ref: "[[Sections/Update the Software]]"
 prev_page: "[[Pages/Update the Software/Update or factory reset via boot menu]]"
+depth: 2
 tags:
   - "type/page"
   - "section/update"

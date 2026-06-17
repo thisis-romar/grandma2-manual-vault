@@ -4,7 +4,7 @@ keyword: "At keyword"
 slug: "key_keyword_at"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_at.html"
 keyword_type: "unknown"
-related_key: "[[Keys/At keyword]]"
+related_key: "[[Keys/At Key]]"
 tags:
   - "type/keyword"
 ---

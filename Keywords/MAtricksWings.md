@@ -4,7 +4,6 @@ keyword: "MAtricksWings"
 slug: "key_keyword_matrickswings"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_matrickswings.html"
 keyword_type: "unknown"
-related_key: "[[Keys/MAtricksWings]]"
 tags:
   - "type/keyword"
 ---

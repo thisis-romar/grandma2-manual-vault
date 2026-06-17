@@ -9,7 +9,7 @@ tags:
 pages:
   - "[[Pages/Pools/Manage pool objects]]"
   - "[[Pages/Pools/Adjust pool options]]"
-  - "[[Pages/Pools/Call modes]]"
+  - "[[Pages/Pools/Call Modes]]"
 ---
 
 # Pools in General
@@ -91,6 +91,6 @@ For information about the pool object colors see [workspace - colors - system](k
 
 - [[Pages/Pools/Manage pool objects]]
 - [[Pages/Pools/Adjust pool options]]
-- [[Pages/Pools/Call modes]]
+- [[Pages/Pools/Call Modes]]
 
 Part of [[000 Map of Content]]

@@ -4,7 +4,6 @@ keyword: "TempFader"
 slug: "key_keyword_tempfader"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_tempfader.html"
 keyword_type: "unknown"
-related_key: "[[Keys/TempFader]]"
 tags:
   - "type/keyword"
 ---

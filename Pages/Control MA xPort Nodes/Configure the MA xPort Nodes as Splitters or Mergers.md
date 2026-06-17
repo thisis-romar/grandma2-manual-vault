@@ -4,9 +4,11 @@ title_str: "Configure the MA xPort Nodes as Splitters or Mergers"
 slug: "key_control_ma_xport_node_configure_as_splitters_merg"
 url: "https://help.malighting.com/grandMA2/en/help/key_control_ma_xport_node_configure_as_splitters_merg.html"
 section: "Control MA xPort Nodes"
+ma2_section: "key_control_ma_xport_node"
 section_ref: "[[Sections/Control MA xPort Nodes]]"
-prev_page: "[[Pages/Control MA xPort Nodes/Configure the MA xPort Nodes in a browser]]"
-next_page: "[[Pages/Control MA xPort Nodes/Delete the MA xPort Nodes]]"
+prev_page: "[[Pages/Control MA xPort Nodes/Configure the MA xPort Nodes in a Browser]]"
+next_page: "[[Pages/Control MA xPort Nodes/Delete the MA xPort Nodes in the Network Configuration]]"
+depth: 2
 tags:
   - "type/page"
   - "section/control"
@@ -70,6 +72,6 @@ _Configure node as splitter_
 
 You have successfully configured the node as a splitter.
 
-← [[Pages/Control MA xPort Nodes/Configure the MA xPort Nodes in a browser]] | [[Pages/Control MA xPort Nodes/Delete the MA xPort Nodes]] →
+← [[Pages/Control MA xPort Nodes/Configure the MA xPort Nodes in a Browser]] | [[Pages/Control MA xPort Nodes/Delete the MA xPort Nodes in the Network Configuration]] →
 
 Part of [[Sections/Control MA xPort Nodes]] · [[000 Map of Content]]

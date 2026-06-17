@@ -4,7 +4,6 @@ keyword: "Parentheses ( ) Character"
 slug: "key_keyword_parentheses"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_parentheses.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Parentheses ( ) Character]]"
 tags:
   - "type/keyword"
 ---

@@ -4,7 +4,6 @@ keyword: "Screen"
 slug: "key_keyword_screen"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_screen.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Screen]]"
 tags:
   - "type/keyword"
 ---

@@ -4,8 +4,10 @@ title_str: "Time Control"
 slug: "key_ws_time_control"
 url: "https://help.malighting.com/grandMA2/en/help/key_ws_time_control.html"
 section: "Workspace"
+ma2_section: "key_workspace"
 section_ref: "[[Sections/Workspace]]"
-prev_page: "[[Pages/Workspace/Master section]]"
+prev_page: "[[Pages/Workspace/Master Section]]"
+depth: 3
 tags:
   - "type/page"
   - "section/ws"
@@ -62,6 +64,6 @@ Tap or press the same button to deactivate the manual cross fade - green marker 
 
 An Executor can be set to ignore the Exec Time. This is done in the [Executor Options](key_adv_exec_options.html). This will make the Executor run as normal using the stored cue timings.
 
-← [[Pages/Workspace/Master section]]
+← [[Pages/Workspace/Master Section]]
 
 Part of [[Sections/Workspace]] · [[000 Map of Content]]

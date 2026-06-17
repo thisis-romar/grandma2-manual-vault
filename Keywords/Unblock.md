@@ -4,7 +4,6 @@ keyword: "Unblock"
 slug: "key_keyword_unblock"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_unblock.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Unblock]]"
 tags:
   - "type/keyword"
 ---

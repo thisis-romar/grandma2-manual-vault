@@ -7,8 +7,8 @@ page_count: 2
 tags:
   - "type/section"
 pages:
-  - "[[Pages/Windows/Create and manage basic windows]]"
-  - "[[Pages/Windows/Clear the screen or delete windows]]"
+  - "[[Pages/Windows/Create and Manage Basic Windows]]"
+  - "[[Pages/Windows/Clear the Screen or Delete Windows]]"
 ---
 
 # Manage windows
@@ -103,7 +103,7 @@ There are 6 different tabs that consist of several windows. For more information
 
 ## Pages in This Section
 
-- [[Pages/Windows/Create and manage basic windows]]
-- [[Pages/Windows/Clear the screen or delete windows]]
+- [[Pages/Windows/Create and Manage Basic Windows]]
+- [[Pages/Windows/Clear the Screen or Delete Windows]]
 
 Part of [[000 Map of Content]]

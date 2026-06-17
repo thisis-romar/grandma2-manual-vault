@@ -4,9 +4,11 @@ title_str: "Working with Layers"
 slug: "key_patch_layers"
 url: "https://help.malighting.com/grandMA2/en/help/key_patch_layers.html"
 section: "Patching"
+ma2_section: "key_patch"
 section_ref: "[[Sections/Patching]]"
 prev_page: "[[Pages/Patching/Delete fixtures from the show]]"
 next_page: "[[Pages/Patching/Multipatching]]"
+depth: 2
 tags:
   - "type/page"
   - "section/patch"

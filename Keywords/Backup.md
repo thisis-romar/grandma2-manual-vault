@@ -4,7 +4,7 @@ keyword: "Backup"
 slug: "key_keyword_backup"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_backup.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Backup]]"
+related_key: "[[Keys/Backup Key]]"
 tags:
   - "type/keyword"
 ---

@@ -4,8 +4,10 @@ title_str: "Timer Pool"
 slug: "key_timers_timer_pool"
 url: "https://help.malighting.com/grandMA2/en/help/key_timers_timer_pool.html"
 section: "Timer"
+ma2_section: "key_timer"
 section_ref: "[[Sections/Timer]]"
-next_page: "[[Pages/Timer/Timer pool options]]"
+next_page: "[[Pages/Timer/Timer Pool Options]]"
+depth: 2
 tags:
   - "type/page"
   - "section/timers"
@@ -112,6 +114,6 @@ The current time of the timer can be assigned as the timing of a cue. Use the fo
 **Hint:**  
 You can play back a stopwatch or a countdown saved in the timer pool in the Clock. For more information see [Other System Tools - Clock](key_ost_clock.html).
 
-[[Pages/Timer/Timer pool options]] →
+[[Pages/Timer/Timer Pool Options]] →
 
 Part of [[Sections/Timer]] · [[000 Map of Content]]

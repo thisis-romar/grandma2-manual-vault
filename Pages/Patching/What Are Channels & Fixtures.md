@@ -4,8 +4,10 @@ title_str: "What Are Channels & Fixtures"
 slug: "key_patch_what_are_channel_fixture"
 url: "https://help.malighting.com/grandMA2/en/help/key_patch_what_are_channel_fixture.html"
 section: "Patching"
+ma2_section: "key_patch"
 section_ref: "[[Sections/Patching]]"
-next_page: "[[Pages/Patching/What is 3D and stage setup]]"
+next_page: "[[Pages/Patching/What is 3D and Stage setup]]"
+depth: 2
 tags:
   - "type/page"
   - "section/patch"
@@ -51,6 +53,6 @@ So to sum up. We call each device a fixture and each fixture can have a Channel 
 *   [Attributes](key_patch_attributes.html)
 *   [DMX break](key_patch_dmx_break.html)
 
-[[Pages/Patching/What is 3D and stage setup]] →
+[[Pages/Patching/What is 3D and Stage setup]] →
 
 Part of [[Sections/Patching]] · [[000 Map of Content]]

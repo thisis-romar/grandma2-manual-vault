@@ -4,9 +4,11 @@ title_str: "View Buttons"
 slug: "key_widget_view_buttons"
 url: "https://help.malighting.com/grandMA2/en/help/key_widget_view_buttons.html"
 section: "Workspace"
+ma2_section: "key_workspace"
 section_ref: "[[Sections/Workspace]]"
-prev_page: "[[Pages/Workspace/X-Key labels]]"
-next_page: "[[Pages/Workspace/Master section]]"
+prev_page: "[[Pages/Workspace/X-Key Labels]]"
+next_page: "[[Pages/Workspace/Master Section]]"
+depth: 3
 tags:
   - "type/page"
   - "section/widget"
@@ -89,6 +91,6 @@ The view button X-Key is structured in four areas.
 
 For more information about views, see [work with views](key_ws_work_with_views.html).
 
-← [[Pages/Workspace/X-Key labels]] | [[Pages/Workspace/Master section]] →
+← [[Pages/Workspace/X-Key Labels]] | [[Pages/Workspace/Master Section]] →
 
 Part of [[Sections/Workspace]] · [[000 Map of Content]]

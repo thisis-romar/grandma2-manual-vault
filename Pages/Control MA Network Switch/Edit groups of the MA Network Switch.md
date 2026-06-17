@@ -4,9 +4,11 @@ title_str: "Edit groups of the MA Network Switch"
 slug: "key_control_ma_switch_groups"
 url: "https://help.malighting.com/grandMA2/en/help/key_control_ma_switch_groups.html"
 section: "Control MA Network Switch"
+ma2_section: "key_control_ma_switch"
 section_ref: "[[Sections/Control MA Network Switch]]"
-prev_page: "[[Pages/Control MA Network Switch/Configure ports]]"
-next_page: "[[Pages/Control MA Network Switch/Edit presets]]"
+prev_page: "[[Pages/Control MA Network Switch/Configure ports of the MA Network Switch]]"
+next_page: "[[Pages/Control MA Network Switch/Edit presets of the MA Network Switch]]"
+depth: 2
 tags:
   - "type/page"
   - "section/control"
@@ -152,6 +154,6 @@ To edit groups:
 
 The groups are configured and the changes are saved in the startup configuration.
 
-← [[Pages/Control MA Network Switch/Configure ports]] | [[Pages/Control MA Network Switch/Edit presets]] →
+← [[Pages/Control MA Network Switch/Configure ports of the MA Network Switch]] | [[Pages/Control MA Network Switch/Edit presets of the MA Network Switch]] →
 
 Part of [[Sections/Control MA Network Switch]] · [[000 Map of Content]]

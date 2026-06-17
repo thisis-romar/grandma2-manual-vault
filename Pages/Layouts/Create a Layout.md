@@ -4,8 +4,10 @@ title_str: "Create a Layout"
 slug: "key_layouts_create"
 url: "https://help.malighting.com/grandMA2/en/help/key_layouts_create.html"
 section: "Layouts"
+ma2_section: "key_layouts"
 section_ref: "[[Sections/Layouts]]"
-next_page: "[[Pages/Layouts/Layout pool options]]"
+next_page: "[[Pages/Layouts/Layout Pool Options]]"
+depth: 2
 tags:
   - "type/page"
   - "section/layouts"
@@ -63,6 +65,6 @@ To operate the layouts faster and to have all at a glance, arrange the layouts a
 
 _All at a glance – layouts, groups and the layout view_
 
-[[Pages/Layouts/Layout pool options]] →
+[[Pages/Layouts/Layout Pool Options]] →
 
 Part of [[Sections/Layouts]] · [[000 Map of Content]]

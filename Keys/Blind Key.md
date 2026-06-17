@@ -3,7 +3,7 @@ type: "key"
 key_label: "Blind Key"
 slug: "key_key_blind"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_blind.html"
-related_keyword: "[[Keywords/Blind Key]]"
+related_keyword: "[[Keywords/Blind keyword]]"
 tags:
   - "type/key"
 ---

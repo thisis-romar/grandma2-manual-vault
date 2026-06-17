@@ -4,7 +4,7 @@ keyword: "Store"
 slug: "key_keyword_store"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_store.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Store]]"
+related_key: "[[Keys/Store Key]]"
 tags:
   - "type/keyword"
 ---

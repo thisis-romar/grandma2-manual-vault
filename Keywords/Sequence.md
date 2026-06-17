@@ -4,7 +4,7 @@ keyword: "Sequence"
 slug: "key_keyword_sequence"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_sequence.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Sequence]]"
+related_key: "[[Keys/Sequ (Sequence) Key]]"
 tags:
   - "type/keyword"
 ---

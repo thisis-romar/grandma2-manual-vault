@@ -4,7 +4,6 @@ keyword: "Export"
 slug: "key_keyword_export"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_export.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Export]]"
 tags:
   - "type/keyword"
 ---

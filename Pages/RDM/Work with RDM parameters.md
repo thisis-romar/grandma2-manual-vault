@@ -4,9 +4,11 @@ title_str: "Work with RDM parameters"
 slug: "key_rdm_setparameter"
 url: "https://help.malighting.com/grandMA2/en/help/key_rdm_setparameter.html"
 section: "RDM"
+ma2_section: "key_rdm"
 section_ref: "[[Sections/RDM]]"
-prev_page: "[[Pages/RDM/Auto patch RDM devices]]"
+prev_page: "[[Pages/RDM/Auto Patch RDM Devices]]"
 next_page: "[[Pages/RDM/Work with RDM sensors]]"
+depth: 2
 tags:
   - "type/page"
   - "section/rdm"
@@ -139,6 +141,6 @@ You can delete previous added RDM parameters.
 
 The parameter is deleted.
 
-← [[Pages/RDM/Auto patch RDM devices]] | [[Pages/RDM/Work with RDM sensors]] →
+← [[Pages/RDM/Auto Patch RDM Devices]] | [[Pages/RDM/Work with RDM sensors]] →
 
 Part of [[Sections/RDM]] · [[000 Map of Content]]

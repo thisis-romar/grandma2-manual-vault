@@ -4,7 +4,6 @@ keyword: "Remove"
 slug: "key_keyword_remove"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_remove.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Remove]]"
 tags:
   - "type/keyword"
 ---

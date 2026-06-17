@@ -4,7 +4,7 @@ keyword: "Assign keyword"
 slug: "key_keyword_assign"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_assign.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Assign keyword]]"
+related_key: "[[Keys/Assign Key]]"
 tags:
   - "type/keyword"
 ---

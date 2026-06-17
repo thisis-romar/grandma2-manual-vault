@@ -4,7 +4,6 @@ keyword: "ShuffleSelection"
 slug: "key_keyword_shuffleselection"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_shuffleselection.html"
 keyword_type: "unknown"
-related_key: "[[Keys/ShuffleSelection]]"
 tags:
   - "type/keyword"
 ---

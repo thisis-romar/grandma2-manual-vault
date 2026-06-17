@@ -4,8 +4,10 @@ title_str: "Use Predefined Effects"
 slug: "key_effects_predefined"
 url: "https://help.malighting.com/grandMA2/en/help/key_effects_predefined.html"
 section: "Effects"
+ma2_section: "key_effects"
 section_ref: "[[Sections/Effects]]"
-next_page: "[[Pages/Effects/Use template and selective effects]]"
+next_page: "[[Pages/Effects/Use Template and Selective Effects]]"
+depth: 2
 tags:
   - "type/page"
   - "section/effects"
@@ -452,6 +454,6 @@ Sets the range of a value. 
 
 To close the effect line editor, tap ![](../../img/icon_close_small_v3-2.png) in the upper right corner.
 
-[[Pages/Effects/Use template and selective effects]] →
+[[Pages/Effects/Use Template and Selective Effects]] →
 
 Part of [[Sections/Effects]] · [[000 Map of Content]]

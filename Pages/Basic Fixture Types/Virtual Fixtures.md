@@ -4,8 +4,10 @@ title_str: "Virtual Fixtures"
 slug: "key_basic_fixture_type_virtual"
 url: "https://help.malighting.com/grandMA2/en/help/key_basic_fixture_type_virtual.html"
 section: "Basic Fixture Types"
+ma2_section: "key_basic_fixture"
 section_ref: "[[Sections/Basic Fixture Types]]"
-prev_page: "[[Pages/Basic Fixture Types/Media server]]"
+prev_page: "[[Pages/Basic Fixture Types/Media Server]]"
+depth: 3
 tags:
   - "type/page"
   - "section/basic"
@@ -30,6 +32,6 @@ It can include:
 *   Moving Paths for moving elements in MA 3D
 *   Figure in MA 3D
 
-← [[Pages/Basic Fixture Types/Media server]]
+← [[Pages/Basic Fixture Types/Media Server]]
 
 Part of [[Sections/Basic Fixture Types]] · [[000 Map of Content]]

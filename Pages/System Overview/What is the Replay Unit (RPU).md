@@ -4,8 +4,10 @@ title_str: "What is the Replay Unit (RPU)"
 slug: "key_so_what_is_the_replay_unit_rpu"
 url: "https://help.malighting.com/grandMA2/en/help/key_so_what_is_the_replay_unit_rpu.html"
 section: "System Overview"
+ma2_section: "key_so_system_overview"
 section_ref: "[[Sections/System Overview]]"
-next_page: "[[Pages/System Overview/What is the network processing unit (NPU)]]"
+next_page: "[[Pages/System Overview/What is the Network Processing Unit (NPU)]]"
+depth: 3
 tags:
   - "type/page"
   - "section/so"
@@ -28,6 +30,6 @@ It functions exactly like a console in the system.
 
 For more information see grandMA2 replay unit (RPU) [general description](key_device_overview_grandma2_replay_unit_rpu.html) and [technical data](<key_technical_data.html#grandMA2 replay unit>).
 
-[[Pages/System Overview/What is the network processing unit (NPU)]] →
+[[Pages/System Overview/What is the Network Processing Unit (NPU)]] →
 
 Part of [[Sections/System Overview]] · [[000 Map of Content]]

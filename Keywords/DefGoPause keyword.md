@@ -4,7 +4,6 @@ keyword: "DefGoPause keyword"
 slug: "key_keyword_defgopause"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_defgopause.html"
 keyword_type: "unknown"
-related_key: "[[Keys/DefGoPause keyword]]"
 tags:
   - "type/keyword"
 ---

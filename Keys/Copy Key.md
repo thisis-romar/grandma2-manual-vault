@@ -3,7 +3,7 @@ type: "key"
 key_label: "Copy Key"
 slug: "key_key_copy"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_copy.html"
-related_keyword: "[[Keywords/Copy Key]]"
+related_keyword: "[[Keywords/Copy keyword]]"
 tags:
   - "type/key"
 ---

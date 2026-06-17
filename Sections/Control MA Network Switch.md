@@ -7,22 +7,22 @@ page_count: 16
 tags:
   - "type/section"
 pages:
-  - "[[Pages/Control MA Network Switch/Add MA Network Switch]]"
-  - "[[Pages/Control MA Network Switch/Change IP address]]"
-  - "[[Pages/Control MA Network Switch/Enable DHCP client]]"
-  - "[[Pages/Control MA Network Switch/Change hostname]]"
+  - "[[Pages/Control MA Network Switch/Add the MA Network Switch to the network configuration]]"
+  - "[[Pages/Control MA Network Switch/Change IP address of the MA Network Switch]]"
+  - "[[Pages/Control MA Network Switch/Enable DHCP client for the MA Network Switch]]"
+  - "[[Pages/Control MA Network Switch/Change hostname of the MA Network Switch]]"
   - "[[Pages/Control MA Network Switch/Change switch ID]]"
-  - "[[Pages/Control MA Network Switch/Configure ports]]"
-  - "[[Pages/Control MA Network Switch/Edit groups]]"
-  - "[[Pages/Control MA Network Switch/Edit presets]]"
-  - "[[Pages/Control MA Network Switch/Edit LAGs]]"
-  - "[[Pages/Control MA Network Switch/Mirror ports]]"
+  - "[[Pages/Control MA Network Switch/Configure ports of the MA Network Switch]]"
+  - "[[Pages/Control MA Network Switch/Edit groups of the MA Network Switch]]"
+  - "[[Pages/Control MA Network Switch/Edit presets of the MA Network Switch]]"
+  - "[[Pages/Control MA Network Switch/Edit Link Aggregation Groups of the MA Network Switch]]"
+  - "[[Pages/Control MA Network Switch/Mirror Ports of the MA Network Switch]]"
   - "[[Pages/Control MA Network Switch/Work with the switch configuration]]"
   - "[[Pages/Control MA Network Switch/Disable SNMP]]"
-  - "[[Pages/Control MA Network Switch/Change password]]"
-  - "[[Pages/Control MA Network Switch/Update firmware]]"
-  - "[[Pages/Control MA Network Switch/Reset to factory defaults]]"
-  - "[[Pages/Control MA Network Switch/Delete MA Network Switch]]"
+  - "[[Pages/Control MA Network Switch/Change password of the MA Network Switch]]"
+  - "[[Pages/Control MA Network Switch/Update firmware of the MA Network Switch]]"
+  - "[[Pages/Control MA Network Switch/Reset the MA Network Switch to its factory defaults]]"
+  - "[[Pages/Control MA Network Switch/Delete MA Network Switch from the network configuration]]"
 ---
 
 # Control the MA Network Switch from a grandMA2
@@ -65,21 +65,21 @@ This chapter explains how to control the MA Network Switch from a grandMA2 conso
 
 ## Pages in This Section
 
-- [[Pages/Control MA Network Switch/Add MA Network Switch]]
-- [[Pages/Control MA Network Switch/Change IP address]]
-- [[Pages/Control MA Network Switch/Enable DHCP client]]
-- [[Pages/Control MA Network Switch/Change hostname]]
+- [[Pages/Control MA Network Switch/Add the MA Network Switch to the network configuration]]
+- [[Pages/Control MA Network Switch/Change IP address of the MA Network Switch]]
+- [[Pages/Control MA Network Switch/Enable DHCP client for the MA Network Switch]]
+- [[Pages/Control MA Network Switch/Change hostname of the MA Network Switch]]
 - [[Pages/Control MA Network Switch/Change switch ID]]
-- [[Pages/Control MA Network Switch/Configure ports]]
-- [[Pages/Control MA Network Switch/Edit groups]]
-- [[Pages/Control MA Network Switch/Edit presets]]
-- [[Pages/Control MA Network Switch/Edit LAGs]]
-- [[Pages/Control MA Network Switch/Mirror ports]]
+- [[Pages/Control MA Network Switch/Configure ports of the MA Network Switch]]
+- [[Pages/Control MA Network Switch/Edit groups of the MA Network Switch]]
+- [[Pages/Control MA Network Switch/Edit presets of the MA Network Switch]]
+- [[Pages/Control MA Network Switch/Edit Link Aggregation Groups of the MA Network Switch]]
+- [[Pages/Control MA Network Switch/Mirror Ports of the MA Network Switch]]
 - [[Pages/Control MA Network Switch/Work with the switch configuration]]
 - [[Pages/Control MA Network Switch/Disable SNMP]]
-- [[Pages/Control MA Network Switch/Change password]]
-- [[Pages/Control MA Network Switch/Update firmware]]
-- [[Pages/Control MA Network Switch/Reset to factory defaults]]
-- [[Pages/Control MA Network Switch/Delete MA Network Switch]]
+- [[Pages/Control MA Network Switch/Change password of the MA Network Switch]]
+- [[Pages/Control MA Network Switch/Update firmware of the MA Network Switch]]
+- [[Pages/Control MA Network Switch/Reset the MA Network Switch to its factory defaults]]
+- [[Pages/Control MA Network Switch/Delete MA Network Switch from the network configuration]]
 
 Part of [[000 Map of Content]]

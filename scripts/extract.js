@@ -370,6 +370,28 @@ function sanitizeFilename(name) {
     .trim();
 }
 
+/**
+ * Canonical note basename for an entry, derived from its fetched content.
+ * The SAME value is used both for the file path and for every wikilink that
+ * targets this entry, so links always match filenames (no case/title drift).
+ */
+function computeFileName(entry, content) {
+  const displayTitle = (content && content.title) || entry.title;
+  switch (entry.type) {
+    case 'keyword':
+      return sanitizeFilename(displayTitle.replace(/ Keyword$/, '').trim() || entry.slug.replace('key_keyword_', ''));
+    case 'key':
+      return sanitizeFilename(displayTitle.replace(/\[.*?\]/g, '').trim() || entry.slug.replace('key_key_', ''));
+    case 'section':
+      return sanitizeFilename(sectionFromSlug(entry.slug));
+    case 'quick-start':
+      return sanitizeFilename(displayTitle);
+    case 'page':
+    default:
+      return sanitizeFilename(displayTitle);
+  }
+}
+
 /** Build YAML frontmatter string */
 function buildFrontmatter(fields) {
   const lines = ['---'];
@@ -400,14 +422,14 @@ function buildAliases(metaKeywords, metaSearchwords, title) {
 }
 
 /** keyword note */
-function buildKeywordNote(entry, content) {
+function buildKeywordNote(entry, content, keyEntry) {
   const { title, metaKeywords, metaSearchwords, bodyMarkdown } = content;
   const keywordName = entry.slug.replace('key_keyword_', '');
   const displayName = title.replace(/ Keyword$/, '').trim() || keywordName;
   const aliases = buildAliases(metaKeywords, metaSearchwords, title);
 
-  // Check for matching key note
-  const relatedKey = `[[Keys/${sanitizeFilename(displayName)}]]`;
+  // Link to the matching console key note only when one actually exists.
+  const relatedKey = keyEntry ? `[[Keys/${keyEntry.fileName}]]` : null;
 
   const fm = buildFrontmatter({
     type:             'keyword',
@@ -430,12 +452,13 @@ function buildKeywordNote(entry, content) {
 }
 
 /** console key note */
-function buildKeyNote(entry, content) {
+function buildKeyNote(entry, content, keywordEntry) {
   const { title, metaKeywords, metaSearchwords, bodyMarkdown } = content;
   const keyName = entry.slug.replace('key_key_', '');
   const displayName = title.replace(/\[.*?\]/g, '').trim() || keyName;
   const aliases = buildAliases(metaKeywords, metaSearchwords, title);
-  const relatedKw = `[[Keywords/${sanitizeFilename(displayName)}]]`;
+  // Link to the matching keyword note only when one actually exists.
+  const relatedKw = keywordEntry ? `[[Keywords/${keywordEntry.fileName}]]` : null;
 
   const fm = buildFrontmatter({
     type:              'key',
@@ -462,7 +485,9 @@ function buildSectionNote(entry, content, childEntries) {
   // each page's `section_ref` resolves to this note.
   const sectionName = sectionFromSlug(entry.slug);
   const aliases = buildAliases(metaKeywords, metaSearchwords, title);
-  const childLinks = childEntries.map(c => `- [[Pages/${sanitizeFilename(sectionFromSlug(c.slug))}/${sanitizeFilename(c.title)}]]`);
+  // Use each child's canonical fileName + its own section folder so links match files.
+  const pageLink = c => `[[Pages/${c.sectionName}/${c.fileName}]]`;
+  const childLinks = childEntries.map(c => `- ${pageLink(c)}`);
 
   const fm = buildFrontmatter({
     type:        'section',
@@ -472,7 +497,7 @@ function buildSectionNote(entry, content, childEntries) {
     page_count:  childEntries.length,
     aliases,
     tags:        ['type/section'],
-    pages:       childEntries.map(c => `[[Pages/${sanitizeFilename(sectionFromSlug(c.slug))}/${sanitizeFilename(c.title)}]]`),
+    pages:       childEntries.map(pageLink),
   });
 
   const source = `\n> [!source]- Source\n> [MA Lighting Help – ${sectionTitle}](${entry.url})\n`;
@@ -486,19 +511,23 @@ function buildSectionNote(entry, content, childEntries) {
 }
 
 /** page note */
-function buildPageNote(entry, content, siblingEntries) {
+function buildPageNote(entry, content, siblingEntries, sectionEntry) {
   const { title, metaKeywords, metaSearchwords, bodyMarkdown } = content;
   const pageTitle = title || entry.title;
   const sectionName = sectionFromSlug(entry.slug);
   const aliases = buildAliases(metaKeywords, metaSearchwords, title);
 
-  // Find prev/next sibling
+  // Section note this page belongs to (filename must match the Sections/ note).
+  const sectionFile = sectionEntry ? sectionEntry.fileName : sanitizeFilename(sectionName);
+  const sectionLink = `[[Sections/${sectionFile}]]`;
+
+  // Find prev/next sibling (pages only) — link via each sibling's canonical fileName.
   const idx = siblingEntries.findIndex(s => s.url === entry.url);
   const prevEntry = idx > 0 ? siblingEntries[idx - 1] : null;
   const nextEntry = idx >= 0 && idx < siblingEntries.length - 1 ? siblingEntries[idx + 1] : null;
 
-  const prevLink = prevEntry ? `[[Pages/${sanitizeFilename(sectionName)}/${sanitizeFilename(prevEntry.title)}]]` : null;
-  const nextLink = nextEntry ? `[[Pages/${sanitizeFilename(sectionName)}/${sanitizeFilename(nextEntry.title)}]]` : null;
+  const prevLink = prevEntry ? `[[Pages/${prevEntry.sectionName}/${prevEntry.fileName}]]` : null;
+  const nextLink = nextEntry ? `[[Pages/${nextEntry.sectionName}/${nextEntry.fileName}]]` : null;
 
   const fm = buildFrontmatter({
     type:         'page',
@@ -506,9 +535,11 @@ function buildPageNote(entry, content, siblingEntries) {
     slug:         entry.slug,
     url:          entry.url,
     section:      sectionName,
-    section_ref:  `[[Sections/${sanitizeFilename(sectionName)}]]`,
+    ma2_section:  sectionEntry ? sectionEntry.slug : entry.slug,
+    section_ref:  sectionLink,
     prev_page:    prevLink,
     next_page:    nextLink,
+    depth:        Math.max(2, Math.min((entry.depth || 3) - 1, 3)),
     aliases,
     tags:         ['type/page', `section/${entry.slug.replace('key_', '').split('_')[0]}`],
   });
@@ -521,7 +552,7 @@ function buildPageNote(entry, content, siblingEntries) {
   if (nextLink) navParts.push(`${nextLink} →`);
   const nav = navParts.length > 0 ? `\n\n${navParts.join(' | ')}` : '';
 
-  const footer = `${nav}\n\nPart of [[Sections/${sanitizeFilename(sectionName)}]] · [[000 Map of Content]]`;
+  const footer = `${nav}\n\nPart of ${sectionLink} · [[000 Map of Content]]`;
 
   return `${fm}\n\n# ${pageTitle}\n${source}\n${body}${footer}\n`;
 }
@@ -583,72 +614,97 @@ async function main() {
     childMap.get(entry.parentUrl).push(entry);
   }
 
-  // 5. Process each entry
+  // Lookups used across both passes
+  const entryByUrl = new Map(allEntries.map(e => [e.url, e]));
+
+  // ── PASS 1: fetch all pages, assign canonical fileName + sectionName ────────
+  // Cross-reference links must point at the exact filename each target will get,
+  // so every page is fetched before any note is built.
   const limit = pLimit(CONCURRENCY);
-  let written = 0;
   let errors = 0;
 
-  const tasks = allEntries.map(entry => limit(async () => {
+  const fetchTasks = allEntries.map(entry => limit(async () => {
     await new Promise(r => setTimeout(r, FETCH_DELAY_MS));
-
-    let content;
     try {
-      content = await extractPageContent(entry.url);
+      entry.content = await extractPageContent(entry.url);
     } catch (err) {
       console.error(`  ERROR fetching ${entry.url}: ${err.message}`);
+      entry.content = null;
       errors++;
-      return;
     }
+    entry.fileName = computeFileName(entry, entry.content);
+    entry.sectionName = sanitizeFilename(sectionFromSlug(entry.slug));
+  }));
+  await Promise.all(fetchTasks);
 
-    const displayTitle = content.title || entry.title;
+  // key ↔ keyword pairing by the shared slug name (key_key_X ↔ key_keyword_X)
+  const keywordBySlugName = new Map();
+  const keyBySlugName = new Map();
+  for (const e of allEntries) {
+    if (e.type === 'keyword') keywordBySlugName.set(e.slug.replace(/^key_keyword_/, ''), e);
+    if (e.type === 'key') keyBySlugName.set(e.slug.replace(/^key_key_/, ''), e);
+  }
+
+  // Nearest depth-2 section ancestor (for section_ref + ma2_section)
+  function sectionAncestor(entry) {
+    let cur = entry, guard = new Set();
+    while (cur && cur.parentUrl && !guard.has(cur.url)) {
+      guard.add(cur.url);
+      const parent = entryByUrl.get(cur.parentUrl);
+      if (!parent) break;
+      if (parent.type === 'section') return parent;
+      cur = parent;
+    }
+    return null;
+  }
+
+  // ── PASS 2: build & write notes ─────────────────────────────────────────────
+  let written = 0;
+
+  for (const entry of allEntries) {
+    const content = entry.content;
+    if (!content) continue; // failed fetch — skip (counted in errors)
+
     let noteContent = '';
     let relPath = '';
 
     switch (entry.type) {
       case 'keyword': {
-        const name = sanitizeFilename(displayTitle.replace(/ Keyword$/, '').trim() || entry.slug.replace('key_keyword_', ''));
-        relPath = `Keywords/${name}.md`;
-        noteContent = buildKeywordNote(entry, content);
+        relPath = `Keywords/${entry.fileName}.md`;
+        const keyEntry = keyBySlugName.get(entry.slug.replace(/^key_keyword_/, ''));
+        noteContent = buildKeywordNote(entry, content, keyEntry);
         break;
       }
       case 'key': {
-        const name = sanitizeFilename(displayTitle.replace(/\[.*?\]/g, '').trim() || entry.slug.replace('key_key_', ''));
-        relPath = `Keys/${name}.md`;
-        noteContent = buildKeyNote(entry, content);
+        relPath = `Keys/${entry.fileName}.md`;
+        const keywordEntry = keywordBySlugName.get(entry.slug.replace(/^key_key_/, ''));
+        noteContent = buildKeyNote(entry, content, keywordEntry);
         break;
       }
       case 'section': {
-        const sectionName = sanitizeFilename(sectionFromSlug(entry.slug));
-        const children = childMap.get(entry.url) || [];
-        relPath = `Sections/${sectionName}.md`;
+        relPath = `Sections/${entry.fileName}.md`;
+        const children = (childMap.get(entry.url) || []).filter(c => c.type === 'page');
         noteContent = buildSectionNote(entry, content, children);
         break;
       }
       case 'quick-start': {
-        const name = sanitizeFilename(displayTitle);
-        relPath = `QuickStart/${name}.md`;
+        relPath = `QuickStart/${entry.fileName}.md`;
         noteContent = buildQuickStartNote(entry, content);
         break;
       }
       case 'page':
       default: {
-        const sectionName = sanitizeFilename(sectionFromSlug(entry.slug));
-        const name = sanitizeFilename(displayTitle);
-        const siblings = childMap.get(entry.parentUrl) || [entry];
-        relPath = `Pages/${sectionName}/${name}.md`;
-        noteContent = buildPageNote(entry, content, siblings);
+        relPath = `Pages/${entry.sectionName}/${entry.fileName}.md`;
+        const siblings = (childMap.get(entry.parentUrl) || []).filter(s => s.type === 'page');
+        noteContent = buildPageNote(entry, content, siblings.length ? siblings : [entry], sectionAncestor(entry));
         break;
       }
     }
 
-    if (!DRY_RUN) {
-      await writeNote(relPath, noteContent);
-    }
+    if (!DRY_RUN) await writeNote(relPath, noteContent);
     written++;
-    if (written % 25 === 0) console.log(`  [${written}/${allEntries.length}] ...`);
-  }));
-
-  await Promise.all(tasks);
+    if (written % 50 === 0) console.log(`  [${written}/${allEntries.length}] ...`);
+  }
 
   console.log(`\n✓ Done. Written: ${written}, Errors: ${errors}`);
 

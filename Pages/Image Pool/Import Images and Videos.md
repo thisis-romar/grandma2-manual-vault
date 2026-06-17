@@ -4,8 +4,10 @@ title_str: "Import Images and Videos"
 slug: "key_image_import"
 url: "https://help.malighting.com/grandMA2/en/help/key_image_import.html"
 section: "Image Pool"
+ma2_section: "key_image"
 section_ref: "[[Sections/Image Pool]]"
-next_page: "[[Pages/Image Pool/Image limitations & guidelines for symbols]]"
+next_page: "[[Pages/Image Pool/Image Limitations and Guidelines for Symbols]]"
+depth: 2
 tags:
   - "type/page"
   - "section/image"
@@ -59,6 +61,6 @@ To use the proprietary third-party software:
 **Important:**  
 To import videos or images from a USB, save images or videos in the subfolder **gma2** on your USB first.
 
-[[Pages/Image Pool/Image limitations & guidelines for symbols]] →
+[[Pages/Image Pool/Image Limitations and Guidelines for Symbols]] →
 
 Part of [[Sections/Image Pool]] · [[000 Map of Content]]

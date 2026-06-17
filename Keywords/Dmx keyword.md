@@ -4,7 +4,6 @@ keyword: "Dmx keyword"
 slug: "key_keyword_dmx"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_dmx.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Dmx keyword]]"
 tags:
   - "type/keyword"
 ---

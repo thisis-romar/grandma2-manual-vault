@@ -4,9 +4,11 @@ title_str: "Working with MIB"
 slug: "key_adv_seq_mib"
 url: "https://help.malighting.com/grandMA2/en/help/key_adv_seq_mib.html"
 section: "Advanced Sequence Functionality"
+ma2_section: "key_adv_seq"
 section_ref: "[[Sections/Advanced Sequence Functionality]]"
 prev_page: "[[Pages/Advanced Sequence Functionality/Using different view sets in the sheets]]"
-next_page: "[[Pages/Advanced Sequence Functionality/Using cue modes]]"
+next_page: "[[Pages/Advanced Sequence Functionality/Using Cue Modes]]"
+depth: 2
 tags:
   - "type/page"
   - "section/adv"
@@ -123,6 +125,6 @@ Last time we played back the sequence, fixture 1 was red because it had preposit
 
 These issues may be minimized by not prepositioning too early, or by activating "MIB Never" in the Executor options, if you are to make major changes to your cues - Executor Options are described in the [Executor Options topic](key_adv_exec_options.html).
 
-← [[Pages/Advanced Sequence Functionality/Using different view sets in the sheets]] | [[Pages/Advanced Sequence Functionality/Using cue modes]] →
+← [[Pages/Advanced Sequence Functionality/Using different view sets in the sheets]] | [[Pages/Advanced Sequence Functionality/Using Cue Modes]] →
 
 Part of [[Sections/Advanced Sequence Functionality]] · [[000 Map of Content]]

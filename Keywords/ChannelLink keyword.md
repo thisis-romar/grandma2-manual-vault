@@ -4,7 +4,6 @@ keyword: "ChannelLink keyword"
 slug: "key_keyword_channellink"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_channellink.html"
 keyword_type: "unknown"
-related_key: "[[Keys/ChannelLink keyword]]"
 tags:
   - "type/keyword"
 ---

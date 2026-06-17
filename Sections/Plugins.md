@@ -8,7 +8,7 @@ tags:
   - "type/section"
 pages:
   - "[[Pages/Plugins/What is Lua]]"
-  - "[[Pages/Plugins/Edit plugins]]"
+  - "[[Pages/Plugins/Edit Plugins]]"
 ---
 
 # Plugins
@@ -40,6 +40,6 @@ For more information on Lua see the subtopic or click the link above.
 ## Pages in This Section
 
 - [[Pages/Plugins/What is Lua]]
-- [[Pages/Plugins/Edit plugins]]
+- [[Pages/Plugins/Edit Plugins]]
 
 Part of [[000 Map of Content]]

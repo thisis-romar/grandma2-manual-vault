@@ -4,8 +4,10 @@ title_str: "Message center"
 slug: "key_message_center"
 url: "https://help.malighting.com/grandMA2/en/help/key_message_center.html"
 section: "Other System Tools"
+ma2_section: "key_ost"
 section_ref: "[[Sections/Other System Tools]]"
 next_page: "[[Pages/Other System Tools/Help]]"
+depth: 2
 tags:
   - "type/page"
   - "section/message"

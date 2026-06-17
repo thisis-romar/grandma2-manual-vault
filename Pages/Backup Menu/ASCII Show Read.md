@@ -4,9 +4,11 @@ title_str: "ASCII Show Read"
 slug: "key_backup_menu_ascii_show_read"
 url: "https://help.malighting.com/grandMA2/en/help/key_backup_menu_ascii_show_read.html"
 section: "Backup Menu"
+ma2_section: "key_backup_menu"
 section_ref: "[[Sections/Backup Menu]]"
-prev_page: "[[Pages/Backup Menu/Partial show read]]"
-next_page: "[[Pages/Backup Menu/grandMA2 to grandMA3 show file converter]]"
+prev_page: "[[Pages/Backup Menu/Partial Show Read]]"
+next_page: "[[Pages/Backup Menu/grandMA2 to grandMA3 Show File Converter]]"
+depth: 2
 tags:
   - "type/page"
   - "section/backup"
@@ -119,6 +121,6 @@ Using the Setup Only and Data Only buttons also allows you to import the separat
 
 Importing from the show file will create different log files. These files can be seen in the three remaining tabs. The log files also exists in the "temp" folder in the consoles structure. To get to them a FTP connection is needed. Read about it in the [FTP Connection to Console and NPU topic](key_network_ftp.html).
 
-← [[Pages/Backup Menu/Partial show read]] | [[Pages/Backup Menu/grandMA2 to grandMA3 show file converter]] →
+← [[Pages/Backup Menu/Partial Show Read]] | [[Pages/Backup Menu/grandMA2 to grandMA3 Show File Converter]] →
 
 Part of [[Sections/Backup Menu]] · [[000 Map of Content]]

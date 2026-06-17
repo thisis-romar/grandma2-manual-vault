@@ -4,7 +4,6 @@ keyword: "ClearSelection keyword"
 slug: "key_keyword_clearselection"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_clearselection.html"
 keyword_type: "unknown"
-related_key: "[[Keys/ClearSelection keyword]]"
 tags:
   - "type/keyword"
 ---

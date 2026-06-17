@@ -4,9 +4,11 @@ title_str: "Configure the MA xPort Nodes in a Browser"
 slug: "key_control_ma_xport_node_configure_in_browser"
 url: "https://help.malighting.com/grandMA2/en/help/key_control_ma_xport_node_configure_in_browser.html"
 section: "Control MA xPort Nodes"
+ma2_section: "key_control_ma_xport_node"
 section_ref: "[[Sections/Control MA xPort Nodes]]"
-prev_page: "[[Pages/Control MA xPort Nodes/Configure the MA xPort Nodes in the console]]"
-next_page: "[[Pages/Control MA xPort Nodes/Configure the MA xPort Nodes as splitters or mergers]]"
+prev_page: "[[Pages/Control MA xPort Nodes/Configure the MA xPort Nodes in the Console]]"
+next_page: "[[Pages/Control MA xPort Nodes/Configure the MA xPort Nodes as Splitters or Mergers]]"
+depth: 2
 tags:
   - "type/page"
   - "section/control"
@@ -95,6 +97,6 @@ _Node Configuration_
 
 You have successfully logged out.
 
-← [[Pages/Control MA xPort Nodes/Configure the MA xPort Nodes in the console]] | [[Pages/Control MA xPort Nodes/Configure the MA xPort Nodes as splitters or mergers]] →
+← [[Pages/Control MA xPort Nodes/Configure the MA xPort Nodes in the Console]] | [[Pages/Control MA xPort Nodes/Configure the MA xPort Nodes as Splitters or Mergers]] →
 
 Part of [[Sections/Control MA xPort Nodes]] · [[000 Map of Content]]

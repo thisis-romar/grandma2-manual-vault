@@ -4,9 +4,11 @@ title_str: "Position fixtures in the virtual 3D stage"
 slug: "key_patch_position_fixtures"
 url: "https://help.malighting.com/grandMA2/en/help/key_patch_position_fixtures.html"
 section: "Patching"
+ma2_section: "key_patch"
 section_ref: "[[Sections/Patching]]"
-prev_page: "[[Pages/Patching/Virtual 3D cameras]]"
-next_page: "[[Pages/Patching/Auto calibrate fixture positions]]"
+prev_page: "[[Pages/Patching/Virtual 3D Cameras]]"
+next_page: "[[Pages/Patching/Auto-calibrate fixture positions]]"
+depth: 2
 tags:
   - "type/page"
   - "section/patch"
@@ -240,6 +242,6 @@ When the Fixture Positions pop-up is visible then you also have the same Encoder
 
 Editing a fixture gives you the same position and rotation XYZ options as the using the EditSetup and LiveSetup layer view (read above).
 
-← [[Pages/Patching/Virtual 3D cameras]] | [[Pages/Patching/Auto calibrate fixture positions]] →
+← [[Pages/Patching/Virtual 3D Cameras]] | [[Pages/Patching/Auto-calibrate fixture positions]] →
 
 Part of [[Sections/Patching]] · [[000 Map of Content]]

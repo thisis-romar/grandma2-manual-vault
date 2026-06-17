@@ -4,7 +4,6 @@ keyword: "PSR"
 slug: "key_keyword_psr"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_psr.html"
 keyword_type: "unknown"
-related_key: "[[Keys/PSR]]"
 tags:
   - "type/keyword"
 ---

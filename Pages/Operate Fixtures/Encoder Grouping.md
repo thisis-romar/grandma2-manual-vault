@@ -4,9 +4,11 @@ title_str: "Encoder Grouping"
 slug: "key_of_encoder_grouping"
 url: "https://help.malighting.com/grandMA2/en/help/key_of_encoder_grouping.html"
 section: "Operate Fixtures"
+ma2_section: "key_operate_fixtures"
 section_ref: "[[Sections/Operate Fixtures]]"
-prev_page: "[[Pages/Operate Fixtures/What is the programmer]]"
-next_page: "[[Pages/Operate Fixtures/Using the color picker]]"
+prev_page: "[[Pages/Operate Fixtures/What is the Programmer]]"
+next_page: "[[Pages/Operate Fixtures/Using The Color Picker]]"
+depth: 2
 tags:
   - "type/page"
   - "section/of"
@@ -55,6 +57,6 @@ Many attributes are already grouped, for example the function pan and tilt or RG
 Pan and tilt is grouped since the position a fixture occupies has two directions.   
 RGB is grouped, because the color consists of a mixture between red, green and blue.
 
-← [[Pages/Operate Fixtures/What is the programmer]] | [[Pages/Operate Fixtures/Using the color picker]] →
+← [[Pages/Operate Fixtures/What is the Programmer]] | [[Pages/Operate Fixtures/Using The Color Picker]] →
 
 Part of [[Sections/Operate Fixtures]] · [[000 Map of Content]]

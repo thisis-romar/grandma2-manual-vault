@@ -4,8 +4,10 @@ title_str: "Different Fixture Types"
 slug: "key_basic_fixture_type"
 url: "https://help.malighting.com/grandMA2/en/help/key_basic_fixture_type.html"
 section: "Basic Fixture Types"
+ma2_section: "key_basic_fixture"
 section_ref: "[[Sections/Basic Fixture Types]]"
 prev_page: "[[Pages/Basic Fixture Types/ColorMix vs. MixColor]]"
+depth: 2
 tags:
   - "type/page"
   - "section/basic"

@@ -3,7 +3,7 @@ type: "key"
 key_label: "Prev (Previous) Key"
 slug: "key_key_previous"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_previous.html"
-related_keyword: "[[Keywords/Prev (Previous) Key]]"
+related_keyword: "[[Keywords/Previous]]"
 tags:
   - "type/key"
 ---

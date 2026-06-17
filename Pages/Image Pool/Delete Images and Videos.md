@@ -4,8 +4,10 @@ title_str: "Delete Images and Videos"
 slug: "key_image_delete"
 url: "https://help.malighting.com/grandMA2/en/help/key_image_delete.html"
 section: "Image Pool"
+ma2_section: "key_image"
 section_ref: "[[Sections/Image Pool]]"
 prev_page: "[[Pages/Image Pool/Supported file formats]]"
+depth: 2
 tags:
   - "type/page"
   - "section/image"

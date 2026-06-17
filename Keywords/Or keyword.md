@@ -4,7 +4,6 @@ keyword: "Or keyword"
 slug: "key_keyword_or"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_or.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Or keyword]]"
 tags:
   - "type/keyword"
 ---

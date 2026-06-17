@@ -4,9 +4,11 @@ title_str: "Playing Back a Timecode Show"
 slug: "key_timecode_playing"
 url: "https://help.malighting.com/grandMA2/en/help/key_timecode_playing.html"
 section: "Timecode"
+ma2_section: "key_timecode"
 section_ref: "[[Sections/Timecode]]"
-prev_page: "[[Pages/Timecode/Edit a timecode show]]"
-next_page: "[[Pages/Timecode/Organize the show with multiple timecode shows]]"
+prev_page: "[[Pages/Timecode/Edit a Timecode Show]]"
+next_page: "[[Pages/Timecode/Organize The Show with Multiple Timecode Shows]]"
+depth: 2
 tags:
   - "type/page"
   - "section/timecode"
@@ -132,6 +134,6 @@ To play or generate timecode slot 1 use the [Go](key_keyword_go.html) command:
 
 Use [Off](key_keyword_off.html) to stop the generator. [Pause](key_keyword_pause.html) will pause the generator.
 
-← [[Pages/Timecode/Edit a timecode show]] | [[Pages/Timecode/Organize the show with multiple timecode shows]] →
+← [[Pages/Timecode/Edit a Timecode Show]] | [[Pages/Timecode/Organize The Show with Multiple Timecode Shows]] →
 
 Part of [[Sections/Timecode]] · [[000 Map of Content]]

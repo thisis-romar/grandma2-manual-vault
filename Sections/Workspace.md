@@ -7,11 +7,11 @@ page_count: 15
 tags:
   - "type/section"
 pages:
-  - "[[Pages/Workspace/User interface]]"
-  - "[[Pages/Workspace/Encoder bar]]"
-  - "[[Pages/Workspace/Encoder settings]]"
+  - "[[Pages/Workspace/User Interface]]"
+  - "[[Pages/Workspace/Encoder Bar]]"
+  - "[[Pages/Workspace/Encoder Settings]]"
   - "[[Pages/Workspace/Command wing bar]]"
-  - "[[Pages/Workspace/Command section]]"
+  - "[[Pages/Workspace/Command Section]]"
   - "[[Pages/Workspace/Mini executor bar]]"
   - "[[Pages/Workspace/Work with views]]"
   - "[[Pages/Workspace/Touch gestures]]"
@@ -77,11 +77,11 @@ Windows and views can be resized and moved. 
 
 ## Pages in This Section
 
-- [[Pages/Workspace/User interface]]
-- [[Pages/Workspace/Encoder bar]]
-- [[Pages/Workspace/Encoder settings]]
+- [[Pages/Workspace/User Interface]]
+- [[Pages/Workspace/Encoder Bar]]
+- [[Pages/Workspace/Encoder Settings]]
 - [[Pages/Workspace/Command wing bar]]
-- [[Pages/Workspace/Command section]]
+- [[Pages/Workspace/Command Section]]
 - [[Pages/Workspace/Mini executor bar]]
 - [[Pages/Workspace/Work with views]]
 - [[Pages/Workspace/Touch gestures]]

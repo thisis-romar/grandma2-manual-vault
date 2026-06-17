@@ -4,8 +4,10 @@ title_str: "Default Masters"
 slug: "key_adv_exec_spec_master_default"
 url: "https://help.malighting.com/grandMA2/en/help/key_adv_exec_spec_master_default.html"
 section: "Advanced Executor Functionality"
+ma2_section: "key_adv_exec"
 section_ref: "[[Sections/Advanced Executor Functionality]]"
-next_page: "[[Pages/Advanced Executor Functionality/Grand masters]]"
+next_page: "[[Pages/Advanced Executor Functionality/Grand Masters]]"
+depth: 3
 tags:
   - "type/page"
   - "section/adv"
@@ -40,6 +42,6 @@ The 11 masters are:
 *   **SpecialMaster 1.10 'IFad'** - this is also called StepInFade
 *   **SpecialMaster 1.11 'OFad'** - this is also called StepOutFade
 
-[[Pages/Advanced Executor Functionality/Grand masters]] →
+[[Pages/Advanced Executor Functionality/Grand Masters]] →
 
 Part of [[Sections/Advanced Executor Functionality]] · [[000 Map of Content]]

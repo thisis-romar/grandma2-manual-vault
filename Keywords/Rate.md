@@ -4,7 +4,6 @@ keyword: "Rate"
 slug: "key_keyword_rate"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_rate.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Rate]]"
 tags:
   - "type/keyword"
 ---

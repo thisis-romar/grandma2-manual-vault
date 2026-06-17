@@ -4,8 +4,10 @@ title_str: "Cue Colors"
 slug: "key_ws_colors_cue"
 url: "https://help.malighting.com/grandMA2/en/help/key_ws_colors_cue.html"
 section: "Workspace"
+ma2_section: "key_workspace"
 section_ref: "[[Sections/Workspace]]"
-prev_page: "[[Pages/Workspace/Marker]]"
+prev_page: "[[Pages/Workspace/Marker Colors]]"
+depth: 3
 tags:
   - "type/page"
   - "section/ws"
@@ -94,6 +96,6 @@ The cue color options are changed.
 
 To save the cue color option, save the option as default or save the view.
 
-← [[Pages/Workspace/Marker]]
+← [[Pages/Workspace/Marker Colors]]
 
 Part of [[Sections/Workspace]] · [[000 Map of Content]]

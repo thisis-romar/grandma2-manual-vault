@@ -3,7 +3,7 @@ type: "key"
 key_label: "Align Key"
 slug: "key_key_align"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_align.html"
-related_keyword: "[[Keywords/Align Key]]"
+related_keyword: "[[Keywords/Align keyword]]"
 tags:
   - "type/key"
 ---

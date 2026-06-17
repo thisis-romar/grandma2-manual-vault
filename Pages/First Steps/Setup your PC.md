@@ -4,9 +4,11 @@ title_str: "Setup your PC"
 slug: "key_fs_setup_your_pc"
 url: "https://help.malighting.com/grandMA2/en/help/key_fs_setup_your_pc.html"
 section: "First Steps"
+ma2_section: "key_first_steps"
 section_ref: "[[Sections/First Steps]]"
 prev_page: "[[Pages/First Steps/Connect grandMA2 fader wing]]"
-next_page: "[[Pages/First Steps/Turn on the console the first time]]"
+next_page: "[[Pages/First Steps/Turn on the Console the First Time]]"
+depth: 2
 tags:
   - "type/page"
   - "section/fs"
@@ -112,6 +114,6 @@ To select the dedicated AMD graphic card:
 
 grandMA2 onPC is using the dedicated AMD graphic card.
 
-← [[Pages/First Steps/Connect grandMA2 fader wing]] | [[Pages/First Steps/Turn on the console the first time]] →
+← [[Pages/First Steps/Connect grandMA2 fader wing]] | [[Pages/First Steps/Turn on the Console the First Time]] →
 
 Part of [[Sections/First Steps]] · [[000 Map of Content]]

@@ -4,9 +4,11 @@ title_str: "Connect Desk Lamps"
 slug: "key_fs_connect_desk_lamps"
 url: "https://help.malighting.com/grandMA2/en/help/key_fs_connect_desk_lamps.html"
 section: "First Steps"
+ma2_section: "key_first_steps"
 section_ref: "[[Sections/First Steps]]"
-prev_page: "[[Pages/First Steps/Connect power]]"
-next_page: "[[Pages/First Steps/Connect external screens]]"
+prev_page: "[[Pages/First Steps/Connect Power]]"
+next_page: "[[Pages/First Steps/Connect External Screens]]"
+depth: 2
 tags:
   - "type/page"
   - "section/fs"
@@ -33,6 +35,6 @@ _grandMA2 full-size desk lamp connectors_
 
 To adjust the intensity of the desk lamp see [adjust desk lights](key_window_desklights.html).
 
-← [[Pages/First Steps/Connect power]] | [[Pages/First Steps/Connect external screens]] →
+← [[Pages/First Steps/Connect Power]] | [[Pages/First Steps/Connect External Screens]] →
 
 Part of [[Sections/First Steps]] · [[000 Map of Content]]

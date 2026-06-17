@@ -4,7 +4,6 @@ keyword: "Quotation Marks \" \" Character"
 slug: "key_keyword_marks"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_marks.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Quotation Marks - - Character]]"
 tags:
   - "type/keyword"
 ---

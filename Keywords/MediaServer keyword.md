@@ -4,7 +4,6 @@ keyword: "MediaServer keyword"
 slug: "key_keyword_mediaserver"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_mediaserver.html"
 keyword_type: "unknown"
-related_key: "[[Keys/MediaServer keyword]]"
 tags:
   - "type/keyword"
 ---

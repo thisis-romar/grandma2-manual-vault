@@ -4,7 +4,6 @@ keyword: "ListFaderModules"
 slug: "key_keyword_listfadermodules"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_listfadermodules.html"
 keyword_type: "unknown"
-related_key: "[[Keys/ListFaderModules]]"
 tags:
   - "type/keyword"
 ---

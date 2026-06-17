@@ -4,8 +4,10 @@ title_str: "MAtricks Groups"
 slug: "key_matricks_groups"
 url: "https://help.malighting.com/grandMA2/en/help/key_matricks_groups.html"
 section: "MAtricks"
+ma2_section: "key_matricks"
 section_ref: "[[Sections/MAtricks]]"
-prev_page: "[[Pages/MAtricks/MAtricks wings]]"
+prev_page: "[[Pages/MAtricks/MAtricks Wings]]"
+depth: 2
 tags:
   - "type/page"
   - "section/matricks"
@@ -131,6 +133,6 @@ The fan starts in the first group and fans out toward the third group. 
 
 The fan function is set within the group.
 
-← [[Pages/MAtricks/MAtricks wings]]
+← [[Pages/MAtricks/MAtricks Wings]]
 
 Part of [[Sections/MAtricks]] · [[000 Map of Content]]

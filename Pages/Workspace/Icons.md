@@ -4,9 +4,11 @@ title_str: "Icons"
 slug: "key_ws_icons"
 url: "https://help.malighting.com/grandMA2/en/help/key_ws_icons.html"
 section: "Workspace"
+ma2_section: "key_workspace"
 section_ref: "[[Sections/Workspace]]"
 prev_page: "[[Pages/Workspace/Text indicators and symbols]]"
 next_page: "[[Pages/Workspace/Keyboard shortcuts]]"
+depth: 2
 tags:
   - "type/page"
   - "section/ws"

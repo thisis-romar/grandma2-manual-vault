@@ -4,8 +4,10 @@ title_str: "Module Manager"
 slug: "key_adv_fixture_anatomy_modules"
 url: "https://help.malighting.com/grandMA2/en/help/key_adv_fixture_anatomy_modules.html"
 section: "Advanced Fixture Types"
+ma2_section: "key_advanced_fixture_types"
 section_ref: "[[Sections/Advanced Fixture Types]]"
-next_page: "[[Pages/Advanced Fixture Types/Instance manager]]"
+next_page: "[[Pages/Advanced Fixture Types/Instance Manager]]"
+depth: 3
 tags:
   - "type/page"
   - "section/adv"
@@ -105,6 +107,6 @@ This is a show description of the different classes:
 *   **Preset**:  
     This class is used by the auto generated "Fixture Type" fixtures that appear in the Fixture Sheet and Channel Sheet. It should not be used by other fixtures.
 
-[[Pages/Advanced Fixture Types/Instance manager]] →
+[[Pages/Advanced Fixture Types/Instance Manager]] →
 
 Part of [[Sections/Advanced Fixture Types]] · [[000 Map of Content]]

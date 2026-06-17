@@ -4,7 +4,7 @@ keyword: "Freeze"
 slug: "key_keyword_freeze"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_freeze.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Freeze]]"
+related_key: "[[Keys/Freeze Key]]"
 tags:
   - "type/keyword"
 ---

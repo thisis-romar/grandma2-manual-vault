@@ -4,7 +4,6 @@ keyword: "Form"
 slug: "key_keyword_form"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_form.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Form]]"
 tags:
   - "type/keyword"
 ---

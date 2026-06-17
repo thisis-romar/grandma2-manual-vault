@@ -4,9 +4,11 @@ title_str: "Use the RDM sheet"
 slug: "key_rdm_rdm_sheets"
 url: "https://help.malighting.com/grandMA2/en/help/key_rdm_rdm_sheets.html"
 section: "RDM"
+ma2_section: "key_rdm"
 section_ref: "[[Sections/RDM]]"
 prev_page: "[[Pages/RDM/Configure RDM notifications]]"
 next_page: "[[Pages/RDM/Unmatch RDM devices]]"
+depth: 2
 tags:
   - "type/page"
   - "section/rdm"

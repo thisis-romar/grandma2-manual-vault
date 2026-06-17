@@ -3,7 +3,7 @@ type: "key"
 key_label: "Freeze Key"
 slug: "key_key_freeze"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_freeze.html"
-related_keyword: "[[Keywords/Freeze Key]]"
+related_keyword: "[[Keywords/Freeze]]"
 tags:
   - "type/key"
 ---

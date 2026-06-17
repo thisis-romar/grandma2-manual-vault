@@ -4,9 +4,11 @@ title_str: "Command Section"
 slug: "key_ws_command_section"
 url: "https://help.malighting.com/grandMA2/en/help/key_ws_command_section.html"
 section: "Workspace"
+ma2_section: "key_workspace"
 section_ref: "[[Sections/Workspace]]"
 prev_page: "[[Pages/Workspace/Command wing bar]]"
 next_page: "[[Pages/Workspace/Mini executor bar]]"
+depth: 2
 tags:
   - "type/page"
   - "section/ws"

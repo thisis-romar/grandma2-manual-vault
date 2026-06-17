@@ -4,9 +4,11 @@ title_str: "Parameter expansion"
 slug: "key_so_parameter_expansion"
 url: "https://help.malighting.com/grandMA2/en/help/key_so_parameter_expansion.html"
 section: "System Overview"
+ma2_section: "key_so_system_overview"
 section_ref: "[[Sections/System Overview]]"
 prev_page: "[[Pages/System Overview/Parameters vs. DMX channels]]"
 next_page: "[[Pages/System Overview/Big systems]]"
+depth: 2
 tags:
   - "type/page"
   - "section/so"

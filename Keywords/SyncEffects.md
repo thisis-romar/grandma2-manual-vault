@@ -4,7 +4,6 @@ keyword: "SyncEffects"
 slug: "key_keyword_synceffects"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_synceffects.html"
 keyword_type: "unknown"
-related_key: "[[Keys/SyncEffects]]"
 tags:
   - "type/keyword"
 ---

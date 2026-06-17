@@ -3,7 +3,7 @@ type: "key"
 key_label: "Cue Key"
 slug: "key_key_cue"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_cue.html"
-related_keyword: "[[Keywords/Cue Key]]"
+related_keyword: "[[Keywords/Cue keyword]]"
 tags:
   - "type/key"
 ---

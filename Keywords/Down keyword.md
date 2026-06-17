@@ -4,7 +4,7 @@ keyword: "Down keyword"
 slug: "key_keyword_down"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_down.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Down keyword]]"
+related_key: "[[Keys/Down Key]]"
 tags:
   - "type/keyword"
 ---

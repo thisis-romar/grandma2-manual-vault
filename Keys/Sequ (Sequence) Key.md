@@ -3,7 +3,7 @@ type: "key"
 key_label: "Sequ (Sequence) Key"
 slug: "key_key_sequence"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_sequence.html"
-related_keyword: "[[Keywords/Sequ (Sequence) Key]]"
+related_keyword: "[[Keywords/Sequence]]"
 tags:
   - "type/key"
 ---

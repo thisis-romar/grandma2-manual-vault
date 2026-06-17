@@ -4,8 +4,10 @@ title_str: "Add the MA Network Switch to the network configuration"
 slug: "key_control_ma_switch_add"
 url: "https://help.malighting.com/grandMA2/en/help/key_control_ma_switch_add.html"
 section: "Control MA Network Switch"
+ma2_section: "key_control_ma_switch"
 section_ref: "[[Sections/Control MA Network Switch]]"
-next_page: "[[Pages/Control MA Network Switch/Change IP address]]"
+next_page: "[[Pages/Control MA Network Switch/Change IP address of the MA Network Switch]]"
+depth: 2
 tags:
   - "type/page"
   - "section/control"
@@ -71,6 +73,6 @@ The default password admin of the MA Network Switch is not an active password pr
 
 The MA Network Switch is added to the network configuration and ready for further configuration.
 
-[[Pages/Control MA Network Switch/Change IP address]] →
+[[Pages/Control MA Network Switch/Change IP address of the MA Network Switch]] →
 
 Part of [[Sections/Control MA Network Switch]] · [[000 Map of Content]]

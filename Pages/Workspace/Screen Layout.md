@@ -4,8 +4,10 @@ title_str: "Screen Layout"
 slug: "key_ws_screen_layout"
 url: "https://help.malighting.com/grandMA2/en/help/key_ws_screen_layout.html"
 section: "Workspace"
+ma2_section: "key_workspace"
 section_ref: "[[Sections/Workspace]]"
-next_page: "[[Pages/Workspace/User-defined area]]"
+next_page: "[[Pages/Workspace/User-Defined Area]]"
+depth: 3
 tags:
   - "type/page"
   - "section/ws"
@@ -79,6 +81,6 @@ _Screen Layout of Screen 5 and Screen 6_
 1.  [User defined area](key_widget_user_defined_area.html) to create and arrange windows.
 2.  [View Buttons](key_widget_view_buttons.html) to recall user defined window arrangements.
 
-[[Pages/Workspace/User-defined area]] →
+[[Pages/Workspace/User-Defined Area]] →
 
 Part of [[Sections/Workspace]] · [[000 Map of Content]]

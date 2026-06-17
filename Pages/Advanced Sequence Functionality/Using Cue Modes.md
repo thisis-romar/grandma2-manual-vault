@@ -4,9 +4,11 @@ title_str: "Using Cue Modes"
 slug: "key_adv_seq_cue_modes"
 url: "https://help.malighting.com/grandMA2/en/help/key_adv_seq_cue_modes.html"
 section: "Advanced Sequence Functionality"
+ma2_section: "key_adv_seq"
 section_ref: "[[Sections/Advanced Sequence Functionality]]"
 prev_page: "[[Pages/Advanced Sequence Functionality/Working with MIB]]"
-next_page: "[[Pages/Advanced Sequence Functionality/Cue zero]]"
+next_page: "[[Pages/Advanced Sequence Functionality/Cue Zero]]"
+depth: 2
 tags:
   - "type/page"
   - "section/adv"
@@ -73,6 +75,6 @@ In other scenarios, you might want to re-establish the state, and assert the seq
 
 The **Release** mode might come in handy in shows where there is a lot of sequences that run through once and then turn off - until it is re-triggered. This could be a flash sequence being triggered by the main sequence. Instead of manually programming the sequence to turn Off, then it can be done automatically.
 
-← [[Pages/Advanced Sequence Functionality/Working with MIB]] | [[Pages/Advanced Sequence Functionality/Cue zero]] →
+← [[Pages/Advanced Sequence Functionality/Working with MIB]] | [[Pages/Advanced Sequence Functionality/Cue Zero]] →
 
 Part of [[Sections/Advanced Sequence Functionality]] · [[000 Map of Content]]

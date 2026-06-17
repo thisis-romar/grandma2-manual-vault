@@ -4,7 +4,7 @@ keyword: "Oops"
 slug: "key_keyword_oops"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_oops.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Oops]]"
+related_key: "[[Keys/Oops Key]]"
 tags:
   - "type/keyword"
 ---

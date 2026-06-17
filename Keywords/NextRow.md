@@ -4,7 +4,6 @@ keyword: "NextRow"
 slug: "key_keyword_nextrow"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_nextrow.html"
 keyword_type: "unknown"
-related_key: "[[Keys/NextRow]]"
 tags:
   - "type/keyword"
 ---

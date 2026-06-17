@@ -4,8 +4,10 @@ title_str: "FTP connection to console and NPU"
 slug: "key_network_ftp"
 url: "https://help.malighting.com/grandMA2/en/help/key_network_ftp.html"
 section: "Networking"
+ma2_section: "key_network"
 section_ref: "[[Sections/Networking]]"
 prev_page: "[[Pages/Networking/PosiStageNet (PSN)]]"
+depth: 2
 tags:
   - "type/page"
   - "section/network"

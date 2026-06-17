@@ -4,7 +4,6 @@ keyword: "Shutdown"
 slug: "key_keyword_shutdown"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_shutdown.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Shutdown]]"
 tags:
   - "type/keyword"
 ---

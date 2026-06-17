@@ -4,9 +4,11 @@ title_str: "Readout"
 slug: "key_ost_readout"
 url: "https://help.malighting.com/grandMA2/en/help/key_ost_readout.html"
 section: "Other System Tools"
+ma2_section: "key_ost"
 section_ref: "[[Sections/Other System Tools]]"
 prev_page: "[[Pages/Other System Tools/Errors]]"
-next_page: "[[Pages/Other System Tools/Edit properties of a rack]]"
+next_page: "[[Pages/Other System Tools/Edit Properties of a Rack]]"
+depth: 3
 tags:
   - "type/page"
   - "section/ost"
@@ -114,6 +116,6 @@ The view displays the following consumption data:
 **Hint:**  
 To display the consumption of single elements in the hierarchy, navigate down in the hierarchy while in the mode **Consumption Readout**. For more information on the hierarchy see [Network dimmer](key_ost_network_dimmer.html).
 
-← [[Pages/Other System Tools/Errors]] | [[Pages/Other System Tools/Edit properties of a rack]] →
+← [[Pages/Other System Tools/Errors]] | [[Pages/Other System Tools/Edit Properties of a Rack]] →
 
 Part of [[Sections/Other System Tools]] · [[000 Map of Content]]

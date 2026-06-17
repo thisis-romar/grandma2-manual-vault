@@ -4,9 +4,11 @@ title_str: "Cue Zero"
 slug: "key_adv_seq_cue_zero"
 url: "https://help.malighting.com/grandMA2/en/help/key_adv_seq_cue_zero.html"
 section: "Advanced Sequence Functionality"
+ma2_section: "key_adv_seq"
 section_ref: "[[Sections/Advanced Sequence Functionality]]"
-prev_page: "[[Pages/Advanced Sequence Functionality/Using cue modes]]"
+prev_page: "[[Pages/Advanced Sequence Functionality/Using Cue Modes]]"
 next_page: "[[Pages/Advanced Sequence Functionality/Sequence info window]]"
+depth: 2
 tags:
   - "type/page"
   - "section/adv"
@@ -73,6 +75,6 @@ When Extract is not activated then cue zero creates **links** to default values 
 
 When CueZero Extract is activated then, Cue Zero will get the actual default values when CueZero Extract or Cue Zero is activated and when new attributes are added. It is not a link to the default values, but the actual default value. This means that changing the default values afterwards will not change the look of the sequence. Deactivating CueZero Extract (or Cue Zero) and activating it again will store the new defaults.
 
-← [[Pages/Advanced Sequence Functionality/Using cue modes]] | [[Pages/Advanced Sequence Functionality/Sequence info window]] →
+← [[Pages/Advanced Sequence Functionality/Using Cue Modes]] | [[Pages/Advanced Sequence Functionality/Sequence info window]] →
 
 Part of [[Sections/Advanced Sequence Functionality]] · [[000 Map of Content]]

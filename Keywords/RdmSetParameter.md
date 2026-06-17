@@ -4,7 +4,6 @@ keyword: "RdmSetParameter"
 slug: "key_keyword_rdmsetparameter"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_rdmsetparameter.html"
 keyword_type: "unknown"
-related_key: "[[Keys/RdmSetParameter]]"
 tags:
   - "type/keyword"
 ---

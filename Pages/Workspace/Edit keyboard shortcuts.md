@@ -4,9 +4,11 @@ title_str: "Edit keyboard shortcuts"
 slug: "key_ws_keyboard_shortcuts_edit"
 url: "https://help.malighting.com/grandMA2/en/help/key_ws_keyboard_shortcuts_edit.html"
 section: "Workspace"
+ma2_section: "key_workspace"
 section_ref: "[[Sections/Workspace]]"
 prev_page: "[[Pages/Workspace/Turn on or turn off the keyboard shortcuts]]"
 next_page: "[[Pages/Workspace/Add or delete keyboard shortcuts]]"
+depth: 3
 tags:
   - "type/page"
   - "section/ws"

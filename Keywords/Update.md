@@ -4,7 +4,7 @@ keyword: "Update"
 slug: "key_keyword_update"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_update.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Update]]"
+related_key: "[[Keys/Update Key]]"
 tags:
   - "type/keyword"
 ---

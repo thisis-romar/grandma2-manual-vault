@@ -4,9 +4,11 @@ title_str: "Create user profiles and users"
 slug: "key_single_multi_systems_create"
 url: "https://help.malighting.com/grandMA2/en/help/key_single_multi_systems_create.html"
 section: "Single and Multi User Systems"
+ma2_section: "key_single_multi_systems"
 section_ref: "[[Sections/Single and Multi User Systems]]"
-prev_page: "[[Pages/Single and Multi User Systems/The difference between a single user and a multi user system]]"
-next_page: "[[Pages/Single and Multi User Systems/User settings]]"
+prev_page: "[[Pages/Single and Multi User Systems/What is the difference between a single-user and a multi-user system]]"
+next_page: "[[Pages/Single and Multi User Systems/User specific settings]]"
+depth: 2
 tags:
   - "type/page"
   - "section/single"
@@ -132,6 +134,6 @@ To create a new user with a new user profile you will need to do the following (
 11.  Change the user Rights if you need to.
 12.  Tap the Login button if you want to login immediately as this new user.
 
-← [[Pages/Single and Multi User Systems/The difference between a single user and a multi user system]] | [[Pages/Single and Multi User Systems/User settings]] →
+← [[Pages/Single and Multi User Systems/What is the difference between a single-user and a multi-user system]] | [[Pages/Single and Multi User Systems/User specific settings]] →
 
 Part of [[Sections/Single and Multi User Systems]] · [[000 Map of Content]]

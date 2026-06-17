@@ -4,7 +4,6 @@ keyword: "Load"
 slug: "key_keyword_load"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_load.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Load]]"
 tags:
   - "type/keyword"
 ---

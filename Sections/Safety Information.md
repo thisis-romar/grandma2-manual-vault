@@ -7,10 +7,10 @@ page_count: 4
 tags:
   - "type/section"
 pages:
-  - "[[Pages/Safety Information/Symbols used]]"
-  - "[[Pages/Safety Information/Intended use]]"
-  - "[[Pages/Safety Information/Dangers caused by electric current]]"
-  - "[[Pages/Safety Information/General safety instructions]]"
+  - "[[Pages/Safety Information/Symbols Used]]"
+  - "[[Pages/Safety Information/Intended Use]]"
+  - "[[Pages/Safety Information/Dangers Caused by Electric Current]]"
+  - "[[Pages/Safety Information/General Safety Instructions]]"
 ---
 
 # Safety Information
@@ -52,9 +52,9 @@ MA Lighting does not cover damages which can be the result of an inobservance of
 
 ## Pages in This Section
 
-- [[Pages/Safety Information/Symbols used]]
-- [[Pages/Safety Information/Intended use]]
-- [[Pages/Safety Information/Dangers caused by electric current]]
-- [[Pages/Safety Information/General safety instructions]]
+- [[Pages/Safety Information/Symbols Used]]
+- [[Pages/Safety Information/Intended Use]]
+- [[Pages/Safety Information/Dangers Caused by Electric Current]]
+- [[Pages/Safety Information/General Safety Instructions]]
 
 Part of [[000 Map of Content]]

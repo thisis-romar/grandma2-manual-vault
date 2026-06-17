@@ -55,14 +55,13 @@ function requiredFor(type) {
 async function collect(dir, rel, out) {
   const entries = await fs.readdir(dir, { withFileTypes: true });
   for (const e of entries) {
-    if (e.name.startsWith('.')) continue;
     const full = path.join(dir, e.name);
     const r = rel ? `${rel}/${e.name}` : e.name;
     if (e.isDirectory()) {
-      if (IGNORE_DIRS.has(e.name)) continue;
+      if (e.name.startsWith('.') || IGNORE_DIRS.has(e.name)) continue; // skip hidden dirs
       await collect(full, r, out);
     } else if (e.name.endsWith('.md') && !NON_NOTES.has(r)) {
-      out.push(r);
+      out.push(r); // include note files even if they start with '.' (e.g. ". Key.md")
     }
   }
 }
@@ -117,7 +116,9 @@ async function main() {
     // (c) frontmatter
     if (type) {
       const need = requiredFor(type);
-      const missing = need.filter((k) => !(k in data));
+      let missing = need.filter((k) => !(k in data));
+      // A section with no child pages legitimately has no `pages` list.
+      if (type === 'section' && Number(data.page_count) === 0) missing = missing.filter((k) => k !== 'pages');
       if (missing.length) findings.frontmatter.push(`${f}  [${type}] missing: ${missing.join(', ')}`);
 
       // (b) type vs location

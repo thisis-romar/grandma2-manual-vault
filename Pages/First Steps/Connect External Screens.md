@@ -4,9 +4,11 @@ title_str: "Connect External Screens"
 slug: "key_fs_connect_external_screens"
 url: "https://help.malighting.com/grandMA2/en/help/key_fs_connect_external_screens.html"
 section: "First Steps"
+ma2_section: "key_first_steps"
 section_ref: "[[Sections/First Steps]]"
-prev_page: "[[Pages/First Steps/Connect desk lamps]]"
-next_page: "[[Pages/First Steps/Connect USB mouse and USB keyboad]]"
+prev_page: "[[Pages/First Steps/Connect Desk Lamps]]"
+next_page: "[[Pages/First Steps/Connect USB Mouse and USB Keyboad]]"
+depth: 2
 tags:
   - "type/page"
   - "section/fs"
@@ -57,6 +59,6 @@ The external screens are connected.
 
 For more information see [change screen options](key_window_screenoptions.html).
 
-← [[Pages/First Steps/Connect desk lamps]] | [[Pages/First Steps/Connect USB mouse and USB keyboad]] →
+← [[Pages/First Steps/Connect Desk Lamps]] | [[Pages/First Steps/Connect USB Mouse and USB Keyboad]] →
 
 Part of [[Sections/First Steps]] · [[000 Map of Content]]

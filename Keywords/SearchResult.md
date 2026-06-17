@@ -4,7 +4,6 @@ keyword: "SearchResult"
 slug: "key_keyword_searchresult"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_searchresult.html"
 keyword_type: "unknown"
-related_key: "[[Keys/SearchResult]]"
 tags:
   - "type/keyword"
 ---

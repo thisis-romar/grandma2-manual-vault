@@ -4,9 +4,11 @@ title_str: "Mirror"
 slug: "key_basic_fixture_type_mirror"
 url: "https://help.malighting.com/grandMA2/en/help/key_basic_fixture_type_mirror.html"
 section: "Basic Fixture Types"
+ma2_section: "key_basic_fixture"
 section_ref: "[[Sections/Basic Fixture Types]]"
 prev_page: "[[Pages/Basic Fixture Types/LED]]"
-next_page: "[[Pages/Basic Fixture Types/Moving lights]]"
+next_page: "[[Pages/Basic Fixture Types/Moving Lights]]"
+depth: 3
 tags:
   - "type/page"
   - "section/basic"
@@ -25,6 +27,6 @@ The Mirror fixture type defines a type of fixtures with typically a discharge li
 
 The default model used in MA 3D is a classic Scanner type.
 
-← [[Pages/Basic Fixture Types/LED]] | [[Pages/Basic Fixture Types/Moving lights]] →
+← [[Pages/Basic Fixture Types/LED]] | [[Pages/Basic Fixture Types/Moving Lights]] →
 
 Part of [[Sections/Basic Fixture Types]] · [[000 Map of Content]]

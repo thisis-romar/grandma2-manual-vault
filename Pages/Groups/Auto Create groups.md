@@ -4,9 +4,11 @@ title_str: "Auto Create groups"
 slug: "key_groups_auto_create"
 url: "https://help.malighting.com/grandMA2/en/help/key_groups_auto_create.html"
 section: "Groups"
+ma2_section: "key_groups"
 section_ref: "[[Sections/Groups]]"
 prev_page: "[[Pages/Groups/Create groups]]"
 next_page: "[[Pages/Groups/Using groups when programming]]"
+depth: 2
 tags:
   - "type/page"
   - "section/groups"

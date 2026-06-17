@@ -4,9 +4,11 @@ title_str: "Image Limitations and Guidelines for Symbols"
 slug: "key_imag_limitations_guidelines"
 url: "https://help.malighting.com/grandMA2/en/help/key_imag_limitations_guidelines.html"
 section: "Image Pool"
+ma2_section: "key_image"
 section_ref: "[[Sections/Image Pool]]"
-prev_page: "[[Pages/Image Pool/Import images and videos]]"
+prev_page: "[[Pages/Image Pool/Import Images and Videos]]"
 next_page: "[[Pages/Image Pool/Supported file formats]]"
+depth: 2
 tags:
   - "type/page"
   - "section/imag"
@@ -38,6 +40,6 @@ There are few limitations regarding the size of images and the pool there. 
 *   Symbols have to be in alpha fill (transparent).
 *   The area around a symbol has to be black.
 
-← [[Pages/Image Pool/Import images and videos]] | [[Pages/Image Pool/Supported file formats]] →
+← [[Pages/Image Pool/Import Images and Videos]] | [[Pages/Image Pool/Supported file formats]] →
 
 Part of [[Sections/Image Pool]] · [[000 Map of Content]]

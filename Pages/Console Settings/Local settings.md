@@ -4,9 +4,11 @@ title_str: "Local settings"
 slug: "key_local_settings"
 url: "https://help.malighting.com/grandMA2/en/help/key_local_settings.html"
 section: "Console Settings"
+ma2_section: "key_console_settings"
 section_ref: "[[Sections/Console Settings]]"
-prev_page: "[[Pages/Console Settings/Change screen options]]"
-next_page: "[[Pages/Console Settings/Wing &amp; monitor setup]]"
+prev_page: "[[Pages/Console Settings/Change Screen Options]]"
+next_page: "[[Pages/Console Settings/Wing & Monitor Setup]]"
+depth: 2
 tags:
   - "type/page"
   - "section/local"
@@ -152,6 +154,6 @@ It is possible to lock the console, so no faders and keys can be used, by pressi
 *   **Image Pool Picture** opens the Image Pool for the current show file, to select one of these to be the background.
 *   **Current Desk UI** leaves the screens as they are, but places a red Desk Locked sign above the content.
 
-← [[Pages/Console Settings/Change screen options]] | [[Pages/Console Settings/Wing &amp; monitor setup]] →
+← [[Pages/Console Settings/Change Screen Options]] | [[Pages/Console Settings/Wing & Monitor Setup]] →
 
 Part of [[Sections/Console Settings]] · [[000 Map of Content]]

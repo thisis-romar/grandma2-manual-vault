@@ -3,7 +3,7 @@ type: "key"
 key_label: "Group Key"
 slug: "key_key_group"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_group.html"
-related_keyword: "[[Keywords/Group Key]]"
+related_keyword: "[[Keywords/Group]]"
 tags:
   - "type/key"
 ---

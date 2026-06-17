@@ -4,7 +4,6 @@ keyword: "Record"
 slug: "key_keyword_record"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_record.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Record]]"
 tags:
   - "type/keyword"
 ---

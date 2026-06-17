@@ -4,9 +4,11 @@ title_str: "Create Presets"
 slug: "key_presets_create"
 url: "https://help.malighting.com/grandMA2/en/help/key_presets_create.html"
 section: "Presets"
+ma2_section: "key_presets"
 section_ref: "[[Sections/Presets]]"
-prev_page: "[[Pages/Presets/Preset pool -Dynamic-]]"
-next_page: "[[Pages/Presets/Preset pool options]]"
+prev_page: "[[Pages/Presets/Preset Pool -Dynamic-]]"
+next_page: "[[Pages/Presets/Preset Pool Options]]"
+depth: 2
 tags:
   - "type/page"
   - "section/presets"
@@ -60,6 +62,6 @@ The store option is Preset Type Default by default. This setting falls back on t
 10.  To close the **Temporary Store Options**, tap ![](../../img/icon_close_small_v3-2.png) in the upper right corner of the pop-up. 
 11.  Eventually, tap an empty object you would like to store the preset to.
 
-← [[Pages/Presets/Preset pool -Dynamic-]] | [[Pages/Presets/Preset pool options]] →
+← [[Pages/Presets/Preset Pool -Dynamic-]] | [[Pages/Presets/Preset Pool Options]] →
 
 Part of [[Sections/Presets]] · [[000 Map of Content]]

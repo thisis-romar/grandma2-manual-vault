@@ -4,9 +4,11 @@ title_str: "Record a Timecode Show"
 slug: "key_timecode_record"
 url: "https://help.malighting.com/grandMA2/en/help/key_timecode_record.html"
 section: "Timecode"
+ma2_section: "key_timecode"
 section_ref: "[[Sections/Timecode]]"
-prev_page: "[[Pages/Timecode/What is timecode and timecode shows]]"
-next_page: "[[Pages/Timecode/Edit a timecode show]]"
+prev_page: "[[Pages/Timecode/What is Timecode and Timecode Shows]]"
+next_page: "[[Pages/Timecode/Edit a Timecode Show]]"
+depth: 2
 tags:
   - "type/page"
   - "section/timecode"
@@ -73,6 +75,6 @@ When the recording is done then tap the **Stop** (yellow square) button in the t
 
 All these action can of cause also be done from the command line. Please see the [Timecode Keyword](key_keyword_timecode.html) description for examples of all of the actions mentioned regarding the timecode show.
 
-← [[Pages/Timecode/What is timecode and timecode shows]] | [[Pages/Timecode/Edit a timecode show]] →
+← [[Pages/Timecode/What is Timecode and Timecode Shows]] | [[Pages/Timecode/Edit a Timecode Show]] →
 
 Part of [[Sections/Timecode]] · [[000 Map of Content]]

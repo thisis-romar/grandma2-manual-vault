@@ -4,7 +4,6 @@ keyword: "CrossfadeB keyword"
 slug: "key_keyword_crossfadeb"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_crossfadeb.html"
 keyword_type: "unknown"
-related_key: "[[Keys/CrossfadeB keyword]]"
 tags:
   - "type/keyword"
 ---

@@ -4,8 +4,10 @@ title_str: "Auto-calibrate fixture positions"
 slug: "key_patch_autocalibrate"
 url: "https://help.malighting.com/grandMA2/en/help/key_patch_autocalibrate.html"
 section: "Patching"
+ma2_section: "key_patch"
 section_ref: "[[Sections/Patching]]"
-prev_page: "[[Pages/Patching/Position fixtures in the 3D stage]]"
+prev_page: "[[Pages/Patching/Position fixtures in the virtual 3D stage]]"
+depth: 2
 tags:
   - "type/page"
   - "section/patch"
@@ -117,6 +119,6 @@ There are some rules and limitations using XYZ position programming:
 *   To fade fixture positions on the stage in a straight line between point A and B you need the XYZ parameters.
 *   Do not unblock sequences containing a mixture of XYZ and Pan/Tilt position data and do not "store /remove" or remove values to remove single attributes of the position preset type of cues when using XYZ. This could result in unexpected loss of position data inside your sequence.
 
-← [[Pages/Patching/Position fixtures in the 3D stage]]
+← [[Pages/Patching/Position fixtures in the virtual 3D stage]]
 
 Part of [[Sections/Patching]] · [[000 Map of Content]]

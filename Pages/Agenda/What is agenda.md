@@ -4,8 +4,10 @@ title_str: "What is agenda"
 slug: "key_agenda_what_is"
 url: "https://help.malighting.com/grandMA2/en/help/key_agenda_what_is.html"
 section: "Agenda"
+ma2_section: "key_agenda"
 section_ref: "[[Sections/Agenda]]"
 next_page: "[[Pages/Agenda/Create an appointment in the agenda]]"
+depth: 2
 tags:
   - "type/page"
   - "section/agenda"

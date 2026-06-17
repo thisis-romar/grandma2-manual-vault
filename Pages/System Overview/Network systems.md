@@ -4,9 +4,11 @@ title_str: "Network systems"
 slug: "key_so_network_systems"
 url: "https://help.malighting.com/grandMA2/en/help/key_so_network_systems.html"
 section: "System Overview"
+ma2_section: "key_so_system_overview"
 section_ref: "[[Sections/System Overview]]"
 prev_page: "[[Pages/System Overview/Standalone systems]]"
 next_page: "[[Pages/System Overview/Parameters vs. DMX channels]]"
+depth: 2
 tags:
   - "type/page"
   - "section/so"

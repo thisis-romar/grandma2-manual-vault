@@ -4,8 +4,10 @@ title_str: "Preset Control Bar"
 slug: "key_ws_preset_control_bar"
 url: "https://help.malighting.com/grandMA2/en/help/key_ws_preset_control_bar.html"
 section: "Workspace"
+ma2_section: "key_workspace"
 section_ref: "[[Sections/Workspace]]"
-next_page: "[[Pages/Workspace/Encoder toolbar]]"
+next_page: "[[Pages/Workspace/Encoder Toolbar]]"
+depth: 3
 tags:
   - "type/page"
   - "section/ws"
@@ -116,6 +118,6 @@ The preset control bar is on or off in the sheet.
 
 To save the preset control bar settings, save the setting as default or save the view.
 
-[[Pages/Workspace/Encoder toolbar]] →
+[[Pages/Workspace/Encoder Toolbar]] →
 
 Part of [[Sections/Workspace]] · [[000 Map of Content]]

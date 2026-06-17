@@ -3,7 +3,6 @@ type: "key"
 key_label: "User 1 Key"
 slug: "key_key_user1"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_user1.html"
-related_keyword: "[[Keywords/User 1 Key]]"
 tags:
   - "type/key"
 ---

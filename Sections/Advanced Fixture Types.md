@@ -7,7 +7,7 @@ page_count: 2
 tags:
   - "type/section"
 pages:
-  - "[[Pages/Advanced Fixture Types/Anatomy of a fixture type]]"
+  - "[[Pages/Advanced Fixture Types/Anatomy of a Fixture Type]]"
   - "[[Pages/Advanced Fixture Types/Attribute & Encoder Grouping]]"
 ---
 
@@ -37,7 +37,7 @@ A very important part of the structure, not only in fixtures, but in the entire 
 
 ## Pages in This Section
 
-- [[Pages/Advanced Fixture Types/Anatomy of a fixture type]]
+- [[Pages/Advanced Fixture Types/Anatomy of a Fixture Type]]
 - [[Pages/Advanced Fixture Types/Attribute & Encoder Grouping]]
 
 Part of [[000 Map of Content]]

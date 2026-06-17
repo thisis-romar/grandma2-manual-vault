@@ -4,8 +4,10 @@ title_str: "Apply worlds or filters to executors and sequences"
 slug: "key_wfm_apply_to_exec_seq"
 url: "https://help.malighting.com/grandMA2/en/help/key_wfm_apply_to_exec_seq.html"
 section: "Worlds Filters and Masks"
+ma2_section: "key_wfm_world_filter_mask"
 section_ref: "[[Sections/Worlds Filters and Masks]]"
-prev_page: "[[Pages/Worlds Filters and Masks/Use masks in the sheets]]"
+prev_page: "[[Pages/Worlds Filters and Masks/Use masks in the sheets and windows]]"
+depth: 2
 tags:
   - "type/page"
   - "section/wfm"
@@ -91,6 +93,6 @@ You can see in the mini executor if one or both of the filters are applied. It i
 
 Read more in the [Sequence mini executor topic](key_cs_sequence_mini_executor.html).
 
-← [[Pages/Worlds Filters and Masks/Use masks in the sheets]]
+← [[Pages/Worlds Filters and Masks/Use masks in the sheets and windows]]
 
 Part of [[Sections/Worlds Filters and Masks]] · [[000 Map of Content]]

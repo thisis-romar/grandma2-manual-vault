@@ -4,7 +4,6 @@ keyword: "MAtricksBlocks"
 slug: "key_keyword_matricksblocks"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_matricksblocks.html"
 keyword_type: "unknown"
-related_key: "[[Keys/MAtricksBlocks]]"
 tags:
   - "type/keyword"
 ---

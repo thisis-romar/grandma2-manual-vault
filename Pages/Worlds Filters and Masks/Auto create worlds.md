@@ -4,9 +4,11 @@ title_str: "Auto create worlds"
 slug: "key_wfm_auto_create_worlds"
 url: "https://help.malighting.com/grandMA2/en/help/key_wfm_auto_create_worlds.html"
 section: "Worlds Filters and Masks"
+ma2_section: "key_wfm_world_filter_mask"
 section_ref: "[[Sections/Worlds Filters and Masks]]"
 prev_page: "[[Pages/Worlds Filters and Masks/Create worlds]]"
 next_page: "[[Pages/Worlds Filters and Masks/Use worlds when programming]]"
+depth: 2
 tags:
   - "type/page"
   - "section/wfm"

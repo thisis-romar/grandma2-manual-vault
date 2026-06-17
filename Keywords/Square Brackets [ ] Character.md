@@ -4,7 +4,6 @@ keyword: "Square Brackets [ ] Character"
 slug: "key_keyword_square_brackets"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_square_brackets.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Square Brackets [ ] Character]]"
 tags:
   - "type/keyword"
 ---

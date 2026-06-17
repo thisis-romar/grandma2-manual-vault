@@ -4,9 +4,11 @@ title_str: "Wing & Monitor Setup"
 slug: "key_window_faderwing_commandwing_setup"
 url: "https://help.malighting.com/grandMA2/en/help/key_window_faderwing_commandwing_setup.html"
 section: "Console Settings"
+ma2_section: "key_console_settings"
 section_ref: "[[Sections/Console Settings]]"
 prev_page: "[[Pages/Console Settings/Local settings]]"
 next_page: "[[Pages/Console Settings/Date & Time]]"
+depth: 2
 tags:
   - "type/page"
   - "section/window"

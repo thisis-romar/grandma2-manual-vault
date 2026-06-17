@@ -4,9 +4,11 @@ title_str: "What is the Network Processing Unit (NPU)"
 slug: "key_so_what_is_the_network_processing_unit_npu"
 url: "https://help.malighting.com/grandMA2/en/help/key_so_what_is_the_network_processing_unit_npu.html"
 section: "System Overview"
+ma2_section: "key_so_system_overview"
 section_ref: "[[Sections/System Overview]]"
-prev_page: "[[Pages/System Overview/What is the replay unit (RPU)]]"
-next_page: "[[Pages/System Overview/What is the MA video processing unit (VPU)]]"
+prev_page: "[[Pages/System Overview/What is the Replay Unit (RPU)]]"
+next_page: "[[Pages/System Overview/What is the MA Video Processing Unit (VPU)-]]"
+depth: 3
 tags:
   - "type/page"
   - "section/so"
@@ -29,6 +31,6 @@ It got 8 female DMX ports and 1 female etherCON connector for network.
 
 It cannot function as a standalone unit. It has to be connected to a session to do anything.
 
-← [[Pages/System Overview/What is the replay unit (RPU)]] | [[Pages/System Overview/What is the MA video processing unit (VPU)]] →
+← [[Pages/System Overview/What is the Replay Unit (RPU)]] | [[Pages/System Overview/What is the MA Video Processing Unit (VPU)-]] →
 
 Part of [[Sections/System Overview]] · [[000 Map of Content]]

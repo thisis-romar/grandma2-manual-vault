@@ -4,7 +4,6 @@ keyword: "FadePath"
 slug: "key_keyword_fadepath"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_fadepath.html"
 keyword_type: "unknown"
-related_key: "[[Keys/FadePath]]"
 tags:
   - "type/keyword"
 ---

@@ -4,7 +4,6 @@ keyword: "ExecButton3"
 slug: "key_keyword_execbutton3"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_execbutton3.html"
 keyword_type: "unknown"
-related_key: "[[Keys/ExecButton3]]"
 tags:
   - "type/keyword"
 ---

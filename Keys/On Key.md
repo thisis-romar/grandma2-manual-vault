@@ -3,7 +3,7 @@ type: "key"
 key_label: "On Key"
 slug: "key_key_on"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_on.html"
-related_keyword: "[[Keywords/On Key]]"
+related_keyword: "[[Keywords/On]]"
 tags:
   - "type/key"
 ---

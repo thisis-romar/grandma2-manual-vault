@@ -4,9 +4,11 @@ title_str: "Adding fixtures to the show"
 slug: "key_patch_add_fixtures"
 url: "https://help.malighting.com/grandMA2/en/help/key_patch_add_fixtures.html"
 section: "Patching"
+ma2_section: "key_patch"
 section_ref: "[[Sections/Patching]]"
-prev_page: "[[Pages/Patching/What is 3D and stage setup]]"
+prev_page: "[[Pages/Patching/What is 3D and Stage setup]]"
 next_page: "[[Pages/Patching/Delete fixtures from the show]]"
+depth: 2
 tags:
   - "type/page"
   - "section/patch"
@@ -469,6 +471,6 @@ The system will stop all DMX output while the show upload is running.
 
 [RDM devices](key_rdm.html)
 
-← [[Pages/Patching/What is 3D and stage setup]] | [[Pages/Patching/Delete fixtures from the show]] →
+← [[Pages/Patching/What is 3D and Stage setup]] | [[Pages/Patching/Delete fixtures from the show]] →
 
 Part of [[Sections/Patching]] · [[000 Map of Content]]

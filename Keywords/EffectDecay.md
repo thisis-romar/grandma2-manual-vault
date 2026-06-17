@@ -4,7 +4,6 @@ keyword: "EffectDecay"
 slug: "key_keyword_effectdecay"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_effectdecay.html"
 keyword_type: "unknown"
-related_key: "[[Keys/EffectDecay]]"
 tags:
   - "type/keyword"
 ---

@@ -4,7 +4,7 @@ keyword: "Macro"
 slug: "key_keyword_macro"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_macro.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Macro]]"
+related_key: "[[Keys/Macro Key]]"
 tags:
   - "type/keyword"
 ---

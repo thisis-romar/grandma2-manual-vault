@@ -3,7 +3,7 @@ type: "key"
 key_label: "Highlt (Highlight) Key"
 slug: "key_key_highlight"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_highlight.html"
-related_keyword: "[[Keywords/Highlt (Highlight) Key]]"
+related_keyword: "[[Keywords/Highlight]]"
 tags:
   - "type/key"
 ---

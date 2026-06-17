@@ -4,9 +4,11 @@ title_str: "Performance window"
 slug: "key_ost_performance_window"
 url: "https://help.malighting.com/grandMA2/en/help/key_ost_performance_window.html"
 section: "Other System Tools"
+ma2_section: "key_ost"
 section_ref: "[[Sections/Other System Tools]]"
 prev_page: "[[Pages/Other System Tools/Desk status]]"
 next_page: "[[Pages/Other System Tools/System monitor]]"
+depth: 2
 tags:
   - "type/page"
   - "section/ost"

@@ -4,9 +4,11 @@ title_str: "Playing back Cues"
 slug: "key_cs_playback"
 url: "https://help.malighting.com/grandMA2/en/help/key_cs_playback.html"
 section: "Command Syntax and Keywords"
-section_ref: "[[Sections/Command Syntax and Keywords]]"
-prev_page: "[[Pages/Command Syntax and Keywords/Delete cues]]"
+ma2_section: "key_cues_and_sequences"
+section_ref: "[[Sections/Cues and Sequences]]"
+prev_page: "[[Pages/Command Syntax and Keywords/Delete Cues]]"
 next_page: "[[Pages/Command Syntax and Keywords/Looking at the cue content]]"
+depth: 2
 tags:
   - "type/page"
   - "section/cs"
@@ -152,6 +154,6 @@ When it is active then the intensity will fade from the old intensity to the new
 
 When it is deactivated, the intensity will snap to the new value, then starting the new (higher priority) executor.
 
-← [[Pages/Command Syntax and Keywords/Delete cues]] | [[Pages/Command Syntax and Keywords/Looking at the cue content]] →
+← [[Pages/Command Syntax and Keywords/Delete Cues]] | [[Pages/Command Syntax and Keywords/Looking at the cue content]] →
 
-Part of [[Sections/Command Syntax and Keywords]] · [[000 Map of Content]]
+Part of [[Sections/Cues and Sequences]] · [[000 Map of Content]]

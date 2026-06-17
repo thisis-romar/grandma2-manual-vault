@@ -4,7 +4,6 @@ keyword: "All"
 slug: "key_keyword_all"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_all.html"
 keyword_type: "unknown"
-related_key: "[[Keys/All]]"
 tags:
   - "type/keyword"
 ---

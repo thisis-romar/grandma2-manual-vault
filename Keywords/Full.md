@@ -4,7 +4,7 @@ keyword: "Full"
 slug: "key_keyword_full"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_full.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Full]]"
+related_key: "[[Keys/Full Key]]"
 tags:
   - "type/keyword"
 ---

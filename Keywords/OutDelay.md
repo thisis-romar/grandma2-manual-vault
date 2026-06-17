@@ -4,7 +4,6 @@ keyword: "OutDelay"
 slug: "key_keyword_outdelay"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_outdelay.html"
 keyword_type: "unknown"
-related_key: "[[Keys/OutDelay]]"
 tags:
   - "type/keyword"
 ---

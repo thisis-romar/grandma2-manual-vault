@@ -4,7 +4,6 @@ keyword: "Agenda"
 slug: "key_keyword_agenda"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_agenda.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Agenda]]"
 tags:
   - "type/keyword"
 ---

@@ -4,9 +4,11 @@ title_str: "What is Tracking"
 slug: "key_cs_what_is_tracking"
 url: "https://help.malighting.com/grandMA2/en/help/key_cs_what_is_tracking.html"
 section: "Command Syntax and Keywords"
-section_ref: "[[Sections/Command Syntax and Keywords]]"
+ma2_section: "key_cues_and_sequences"
+section_ref: "[[Sections/Cues and Sequences]]"
 prev_page: "[[Pages/Command Syntax and Keywords/Update cues]]"
 next_page: "[[Pages/Command Syntax and Keywords/What is MIB]]"
+depth: 2
 tags:
   - "type/page"
   - "section/cs"
@@ -139,4 +141,4 @@ Fixtures 1 and 3 would only be On in cue 2. Fixture 2 would be On and in a posit
 
 ← [[Pages/Command Syntax and Keywords/Update cues]] | [[Pages/Command Syntax and Keywords/What is MIB]] →
 
-Part of [[Sections/Command Syntax and Keywords]] · [[000 Map of Content]]
+Part of [[Sections/Cues and Sequences]] · [[000 Map of Content]]

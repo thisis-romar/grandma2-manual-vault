@@ -3,7 +3,7 @@ type: "key"
 key_label: "Backup Key"
 slug: "key_key_backup"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_backup.html"
-related_keyword: "[[Keywords/Backup Key]]"
+related_keyword: "[[Keywords/Backup]]"
 tags:
   - "type/key"
 ---

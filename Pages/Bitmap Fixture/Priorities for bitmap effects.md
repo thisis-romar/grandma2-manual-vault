@@ -4,9 +4,11 @@ title_str: "Priorities for bitmap effects"
 slug: "key_bitmapfixture_priorities"
 url: "https://help.malighting.com/grandMA2/en/help/key_bitmapfixture_priorities.html"
 section: "Bitmap Fixture"
+ma2_section: "key_bitmapfixture"
 section_ref: "[[Sections/Bitmap Fixture]]"
-prev_page: "[[Pages/Bitmap Fixture/Example]]"
+prev_page: "[[Pages/Bitmap Fixture/Example for bitmap fixture]]"
 next_page: "[[Pages/Bitmap Fixture/Disable bitmap for fixtures]]"
+depth: 2
 tags:
   - "type/page"
   - "section/bitmapfixture"
@@ -76,6 +78,6 @@ thus the bitmap effect from cue 1 or a new bitmap effect
 
 is visible
 
-← [[Pages/Bitmap Fixture/Example]] | [[Pages/Bitmap Fixture/Disable bitmap for fixtures]] →
+← [[Pages/Bitmap Fixture/Example for bitmap fixture]] | [[Pages/Bitmap Fixture/Disable bitmap for fixtures]] →
 
 Part of [[Sections/Bitmap Fixture]] · [[000 Map of Content]]

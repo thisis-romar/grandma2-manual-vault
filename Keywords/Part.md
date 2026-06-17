@@ -4,7 +4,6 @@ keyword: "Part"
 slug: "key_keyword_part"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_part.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Part]]"
 tags:
   - "type/keyword"
 ---

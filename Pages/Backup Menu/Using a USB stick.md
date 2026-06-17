@@ -4,9 +4,11 @@ title_str: "Using a USB stick"
 slug: "key_backup_menu_usb_stick"
 url: "https://help.malighting.com/grandMA2/en/help/key_backup_menu_usb_stick.html"
 section: "Backup Menu"
+ma2_section: "key_backup_menu"
 section_ref: "[[Sections/Backup Menu]]"
-prev_page: "[[Pages/Backup Menu/Delete shows]]"
+prev_page: "[[Pages/Backup Menu/Deleting a Show]]"
 next_page: "[[Pages/Backup Menu/Setting up a file server]]"
+depth: 2
 tags:
   - "type/page"
   - "section/backup"
@@ -34,6 +36,6 @@ This is not rules in all software versions. But it is a list of advice that have
 
 So maybe not rules, but at least a good advice.
 
-← [[Pages/Backup Menu/Delete shows]] | [[Pages/Backup Menu/Setting up a file server]] →
+← [[Pages/Backup Menu/Deleting a Show]] | [[Pages/Backup Menu/Setting up a file server]] →
 
 Part of [[Sections/Backup Menu]] · [[000 Map of Content]]

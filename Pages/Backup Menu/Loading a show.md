@@ -4,9 +4,11 @@ title_str: "Loading a show"
 slug: "key_backup_menu_load_show"
 url: "https://help.malighting.com/grandMA2/en/help/key_backup_menu_load_show.html"
 section: "Backup Menu"
+ma2_section: "key_backup_menu"
 section_ref: "[[Sections/Backup Menu]]"
-prev_page: "[[Pages/Backup Menu/New show]]"
-next_page: "[[Pages/Backup Menu/Save show]]"
+prev_page: "[[Pages/Backup Menu/Create a new show]]"
+next_page: "[[Pages/Backup Menu/Saving a show]]"
+depth: 2
 tags:
   - "type/page"
   - "section/backup"
@@ -105,6 +107,6 @@ Executing onPC.exe with parameter -s allows to specify a show file for loading.
 
 Show files can be loaded using the command line. The command is called LoadShow. Read more about it [here](key_keyword_loadshow.html).
 
-← [[Pages/Backup Menu/New show]] | [[Pages/Backup Menu/Save show]] →
+← [[Pages/Backup Menu/Create a new show]] | [[Pages/Backup Menu/Saving a show]] →
 
 Part of [[Sections/Backup Menu]] · [[000 Map of Content]]

@@ -4,9 +4,11 @@ title_str: "Auto Patch RDM Devices"
 slug: "key_rdm_auto_patch"
 url: "https://help.malighting.com/grandMA2/en/help/key_rdm_auto_patch.html"
 section: "RDM"
+ma2_section: "key_rdm"
 section_ref: "[[Sections/RDM]]"
 prev_page: "[[Pages/RDM/Match RDM devices]]"
 next_page: "[[Pages/RDM/Work with RDM parameters]]"
+depth: 2
 tags:
   - "type/page"
   - "section/rdm"

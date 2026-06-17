@@ -4,7 +4,6 @@ keyword: "ListShows"
 slug: "key_keyword_listshows"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_listshows.html"
 keyword_type: "unknown"
-related_key: "[[Keys/ListShows]]"
 tags:
   - "type/keyword"
 ---

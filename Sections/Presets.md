@@ -7,18 +7,18 @@ page_count: 12
 tags:
   - "type/section"
 pages:
-  - "[[Pages/Presets/What are special modes]]"
-  - "[[Pages/Presets/Preset pools]]"
-  - "[[Pages/Presets/Preset pool -Dynamic-]]"
-  - "[[Pages/Presets/Create presets]]"
-  - "[[Pages/Presets/Preset pool options]]"
-  - "[[Pages/Presets/Create preset reference]]"
-  - "[[Pages/Presets/Auto create presets]]"
-  - "[[Pages/Presets/Auto create additional presets]]"
-  - "[[Pages/Presets/Embedded presets]]"
-  - "[[Pages/Presets/Edit presets]]"
-  - "[[Pages/Presets/Update presets]]"
-  - "[[Pages/Presets/Delete presets]]"
+  - "[[Pages/Presets/What Are Special Modes-]]"
+  - "[[Pages/Presets/Preset Pools]]"
+  - "[[Pages/Presets/Preset Pool -Dynamic-]]"
+  - "[[Pages/Presets/Create Presets]]"
+  - "[[Pages/Presets/Preset Pool Options]]"
+  - "[[Pages/Presets/Create Preset Reference]]"
+  - "[[Pages/Presets/Auto Create Presets]]"
+  - "[[Pages/Presets/Auto Create Additional Presets]]"
+  - "[[Pages/Presets/Embedded Presets]]"
+  - "[[Pages/Presets/Edit Presets]]"
+  - "[[Pages/Presets/Update Presets]]"
+  - "[[Pages/Presets/Delete Presets]]"
 ---
 
 # What Are Presets?
@@ -67,17 +67,17 @@ Make sure to use presets when programing as this facilitates your work, especial
 
 ## Pages in This Section
 
-- [[Pages/Presets/What are special modes]]
-- [[Pages/Presets/Preset pools]]
-- [[Pages/Presets/Preset pool -Dynamic-]]
-- [[Pages/Presets/Create presets]]
-- [[Pages/Presets/Preset pool options]]
-- [[Pages/Presets/Create preset reference]]
-- [[Pages/Presets/Auto create presets]]
-- [[Pages/Presets/Auto create additional presets]]
-- [[Pages/Presets/Embedded presets]]
-- [[Pages/Presets/Edit presets]]
-- [[Pages/Presets/Update presets]]
-- [[Pages/Presets/Delete presets]]
+- [[Pages/Presets/What Are Special Modes-]]
+- [[Pages/Presets/Preset Pools]]
+- [[Pages/Presets/Preset Pool -Dynamic-]]
+- [[Pages/Presets/Create Presets]]
+- [[Pages/Presets/Preset Pool Options]]
+- [[Pages/Presets/Create Preset Reference]]
+- [[Pages/Presets/Auto Create Presets]]
+- [[Pages/Presets/Auto Create Additional Presets]]
+- [[Pages/Presets/Embedded Presets]]
+- [[Pages/Presets/Edit Presets]]
+- [[Pages/Presets/Update Presets]]
+- [[Pages/Presets/Delete Presets]]
 
 Part of [[000 Map of Content]]

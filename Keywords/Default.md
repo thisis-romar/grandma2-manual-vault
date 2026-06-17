@@ -4,7 +4,6 @@ keyword: "Default"
 slug: "key_keyword_default"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_default.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Default]]"
 tags:
   - "type/keyword"
 ---

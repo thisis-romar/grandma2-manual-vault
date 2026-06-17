@@ -4,7 +4,7 @@ keyword: "Pause"
 slug: "key_keyword_pause"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_pause.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Pause]]"
+related_key: "[[Keys/Pause (small) Key]]"
 tags:
   - "type/keyword"
 ---

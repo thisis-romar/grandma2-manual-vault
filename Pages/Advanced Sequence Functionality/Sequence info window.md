@@ -4,9 +4,11 @@ title_str: "Sequence info window"
 slug: "key_adv_seq_info"
 url: "https://help.malighting.com/grandMA2/en/help/key_adv_seq_info.html"
 section: "Advanced Sequence Functionality"
+ma2_section: "key_adv_seq"
 section_ref: "[[Sections/Advanced Sequence Functionality]]"
-prev_page: "[[Pages/Advanced Sequence Functionality/Cue zero]]"
+prev_page: "[[Pages/Advanced Sequence Functionality/Cue Zero]]"
 next_page: "[[Pages/Advanced Sequence Functionality/Looping cues]]"
+depth: 2
 tags:
   - "type/page"
   - "section/adv"
@@ -64,6 +66,6 @@ Here it is possible to write multiple line of information.
 
 Pressing Enter/Please will close the pop-up. To add multiple lines it is necessary to press and hold shift while pressing Enter/Please.
 
-← [[Pages/Advanced Sequence Functionality/Cue zero]] | [[Pages/Advanced Sequence Functionality/Looping cues]] →
+← [[Pages/Advanced Sequence Functionality/Cue Zero]] | [[Pages/Advanced Sequence Functionality/Looping cues]] →
 
 Part of [[Sections/Advanced Sequence Functionality]] · [[000 Map of Content]]

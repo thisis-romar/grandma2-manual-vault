@@ -4,9 +4,11 @@ title_str: "Edit bitmap fixture"
 slug: "key_bitmapfixture_edit"
 url: "https://help.malighting.com/grandMA2/en/help/key_bitmapfixture_edit.html"
 section: "Bitmap Fixture"
+ma2_section: "key_bitmapfixture"
 section_ref: "[[Sections/Bitmap Fixture]]"
 prev_page: "[[Pages/Bitmap Fixture/Control bitmap fixture]]"
-next_page: "[[Pages/Bitmap Fixture/Example]]"
+next_page: "[[Pages/Bitmap Fixture/Example for bitmap fixture]]"
+depth: 2
 tags:
   - "type/page"
   - "section/bitmapfixture"
@@ -39,6 +41,6 @@ The bitmap fixture has 100 images and 100 layouts by default. If you need more t
 
 The bitmap fixture is edited and has 101 images to select. For more information about the smart view, see [using smart view](key_of_smart_view.html).
 
-← [[Pages/Bitmap Fixture/Control bitmap fixture]] | [[Pages/Bitmap Fixture/Example]] →
+← [[Pages/Bitmap Fixture/Control bitmap fixture]] | [[Pages/Bitmap Fixture/Example for bitmap fixture]] →
 
 Part of [[Sections/Bitmap Fixture]] · [[000 Map of Content]]

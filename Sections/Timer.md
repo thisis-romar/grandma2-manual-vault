@@ -7,8 +7,8 @@ page_count: 2
 tags:
   - "type/section"
 pages:
-  - "[[Pages/Timer/Timer pool]]"
-  - "[[Pages/Timer/Timer pool options]]"
+  - "[[Pages/Timer/Timer Pool]]"
+  - "[[Pages/Timer/Timer Pool Options]]"
 ---
 
 # Timer
@@ -35,7 +35,7 @@ Control the timers using the [Timer keyword](key_keyword_timer.html). 
 
 ## Pages in This Section
 
-- [[Pages/Timer/Timer pool]]
-- [[Pages/Timer/Timer pool options]]
+- [[Pages/Timer/Timer Pool]]
+- [[Pages/Timer/Timer Pool Options]]
 
 Part of [[000 Map of Content]]

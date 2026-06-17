@@ -3,7 +3,6 @@ type: "key"
 key_label: "Fd Pg - (Fader Page) Key"
 slug: "key_key_faderpageminus"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_faderpageminus.html"
-related_keyword: "[[Keywords/Fd Pg - (Fader Page) Key]]"
 tags:
   - "type/key"
 ---

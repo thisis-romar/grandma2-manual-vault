@@ -4,8 +4,10 @@ title_str: "Replace"
 slug: "key_search_replace_replace"
 url: "https://help.malighting.com/grandMA2/en/help/key_search_replace_replace.html"
 section: "Search and Replace"
+ma2_section: "key_search_replace"
 section_ref: "[[Sections/Search and Replace]]"
 prev_page: "[[Pages/Search and Replace/Search]]"
+depth: 2
 tags:
   - "type/page"
   - "section/search"

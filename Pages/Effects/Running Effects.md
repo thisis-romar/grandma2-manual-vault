@@ -4,9 +4,11 @@ title_str: "Running Effects"
 slug: "key_effects_running"
 url: "https://help.malighting.com/grandMA2/en/help/key_effects_running.html"
 section: "Effects"
+ma2_section: "key_effects"
 section_ref: "[[Sections/Effects]]"
-prev_page: "[[Pages/Effects/Live edit an effect]]"
-next_page: "[[Pages/Effects/Update effects]]"
+prev_page: "[[Pages/Effects/Live Edit an Effect]]"
+next_page: "[[Pages/Effects/Update Effects]]"
+depth: 2
 tags:
   - "type/page"
   - "section/effects"
@@ -82,6 +84,6 @@ _Options of running effects_
     Tap ![](../../img/icon_close_small_v3-2.png) in the upper right corner of the window.
 5.  To close the entire window, tap Delete Window.
 
-← [[Pages/Effects/Live edit an effect]] | [[Pages/Effects/Update effects]] →
+← [[Pages/Effects/Live Edit an Effect]] | [[Pages/Effects/Update Effects]] →
 
 Part of [[Sections/Effects]] · [[000 Map of Content]]

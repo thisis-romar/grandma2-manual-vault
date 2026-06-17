@@ -4,7 +4,6 @@ keyword: "EffectPhase"
 slug: "key_keyword_effectphase"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_effectphase.html"
 keyword_type: "unknown"
-related_key: "[[Keys/EffectPhase]]"
 tags:
   - "type/keyword"
 ---

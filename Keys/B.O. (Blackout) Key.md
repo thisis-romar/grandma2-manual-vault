@@ -3,7 +3,7 @@ type: "key"
 key_label: "B.O. (Blackout) Key"
 slug: "key_key_blackout"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_blackout.html"
-related_keyword: "[[Keywords/B.O. (Blackout) Key]]"
+related_keyword: "[[Keywords/Blackout keyword]]"
 tags:
   - "type/key"
 ---

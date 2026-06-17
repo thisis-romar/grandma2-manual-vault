@@ -4,7 +4,6 @@ keyword: "IfProg"
 slug: "key_keyword_ifprog"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_ifprog.html"
 keyword_type: "unknown"
-related_key: "[[Keys/IfProg]]"
 tags:
   - "type/keyword"
 ---

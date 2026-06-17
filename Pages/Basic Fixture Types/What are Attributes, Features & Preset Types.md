@@ -4,8 +4,10 @@ title_str: "What are Attributes, Features & Preset Types"
 slug: "key_basic_fixture_attribute_feature_preset"
 url: "https://help.malighting.com/grandMA2/en/help/key_basic_fixture_attribute_feature_preset.html"
 section: "Basic Fixture Types"
+ma2_section: "key_basic_fixture"
 section_ref: "[[Sections/Basic Fixture Types]]"
 next_page: "[[Pages/Basic Fixture Types/ColorMix vs. MixColor]]"
+depth: 2
 tags:
   - "type/page"
   - "section/basic"

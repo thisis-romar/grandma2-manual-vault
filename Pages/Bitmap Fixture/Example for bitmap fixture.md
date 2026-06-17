@@ -4,9 +4,11 @@ title_str: "Example for bitmap fixture"
 slug: "key_bitmapfixture_example"
 url: "https://help.malighting.com/grandMA2/en/help/key_bitmapfixture_example.html"
 section: "Bitmap Fixture"
+ma2_section: "key_bitmapfixture"
 section_ref: "[[Sections/Bitmap Fixture]]"
 prev_page: "[[Pages/Bitmap Fixture/Edit bitmap fixture]]"
 next_page: "[[Pages/Bitmap Fixture/Priorities for bitmap effects]]"
+depth: 2
 tags:
   - "type/page"
   - "section/bitmapfixture"

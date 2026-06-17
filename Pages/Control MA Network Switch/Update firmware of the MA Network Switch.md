@@ -4,9 +4,11 @@ title_str: "Update firmware of the MA Network Switch"
 slug: "key_control_ma_switch_update"
 url: "https://help.malighting.com/grandMA2/en/help/key_control_ma_switch_update.html"
 section: "Control MA Network Switch"
+ma2_section: "key_control_ma_switch"
 section_ref: "[[Sections/Control MA Network Switch]]"
-prev_page: "[[Pages/Control MA Network Switch/Change password]]"
-next_page: "[[Pages/Control MA Network Switch/Reset to factory defaults]]"
+prev_page: "[[Pages/Control MA Network Switch/Change password of the MA Network Switch]]"
+next_page: "[[Pages/Control MA Network Switch/Reset the MA Network Switch to its factory defaults]]"
+depth: 2
 tags:
   - "type/page"
   - "section/control"
@@ -57,6 +59,6 @@ It is necessary that only one update files for the MA Network Switch is on the U
 
 The switch is updating and reboots. This can take up to 5 minutes.
 
-← [[Pages/Control MA Network Switch/Change password]] | [[Pages/Control MA Network Switch/Reset to factory defaults]] →
+← [[Pages/Control MA Network Switch/Change password of the MA Network Switch]] | [[Pages/Control MA Network Switch/Reset the MA Network Switch to its factory defaults]] →
 
 Part of [[Sections/Control MA Network Switch]] · [[000 Map of Content]]

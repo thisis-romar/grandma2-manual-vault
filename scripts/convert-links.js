@@ -45,6 +45,9 @@ async function buildIndex(vaultRoot) {
   return { exact, ci };
 }
 
+// Root docs that contain illustrative [[wikilink]] examples, not real links.
+const SKIP_FILES = new Set(['README.md', 'CLAUDE.md']);
+
 let unresolved = 0;
 
 function convertWikilinks(content, currentRelPath, index) {
@@ -84,7 +87,7 @@ async function processVault() {
       const relPath = rel ? `${rel}/${e.name}` : e.name;
       if (e.isDirectory()) {
         if (!e.name.startsWith('.')) await walk(fullPath, relPath);
-      } else if (e.name.endsWith('.md')) {
+      } else if (e.name.endsWith('.md') && !SKIP_FILES.has(relPath)) {
         const raw = await fs.readFile(fullPath, 'utf8');
         const converted = convertWikilinks(raw, relPath, index);
         if (converted !== raw) {

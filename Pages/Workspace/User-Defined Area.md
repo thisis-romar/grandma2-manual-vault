@@ -4,9 +4,11 @@ title_str: "User-Defined Area"
 slug: "key_widget_user_defined_area"
 url: "https://help.malighting.com/grandMA2/en/help/key_widget_user_defined_area.html"
 section: "Workspace"
+ma2_section: "key_workspace"
 section_ref: "[[Sections/Workspace]]"
-prev_page: "[[Pages/Workspace/Screen layout]]"
-next_page: "[[Pages/Workspace/Command line]]"
+prev_page: "[[Pages/Workspace/Screen Layout]]"
+next_page: "[[Pages/Workspace/Command Line]]"
+depth: 3
 tags:
   - "type/page"
   - "section/widget"
@@ -27,6 +29,6 @@ The user defined area is available on every screen. To manage windows in the use
 
 _Empty user defined area_
 
-← [[Pages/Workspace/Screen layout]] | [[Pages/Workspace/Command line]] →
+← [[Pages/Workspace/Screen Layout]] | [[Pages/Workspace/Command Line]] →
 
 Part of [[Sections/Workspace]] · [[000 Map of Content]]

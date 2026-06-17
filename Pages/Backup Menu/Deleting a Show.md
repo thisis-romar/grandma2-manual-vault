@@ -4,9 +4,11 @@ title_str: "Deleting a Show"
 slug: "key_backup_menu_delete_show"
 url: "https://help.malighting.com/grandMA2/en/help/key_backup_menu_delete_show.html"
 section: "Backup Menu"
+ma2_section: "key_backup_menu"
 section_ref: "[[Sections/Backup Menu]]"
-prev_page: "[[Pages/Backup Menu/Save show as...]]"
+prev_page: "[[Pages/Backup Menu/Saving a show with a new name]]"
 next_page: "[[Pages/Backup Menu/Using a USB stick]]"
+depth: 2
 tags:
   - "type/page"
   - "section/backup"
@@ -56,6 +58,6 @@ Tapping the Delete Show(s) button will delete the selected show files. Deleting 
 
 Show files can be deleted using the command line. The command is called DeleteShow. Read more about it [here](key_keyword_deleteshow.html).
 
-← [[Pages/Backup Menu/Save show as...]] | [[Pages/Backup Menu/Using a USB stick]] →
+← [[Pages/Backup Menu/Saving a show with a new name]] | [[Pages/Backup Menu/Using a USB stick]] →
 
 Part of [[Sections/Backup Menu]] · [[000 Map of Content]]

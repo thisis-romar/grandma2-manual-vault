@@ -4,7 +4,6 @@ keyword: "AllRows keyword"
 slug: "key_keyword_allrows"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_allrows.html"
 keyword_type: "unknown"
-related_key: "[[Keys/AllRows keyword]]"
 tags:
   - "type/keyword"
 ---

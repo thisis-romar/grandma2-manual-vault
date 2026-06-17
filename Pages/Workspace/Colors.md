@@ -4,9 +4,11 @@ title_str: "Colors"
 slug: "key_ws_colors"
 url: "https://help.malighting.com/grandMA2/en/help/key_ws_colors.html"
 section: "Workspace"
+ma2_section: "key_workspace"
 section_ref: "[[Sections/Workspace]]"
 prev_page: "[[Pages/Workspace/Oops and undo]]"
 next_page: "[[Pages/Workspace/Text indicators and symbols]]"
+depth: 2
 tags:
   - "type/page"
   - "section/ws"

@@ -4,7 +4,6 @@ keyword: "EffectSec"
 slug: "key_keyword_effectsec"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_effectsec.html"
 keyword_type: "unknown"
-related_key: "[[Keys/EffectSec]]"
 tags:
   - "type/keyword"
 ---

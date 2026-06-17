@@ -4,7 +4,6 @@ keyword: "Timecode"
 slug: "key_keyword_timecode"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_timecode.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Timecode]]"
 tags:
   - "type/keyword"
 ---

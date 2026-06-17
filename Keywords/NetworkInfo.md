@@ -4,7 +4,6 @@ keyword: "NetworkInfo"
 slug: "key_keyword_networkinfo"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_networkinfo.html"
 keyword_type: "unknown"
-related_key: "[[Keys/NetworkInfo]]"
 tags:
   - "type/keyword"
 ---

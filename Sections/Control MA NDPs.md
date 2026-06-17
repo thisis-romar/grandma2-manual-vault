@@ -7,9 +7,9 @@ page_count: 3
 tags:
   - "type/section"
 pages:
-  - "[[Pages/Control MA NDPs/Add the MA NDPs]]"
+  - "[[Pages/Control MA NDPs/Add the MA NDPs to the Network Configuration]]"
   - "[[Pages/Control MA NDPs/Configure the MA NDPs]]"
-  - "[[Pages/Control MA NDPs/Delete the MA NDPs]]"
+  - "[[Pages/Control MA NDPs/Delete the MA NDPs in the Network Configuration]]"
 ---
 
 # Control the MA NDPs
@@ -39,8 +39,8 @@ For more information on the NDP see [What is the Network Dimmer Processor](key_s
 
 ## Pages in This Section
 
-- [[Pages/Control MA NDPs/Add the MA NDPs]]
+- [[Pages/Control MA NDPs/Add the MA NDPs to the Network Configuration]]
 - [[Pages/Control MA NDPs/Configure the MA NDPs]]
-- [[Pages/Control MA NDPs/Delete the MA NDPs]]
+- [[Pages/Control MA NDPs/Delete the MA NDPs in the Network Configuration]]
 
 Part of [[000 Map of Content]]

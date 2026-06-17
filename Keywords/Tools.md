@@ -4,7 +4,7 @@ keyword: "Tools"
 slug: "key_keyword_tools"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_tools.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Tools]]"
+related_key: "[[Keys/Tools Key]]"
 tags:
   - "type/keyword"
 ---

@@ -4,9 +4,11 @@ title_str: "PosiStageNet (PSN)"
 slug: "key_network_psn"
 url: "https://help.malighting.com/grandMA2/en/help/key_network_psn.html"
 section: "Networking"
+ma2_section: "key_network"
 section_ref: "[[Sections/Networking]]"
 prev_page: "[[Pages/Networking/Using CITP]]"
 next_page: "[[Pages/Networking/FTP connection to console and NPU]]"
+depth: 2
 tags:
   - "type/page"
   - "section/network"

@@ -4,8 +4,10 @@ title_str: "Macro timing"
 slug: "key_macro_create_timing"
 url: "https://help.malighting.com/grandMA2/en/help/key_macro_create_timing.html"
 section: "Macros"
+ma2_section: "key_macro"
 section_ref: "[[Sections/Macros]]"
 prev_page: "[[Pages/Macros/Conditional expressions]]"
+depth: 3
 tags:
   - "type/page"
   - "section/macro"

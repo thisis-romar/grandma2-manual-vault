@@ -4,7 +4,6 @@ keyword: "Item3D keyword"
 slug: "key_keyword_item3d"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_item3d.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Item3D keyword]]"
 tags:
   - "type/keyword"
 ---

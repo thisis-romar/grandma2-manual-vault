@@ -8,10 +8,10 @@ tags:
   - "type/section"
 pages:
   - "[[Pages/Bitmap Fixture/Import bitmap fixture]]"
-  - "[[Pages/Bitmap Fixture/Apply bitmap fixture in the layout]]"
+  - "[[Pages/Bitmap Fixture/Apply bitmap fixture in the layout view]]"
   - "[[Pages/Bitmap Fixture/Control bitmap fixture]]"
   - "[[Pages/Bitmap Fixture/Edit bitmap fixture]]"
-  - "[[Pages/Bitmap Fixture/Example]]"
+  - "[[Pages/Bitmap Fixture/Example for bitmap fixture]]"
   - "[[Pages/Bitmap Fixture/Priorities for bitmap effects]]"
   - "[[Pages/Bitmap Fixture/Disable bitmap for fixtures]]"
 ---
@@ -65,10 +65,10 @@ We recommend to test the videos during the show preparation before using them in
 ## Pages in This Section
 
 - [[Pages/Bitmap Fixture/Import bitmap fixture]]
-- [[Pages/Bitmap Fixture/Apply bitmap fixture in the layout]]
+- [[Pages/Bitmap Fixture/Apply bitmap fixture in the layout view]]
 - [[Pages/Bitmap Fixture/Control bitmap fixture]]
 - [[Pages/Bitmap Fixture/Edit bitmap fixture]]
-- [[Pages/Bitmap Fixture/Example]]
+- [[Pages/Bitmap Fixture/Example for bitmap fixture]]
 - [[Pages/Bitmap Fixture/Priorities for bitmap effects]]
 - [[Pages/Bitmap Fixture/Disable bitmap for fixtures]]
 

@@ -4,7 +4,7 @@ keyword: "Preview"
 slug: "key_keyword_preview"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_preview.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Preview]]"
+related_key: "[[Keys/Prvw (Preview) Key]]"
 tags:
   - "type/keyword"
 ---

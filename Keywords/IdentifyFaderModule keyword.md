@@ -4,7 +4,6 @@ keyword: "IdentifyFaderModule keyword"
 slug: "key_keyword_identifyfadermodule"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_identifyfadermodule.html"
 keyword_type: "unknown"
-related_key: "[[Keys/IdentifyFaderModule keyword]]"
 tags:
   - "type/keyword"
 ---

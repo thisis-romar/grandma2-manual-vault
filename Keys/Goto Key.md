@@ -3,7 +3,7 @@ type: "key"
 key_label: "Goto Key"
 slug: "key_key_goto"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_goto.html"
-related_keyword: "[[Keywords/Goto Key]]"
+related_keyword: "[[Keywords/Goto]]"
 tags:
   - "type/key"
 ---

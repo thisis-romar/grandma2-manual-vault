@@ -4,7 +4,6 @@ keyword: "Slash / Character"
 slug: "key_keyword_slash"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_slash.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Slash - Character]]"
 tags:
   - "type/keyword"
 ---

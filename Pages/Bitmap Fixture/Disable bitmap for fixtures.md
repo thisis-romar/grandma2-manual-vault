@@ -4,8 +4,10 @@ title_str: "Disable bitmap for fixtures"
 slug: "key_bitmapfixture_disable"
 url: "https://help.malighting.com/grandMA2/en/help/key_bitmapfixture_disable.html"
 section: "Bitmap Fixture"
+ma2_section: "key_bitmapfixture"
 section_ref: "[[Sections/Bitmap Fixture]]"
 prev_page: "[[Pages/Bitmap Fixture/Priorities for bitmap effects]]"
+depth: 2
 tags:
   - "type/page"
   - "section/bitmapfixture"

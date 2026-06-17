@@ -4,8 +4,10 @@ title_str: "Keyboard shortcuts"
 slug: "key_ws_keyboard_shortcuts"
 url: "https://help.malighting.com/grandMA2/en/help/key_ws_keyboard_shortcuts.html"
 section: "Workspace"
+ma2_section: "key_workspace"
 section_ref: "[[Sections/Workspace]]"
 prev_page: "[[Pages/Workspace/Icons]]"
+depth: 2
 tags:
   - "type/page"
   - "section/ws"

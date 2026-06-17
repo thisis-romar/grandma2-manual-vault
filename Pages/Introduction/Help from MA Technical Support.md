@@ -4,8 +4,10 @@ title_str: "Help from MA Technical Support"
 slug: "key_introduction_help_from_ma_technical_support"
 url: "https://help.malighting.com/grandMA2/en/help/key_introduction_help_from_ma_technical_support.html"
 section: "Introduction"
+ma2_section: "key_introduction"
 section_ref: "[[Sections/Introduction]]"
 prev_page: "[[Pages/Introduction/Installation of grandMA2 onPC]]"
+depth: 2
 tags:
   - "type/page"
   - "section/introduction"

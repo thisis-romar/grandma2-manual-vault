@@ -4,7 +4,6 @@ keyword: "CrashLogList keyword"
 slug: "key_keyword_crashloglist"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_crashloglist.html"
 keyword_type: "unknown"
-related_key: "[[Keys/CrashLogList keyword]]"
 tags:
   - "type/keyword"
 ---

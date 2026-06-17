@@ -3,7 +3,6 @@ type: "key"
 key_label: "Pause (large) Key"
 slug: "key_key_defpause"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_defpause.html"
-related_keyword: "[[Keywords/Pause (large) Key]]"
 tags:
   - "type/key"
 ---

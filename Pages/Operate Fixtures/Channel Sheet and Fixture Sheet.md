@@ -4,8 +4,10 @@ title_str: "Channel Sheet and Fixture Sheet"
 slug: "key_of_layers_in_sheets_channel_and_fixture"
 url: "https://help.malighting.com/grandMA2/en/help/key_of_layers_in_sheets_channel_and_fixture.html"
 section: "Operate Fixtures"
+ma2_section: "key_operate_fixtures"
 section_ref: "[[Sections/Operate Fixtures]]"
-next_page: "[[Pages/Operate Fixtures/Sequence content and sequence tracking sheet]]"
+next_page: "[[Pages/Operate Fixtures/Sequence Content Sheet And Sequence Tracking Sheet]]"
+depth: 3
 tags:
   - "type/page"
   - "section/of"
@@ -178,6 +180,6 @@ Displays which cue the effect comes from stating the number of the sequence and 
 
 Displays the DMX value that comes out of the console. Shows all values independently of masters or profiles.
 
-[[Pages/Operate Fixtures/Sequence content and sequence tracking sheet]] →
+[[Pages/Operate Fixtures/Sequence Content Sheet And Sequence Tracking Sheet]] →
 
 Part of [[Sections/Operate Fixtures]] · [[000 Map of Content]]

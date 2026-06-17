@@ -3,7 +3,7 @@ type: "key"
 key_label: "Macro Key"
 slug: "key_key_macro"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_macro.html"
-related_keyword: "[[Keywords/Macro Key]]"
+related_keyword: "[[Keywords/Macro]]"
 tags:
   - "type/key"
 ---

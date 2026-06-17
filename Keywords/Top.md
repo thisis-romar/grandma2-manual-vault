@@ -4,7 +4,7 @@ keyword: "Top"
 slug: "key_keyword_top"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_top.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Top]]"
+related_key: "[[Keys/Top Key]]"
 tags:
   - "type/keyword"
 ---

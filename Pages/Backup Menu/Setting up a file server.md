@@ -4,9 +4,11 @@ title_str: "Setting up a file server"
 slug: "key_backup_menu_file_server"
 url: "https://help.malighting.com/grandMA2/en/help/key_backup_menu_file_server.html"
 section: "Backup Menu"
+ma2_section: "key_backup_menu"
 section_ref: "[[Sections/Backup Menu]]"
 prev_page: "[[Pages/Backup Menu/Using a USB stick]]"
-next_page: "[[Pages/Backup Menu/Partial show read]]"
+next_page: "[[Pages/Backup Menu/Partial Show Read]]"
+depth: 2
 tags:
   - "type/page"
   - "section/backup"
@@ -106,6 +108,6 @@ The special input field for NFS is **NFS Export Path**. It is the path or direct
 
 When you are happy with your setting, then tap Please to mount the server. If successful then a tab will appear with the label specified.
 
-← [[Pages/Backup Menu/Using a USB stick]] | [[Pages/Backup Menu/Partial show read]] →
+← [[Pages/Backup Menu/Using a USB stick]] | [[Pages/Backup Menu/Partial Show Read]] →
 
 Part of [[Sections/Backup Menu]] · [[000 Map of Content]]

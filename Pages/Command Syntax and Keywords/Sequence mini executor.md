@@ -4,9 +4,11 @@ title_str: "Sequence mini executor"
 slug: "key_cs_sequence_mini_executor"
 url: "https://help.malighting.com/grandMA2/en/help/key_cs_sequence_mini_executor.html"
 section: "Command Syntax and Keywords"
-section_ref: "[[Sections/Command Syntax and Keywords]]"
+ma2_section: "key_cues_and_sequences"
+section_ref: "[[Sections/Cues and Sequences]]"
 prev_page: "[[Pages/Command Syntax and Keywords/What is MIB]]"
 next_page: "[[Pages/Command Syntax and Keywords/Commands in cues]]"
+depth: 2
 tags:
   - "type/page"
   - "section/cs"
@@ -127,4 +129,4 @@ Read about making wider executors in the [Assign a Function topic](key_exec_assi
 
 ← [[Pages/Command Syntax and Keywords/What is MIB]] | [[Pages/Command Syntax and Keywords/Commands in cues]] →
 
-Part of [[Sections/Command Syntax and Keywords]] · [[000 Map of Content]]
+Part of [[Sections/Cues and Sequences]] · [[000 Map of Content]]

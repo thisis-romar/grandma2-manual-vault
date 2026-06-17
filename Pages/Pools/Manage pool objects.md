@@ -4,8 +4,10 @@ title_str: "Manage pool objects"
 slug: "key_pools_manage"
 url: "https://help.malighting.com/grandMA2/en/help/key_pools_manage.html"
 section: "Pools"
+ma2_section: "key_pools"
 section_ref: "[[Sections/Pools]]"
 next_page: "[[Pages/Pools/Adjust pool options]]"
+depth: 2
 tags:
   - "type/page"
   - "section/pools"

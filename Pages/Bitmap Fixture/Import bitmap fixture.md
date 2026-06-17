@@ -4,8 +4,10 @@ title_str: "Import bitmap fixture"
 slug: "key_bitmapfixture_import"
 url: "https://help.malighting.com/grandMA2/en/help/key_bitmapfixture_import.html"
 section: "Bitmap Fixture"
+ma2_section: "key_bitmapfixture"
 section_ref: "[[Sections/Bitmap Fixture]]"
-next_page: "[[Pages/Bitmap Fixture/Apply bitmap fixture in the layout]]"
+next_page: "[[Pages/Bitmap Fixture/Apply bitmap fixture in the layout view]]"
+depth: 2
 tags:
   - "type/page"
   - "section/bitmapfixture"
@@ -47,6 +49,6 @@ The MA Lighting Bitmap fixture is imported in the show and visible in the fixtur
 
 Now, you can control the bitmap fixture. For more information, see [control bitmap fixture](key_bitmapfixture_control.html).
 
-[[Pages/Bitmap Fixture/Apply bitmap fixture in the layout]] →
+[[Pages/Bitmap Fixture/Apply bitmap fixture in the layout view]] →
 
 Part of [[Sections/Bitmap Fixture]] · [[000 Map of Content]]

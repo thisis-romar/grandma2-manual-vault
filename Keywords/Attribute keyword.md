@@ -4,7 +4,6 @@ keyword: "Attribute keyword"
 slug: "key_keyword_attribute"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_attribute.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Attribute keyword]]"
 tags:
   - "type/keyword"
 ---

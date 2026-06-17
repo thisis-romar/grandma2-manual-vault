@@ -4,7 +4,6 @@ keyword: "EffectHigh"
 slug: "key_keyword_effecthigh"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_effecthigh.html"
 keyword_type: "unknown"
-related_key: "[[Keys/EffectHigh]]"
 tags:
   - "type/keyword"
 ---

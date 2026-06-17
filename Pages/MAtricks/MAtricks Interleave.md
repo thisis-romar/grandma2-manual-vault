@@ -4,9 +4,11 @@ title_str: "MAtricks Interleave"
 slug: "key_matricks_interleave"
 url: "https://help.malighting.com/grandMA2/en/help/key_matricks_interleave.html"
 section: "MAtricks"
+ma2_section: "key_matricks"
 section_ref: "[[Sections/MAtricks]]"
-prev_page: "[[Pages/MAtricks/MAtricks pool]]"
-next_page: "[[Pages/MAtricks/MAtricks blocks]]"
+prev_page: "[[Pages/MAtricks/MAtricks Pool]]"
+next_page: "[[Pages/MAtricks/MAtricks Blocks]]"
+depth: 2
 tags:
   - "type/page"
   - "section/matricks"
@@ -122,6 +124,6 @@ To jump to the third fixture in the second row:
 
 The MAtricksInterleave is now disabled.
 
-← [[Pages/MAtricks/MAtricks pool]] | [[Pages/MAtricks/MAtricks blocks]] →
+← [[Pages/MAtricks/MAtricks Pool]] | [[Pages/MAtricks/MAtricks Blocks]] →
 
 Part of [[Sections/MAtricks]] · [[000 Map of Content]]

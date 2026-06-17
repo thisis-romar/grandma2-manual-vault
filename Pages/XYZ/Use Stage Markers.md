@@ -4,9 +4,11 @@ title_str: "Use Stage Markers"
 slug: "key_xyz_use_stage_markers"
 url: "https://help.malighting.com/grandMA2/en/help/key_xyz_use_stage_markers.html"
 section: "XYZ"
+ma2_section: "key_xyz"
 section_ref: "[[Sections/XYZ]]"
-prev_page: "[[Pages/XYZ/XYZ and pan-tilt in cues and sequences]]"
-next_page: "[[Pages/XYZ/Link objects to stage markers in MA 3D]]"
+prev_page: "[[Pages/XYZ/XYZ and Pan-Tilt in cues and sequences]]"
+next_page: "[[Pages/XYZ/Link Objects to Stage Markers in MA 3D]]"
+depth: 2
 tags:
   - "type/page"
   - "section/xyz"
@@ -110,6 +112,6 @@ _Direct the beams to a stage marker_
  **Hint:**  
 You can link objects to stage markers. For more information see [Link objects to stage markers in MA 3D](key_xyz_link_object_to_stage_markers.html).
 
-← [[Pages/XYZ/XYZ and pan-tilt in cues and sequences]] | [[Pages/XYZ/Link objects to stage markers in MA 3D]] →
+← [[Pages/XYZ/XYZ and Pan-Tilt in cues and sequences]] | [[Pages/XYZ/Link Objects to Stage Markers in MA 3D]] →
 
 Part of [[Sections/XYZ]] · [[000 Map of Content]]

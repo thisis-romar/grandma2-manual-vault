@@ -4,8 +4,10 @@ title_str: "Group Master on Executors"
 slug: "key_groups_master"
 url: "https://help.malighting.com/grandMA2/en/help/key_groups_master.html"
 section: "Groups"
+ma2_section: "key_groups"
 section_ref: "[[Sections/Groups]]"
-prev_page: "[[Pages/Groups/Change specific group colors]]"
+prev_page: "[[Pages/Groups/Change colors in group options for all in order and all out of order]]"
+depth: 2
 tags:
   - "type/page"
   - "section/groups"
@@ -166,6 +168,6 @@ They provide an overview off all the group masters in the show.
 
 They are described in the [Masters Window topic](key_adv_exec_master_window.html).
 
-← [[Pages/Groups/Change specific group colors]]
+← [[Pages/Groups/Change colors in group options for all in order and all out of order]]
 
 Part of [[Sections/Groups]] · [[000 Map of Content]]

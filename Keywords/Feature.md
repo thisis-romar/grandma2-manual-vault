@@ -4,7 +4,6 @@ keyword: "Feature"
 slug: "key_keyword_feature"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_feature.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Feature]]"
 tags:
   - "type/keyword"
 ---

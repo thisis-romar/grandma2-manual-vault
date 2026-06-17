@@ -4,7 +4,6 @@ keyword: "DmxUniverse keyword"
 slug: "key_keyword_dmxuniverse"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_dmxuniverse.html"
 keyword_type: "unknown"
-related_key: "[[Keys/DmxUniverse keyword]]"
 tags:
   - "type/keyword"
 ---

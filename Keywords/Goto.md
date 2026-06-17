@@ -4,7 +4,7 @@ keyword: "Goto"
 slug: "key_keyword_goto"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_goto.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Goto]]"
+related_key: "[[Keys/Goto Key]]"
 tags:
   - "type/keyword"
 ---

@@ -4,9 +4,11 @@ title_str: "Telnet Remote"
 slug: "key_remote_control_telnet"
 url: "https://help.malighting.com/grandMA2/en/help/key_remote_control_telnet.html"
 section: "Remote Control"
+ma2_section: "key_remote_control"
 section_ref: "[[Sections/Remote Control]]"
-prev_page: "[[Pages/Remote Control/Web remote]]"
-next_page: "[[Pages/Remote Control/Decimal – hex table]]"
+prev_page: "[[Pages/Remote Control/Web Remote]]"
+next_page: "[[Pages/Remote Control/Decimal – Hex Table]]"
+depth: 2
 tags:
   - "type/page"
   - "section/remote"
@@ -54,6 +56,6 @@ After the login, any commands can be written to the system.
 **Restriction:**  
 Pay close attention when accessing the fixture setup and schedule from the telnet connection. It lock access for other users and there is no explaining warning.
 
-← [[Pages/Remote Control/Web remote]] | [[Pages/Remote Control/Decimal – hex table]] →
+← [[Pages/Remote Control/Web Remote]] | [[Pages/Remote Control/Decimal – Hex Table]] →
 
 Part of [[Sections/Remote Control]] · [[000 Map of Content]]

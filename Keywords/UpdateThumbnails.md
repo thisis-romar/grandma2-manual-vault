@@ -4,7 +4,6 @@ keyword: "UpdateThumbnails"
 slug: "key_keyword_updatethumbnails"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_updatethumbnails.html"
 keyword_type: "unknown"
-related_key: "[[Keys/UpdateThumbnails]]"
 tags:
   - "type/keyword"
 ---

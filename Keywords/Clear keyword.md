@@ -4,7 +4,7 @@ keyword: "Clear keyword"
 slug: "key_keyword_clear"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_clear.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Clear keyword]]"
+related_key: "[[Keys/Clear Key]]"
 tags:
   - "type/keyword"
 ---

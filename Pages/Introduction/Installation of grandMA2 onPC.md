@@ -4,9 +4,11 @@ title_str: "Installation of grandMA2 onPC"
 slug: "key_introduction_installation_of_grandma2_onpc"
 url: "https://help.malighting.com/grandMA2/en/help/key_introduction_installation_of_grandma2_onpc.html"
 section: "Introduction"
+ma2_section: "key_introduction"
 section_ref: "[[Sections/Introduction]]"
-prev_page: "[[Pages/Introduction/System requirements grandMA2 onPC]]"
-next_page: "[[Pages/Introduction/Help from MA technical support]]"
+prev_page: "[[Pages/Introduction/System Requirements grandMA2 onPC]]"
+next_page: "[[Pages/Introduction/Help from MA Technical Support]]"
+depth: 2
 tags:
   - "type/page"
   - "section/introduction"
@@ -37,6 +39,6 @@ The installation directory is not modifiable in the grandMA2 onPC.
 
 After confirmation, the program files will be copied into the selected directory.
 
-← [[Pages/Introduction/System requirements grandMA2 onPC]] | [[Pages/Introduction/Help from MA technical support]] →
+← [[Pages/Introduction/System Requirements grandMA2 onPC]] | [[Pages/Introduction/Help from MA Technical Support]] →
 
 Part of [[Sections/Introduction]] · [[000 Map of Content]]

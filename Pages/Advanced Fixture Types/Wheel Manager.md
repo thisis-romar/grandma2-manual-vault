@@ -4,8 +4,10 @@ title_str: "Wheel Manager"
 slug: "key_adv_fixture_anatomy_wheel"
 url: "https://help.malighting.com/grandMA2/en/help/key_adv_fixture_anatomy_wheel.html"
 section: "Advanced Fixture Types"
+ma2_section: "key_advanced_fixture_types"
 section_ref: "[[Sections/Advanced Fixture Types]]"
-prev_page: "[[Pages/Advanced Fixture Types/Instance manager]]"
+prev_page: "[[Pages/Advanced Fixture Types/Instance Manager]]"
+depth: 3
 tags:
   - "type/page"
   - "section/adv"
@@ -59,6 +61,6 @@ This is a short description of the columns in the editor:
 
 Close the editor when the wheel is correct.
 
-← [[Pages/Advanced Fixture Types/Instance manager]]
+← [[Pages/Advanced Fixture Types/Instance Manager]]
 
 Part of [[Sections/Advanced Fixture Types]] · [[000 Map of Content]]

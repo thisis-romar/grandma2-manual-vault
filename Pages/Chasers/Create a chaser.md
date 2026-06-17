@@ -4,8 +4,10 @@ title_str: "Create a chaser"
 slug: "key_chaser_create"
 url: "https://help.malighting.com/grandMA2/en/help/key_chaser_create.html"
 section: "Chasers"
+ma2_section: "key_chaser"
 section_ref: "[[Sections/Chasers]]"
 next_page: "[[Pages/Chasers/Chaser settings]]"
+depth: 2
 tags:
   - "type/page"
   - "section/chaser"

@@ -4,7 +4,6 @@ keyword: "Remote"
 slug: "key_keyword_remote"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_remote.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Remote]]"
 tags:
   - "type/keyword"
 ---

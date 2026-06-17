@@ -4,7 +4,6 @@ keyword: "PSRPrepare"
 slug: "key_keyword_psrprepare"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_psrprepare.html"
 keyword_type: "unknown"
-related_key: "[[Keys/PSRPrepare]]"
 tags:
   - "type/keyword"
 ---

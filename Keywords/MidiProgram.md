@@ -4,7 +4,6 @@ keyword: "MidiProgram"
 slug: "key_keyword_midiprogram"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_midiprogram.html"
 keyword_type: "unknown"
-related_key: "[[Keys/MidiProgram]]"
 tags:
   - "type/keyword"
 ---

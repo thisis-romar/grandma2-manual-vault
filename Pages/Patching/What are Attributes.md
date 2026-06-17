@@ -4,8 +4,10 @@ title_str: "What are Attributes"
 slug: "key_patch_attributes"
 url: "https://help.malighting.com/grandMA2/en/help/key_patch_attributes.html"
 section: "Patching"
+ma2_section: "key_patch"
 section_ref: "[[Sections/Patching]]"
-next_page: "[[Pages/Patching/DMX break]]"
+next_page: "[[Pages/Patching/What are DMX breaks]]"
+depth: 3
 tags:
   - "type/page"
   - "section/patch"
@@ -30,6 +32,6 @@ The grandMA2 have a lot of predefined attributes. You can make your own and you 
 
 For more details about all this please have a look at [What are attributes, features & preset types](key_basic_fixture_attribute_feature_preset.html) under the [Basic Fixture types](key_basic_fixture.html) topic.
 
-[[Pages/Patching/DMX break]] →
+[[Pages/Patching/What are DMX breaks]] →
 
 Part of [[Sections/Patching]] · [[000 Map of Content]]

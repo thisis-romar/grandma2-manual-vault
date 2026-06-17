@@ -4,7 +4,6 @@ keyword: "Dollar $ Character"
 slug: "key_keyword_dollar"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_dollar.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Dollar $ Character]]"
 tags:
   - "type/keyword"
 ---

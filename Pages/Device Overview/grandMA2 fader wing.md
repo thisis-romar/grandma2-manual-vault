@@ -4,9 +4,11 @@ title_str: "grandMA2 fader wing"
 slug: "key_device_overview_grandma2_fader_wing"
 url: "https://help.malighting.com/grandMA2/en/help/key_device_overview_grandma2_fader_wing.html"
 section: "Device Overview"
+ma2_section: "key_device_overview"
 section_ref: "[[Sections/Device Overview]]"
 prev_page: "[[Pages/Device Overview/grandMA2 replay unit (RPU)]]"
 next_page: "[[Pages/Device Overview/MA onPC command wing]]"
+depth: 2
 tags:
   - "type/page"
   - "section/device"

@@ -4,8 +4,10 @@ title_str: "Create and Manage Basic Windows"
 slug: "key_windows_create_manage"
 url: "https://help.malighting.com/grandMA2/en/help/key_windows_create_manage.html"
 section: "Windows"
+ma2_section: "key_windows"
 section_ref: "[[Sections/Windows]]"
-next_page: "[[Pages/Windows/Clear the screen or delete windows]]"
+next_page: "[[Pages/Windows/Clear the Screen or Delete Windows]]"
+depth: 2
 tags:
   - "type/page"
   - "section/windows"
@@ -128,6 +130,6 @@ To load window options from default:
 
 Window options are loaded from default.
 
-[[Pages/Windows/Clear the screen or delete windows]] →
+[[Pages/Windows/Clear the Screen or Delete Windows]] →
 
 Part of [[Sections/Windows]] · [[000 Map of Content]]

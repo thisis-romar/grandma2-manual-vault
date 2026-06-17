@@ -4,7 +4,6 @@ keyword: "Login"
 slug: "key_keyword_login"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_login.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Login]]"
 tags:
   - "type/keyword"
 ---

@@ -4,9 +4,11 @@ title_str: "Create an effect in the programmer"
 slug: "key_effects_create_in_programmer"
 url: "https://help.malighting.com/grandMA2/en/help/key_effects_create_in_programmer.html"
 section: "Effects"
+ma2_section: "key_effects"
 section_ref: "[[Sections/Effects]]"
-prev_page: "[[Pages/Effects/Use template and selective effects]]"
-next_page: "[[Pages/Effects/Create an effect that uses presets]]"
+prev_page: "[[Pages/Effects/Use Template and Selective Effects]]"
+next_page: "[[Pages/Effects/Create an Effect that Uses Presets]]"
+depth: 2
 tags:
   - "type/page"
   - "section/effects"
@@ -82,6 +84,6 @@ _Pop-up – effect value containing programmer values_
 
 The effect is now saved in the pool or in a cue.
 
-← [[Pages/Effects/Use template and selective effects]] | [[Pages/Effects/Create an effect that uses presets]] →
+← [[Pages/Effects/Use Template and Selective Effects]] | [[Pages/Effects/Create an Effect that Uses Presets]] →
 
 Part of [[Sections/Effects]] · [[000 Map of Content]]

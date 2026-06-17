@@ -4,9 +4,11 @@ title_str: "What are filters"
 slug: "key_wfm_what_are_filters"
 url: "https://help.malighting.com/grandMA2/en/help/key_wfm_what_are_filters.html"
 section: "Worlds Filters and Masks"
+ma2_section: "key_wfm_world_filter_mask"
 section_ref: "[[Sections/Worlds Filters and Masks]]"
 prev_page: "[[Pages/Worlds Filters and Masks/Use worlds when programming]]"
 next_page: "[[Pages/Worlds Filters and Masks/Create filters]]"
+depth: 2
 tags:
   - "type/page"
   - "section/wfm"

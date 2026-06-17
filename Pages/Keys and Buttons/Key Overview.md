@@ -4,8 +4,10 @@ title_str: "Key Overview"
 slug: "key_keys_key_overview"
 url: "https://help.malighting.com/grandMA2/en/help/key_keys_key_overview.html"
 section: "Keys and Buttons"
+ma2_section: "key_keys_and_buttons_on_the_console"
 section_ref: "[[Sections/Keys and Buttons]]"
-next_page: "[[Pages/Keys and Buttons/--- [GoFastForward]]]"
+next_page: "[[Pages/Keys and Buttons/Keyboard Keys]]"
+depth: 2
 tags:
   - "type/page"
   - "section/keys"
@@ -1126,6 +1128,6 @@ Switches to a ViewPage. 
 
 *    ViewPage 2
 
-[[Pages/Keys and Buttons/--- [GoFastForward]]] →
+[[Pages/Keys and Buttons/Keyboard Keys]] →
 
 Part of [[Sections/Keys and Buttons]] · [[000 Map of Content]]

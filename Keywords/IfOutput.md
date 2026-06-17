@@ -4,7 +4,6 @@ keyword: "IfOutput"
 slug: "key_keyword_ifoutput"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_ifoutput.html"
 keyword_type: "unknown"
-related_key: "[[Keys/IfOutput]]"
 tags:
   - "type/keyword"
 ---

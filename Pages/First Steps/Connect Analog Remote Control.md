@@ -4,9 +4,11 @@ title_str: "Connect Analog Remote Control"
 slug: "key_fs_connect_analog_remote_control"
 url: "https://help.malighting.com/grandMA2/en/help/key_fs_connect_analog_remote_control.html"
 section: "First Steps"
+ma2_section: "key_first_steps"
 section_ref: "[[Sections/First Steps]]"
 prev_page: "[[Pages/First Steps/Connect Ethernet]]"
 next_page: "[[Pages/First Steps/Connect grandMA2 fader wing]]"
+depth: 2
 tags:
   - "type/page"
   - "section/fs"

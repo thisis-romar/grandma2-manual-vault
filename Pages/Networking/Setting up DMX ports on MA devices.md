@@ -4,8 +4,10 @@ title_str: "Setting up DMX ports on MA devices"
 slug: "key_network_dmx_configure_ports"
 url: "https://help.malighting.com/grandMA2/en/help/key_network_dmx_configure_ports.html"
 section: "Networking"
+ma2_section: "key_network"
 section_ref: "[[Sections/Networking]]"
 next_page: "[[Pages/Networking/Network DMX protocols]]"
+depth: 3
 tags:
   - "type/page"
   - "section/network"

@@ -3,7 +3,7 @@ type: "key"
 key_label: "Assign Key"
 slug: "key_key_assign"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_assign.html"
-related_keyword: "[[Keywords/Assign Key]]"
+related_keyword: "[[Keywords/Assign keyword]]"
 tags:
   - "type/key"
 ---

@@ -4,8 +4,10 @@ title_str: "Turn on or turn off the keyboard shortcuts"
 slug: "key_ws_keyboard_shortcuts_on_off"
 url: "https://help.malighting.com/grandMA2/en/help/key_ws_keyboard_shortcuts_on_off.html"
 section: "Workspace"
+ma2_section: "key_workspace"
 section_ref: "[[Sections/Workspace]]"
 next_page: "[[Pages/Workspace/Edit keyboard shortcuts]]"
+depth: 3
 tags:
   - "type/page"
   - "section/ws"

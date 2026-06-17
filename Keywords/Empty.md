@@ -4,7 +4,6 @@ keyword: "Empty"
 slug: "key_keyword_empty"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_empty.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Empty]]"
 tags:
   - "type/keyword"
 ---

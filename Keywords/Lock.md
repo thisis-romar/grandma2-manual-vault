@@ -4,7 +4,6 @@ keyword: "Lock"
 slug: "key_keyword_lock"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_lock.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Lock]]"
 tags:
   - "type/keyword"
 ---

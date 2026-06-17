@@ -4,9 +4,11 @@ title_str: "Delete fixtures from the show"
 slug: "key_patch_delete_fixtures"
 url: "https://help.malighting.com/grandMA2/en/help/key_patch_delete_fixtures.html"
 section: "Patching"
+ma2_section: "key_patch"
 section_ref: "[[Sections/Patching]]"
 prev_page: "[[Pages/Patching/Adding fixtures to the show]]"
-next_page: "[[Pages/Patching/Working with layers]]"
+next_page: "[[Pages/Patching/Working with Layers]]"
+depth: 2
 tags:
   - "type/page"
   - "section/patch"
@@ -74,6 +76,6 @@ There is no easy way to delete the fixture using the command line or hard keys.
 
 Pressing Delete Fixture 1 0 1 Please, only unpatches fixture 101 - it will not be deleted.
 
-← [[Pages/Patching/Adding fixtures to the show]] | [[Pages/Patching/Working with layers]] →
+← [[Pages/Patching/Adding fixtures to the show]] | [[Pages/Patching/Working with Layers]] →
 
 Part of [[Sections/Patching]] · [[000 Map of Content]]

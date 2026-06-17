@@ -4,7 +4,6 @@ keyword: "CrashLogCopy keyword"
 slug: "key_keyword_crashlogcopy"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_crashlogcopy.html"
 keyword_type: "unknown"
-related_key: "[[Keys/CrashLogCopy keyword]]"
 tags:
   - "type/keyword"
 ---

@@ -4,8 +4,10 @@ title_str: "Sequence Content Sheet And Sequence Tracking Sheet"
 slug: "key_of_layers_in_sheets_content_and_tracking"
 url: "https://help.malighting.com/grandMA2/en/help/key_of_layers_in_sheets_content_and_tracking.html"
 section: "Operate Fixtures"
+ma2_section: "key_operate_fixtures"
 section_ref: "[[Sections/Operate Fixtures]]"
-prev_page: "[[Pages/Operate Fixtures/Channel sheet and fixture sheet]]"
+prev_page: "[[Pages/Operate Fixtures/Channel Sheet and Fixture Sheet]]"
+depth: 3
 tags:
   - "type/page"
   - "section/of"
@@ -45,6 +47,6 @@ Displays which sequence and cue the value comes from stating the number of the s
 
 Displays which sequence and cue the effect comes from stating the number of the sequence and the cue.
 
-← [[Pages/Operate Fixtures/Channel sheet and fixture sheet]]
+← [[Pages/Operate Fixtures/Channel Sheet and Fixture Sheet]]
 
 Part of [[Sections/Operate Fixtures]] · [[000 Map of Content]]

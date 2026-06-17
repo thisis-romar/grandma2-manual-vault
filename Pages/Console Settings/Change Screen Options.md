@@ -4,9 +4,11 @@ title_str: "Change Screen Options"
 slug: "key_window_screenoptions"
 url: "https://help.malighting.com/grandMA2/en/help/key_window_screenoptions.html"
 section: "Console Settings"
+ma2_section: "key_console_settings"
 section_ref: "[[Sections/Console Settings]]"
-prev_page: "[[Pages/Console Settings/Adjust the intensity of desk lights]]"
+prev_page: "[[Pages/Console Settings/Adjust Intensity of Desk Lights]]"
 next_page: "[[Pages/Console Settings/Local settings]]"
+depth: 2
 tags:
   - "type/page"
   - "section/window"
@@ -124,6 +126,6 @@ The screen saver turns on after the timeout selected.
 
 * * *
 
-← [[Pages/Console Settings/Adjust the intensity of desk lights]] | [[Pages/Console Settings/Local settings]] →
+← [[Pages/Console Settings/Adjust Intensity of Desk Lights]] | [[Pages/Console Settings/Local settings]] →
 
 Part of [[Sections/Console Settings]] · [[000 Map of Content]]

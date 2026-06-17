@@ -4,7 +4,6 @@ keyword: "MidiNote"
 slug: "key_keyword_midinote"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_midinote.html"
 keyword_type: "unknown"
-related_key: "[[Keys/MidiNote]]"
 tags:
   - "type/keyword"
 ---

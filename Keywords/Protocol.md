@@ -4,7 +4,6 @@ keyword: "Protocol"
 slug: "key_keyword_protocol"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_protocol.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Protocol]]"
 tags:
   - "type/keyword"
 ---

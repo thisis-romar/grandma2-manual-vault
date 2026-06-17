@@ -4,9 +4,11 @@ title_str: "Embedded Presets"
 slug: "key_presets_embedded"
 url: "https://help.malighting.com/grandMA2/en/help/key_presets_embedded.html"
 section: "Presets"
+ma2_section: "key_presets"
 section_ref: "[[Sections/Presets]]"
-prev_page: "[[Pages/Presets/Auto create additional presets]]"
-next_page: "[[Pages/Presets/Edit presets]]"
+prev_page: "[[Pages/Presets/Auto Create Additional Presets]]"
+next_page: "[[Pages/Presets/Edit Presets]]"
+depth: 2
 tags:
   - "type/page"
   - "section/presets"
@@ -61,6 +63,6 @@ _Embedded preset in the pool All_
 
 7.  You have now created an embedded preset marked by a white E within the object.
 
-← [[Pages/Presets/Auto create additional presets]] | [[Pages/Presets/Edit presets]] →
+← [[Pages/Presets/Auto Create Additional Presets]] | [[Pages/Presets/Edit Presets]] →
 
 Part of [[Sections/Presets]] · [[000 Map of Content]]

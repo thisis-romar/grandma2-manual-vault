@@ -4,8 +4,10 @@ title_str: "Thumbnail exchange"
 slug: "key_network_citp_thumbnail"
 url: "https://help.malighting.com/grandMA2/en/help/key_network_citp_thumbnail.html"
 section: "Networking"
+ma2_section: "key_network"
 section_ref: "[[Sections/Networking]]"
-prev_page: "[[Pages/Networking/Streaming CITP]]"
+prev_page: "[[Pages/Networking/Streaming CITP video]]"
+depth: 3
 tags:
   - "type/page"
   - "section/network"
@@ -72,6 +74,6 @@ This part is not implemented yet.
 
 This part is not implemented yet.
 
-← [[Pages/Networking/Streaming CITP]]
+← [[Pages/Networking/Streaming CITP video]]
 
 Part of [[Sections/Networking]] · [[000 Map of Content]]

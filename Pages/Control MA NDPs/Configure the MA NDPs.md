@@ -4,9 +4,11 @@ title_str: "Configure the MA NDPs"
 slug: "key_control_ma_ndp_configure"
 url: "https://help.malighting.com/grandMA2/en/help/key_control_ma_ndp_configure.html"
 section: "Control MA NDPs"
+ma2_section: "key_control_ma_ndp"
 section_ref: "[[Sections/Control MA NDPs]]"
-prev_page: "[[Pages/Control MA NDPs/Add the MA NDPs]]"
-next_page: "[[Pages/Control MA NDPs/Delete the MA NDPs]]"
+prev_page: "[[Pages/Control MA NDPs/Add the MA NDPs to the Network Configuration]]"
+next_page: "[[Pages/Control MA NDPs/Delete the MA NDPs in the Network Configuration]]"
+depth: 2
 tags:
   - "type/page"
   - "section/control"
@@ -64,6 +66,6 @@ Changing the rack number proves handy if you have configured specific settings i
 
 The MA NDPs are configured and the settings are applied.
 
-← [[Pages/Control MA NDPs/Add the MA NDPs]] | [[Pages/Control MA NDPs/Delete the MA NDPs]] →
+← [[Pages/Control MA NDPs/Add the MA NDPs to the Network Configuration]] | [[Pages/Control MA NDPs/Delete the MA NDPs in the Network Configuration]] →
 
 Part of [[Sections/Control MA NDPs]] · [[000 Map of Content]]

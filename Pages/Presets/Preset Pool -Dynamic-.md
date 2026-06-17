@@ -4,9 +4,11 @@ title_str: "Preset Pool \"Dynamic\""
 slug: "key_presets_dynamic_pool"
 url: "https://help.malighting.com/grandMA2/en/help/key_presets_dynamic_pool.html"
 section: "Presets"
+ma2_section: "key_presets"
 section_ref: "[[Sections/Presets]]"
-prev_page: "[[Pages/Presets/Preset pools]]"
-next_page: "[[Pages/Presets/Create presets]]"
+prev_page: "[[Pages/Presets/Preset Pools]]"
+next_page: "[[Pages/Presets/Create Presets]]"
+depth: 2
 tags:
   - "type/page"
   - "section/presets"
@@ -43,6 +45,6 @@ _Dynamic pool – Gobo_
 
 To close the preset pool, tap ![](../../img/icon_yellow-ball_3_2.png) in the upper left corner of the pool and tap Delete Window.
 
-← [[Pages/Presets/Preset pools]] | [[Pages/Presets/Create presets]] →
+← [[Pages/Presets/Preset Pools]] | [[Pages/Presets/Create Presets]] →
 
 Part of [[Sections/Presets]] · [[000 Map of Content]]

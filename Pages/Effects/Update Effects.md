@@ -4,9 +4,11 @@ title_str: "Update Effects"
 slug: "key_effects_update"
 url: "https://help.malighting.com/grandMA2/en/help/key_effects_update.html"
 section: "Effects"
+ma2_section: "key_effects"
 section_ref: "[[Sections/Effects]]"
-prev_page: "[[Pages/Effects/Running effects]]"
-next_page: "[[Pages/Effects/Delete effects]]"
+prev_page: "[[Pages/Effects/Running Effects]]"
+next_page: "[[Pages/Effects/Delete Effects]]"
+depth: 2
 tags:
   - "type/page"
   - "section/effects"
@@ -43,6 +45,6 @@ _Update effect_
 9.  Now, tap Update Effect.
 10.  The effect is now updated.
 
-← [[Pages/Effects/Running effects]] | [[Pages/Effects/Delete effects]] →
+← [[Pages/Effects/Running Effects]] | [[Pages/Effects/Delete Effects]] →
 
 Part of [[Sections/Effects]] · [[000 Map of Content]]

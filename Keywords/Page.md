@@ -4,7 +4,7 @@ keyword: "Page"
 slug: "key_keyword_page"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_page.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Page]]"
+related_key: "[[Keys/Page Key]]"
 tags:
   - "type/keyword"
 ---

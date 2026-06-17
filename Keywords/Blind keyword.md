@@ -4,7 +4,7 @@ keyword: "Blind keyword"
 slug: "key_keyword_blind"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_blind.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Blind keyword]]"
+related_key: "[[Keys/Blind Key]]"
 tags:
   - "type/keyword"
 ---

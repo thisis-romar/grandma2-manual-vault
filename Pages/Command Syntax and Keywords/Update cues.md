@@ -4,9 +4,11 @@ title_str: "Update cues"
 slug: "key_cs_update_cues"
 url: "https://help.malighting.com/grandMA2/en/help/key_cs_update_cues.html"
 section: "Command Syntax and Keywords"
-section_ref: "[[Sections/Command Syntax and Keywords]]"
+ma2_section: "key_cues_and_sequences"
+section_ref: "[[Sections/Cues and Sequences]]"
 prev_page: "[[Pages/Command Syntax and Keywords/Looking at the cue content]]"
-next_page: "[[Pages/Command Syntax and Keywords/What is tracking]]"
+next_page: "[[Pages/Command Syntax and Keywords/What is Tracking]]"
+depth: 2
 tags:
   - "type/page"
   - "section/cs"
@@ -76,6 +78,6 @@ For updating a cue, tap the sequence you want to update or if you have selected 
 
 It is also possible to change the values directly in the Sequence Tracking Sheet and the Sequence Content Sheet. These two sheets and the editing process are described in the [Looking at the Cue Content topic](key_cs_cue_content.html).
 
-← [[Pages/Command Syntax and Keywords/Looking at the cue content]] | [[Pages/Command Syntax and Keywords/What is tracking]] →
+← [[Pages/Command Syntax and Keywords/Looking at the cue content]] | [[Pages/Command Syntax and Keywords/What is Tracking]] →
 
-Part of [[Sections/Command Syntax and Keywords]] · [[000 Map of Content]]
+Part of [[Sections/Cues and Sequences]] · [[000 Map of Content]]

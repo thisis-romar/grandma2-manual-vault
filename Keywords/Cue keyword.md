@@ -4,7 +4,7 @@ keyword: "Cue keyword"
 slug: "key_keyword_cue"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_cue.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Cue keyword]]"
+related_key: "[[Keys/Cue Key]]"
 tags:
   - "type/keyword"
 ---

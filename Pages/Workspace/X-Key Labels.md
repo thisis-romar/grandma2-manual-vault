@@ -4,9 +4,11 @@ title_str: "X-Key Labels"
 slug: "key_widget_x_key_labels"
 url: "https://help.malighting.com/grandMA2/en/help/key_widget_x_key_labels.html"
 section: "Workspace"
+ma2_section: "key_workspace"
 section_ref: "[[Sections/Workspace]]"
-prev_page: "[[Pages/Workspace/Command line]]"
-next_page: "[[Pages/Workspace/View buttons]]"
+prev_page: "[[Pages/Workspace/Command Line]]"
+next_page: "[[Pages/Workspace/View Buttons]]"
+depth: 3
 tags:
   - "type/page"
   - "section/widget"
@@ -46,6 +48,6 @@ To change the button page, press Bt Pg + or Bt Pg -.
 
 _X-Key Labels for Mini Executor Bar_
 
-← [[Pages/Workspace/Command line]] | [[Pages/Workspace/View buttons]] →
+← [[Pages/Workspace/Command Line]] | [[Pages/Workspace/View Buttons]] →
 
 Part of [[Sections/Workspace]] · [[000 Map of Content]]

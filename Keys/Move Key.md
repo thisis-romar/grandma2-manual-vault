@@ -3,7 +3,7 @@ type: "key"
 key_label: "Move Key"
 slug: "key_key_move"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_move.html"
-related_keyword: "[[Keywords/Move Key]]"
+related_keyword: "[[Keywords/Move]]"
 tags:
   - "type/key"
 ---

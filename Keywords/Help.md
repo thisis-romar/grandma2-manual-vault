@@ -4,7 +4,7 @@ keyword: "Help"
 slug: "key_keyword_help"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_help.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Help]]"
+related_key: "[[Keys/Help Key]]"
 tags:
   - "type/keyword"
 ---

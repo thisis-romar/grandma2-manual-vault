@@ -4,9 +4,11 @@ title_str: "Change hostname of the MA Network Switch"
 slug: "key_control_ma_switch_hostname"
 url: "https://help.malighting.com/grandMA2/en/help/key_control_ma_switch_hostname.html"
 section: "Control MA Network Switch"
+ma2_section: "key_control_ma_switch"
 section_ref: "[[Sections/Control MA Network Switch]]"
-prev_page: "[[Pages/Control MA Network Switch/Enable DHCP client]]"
+prev_page: "[[Pages/Control MA Network Switch/Enable DHCP client for the MA Network Switch]]"
 next_page: "[[Pages/Control MA Network Switch/Change switch ID]]"
+depth: 2
 tags:
   - "type/page"
   - "section/control"
@@ -57,6 +59,6 @@ You can change the hostname by using the command line.
 \- Type in the command line Assign 1 / Hostname = "Stage Left".  
 The hostname of the NetworkSwitch 1 is changed.
 
-← [[Pages/Control MA Network Switch/Enable DHCP client]] | [[Pages/Control MA Network Switch/Change switch ID]] →
+← [[Pages/Control MA Network Switch/Enable DHCP client for the MA Network Switch]] | [[Pages/Control MA Network Switch/Change switch ID]] →
 
 Part of [[Sections/Control MA Network Switch]] · [[000 Map of Content]]

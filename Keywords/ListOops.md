@@ -4,7 +4,6 @@ keyword: "ListOops"
 slug: "key_keyword_listoops"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_listoops.html"
 keyword_type: "unknown"
-related_key: "[[Keys/ListOops]]"
 tags:
   - "type/keyword"
 ---

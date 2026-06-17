@@ -4,9 +4,11 @@ title_str: "Adjust pool options"
 slug: "key_pools_options"
 url: "https://help.malighting.com/grandMA2/en/help/key_pools_options.html"
 section: "Pools"
+ma2_section: "key_pools"
 section_ref: "[[Sections/Pools]]"
 prev_page: "[[Pages/Pools/Manage pool objects]]"
-next_page: "[[Pages/Pools/Call modes]]"
+next_page: "[[Pages/Pools/Call Modes]]"
+depth: 2
 tags:
   - "type/page"
   - "section/pools"
@@ -49,6 +51,6 @@ The pool options are adjusted to your needs and are saved in the user profile.
 **Hint:**  
 To change the color of one or more pool objects, you can also use the [Appearance Keyword](key_keyword_appearance.html).
 
-← [[Pages/Pools/Manage pool objects]] | [[Pages/Pools/Call modes]] →
+← [[Pages/Pools/Manage pool objects]] | [[Pages/Pools/Call Modes]] →
 
 Part of [[Sections/Pools]] · [[000 Map of Content]]

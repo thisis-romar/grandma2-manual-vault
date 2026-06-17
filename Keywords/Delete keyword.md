@@ -4,7 +4,7 @@ keyword: "Delete keyword"
 slug: "key_keyword_delete"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_delete.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Delete keyword]]"
+related_key: "[[Keys/Del (Delete) Key]]"
 tags:
   - "type/keyword"
 ---

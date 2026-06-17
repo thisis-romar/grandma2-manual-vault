@@ -7,21 +7,21 @@ page_count: 15
 tags:
   - "type/section"
 pages:
-  - "[[Pages/Patching/What are channels &amp; fixtures]]"
-  - "[[Pages/Patching/What is 3D and stage setup]]"
+  - "[[Pages/Patching/What Are Channels & Fixtures]]"
+  - "[[Pages/Patching/What is 3D and Stage setup]]"
   - "[[Pages/Patching/Adding fixtures to the show]]"
   - "[[Pages/Patching/Delete fixtures from the show]]"
-  - "[[Pages/Patching/Working with layers]]"
+  - "[[Pages/Patching/Working with Layers]]"
   - "[[Pages/Patching/Multipatching]]"
   - "[[Pages/Patching/Live patching]]"
-  - "[[Pages/Patching/DMX sheet]]"
-  - "[[Pages/Patching/DMX testing]]"
-  - "[[Pages/Patching/DMX and parameter lists]]"
-  - "[[Pages/Patching/Universe pool]]"
-  - "[[Pages/Patching/Stage view]]"
-  - "[[Pages/Patching/Virtual 3D cameras]]"
-  - "[[Pages/Patching/Position fixtures in the 3D stage]]"
-  - "[[Pages/Patching/Auto calibrate fixture positions]]"
+  - "[[Pages/Patching/DMX Sheet]]"
+  - "[[Pages/Patching/DMX testing in the DMX Sheet]]"
+  - "[[Pages/Patching/DMX and Parameter lists]]"
+  - "[[Pages/Patching/Universe Pool]]"
+  - "[[Pages/Patching/Stage View]]"
+  - "[[Pages/Patching/Virtual 3D Cameras]]"
+  - "[[Pages/Patching/Position fixtures in the virtual 3D stage]]"
+  - "[[Pages/Patching/Auto-calibrate fixture positions]]"
 ---
 
 # Patching, DMX, and Fixture Setup
@@ -61,20 +61,20 @@ The following pages deals with adding fixtures to your show, giving them DMX add
 
 ## Pages in This Section
 
-- [[Pages/Patching/What are channels &amp; fixtures]]
-- [[Pages/Patching/What is 3D and stage setup]]
+- [[Pages/Patching/What Are Channels & Fixtures]]
+- [[Pages/Patching/What is 3D and Stage setup]]
 - [[Pages/Patching/Adding fixtures to the show]]
 - [[Pages/Patching/Delete fixtures from the show]]
-- [[Pages/Patching/Working with layers]]
+- [[Pages/Patching/Working with Layers]]
 - [[Pages/Patching/Multipatching]]
 - [[Pages/Patching/Live patching]]
-- [[Pages/Patching/DMX sheet]]
-- [[Pages/Patching/DMX testing]]
-- [[Pages/Patching/DMX and parameter lists]]
-- [[Pages/Patching/Universe pool]]
-- [[Pages/Patching/Stage view]]
-- [[Pages/Patching/Virtual 3D cameras]]
-- [[Pages/Patching/Position fixtures in the 3D stage]]
-- [[Pages/Patching/Auto calibrate fixture positions]]
+- [[Pages/Patching/DMX Sheet]]
+- [[Pages/Patching/DMX testing in the DMX Sheet]]
+- [[Pages/Patching/DMX and Parameter lists]]
+- [[Pages/Patching/Universe Pool]]
+- [[Pages/Patching/Stage View]]
+- [[Pages/Patching/Virtual 3D Cameras]]
+- [[Pages/Patching/Position fixtures in the virtual 3D stage]]
+- [[Pages/Patching/Auto-calibrate fixture positions]]
 
 Part of [[000 Map of Content]]

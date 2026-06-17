@@ -4,7 +4,6 @@ keyword: "LoadPrev keyword"
 slug: "key_keyword_loadprev"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_loadprev.html"
 keyword_type: "unknown"
-related_key: "[[Keys/LoadPrev keyword]]"
 tags:
   - "type/keyword"
 ---

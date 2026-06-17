@@ -4,7 +4,6 @@ keyword: "DeleteShow keyword"
 slug: "key_keyword_deleteshow"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_deleteshow.html"
 keyword_type: "unknown"
-related_key: "[[Keys/DeleteShow keyword]]"
 tags:
   - "type/keyword"
 ---

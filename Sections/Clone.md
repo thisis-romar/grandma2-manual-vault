@@ -7,9 +7,9 @@ page_count: 3
 tags:
   - "type/section"
 pages:
-  - "[[Pages/Clone/Clone in user interface]]"
+  - "[[Pages/Clone/Clone In User Interface]]"
   - "[[Pages/Clone/Examples]]"
-  - "[[Pages/Clone/Clone presets]]"
+  - "[[Pages/Clone/Clone Presets]]"
 ---
 
 # Clone
@@ -74,8 +74,8 @@ For more information on replace see [Search and Replace](key_search_replace.html
 
 ## Pages in This Section
 
-- [[Pages/Clone/Clone in user interface]]
+- [[Pages/Clone/Clone In User Interface]]
 - [[Pages/Clone/Examples]]
-- [[Pages/Clone/Clone presets]]
+- [[Pages/Clone/Clone Presets]]
 
 Part of [[000 Map of Content]]

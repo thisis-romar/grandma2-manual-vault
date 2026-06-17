@@ -4,9 +4,11 @@ title_str: "Edit presets of the MA Network Switch"
 slug: "key_control_ma_switch_presets"
 url: "https://help.malighting.com/grandMA2/en/help/key_control_ma_switch_presets.html"
 section: "Control MA Network Switch"
+ma2_section: "key_control_ma_switch"
 section_ref: "[[Sections/Control MA Network Switch]]"
-prev_page: "[[Pages/Control MA Network Switch/Edit groups]]"
-next_page: "[[Pages/Control MA Network Switch/Edit LAGs]]"
+prev_page: "[[Pages/Control MA Network Switch/Edit groups of the MA Network Switch]]"
+next_page: "[[Pages/Control MA Network Switch/Edit Link Aggregation Groups of the MA Network Switch]]"
+depth: 2
 tags:
   - "type/page"
   - "section/control"
@@ -73,6 +75,6 @@ If manual filters are assigned to a port an assigned preset will delete the prev
 
 The preset is assigned to the port and saved in the startup configuration. The **filter icon** ![](../../img/icon_filter_small_v3-2.png) is visible in the port cell and on the front end display of the MA Network Switch.
 
-← [[Pages/Control MA Network Switch/Edit groups]] | [[Pages/Control MA Network Switch/Edit LAGs]] →
+← [[Pages/Control MA Network Switch/Edit groups of the MA Network Switch]] | [[Pages/Control MA Network Switch/Edit Link Aggregation Groups of the MA Network Switch]] →
 
 Part of [[Sections/Control MA Network Switch]] · [[000 Map of Content]]

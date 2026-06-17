@@ -4,9 +4,11 @@ title_str: "MAtricks Pool"
 slug: "key_matricks_pool"
 url: "https://help.malighting.com/grandMA2/en/help/key_matricks_pool.html"
 section: "MAtricks"
+ma2_section: "key_matricks"
 section_ref: "[[Sections/MAtricks]]"
-prev_page: "[[Pages/MAtricks/MAtricks toolbar]]"
-next_page: "[[Pages/MAtricks/MAtricks interleave]]"
+prev_page: "[[Pages/MAtricks/MAtricks Toolbar]]"
+next_page: "[[Pages/MAtricks/MAtricks Interleave]]"
+depth: 2
 tags:
   - "type/page"
   - "section/matricks"
@@ -66,6 +68,6 @@ By default, **Reset** is always displayed in the first pool object of the MAtri
 **Hint:**  
 For information on how to access the MAtricks pool options and how to use them see [Adjust pool options](key_pools_options.html).
 
-← [[Pages/MAtricks/MAtricks toolbar]] | [[Pages/MAtricks/MAtricks interleave]] →
+← [[Pages/MAtricks/MAtricks Toolbar]] | [[Pages/MAtricks/MAtricks Interleave]] →
 
 Part of [[Sections/MAtricks]] · [[000 Map of Content]]

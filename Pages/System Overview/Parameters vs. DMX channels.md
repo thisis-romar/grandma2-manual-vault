@@ -4,9 +4,11 @@ title_str: "Parameters vs. DMX channels"
 slug: "key_so_parameters_vs_dmx_channels"
 url: "https://help.malighting.com/grandMA2/en/help/key_so_parameters_vs_dmx_channels.html"
 section: "System Overview"
+ma2_section: "key_so_system_overview"
 section_ref: "[[Sections/System Overview]]"
 prev_page: "[[Pages/System Overview/Network systems]]"
 next_page: "[[Pages/System Overview/Parameter expansion]]"
+depth: 2
 tags:
   - "type/page"
   - "section/so"

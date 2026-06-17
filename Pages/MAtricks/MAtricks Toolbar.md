@@ -4,8 +4,10 @@ title_str: "MAtricks Toolbar"
 slug: "key_matricks_toolbar"
 url: "https://help.malighting.com/grandMA2/en/help/key_matricks_toolbar.html"
 section: "MAtricks"
+ma2_section: "key_matricks"
 section_ref: "[[Sections/MAtricks]]"
-next_page: "[[Pages/MAtricks/MAtricks pool]]"
+next_page: "[[Pages/MAtricks/MAtricks Pool]]"
+depth: 2
 tags:
   - "type/page"
   - "section/matricks"
@@ -195,6 +197,6 @@ Applies the function Shuffle to the selection in the MAtricks. For more informat
 **Hint:**  
 Settings stored in the MAtricks pool can be assigned to the User keys. For more information see [User 1](key_key_user1.html) key and [User 2](key_key_user2.html) key.
 
-[[Pages/MAtricks/MAtricks pool]] →
+[[Pages/MAtricks/MAtricks Pool]] →
 
 Part of [[Sections/MAtricks]] · [[000 Map of Content]]

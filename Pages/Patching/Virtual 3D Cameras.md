@@ -4,9 +4,11 @@ title_str: "Virtual 3D Cameras"
 slug: "key_patch_camera"
 url: "https://help.malighting.com/grandMA2/en/help/key_patch_camera.html"
 section: "Patching"
+ma2_section: "key_patch"
 section_ref: "[[Sections/Patching]]"
-prev_page: "[[Pages/Patching/Stage view]]"
-next_page: "[[Pages/Patching/Position fixtures in the 3D stage]]"
+prev_page: "[[Pages/Patching/Stage View]]"
+next_page: "[[Pages/Patching/Position fixtures in the virtual 3D stage]]"
+depth: 2
 tags:
   - "type/page"
   - "section/patch"
@@ -94,6 +96,6 @@ Each cameras settings are displayed as a sheet with columns. The following is a 
 *   **Info**:  
     Here you can write any information you like.
 
-← [[Pages/Patching/Stage view]] | [[Pages/Patching/Position fixtures in the 3D stage]] →
+← [[Pages/Patching/Stage View]] | [[Pages/Patching/Position fixtures in the virtual 3D stage]] →
 
 Part of [[Sections/Patching]] · [[000 Map of Content]]

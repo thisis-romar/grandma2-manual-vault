@@ -4,7 +4,6 @@ keyword: "RemoveIndividuals"
 slug: "key_keyword_removeindividuals"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_removeindividuals.html"
 keyword_type: "unknown"
-related_key: "[[Keys/RemoveIndividuals]]"
 tags:
   - "type/keyword"
 ---

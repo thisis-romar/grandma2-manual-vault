@@ -4,9 +4,11 @@ title_str: "Create worlds"
 slug: "key_wfm_create_worlds"
 url: "https://help.malighting.com/grandMA2/en/help/key_wfm_create_worlds.html"
 section: "Worlds Filters and Masks"
+ma2_section: "key_wfm_world_filter_mask"
 section_ref: "[[Sections/Worlds Filters and Masks]]"
-prev_page: "[[Pages/Worlds Filters and Masks/What are worlds]]"
+prev_page: "[[Pages/Worlds Filters and Masks/What are Worlds]]"
 next_page: "[[Pages/Worlds Filters and Masks/Auto create worlds]]"
+depth: 2
 tags:
   - "type/page"
   - "section/wfm"
@@ -51,6 +53,6 @@ A world is updated simply by restoring the world. If this is done while you are 
 
 As usual it is really a good idea to name the worlds as soon as they are created.
 
-← [[Pages/Worlds Filters and Masks/What are worlds]] | [[Pages/Worlds Filters and Masks/Auto create worlds]] →
+← [[Pages/Worlds Filters and Masks/What are Worlds]] | [[Pages/Worlds Filters and Masks/Auto create worlds]] →
 
 Part of [[Sections/Worlds Filters and Masks]] · [[000 Map of Content]]

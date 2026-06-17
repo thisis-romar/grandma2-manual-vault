@@ -4,7 +4,6 @@ keyword: "MAtricksReset"
 slug: "key_keyword_matricksreset"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_matricksreset.html"
 keyword_type: "unknown"
-related_key: "[[Keys/MAtricksReset]]"
 tags:
   - "type/keyword"
 ---

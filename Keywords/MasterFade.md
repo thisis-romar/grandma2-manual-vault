@@ -4,7 +4,6 @@ keyword: "MasterFade"
 slug: "key_keyword_masterfade"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_masterfade.html"
 keyword_type: "unknown"
-related_key: "[[Keys/MasterFade]]"
 tags:
   - "type/keyword"
 ---

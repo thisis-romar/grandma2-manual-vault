@@ -4,8 +4,10 @@ title_str: "Helping Keywords"
 slug: "key_cs_helping_keywords"
 url: "https://help.malighting.com/grandMA2/en/help/key_cs_helping_keywords.html"
 section: "Command Syntax and Keywords"
+ma2_section: "key_command_syntax_and_keywords"
 section_ref: "[[Sections/Command Syntax and Keywords]]"
-next_page: "[[Pages/Command Syntax and Keywords/Object keywords]]"
+next_page: "[[Pages/Command Syntax and Keywords/Object Keywords]]"
+depth: 3
 tags:
   - "type/page"
   - "section/cs"
@@ -57,6 +59,6 @@ Helping keywords are the prepositions and conjunctions of the console, so to spe
 *   [Thru keyword](key_keyword_thru.html)
 *   [Toggle keyword](key_keyword_toggle.html)
 
-[[Pages/Command Syntax and Keywords/Object keywords]] →
+[[Pages/Command Syntax and Keywords/Object Keywords]] →
 
 Part of [[Sections/Command Syntax and Keywords]] · [[000 Map of Content]]

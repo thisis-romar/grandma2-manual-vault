@@ -7,8 +7,8 @@ page_count: 2
 tags:
   - "type/section"
 pages:
-  - "[[Pages/Partial Show Read/What is partial show read (PSR)]]"
-  - "[[Pages/Partial Show Read/How to do a PSR]]"
+  - "[[Pages/Partial Show Read/What is Partial Show Read (PSR)]]"
+  - "[[Pages/Partial Show Read/How to do a Partial Show Read]]"
 ---
 
 # Partial Show Read
@@ -35,7 +35,7 @@ This section introduces Partial Show Read and describes the process and the inte
 
 ## Pages in This Section
 
-- [[Pages/Partial Show Read/What is partial show read (PSR)]]
-- [[Pages/Partial Show Read/How to do a PSR]]
+- [[Pages/Partial Show Read/What is Partial Show Read (PSR)]]
+- [[Pages/Partial Show Read/How to do a Partial Show Read]]
 
 Part of [[000 Map of Content]]

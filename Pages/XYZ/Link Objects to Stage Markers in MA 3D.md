@@ -4,8 +4,10 @@ title_str: "Link Objects to Stage Markers in MA 3D"
 slug: "key_xyz_link_object_to_stage_markers"
 url: "https://help.malighting.com/grandMA2/en/help/key_xyz_link_object_to_stage_markers.html"
 section: "XYZ"
+ma2_section: "key_xyz"
 section_ref: "[[Sections/XYZ]]"
-prev_page: "[[Pages/XYZ/Use stage markers]]"
+prev_page: "[[Pages/XYZ/Use Stage Markers]]"
+depth: 2
 tags:
   - "type/page"
   - "section/xyz"
@@ -47,6 +49,6 @@ _Object linked to a stage marker_
 
 For more information on how to control the object via the stage marker see [Use stage markers](key_xyz_use_stage_markers.html#move_stage_marker).
 
-← [[Pages/XYZ/Use stage markers]]
+← [[Pages/XYZ/Use Stage Markers]]
 
 Part of [[Sections/XYZ]] · [[000 Map of Content]]

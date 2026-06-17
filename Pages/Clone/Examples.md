@@ -4,9 +4,11 @@ title_str: "Examples"
 slug: "key_clone_examples"
 url: "https://help.malighting.com/grandMA2/en/help/key_clone_examples.html"
 section: "Clone"
+ma2_section: "key_clone"
 section_ref: "[[Sections/Clone]]"
-prev_page: "[[Pages/Clone/Clone in user interface]]"
-next_page: "[[Pages/Clone/Clone presets]]"
+prev_page: "[[Pages/Clone/Clone In User Interface]]"
+next_page: "[[Pages/Clone/Clone Presets]]"
+depth: 2
 tags:
   - "type/page"
   - "section/clone"
@@ -148,6 +150,6 @@ If you clone fixture type 1 to fixture type 2 with the option **Overwrite**:
 *   This process creates global data for fixture type 2.
 *   Fixture type 2 now does the exact same thing as fixture type 1.
 
-← [[Pages/Clone/Clone in user interface]] | [[Pages/Clone/Clone presets]] →
+← [[Pages/Clone/Clone In User Interface]] | [[Pages/Clone/Clone Presets]] →
 
 Part of [[Sections/Clone]] · [[000 Map of Content]]

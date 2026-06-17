@@ -4,8 +4,10 @@ title_str: "grandMA2 console"
 slug: "key_device_overview_grandma2_console"
 url: "https://help.malighting.com/grandMA2/en/help/key_device_overview_grandma2_console.html"
 section: "Device Overview"
+ma2_section: "key_device_overview"
 section_ref: "[[Sections/Device Overview]]"
 next_page: "[[Pages/Device Overview/grandMA2 replay unit (RPU)]]"
+depth: 2
 tags:
   - "type/page"
   - "section/device"

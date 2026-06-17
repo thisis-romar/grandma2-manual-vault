@@ -4,7 +4,6 @@ keyword: "LeaveSession"
 slug: "key_keyword_leavesession"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_leavesession.html"
 keyword_type: "unknown"
-related_key: "[[Keys/LeaveSession]]"
 tags:
   - "type/keyword"
 ---

@@ -4,7 +4,6 @@ keyword: "Info"
 slug: "key_keyword_info"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_info.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Info]]"
 tags:
   - "type/keyword"
 ---

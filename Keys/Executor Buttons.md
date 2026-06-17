@@ -3,7 +3,6 @@ type: "key"
 key_label: "Executor Buttons"
 slug: "key_key_execbuttons"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_execbuttons.html"
-related_keyword: "[[Keywords/Executor Buttons]]"
 tags:
   - "type/key"
 ---

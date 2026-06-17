@@ -4,9 +4,11 @@ title_str: "Clock"
 slug: "key_ost_clock"
 url: "https://help.malighting.com/grandMA2/en/help/key_ost_clock.html"
 section: "Other System Tools"
+ma2_section: "key_ost"
 section_ref: "[[Sections/Other System Tools]]"
 prev_page: "[[Pages/Other System Tools/Help]]"
 next_page: "[[Pages/Other System Tools/Sound input window]]"
+depth: 2
 tags:
   - "type/page"
   - "section/ost"

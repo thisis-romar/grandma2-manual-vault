@@ -4,7 +4,6 @@ keyword: "ListMacroLibrary"
 slug: "key_keyword_listmacrolibrary"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_listmacrolibrary.html"
 keyword_type: "unknown"
-related_key: "[[Keys/ListMacroLibrary]]"
 tags:
   - "type/keyword"
 ---

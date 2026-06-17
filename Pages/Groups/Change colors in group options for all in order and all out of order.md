@@ -4,9 +4,11 @@ title_str: "Change colors in group options for all in order and all out of order
 slug: "key_groups_change_specific_group_colors"
 url: "https://help.malighting.com/grandMA2/en/help/key_groups_change_specific_group_colors.html"
 section: "Groups"
+ma2_section: "key_groups"
 section_ref: "[[Sections/Groups]]"
 prev_page: "[[Pages/Groups/Choose copy method]]"
-next_page: "[[Pages/Groups/Group masters]]"
+next_page: "[[Pages/Groups/Group Master on Executors]]"
+depth: 2
 tags:
   - "type/page"
   - "section/groups"
@@ -60,6 +62,6 @@ The pool options are now adjusted to your needs and are saved in your user profi
 **Hint:**  
 You can also use the [Appearance keyword](key_keyword_appearance.html) to change the color of one or more pool objects.
 
-← [[Pages/Groups/Choose copy method]] | [[Pages/Groups/Group masters]] →
+← [[Pages/Groups/Choose copy method]] | [[Pages/Groups/Group Master on Executors]] →
 
 Part of [[Sections/Groups]] · [[000 Map of Content]]

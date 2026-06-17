@@ -4,9 +4,11 @@ title_str: "Dangers Caused by Electric Current"
 slug: "key_safety_information_dangers_caused_by_electric_cur"
 url: "https://help.malighting.com/grandMA2/en/help/key_safety_information_dangers_caused_by_electric_cur.html"
 section: "Safety Information"
+ma2_section: "key_safety_information"
 section_ref: "[[Sections/Safety Information]]"
-prev_page: "[[Pages/Safety Information/Intended use]]"
-next_page: "[[Pages/Safety Information/General safety instructions]]"
+prev_page: "[[Pages/Safety Information/Intended Use]]"
+next_page: "[[Pages/Safety Information/General Safety Instructions]]"
+depth: 2
 tags:
   - "type/page"
   - "section/safety"
@@ -33,6 +35,6 @@ Follow the safety instructions to avoid the risks caused by electric current.
 *   Do not expose the device to rain or moisture.
 *   Do not submerge the device in water.
 
-← [[Pages/Safety Information/Intended use]] | [[Pages/Safety Information/General safety instructions]] →
+← [[Pages/Safety Information/Intended Use]] | [[Pages/Safety Information/General Safety Instructions]] →
 
 Part of [[Sections/Safety Information]] · [[000 Map of Content]]

@@ -4,8 +4,10 @@ title_str: "Create a new show"
 slug: "key_backup_menu_new_show"
 url: "https://help.malighting.com/grandMA2/en/help/key_backup_menu_new_show.html"
 section: "Backup Menu"
+ma2_section: "key_backup_menu"
 section_ref: "[[Sections/Backup Menu]]"
-next_page: "[[Pages/Backup Menu/Load show]]"
+next_page: "[[Pages/Backup Menu/Loading a show]]"
+depth: 2
 tags:
   - "type/page"
   - "section/backup"
@@ -76,6 +78,6 @@ When the desired selection is made, then tap the Please button in the pop-up. 
 
 It is possible to create a new show using the command line. The command is called NewShow. Read more about it [here](key_keyword_newshow.html).
 
-[[Pages/Backup Menu/Load show]] →
+[[Pages/Backup Menu/Loading a show]] →
 
 Part of [[Sections/Backup Menu]] · [[000 Map of Content]]

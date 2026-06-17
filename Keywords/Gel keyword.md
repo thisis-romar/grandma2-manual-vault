@@ -4,7 +4,6 @@ keyword: "Gel keyword"
 slug: "key_keyword_gel"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_gel.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Gel keyword]]"
 tags:
   - "type/keyword"
 ---

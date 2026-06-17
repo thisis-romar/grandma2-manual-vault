@@ -4,7 +4,6 @@ keyword: "User"
 slug: "key_keyword_user"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_user.html"
 keyword_type: "unknown"
-related_key: "[[Keys/User]]"
 tags:
   - "type/keyword"
 ---

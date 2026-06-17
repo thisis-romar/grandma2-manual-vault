@@ -4,7 +4,6 @@ keyword: "DisconnectStation keyword"
 slug: "key_keyword_disconnectstation"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_disconnectstation.html"
 keyword_type: "unknown"
-related_key: "[[Keys/DisconnectStation keyword]]"
 tags:
   - "type/keyword"
 ---

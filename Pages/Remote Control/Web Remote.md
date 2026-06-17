@@ -4,9 +4,11 @@ title_str: "Web Remote"
 slug: "key_remote_control_web_remote"
 url: "https://help.malighting.com/grandMA2/en/help/key_remote_control_web_remote.html"
 section: "Remote Control"
+ma2_section: "key_remote_control"
 section_ref: "[[Sections/Remote Control]]"
-prev_page: "[[Pages/Remote Control/MIDI show control (MSC)]]"
-next_page: "[[Pages/Remote Control/Telnet remote]]"
+prev_page: "[[Pages/Remote Control/MIDI Show Control (MSC)]]"
+next_page: "[[Pages/Remote Control/Telnet Remote]]"
+depth: 2
 tags:
   - "type/page"
   - "section/remote"
@@ -313,6 +315,6 @@ _Wheels - Phone mode_
 
 _Wheels - Tablet mode_
 
-← [[Pages/Remote Control/MIDI show control (MSC)]] | [[Pages/Remote Control/Telnet remote]] →
+← [[Pages/Remote Control/MIDI Show Control (MSC)]] | [[Pages/Remote Control/Telnet Remote]] →
 
 Part of [[Sections/Remote Control]] · [[000 Map of Content]]

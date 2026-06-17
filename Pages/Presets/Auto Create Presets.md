@@ -4,9 +4,11 @@ title_str: "Auto Create Presets"
 slug: "key_presets_auto_create"
 url: "https://help.malighting.com/grandMA2/en/help/key_presets_auto_create.html"
 section: "Presets"
+ma2_section: "key_presets"
 section_ref: "[[Sections/Presets]]"
-prev_page: "[[Pages/Presets/Create preset reference]]"
-next_page: "[[Pages/Presets/Auto create additional presets]]"
+prev_page: "[[Pages/Presets/Create Preset Reference]]"
+next_page: "[[Pages/Presets/Auto Create Additional Presets]]"
+depth: 2
 tags:
   - "type/page"
   - "section/presets"
@@ -52,6 +54,6 @@ Auto-created presets are always global since they are generated in fixture types
 12.  To add the name of a subattribute to the name of a channel set, tap Add Name of Subattribute. 
 13.  To close the menu, tap ![](../../img/icon_close_small_v3-2.png) in the upper right corner of the window.
 
-← [[Pages/Presets/Create preset reference]] | [[Pages/Presets/Auto create additional presets]] →
+← [[Pages/Presets/Create Preset Reference]] | [[Pages/Presets/Auto Create Additional Presets]] →
 
 Part of [[Sections/Presets]] · [[000 Map of Content]]

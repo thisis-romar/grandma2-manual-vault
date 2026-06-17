@@ -3,7 +3,7 @@ type: "section"
 section: "Other system tools"
 slug: "key_ost"
 url: "https://help.malighting.com/grandMA2/en/help/key_ost.html"
-page_count: 9
+page_count: 8
 tags:
   - "type/section"
 pages:
@@ -11,8 +11,7 @@ pages:
   - "[[Pages/Other System Tools/Help]]"
   - "[[Pages/Other System Tools/Clock]]"
   - "[[Pages/Other System Tools/Sound input window]]"
-  - "[[Pages/Keyword/VPU pixel mapper view]]"
-  - "[[Pages/Other System Tools/Network dimmer]]"
+  - "[[Pages/Other System Tools/Network Dimmer]]"
   - "[[Pages/Other System Tools/Desk status]]"
   - "[[Pages/Other System Tools/Performance window]]"
   - "[[Pages/Other System Tools/System monitor]]"
@@ -65,8 +64,7 @@ To access the windows, tap on an empty part of a screen and tap Other or Syst
 - [[Pages/Other System Tools/Help]]
 - [[Pages/Other System Tools/Clock]]
 - [[Pages/Other System Tools/Sound input window]]
-- [[Pages/Keyword/VPU pixel mapper view]]
-- [[Pages/Other System Tools/Network dimmer]]
+- [[Pages/Other System Tools/Network Dimmer]]
 - [[Pages/Other System Tools/Desk status]]
 - [[Pages/Other System Tools/Performance window]]
 - [[Pages/Other System Tools/System monitor]]

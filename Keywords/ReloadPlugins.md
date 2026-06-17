@@ -4,7 +4,6 @@ keyword: "ReloadPlugins"
 slug: "key_keyword_reloadplugins"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_reloadplugins.html"
 keyword_type: "unknown"
-related_key: "[[Keys/ReloadPlugins]]"
 tags:
   - "type/keyword"
 ---

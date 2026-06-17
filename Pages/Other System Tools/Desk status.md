@@ -4,9 +4,11 @@ title_str: "Desk status"
 slug: "key_ost_desk_status"
 url: "https://help.malighting.com/grandMA2/en/help/key_ost_desk_status.html"
 section: "Other System Tools"
+ma2_section: "key_ost"
 section_ref: "[[Sections/Other System Tools]]"
-prev_page: "[[Pages/Other System Tools/Network dimmer]]"
+prev_page: "[[Pages/Other System Tools/Network Dimmer]]"
 next_page: "[[Pages/Other System Tools/Performance window]]"
+depth: 2
 tags:
   - "type/page"
   - "section/ost"
@@ -76,6 +78,6 @@ Displays the amount of devices that are currently logged in. It will also tell h
 
 Displays the current status of the graphic card on the device.
 
-← [[Pages/Other System Tools/Network dimmer]] | [[Pages/Other System Tools/Performance window]] →
+← [[Pages/Other System Tools/Network Dimmer]] | [[Pages/Other System Tools/Performance window]] →
 
 Part of [[Sections/Other System Tools]] · [[000 Map of Content]]

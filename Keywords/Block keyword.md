@@ -4,7 +4,6 @@ keyword: "Block keyword"
 slug: "key_keyword_block"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_block.html"
 keyword_type: "unknown"
-related_key: "[[Keys/Block keyword]]"
 tags:
   - "type/keyword"
 ---

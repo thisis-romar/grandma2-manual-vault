@@ -3,7 +3,6 @@ type: "key"
 key_label: "Go + Key (small)"
 slug: "key_key_goplus"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_goplus.html"
-related_keyword: "[[Keywords/Go + Key (small)]]"
 tags:
   - "type/key"
 ---

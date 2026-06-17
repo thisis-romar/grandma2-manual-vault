@@ -7,11 +7,11 @@ page_count: 5
 tags:
   - "type/section"
 pages:
-  - "[[Pages/Timecode/What is timecode and timecode shows]]"
-  - "[[Pages/Timecode/Record a timecode show]]"
-  - "[[Pages/Timecode/Edit a timecode show]]"
-  - "[[Pages/Timecode/Playing back a timecode show]]"
-  - "[[Pages/Timecode/Organize the show with multiple timecode shows]]"
+  - "[[Pages/Timecode/What is Timecode and Timecode Shows]]"
+  - "[[Pages/Timecode/Record a Timecode Show]]"
+  - "[[Pages/Timecode/Edit a Timecode Show]]"
+  - "[[Pages/Timecode/Playing Back a Timecode Show]]"
+  - "[[Pages/Timecode/Organize The Show with Multiple Timecode Shows]]"
 ---
 
 # Timecode
@@ -49,10 +49,10 @@ Finally there is a topic with a few ideas or thoughts about shows with multiple 
 
 ## Pages in This Section
 
-- [[Pages/Timecode/What is timecode and timecode shows]]
-- [[Pages/Timecode/Record a timecode show]]
-- [[Pages/Timecode/Edit a timecode show]]
-- [[Pages/Timecode/Playing back a timecode show]]
-- [[Pages/Timecode/Organize the show with multiple timecode shows]]
+- [[Pages/Timecode/What is Timecode and Timecode Shows]]
+- [[Pages/Timecode/Record a Timecode Show]]
+- [[Pages/Timecode/Edit a Timecode Show]]
+- [[Pages/Timecode/Playing Back a Timecode Show]]
+- [[Pages/Timecode/Organize The Show with Multiple Timecode Shows]]
 
 Part of [[000 Map of Content]]

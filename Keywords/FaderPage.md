@@ -4,7 +4,6 @@ keyword: "FaderPage"
 slug: "key_keyword_faderpage"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_faderpage.html"
 keyword_type: "unknown"
-related_key: "[[Keys/FaderPage]]"
 tags:
   - "type/keyword"
 ---

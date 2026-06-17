@@ -4,7 +4,6 @@ keyword: "DoubleRate keyword"
 slug: "key_keyword_doublerate"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_doublerate.html"
 keyword_type: "unknown"
-related_key: "[[Keys/DoubleRate keyword]]"
 tags:
   - "type/keyword"
 ---

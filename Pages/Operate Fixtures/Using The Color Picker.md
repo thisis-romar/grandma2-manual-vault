@@ -4,9 +4,11 @@ title_str: "Using The Color Picker"
 slug: "key_of_color_picker"
 url: "https://help.malighting.com/grandMA2/en/help/key_of_color_picker.html"
 section: "Operate Fixtures"
+ma2_section: "key_operate_fixtures"
 section_ref: "[[Sections/Operate Fixtures]]"
-prev_page: "[[Pages/Operate Fixtures/Encoder grouping]]"
-next_page: "[[Pages/Operate Fixtures/Using the shaper dialog]]"
+prev_page: "[[Pages/Operate Fixtures/Encoder Grouping]]"
+next_page: "[[Pages/Operate Fixtures/Using The Shaper Dialog]]"
+depth: 2
 tags:
   - "type/page"
   - "section/of"
@@ -273,6 +275,6 @@ To close the color picker altogether, tap ![](../../img/icon_yellow-ball_3_2.pn
 
 If you opened the color picker via the special dialog, then tap ![](../../img/icon_close_small_v3-2.png) in the upper right corner of the dialog.
 
-← [[Pages/Operate Fixtures/Encoder grouping]] | [[Pages/Operate Fixtures/Using the shaper dialog]] →
+← [[Pages/Operate Fixtures/Encoder Grouping]] | [[Pages/Operate Fixtures/Using The Shaper Dialog]] →
 
 Part of [[Sections/Operate Fixtures]] · [[000 Map of Content]]

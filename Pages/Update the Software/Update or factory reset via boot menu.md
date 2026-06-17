@@ -4,9 +4,11 @@ title_str: "Update or factory reset via boot menu"
 slug: "key_update_boot_menu"
 url: "https://help.malighting.com/grandMA2/en/help/key_update_boot_menu.html"
 section: "Update the Software"
+ma2_section: "key_update"
 section_ref: "[[Sections/Update the Software]]"
 prev_page: "[[Pages/Update the Software/Format a USB stick for Linux]]"
 next_page: "[[Pages/Update the Software/Restart from Linux]]"
+depth: 2
 tags:
   - "type/page"
   - "section/update"

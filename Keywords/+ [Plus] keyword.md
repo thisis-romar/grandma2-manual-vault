@@ -4,7 +4,7 @@ keyword: "+ [Plus] keyword"
 slug: "key_keyword_plus"
 url: "https://help.malighting.com/grandMA2/en/help/key_keyword_plus.html"
 keyword_type: "unknown"
-related_key: "[[Keys/+ [Plus] keyword]]"
+related_key: "[[Keys/+ Key]]"
 tags:
   - "type/keyword"
 ---

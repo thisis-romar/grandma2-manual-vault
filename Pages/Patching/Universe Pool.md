@@ -4,9 +4,11 @@ title_str: "Universe Pool"
 slug: "key_patch_universe_pool"
 url: "https://help.malighting.com/grandMA2/en/help/key_patch_universe_pool.html"
 section: "Patching"
+ma2_section: "key_patch"
 section_ref: "[[Sections/Patching]]"
-prev_page: "[[Pages/Patching/DMX and parameter lists]]"
-next_page: "[[Pages/Patching/Stage view]]"
+prev_page: "[[Pages/Patching/DMX and Parameter lists]]"
+next_page: "[[Pages/Patching/Stage View]]"
+depth: 2
 tags:
   - "type/page"
   - "section/patch"
@@ -75,6 +77,6 @@ Many off the options related to the DMX universe is explained in the [DMX List p
     When there are DMX channels affected by the DMX tester then there is an ![](../../img/icon_warning_v3-3.png) icon in the pool button and a "!" in the column.  
     Read more details about the DMX tester function in the [DMX testing topic](key_patch_dmx_testing.html).
 
-← [[Pages/Patching/DMX and parameter lists]] | [[Pages/Patching/Stage view]] →
+← [[Pages/Patching/DMX and Parameter lists]] | [[Pages/Patching/Stage View]] →
 
 Part of [[Sections/Patching]] · [[000 Map of Content]]
