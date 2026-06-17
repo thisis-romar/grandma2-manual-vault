@@ -1,0 +1,39 @@
+---
+type: "keyword"
+keyword: "AllRows keyword"
+slug: "key_keyword_allrows"
+url: "https://help.malighting.com/grandMA2/en/help/key_keyword_allrows.html"
+keyword_type: "unknown"
+related_key: "[[Keys/AllRows keyword]]"
+tags:
+  - "type/keyword"
+---
+
+# AllRows keyword
+
+> [!source]- Source
+> [MA Lighting Help – AllRows keyword](https://help.malighting.com/grandMA2/en/help/key_keyword_allrows.html)
+
+Version 3.9
+
+# AllRows keyword
+
+To get the AllRows keyword in the command line type **AllRows** or the shortcut **AllR** in the command line.
+
+## Description
+
+AllRows is a function used to set the MAtricks property Single Y to _none (0)_, which means to reselect all rows of fixtures in a virtual array created with MAtricksInterleave.
+
+For more information see [MAtricks](key_matricks.html).
+
+## Syntax
+
+AllRows
+
+## Example
+
+*   To reselect all rows of fixtures in an interleave array.
+
+\[Channel\]> AllRows
+
+Part of [[000 Keyword Index]] · [[000 Map of Content]]

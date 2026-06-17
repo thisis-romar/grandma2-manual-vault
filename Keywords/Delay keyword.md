@@ -1,0 +1,43 @@
+---
+type: "keyword"
+keyword: "Delay keyword"
+slug: "key_keyword_delay"
+url: "https://help.malighting.com/grandMA2/en/help/key_keyword_delay.html"
+keyword_type: "unknown"
+related_key: "[[Keys/Delay keyword]]"
+tags:
+  - "type/keyword"
+---
+
+# Delay keyword
+
+> [!source]- Source
+> [MA Lighting Help – Delay keyword](https://help.malighting.com/grandMA2/en/help/key_keyword_delay.html)
+
+Version 3.9
+
+# Delay keyword
+
+**Delay** is a helping keyword used to indicate delay times.
+
+To execute this keyword type **Delay** or the shortcut **Dela** into the command line. 
+
+## Syntax
+
+Delay \[Value-list\]
+
+As a helping keyword for programming functions (e.g., Store) this keyword sets the time of an object.
+
+Used as a starting keyword, Delay applies individual timing in the programmer for the current selection and attributes.
+
+## Examples
+
+\[Channel\]> Store Cue 3 Delay 4
+
+Creates cue 3 and sets its delay time to 4 seconds.
+
+\[Channel\]> Delay 4
+
+Sets individual delay time for the current selection/attributes.
+
+Part of [[000 Keyword Index]] · [[000 Map of Content]]

@@ -1,0 +1,41 @@
+---
+type: "keyword"
+keyword: "Group"
+slug: "key_keyword_group"
+url: "https://help.malighting.com/grandMA2/en/help/key_keyword_group.html"
+keyword_type: "unknown"
+related_key: "[[Keys/Group]]"
+tags:
+  - "type/keyword"
+---
+
+# Group
+
+> [!source]- Source
+> [MA Lighting Help – Group](https://help.malighting.com/grandMA2/en/help/key_keyword_group.html)
+
+Version 3.9
+
+# Group Keyword
+
+To get the Group keyword into the command line, press Group or type **Group** or the shortcut **G** in the command line.
+
+## Description
+
+Group is an object type that contains a collection of fixtures and a selection sequence.
+
+The default function for the group keyword is SelFix. This means that calling groups without any function specified selects the fixtures of the group.
+
+For more information see [SelFix keyword](key_keyword_selfix.html).
+
+## Syntax
+
+Group \[ID\]
+
+## Example
+
+\[Channel\]> Group 3
+
+Selects the fixtures stored in group 3.
+
+Part of [[000 Keyword Index]] · [[000 Map of Content]]

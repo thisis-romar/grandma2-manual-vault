@@ -213,18 +213,24 @@ async function parseTOC() {
   // We track depth via nesting level.
 
   /**
-   * Three doc sets are in the nav:
-   *   grandMA2 User Manual
-   *   grandMA3 Mode2
-   *   grandMA2 Quick Start Guide
+   * The nav (<nav id="offline-tree">) contains several sibling top-level <ul>
+   * doc-sets (User Manual, grandMA3 Mode2, Quick Start Guide, Quick Manual onPC,
+   * MA 3D, MA VPU, Release Notes). We only keep the User Manual + Quick Start
+   * Guide (CLAUDE.md scope) and drop the rest via SCOPE_DOC_SETS below.
+   *
+   * Doc-set is derived deterministically from the URL subfolder — User Manual
+   * pages live at the help root (no subfolder); other doc-sets are namespaced
+   * under their own folder.
    */
-  const DOC_SET_ROOTS = {
-    'index.html': 'user-manual',
-    'grandma3_mode2/index.html': 'mode2',
-    'grandma2_quick_start_guide/index.html': 'quick-start',
-  };
-
-  let currentDocSet = 'user-manual';
+  function docSetForUrl(url) {
+    if (url.includes('/grandma2_quick_start_guide/')) return 'quick-start';
+    if (url.includes('/grandma3_mode2/')) return 'mode2';
+    if (url.includes('/ma_3d/')) return 'ma-3d';
+    if (url.includes('/ma_vpu/')) return 'ma-vpu';
+    if (url.includes('/release_notes/')) return 'release-notes';
+    if (url.includes('/grandma2_quick_manual_onpc_solutions/')) return 'onpc-solutions';
+    return 'user-manual';
+  }
 
   function walkList($list, depth, parentUrl) {
     $list.children('li').each((_, li) => {
@@ -241,27 +247,32 @@ async function parseTOC() {
                 : `${BASE_URL}/${href.replace(/^.*\/help\//, '')}`;
       url = url.split('#')[0]; // strip anchors
 
-      // Detect doc set changes
-      for (const [root, ds] of Object.entries(DOC_SET_ROOTS)) {
-        if (href.includes(root)) { currentDocSet = ds; break; }
-      }
+      // Determine doc set deterministically from the URL subfolder
+      const docSet = docSetForUrl(url);
 
       // Derive slug from URL
       const slug = url.split('/').pop().replace('.html', '');
 
-      // Detect type override from slug
+      // Detect type override from slug (keyword/key pages win regardless of depth)
       const slugMeta = detectSlugMeta(slug);
       let type = slugMeta.type;
       if (!type) {
-        if (currentDocSet === 'quick-start') type = 'quick-start';
-        else if (currentDocSet === 'mode2') type = 'page';
-        else type = depth === 1 ? 'section' : 'page';
+        if (docSet === 'quick-start') {
+          type = 'quick-start';
+        } else {
+          // user-manual: single depth-1 root wraps the whole manual, so chapters
+          // are depth 2 (→ section) and their sub-pages are depth ≥3 (→ page).
+          // The depth-1 root itself is skipped (the 000 Map of Content is the top index).
+          if (depth === 1) type = 'skip';
+          else if (depth === 2) type = 'section';
+          else type = 'page';
+        }
       }
 
       const entry = {
         url, slug, title, depth,
         parentUrl: parentUrl || null,
-        docSet: currentDocSet,
+        docSet,
         type,
         index: index++,
       };
@@ -275,19 +286,33 @@ async function parseTOC() {
     });
   }
 
-  // Find the top-level nav list
-  const $navList = $('nav ul, .sidenav ul, #sidenav ul, ul').first();
-  walkList($navList, 1, null);
+  // Walk every top-level doc-set list in the nav, not just the first.
+  // The MA nav holds several sibling top-level <ul> doc-sets; .first() only
+  // captured the User Manual (and missed the Quick Start Guide).
+  const $nav = $('nav#offline-tree, nav, .sidenav, #sidenav').first();
+  const $scope = $nav.length ? $nav : $.root();
+  // Top-level lists = <ul> elements not nested inside another <ul>.
+  const $topLists = $scope.find('ul').filter((_, ul) => $(ul).parents('ul').length === 0);
+  if ($topLists.length) {
+    $topLists.each((_, ul) => walkList($(ul), 1, null));
+  } else {
+    walkList($scope.find('ul').first(), 1, null);
+  }
+
+  // Keep only in-scope doc-sets (User Manual + Quick Start Guide) and drop the
+  // depth-1 manual root (type 'skip').
+  const SCOPE_DOC_SETS = new Set(['user-manual', 'quick-start']);
+  const scoped = entries.filter(e => SCOPE_DOC_SETS.has(e.docSet) && e.type !== 'skip');
 
   // Deduplicate by URL
   const seen = new Set();
-  const deduped = entries.filter(e => {
+  const deduped = scoped.filter(e => {
     if (seen.has(e.url)) return false;
     seen.add(e.url);
     return true;
   });
 
-  console.log(`TOC parsed: ${deduped.length} entries`);
+  console.log(`TOC parsed: ${deduped.length} entries (after scope filter)`);
   return deduped;
 }
 
@@ -432,29 +457,32 @@ function buildKeyNote(entry, content) {
 /** section index note */
 function buildSectionNote(entry, content, childEntries) {
   const { title, metaKeywords, metaSearchwords, bodyMarkdown } = content;
-  const sectionName = title || entry.title;
+  const sectionTitle = title || entry.title;
+  // Filename/link key must match the folder pages use (sectionFromSlug) so that
+  // each page's `section_ref` resolves to this note.
+  const sectionName = sectionFromSlug(entry.slug);
   const aliases = buildAliases(metaKeywords, metaSearchwords, title);
-  const childLinks = childEntries.map(c => `- [[Pages/${sanitizeFilename(sectionName)}/${sanitizeFilename(c.title)}]]`);
+  const childLinks = childEntries.map(c => `- [[Pages/${sanitizeFilename(sectionFromSlug(c.slug))}/${sanitizeFilename(c.title)}]]`);
 
   const fm = buildFrontmatter({
     type:        'section',
-    section:     sectionName,
+    section:     sectionTitle,
     slug:        entry.slug,
     url:         entry.url,
     page_count:  childEntries.length,
     aliases,
     tags:        ['type/section'],
-    pages:       childEntries.map(c => `[[Pages/${sanitizeFilename(sectionName)}/${sanitizeFilename(c.title)}]]`),
+    pages:       childEntries.map(c => `[[Pages/${sanitizeFilename(sectionFromSlug(c.slug))}/${sanitizeFilename(c.title)}]]`),
   });
 
-  const source = `\n> [!source]- Source\n> [MA Lighting Help – ${sectionName}](${entry.url})\n`;
+  const source = `\n> [!source]- Source\n> [MA Lighting Help – ${sectionTitle}](${entry.url})\n`;
   const body = bodyMarkdown || '*Section index — see pages below.*';
   const pagesBlock = childLinks.length > 0
     ? `\n\n## Pages in This Section\n\n${childLinks.join('\n')}`
     : '';
   const footer = `\n\nPart of [[000 Map of Content]]`;
 
-  return `${fm}\n\n# ${sectionName}\n${source}\n${body}${pagesBlock}${footer}\n`;
+  return `${fm}\n\n# ${sectionTitle}\n${source}\n${body}${pagesBlock}${footer}\n`;
 }
 
 /** page note */
@@ -590,7 +618,7 @@ async function main() {
         break;
       }
       case 'section': {
-        const sectionName = sanitizeFilename(displayTitle || sectionFromSlug(entry.slug));
+        const sectionName = sanitizeFilename(sectionFromSlug(entry.slug));
         const children = childMap.get(entry.url) || [];
         relPath = `Sections/${sectionName}.md`;
         noteContent = buildSectionNote(entry, content, children);
