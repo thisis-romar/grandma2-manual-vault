@@ -95,3 +95,15 @@ export async function loadVault(root = VAULT_ROOT_DEFAULT) {
 }
 
 export const byType = (notes, type) => notes.filter((n) => n.type === type);
+
+/**
+ * Remove the per-note template (source callout, "Version x.y", nav footer) so
+ * term/keyword frequencies reflect real content, not boilerplate repeated on
+ * every note.
+ */
+export function stripBoilerplate(body) {
+  return body
+    .replace(/^> \[!source\][^\n]*\n(?:> [^\n]*\n)+/m, '')   // source callout block
+    .replace(/^Version \d[\d.]*\s*$/m, '')                    // "Version 3.9"
+    .replace(/^(?:← [^\n]*|[^\n]*→|Part of [^\n]*)$/gm, '');  // nav footer lines
+}

@@ -11,6 +11,8 @@
     "stats": "node stats.js",
     "analytics": "node analytics.js",
     "semantics": "node semantics.js",
+    "topics": "node nlp.js",
+    "viz": "node viz.js",
     "test": "node --test"
   },
   "dependencies": {

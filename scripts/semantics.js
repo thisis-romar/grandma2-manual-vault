@@ -16,7 +16,7 @@
 import { promises as fs } from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
-import { loadVault, byType, VAULT_ROOT_DEFAULT } from './lib/vault.js';
+import { loadVault, byType, stripBoilerplate, VAULT_ROOT_DEFAULT } from './lib/vault.js';
 
 const PROMPT_RE = /\[[^\]\n]*\]>\s*([^\n`]+)/g;          // [Channel]> Store …
 const FLAG_RE = /(?:^|\s)(\/[A-Za-z][\w-]*)/g;            // /global, /overwrite
@@ -85,13 +85,8 @@ export async function runSemantics(root = VAULT_ROOT_DEFAULT) {
 
   for (const note of vault.notes) {
     if (!['page', 'keyword', 'quick-start', 'section'].includes(note.type)) continue;
-    // Strip boilerplate (source callout, "Version x.y", nav footer) so keyword
-    // frequencies reflect real usage, not the per-note template.
-    const cleaned = note.body
-      .replace(/^> \[!source\][\s\S]*?\n(?=\n|#|[A-Za-z])/m, '')
-      .replace(/^Version \d+(\.\d+)*\s*$/m, '')
-      .replace(/^(?:← .*|.*→|Part of .*)$/gm, '');
-    const sem = extractSemantics(cleaned, keywordSet);
+    // Strip the per-note template so keyword frequencies reflect real usage.
+    const sem = extractSemantics(stripBoilerplate(note.body), keywordSet);
     if (sem.prompts.length || sem.commands.length || sem.flags.length) {
       perNote.push({ note: note.path, ...sem });
     }
