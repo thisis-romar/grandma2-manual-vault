@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_mask.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The Mask keyword is an object keyword to access Masks in the Mask pool."
 ---
 
 # Mask

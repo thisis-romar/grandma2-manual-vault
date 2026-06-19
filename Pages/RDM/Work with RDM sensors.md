@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/rdm"
+summary: "After the RDM fixture is matched, you can:"
 ---
 
 # Work with RDM sensors

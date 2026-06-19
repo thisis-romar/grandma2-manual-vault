@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/of"
+summary: "A shaper dialog is used to manipulate the beam of a fixture with the help of shaper blades."
 ---
 
 # Using The Shaper Dialog

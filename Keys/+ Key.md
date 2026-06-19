@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_key_plus.html"
 related_keyword: "[[Keywords/+ [Plus] keyword]]"
 tags:
   - "type/key"
+summary: "The key + is located next to the numeric keys in the command area."
 ---
 
 # [Plus] + Key

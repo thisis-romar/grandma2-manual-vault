@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_key_channel.html"
 related_keyword: "[[Keywords/Channel keyword]]"
 tags:
   - "type/key"
+summary: "The key Channel is located on the left of the key Fixture."
 ---
 
 # Channel Key

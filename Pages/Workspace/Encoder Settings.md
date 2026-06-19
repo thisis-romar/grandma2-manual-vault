@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/ws"
+summary: "To go to the encoder settings, press and hold the !encoder."
 ---
 
 # Encoder Settings

@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_presettype.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "With the PresetType keyword you can:"
 ---
 
 # PresetType

@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_key_backup.html"
 related_keyword: "[[Keywords/Backup]]"
 tags:
   - "type/key"
+summary: "The key Backup is located on the right of the key Setup."
 ---
 
 # Backup Key

@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_shutdown.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The shutdown keyword switches the grandMA2 console off or close the grandMA2 onPC."
 ---
 
 # Shutdown

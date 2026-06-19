@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/adv"
+summary: "Cue Zero is an automatically created cue containing a link to default values of attributes."
 ---
 
 # Cue Zero

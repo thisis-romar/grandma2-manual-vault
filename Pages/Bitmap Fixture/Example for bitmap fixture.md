@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/bitmapfixture"
+summary: "This topic describes the bitmap fixtures on an example."
 ---
 
 # Example for bitmap fixture

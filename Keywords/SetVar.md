@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_setvar.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The SetVar keyword sets global show variables."
 ---
 
 # SetVar

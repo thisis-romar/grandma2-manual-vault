@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/cs"
+summary: "When cues are stored then there are some options that will be used."
 ---
 
 # Store Options and Defaults

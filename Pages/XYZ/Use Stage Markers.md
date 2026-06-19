@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/xyz"
+summary: "A stage marker is a virtual fixture."
 ---
 
 # Use Stage Markers

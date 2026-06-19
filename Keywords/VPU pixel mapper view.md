@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_vpupixelmappervie
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "To access the VPU Pixel Mapper View, tap on an empty part of a screen."
 ---
 
 # VPU pixel mapper view

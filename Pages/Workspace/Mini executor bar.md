@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/ws"
+summary: "Mini executor bars are visible at the bottom of screen 3 (grandMA2 light and grandMA2 full-size) and screen 4 (grandMA2 full-size)."
 ---
 
 # Mini executor bar

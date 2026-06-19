@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/fs"
+summary: "You can connect an external USB mouse and / or an external USB keyboard to the console."
 ---
 
 # Connect USB Mouse and USB Keyboad

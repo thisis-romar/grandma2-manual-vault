@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/fs"
+summary: "To use a sound trigger, BPM or sound as an effect form, connect a sound source to the console."
 ---
 
 # Connect Sound

@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_key_freeze.html"
 related_keyword: "[[Keywords/Freeze]]"
 tags:
   - "type/key"
+summary: "The key Freeze is located in the command area on the right of the key Blind."
 ---
 
 # Freeze Key

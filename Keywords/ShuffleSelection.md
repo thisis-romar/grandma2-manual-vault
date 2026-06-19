@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_shuffleselection.
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The ShuffleSelection keyword mix-up the order of the selected fixture or channel."
 ---
 
 # ShuffleSelection

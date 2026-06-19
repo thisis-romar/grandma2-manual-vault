@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_normal.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "With the Normal keyword you set the dimmer of the fixtures to the defined Normal value."
 ---
 
 # Normal

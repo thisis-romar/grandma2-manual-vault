@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/effects"
+summary: "The simplest way to use effects in the grandMA2 is to work with predefined effects."
 ---
 
 # Use Predefined Effects

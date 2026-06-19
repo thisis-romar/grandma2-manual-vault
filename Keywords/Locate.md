@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_locate.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The locate keyword is a function keyword to locate assigned objects on executors."
 ---
 
 # Locate

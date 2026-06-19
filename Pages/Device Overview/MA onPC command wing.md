@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/device"
+summary: "MA onPC command wing front panel"
 ---
 
 # MA onPC command wing

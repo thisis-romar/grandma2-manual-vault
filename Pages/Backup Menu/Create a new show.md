@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/backup"
+summary: "Several tabs in the backup menu offers the option to start a new show."
 ---
 
 # Create a new show

@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_listshows.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The ListShows keyword is a function keyword to display the show files on the selected drive in the Command Line Feedback window."
 ---
 
 # ListShows

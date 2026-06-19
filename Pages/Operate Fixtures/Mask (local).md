@@ -13,6 +13,7 @@ depth: 3
 tags:
   - "type/page"
   - "section/of"
+summary: "This tab is available in the Channel, Fixture, Content, and Tracking Sheets."
 ---
 
 # Mask (local)

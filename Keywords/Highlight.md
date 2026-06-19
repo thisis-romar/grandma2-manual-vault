@@ -9,6 +9,7 @@ keyword_type: "unknown"
 related_key: "[[Keys/Highlt (Highlight) Key]]"
 tags:
   - "type/keyword"
+summary: "Highlight is a function to apply the defined highlight values on selected fixtures."
 ---
 
 # Highlight

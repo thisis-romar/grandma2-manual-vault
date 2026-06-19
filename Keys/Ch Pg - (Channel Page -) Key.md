@@ -7,6 +7,7 @@ slug: "key_key_channelpageminus"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_channelpageminus.html"
 tags:
   - "type/key"
+summary: "The key Ch Pg - is located on the left of the 100 mm fader."
 ---
 
 # Ch Pg - (Channel Page -) Key

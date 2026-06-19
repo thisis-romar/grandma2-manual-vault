@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_effectdelay.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "EffectDelay is a helping keyword to indicate individual effect delay times."
 ---
 
 # EffectDelay

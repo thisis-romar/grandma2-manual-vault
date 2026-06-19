@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/bitmapfixture"
+summary: "The bitmap fixture has 100 images and 100 layouts by default."
 ---
 
 # Edit bitmap fixture

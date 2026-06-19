@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_form.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "Form is an object type with shapes used for dynamic effects."
 ---
 
 # Form

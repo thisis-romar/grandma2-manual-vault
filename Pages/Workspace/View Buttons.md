@@ -14,6 +14,7 @@ depth: 3
 tags:
   - "type/page"
   - "section/widget"
+summary: "There are two kinds of view buttons in the grandMA2 user interface:"
 ---
 
 # View Buttons

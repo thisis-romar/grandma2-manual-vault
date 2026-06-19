@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_listuservar.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The ListUserVar keyword is a function keyword to get the user specific variables and their values in the Command Line Feedback window displayed."
 ---
 
 # ListUserVar

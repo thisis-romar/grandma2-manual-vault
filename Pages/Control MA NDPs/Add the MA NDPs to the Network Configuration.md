@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/control"
+summary: "Follow these guidelines to add the MA NDPs to the network configuration."
 ---
 
 # Add the MA NDPs to the Network Configuration

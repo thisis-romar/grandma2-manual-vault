@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_key_fixture.html"
 related_keyword: "[[Keywords/Fixture]]"
 tags:
   - "type/key"
+summary: "The key Fixture is located in the command area on the right of the key Channel."
 ---
 
 # Fixture Key

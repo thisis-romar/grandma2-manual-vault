@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/control"
+summary: "This topic describes the different port settings and how to configure the ports."
 ---
 
 # Configure ports of the MA Network Switch

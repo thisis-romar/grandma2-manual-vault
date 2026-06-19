@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_block.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "Block is a function used to add data to prevent tracking."
 ---
 
 # Block keyword

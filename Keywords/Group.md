@@ -9,6 +9,7 @@ keyword_type: "unknown"
 related_key: "[[Keys/Group Key]]"
 tags:
   - "type/keyword"
+summary: "Group is an object type that contains a collection of fixtures and a selection sequence."
 ---
 
 # Group

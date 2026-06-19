@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_selectdrive.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The SelectDrive keyword select the drive in the Backup Menu, for the following functions:"
 ---
 
 # SelectDrive

@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/adv"
+summary: "The Executors are arranged in pages."
 ---
 
 # Executor Pages

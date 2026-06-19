@@ -14,6 +14,7 @@ depth: 3
 tags:
   - "type/page"
   - "section/ost"
+summary: "You can edit the properties of racks."
 ---
 
 # Edit Properties of a Rack

@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_specialmaster.htm
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "Specialmaster is an object type that holds predefined objects for global control."
 ---
 
 # SpecialMaster

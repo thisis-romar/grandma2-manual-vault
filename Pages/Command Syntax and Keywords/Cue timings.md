@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/cs"
+summary: "Cue timing is about the stored values transition from one cue to the next."
 ---
 
 # Cue timings

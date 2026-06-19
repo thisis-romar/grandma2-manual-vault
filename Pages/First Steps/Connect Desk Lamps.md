@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/fs"
+summary: "The console comes with two MA LED desk lamps."
 ---
 
 # Connect Desk Lamps

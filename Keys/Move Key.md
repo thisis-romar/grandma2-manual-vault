@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_key_move.html"
 related_keyword: "[[Keywords/Move]]"
 tags:
   - "type/key"
+summary: "The key Move is located in the command area on the right of the key Group."
 ---
 
 # Move Key

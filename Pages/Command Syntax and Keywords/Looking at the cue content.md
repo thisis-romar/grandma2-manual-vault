@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/cs"
+summary: "There are two sheets that can be used to look at the content stored in cues - the stored values can also be edited using the sheet."
 ---
 
 # Looking at the cue content

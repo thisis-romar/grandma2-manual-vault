@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/adv"
+summary: "Each cue has a mode that can be changed in the Sequence Executor Sheet."
 ---
 
 # Using Cue Modes

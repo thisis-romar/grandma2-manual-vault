@@ -11,6 +11,7 @@ tags:
 pages:
   - "[[Pages/Partial Show Read/What is Partial Show Read (PSR)]]"
   - "[[Pages/Partial Show Read/How to do a Partial Show Read]]"
+summary: "Partial Show Read is a function that allows for an easy import of elements from one show to another."
 ---
 
 # Partial Show Read

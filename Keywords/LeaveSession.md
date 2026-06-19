@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_leavesession.html
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The LeaveSession keyword is a function keyword to leave the current session."
 ---
 
 # LeaveSession

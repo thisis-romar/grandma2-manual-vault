@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/macro"
+summary: "Macros are commands stored in a pool object."
 ---
 
 # What are macros

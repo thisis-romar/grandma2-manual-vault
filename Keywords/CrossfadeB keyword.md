@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_crossfadeb.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "CrossfadeB is a function that is assigned for executors."
 ---
 
 # CrossfadeB keyword

@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/bitmapfixture"
+summary: "To use the bitmap fixture it is necessary to import it in the show."
 ---
 
 # Import bitmap fixture

@@ -9,6 +9,7 @@ keyword_type: "unknown"
 related_key: "[[Keys/Help Key]]"
 tags:
   - "type/keyword"
+summary: "Help is a function keyword to open the help window."
 ---
 
 # Help

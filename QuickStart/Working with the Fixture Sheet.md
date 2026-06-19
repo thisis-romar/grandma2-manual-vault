@@ -6,6 +6,7 @@ slug: "key_10_fixture_sheet"
 url: "https://help.malighting.com/grandMA2/en/help/grandma2_quick_start_guide/key_10_fixture_sheet.html"
 tags:
   - "type/quick-start"
+summary: "The Fixture Sheet is used for displaying all the attributes of the fixtures."
 ---
 
 # Working with the Fixture Sheet

@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_nextrow.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "NextRow is a function keyword to increase the MAtricks property single y."
 ---
 
 # NextRow

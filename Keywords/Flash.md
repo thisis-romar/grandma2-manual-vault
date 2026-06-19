@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_flash.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "Flash is a function used to temporary overwrite master level to full on executing objects without using times."
 ---
 
 # Flash

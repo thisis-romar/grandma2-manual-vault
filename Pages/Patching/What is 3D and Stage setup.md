@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/patch"
+summary: "The grandMA2 have a virtual 3D space."
 ---
 
 # What is 3D and Stage setup

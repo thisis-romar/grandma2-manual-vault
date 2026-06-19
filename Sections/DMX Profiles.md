@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_dmx_profiles.html"
 page_count: 0
 tags:
   - "type/section"
+summary: "DMX profiles are used in attributes or in DMX channels."
 ---
 
 # DMX Profiles

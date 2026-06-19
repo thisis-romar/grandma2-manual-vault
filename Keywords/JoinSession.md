@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_joinsession.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "JoinSession is a function used to join or create a session."
 ---
 
 # JoinSession

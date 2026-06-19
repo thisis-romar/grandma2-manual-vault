@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/plugins"
+summary: "Lua is a scripting language designed to support general procedural programming."
 ---
 
 # What is Lua

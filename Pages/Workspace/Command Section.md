@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/ws"
+summary: "The command section is the area used to enter complex commands into the command line using keys."
 ---
 
 # Command Section

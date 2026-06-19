@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/network"
+summary: "PosiStageNet or PSN is a open protocol developed by MA Lighting and VYV Corporation - http://www.posistage.net/."
 ---
 
 # PosiStageNet (PSN)

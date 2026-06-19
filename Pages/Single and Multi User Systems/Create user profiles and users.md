@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/single"
+summary: "The user system is divided into two different parts - The User and the User Profile."
 ---
 
 # Create user profiles and users

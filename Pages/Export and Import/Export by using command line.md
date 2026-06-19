@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/ei"
+summary: "It is possible to use the Command Line to export all objects."
 ---
 
 # Export by using command line

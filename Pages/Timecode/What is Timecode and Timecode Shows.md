@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/timecode"
+summary: "Timecode is a timing signal."
 ---
 
 # What is Timecode and Timecode Shows

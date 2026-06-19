@@ -9,6 +9,7 @@ keyword_type: "unknown"
 related_key: "[[Keys/Update Key]]"
 tags:
   - "type/keyword"
+summary: "The update keyword, updates functions in its source objects."
 ---
 
 # Update

@@ -14,6 +14,7 @@ depth: 3
 tags:
   - "type/page"
   - "section/widget"
+summary: "The command line is located in the bottom area of screen 1 and screen 2."
 ---
 
 # Command Line

@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/cs"
+summary: "Deleting a cue will remove the values stored in the cue."
 ---
 
 # Delete Cues

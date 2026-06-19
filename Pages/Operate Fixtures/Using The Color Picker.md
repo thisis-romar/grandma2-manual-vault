@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/of"
+summary: "Based on the field you work in, the color picker provides the opportunity of displaying the colors of fixtures in various views."
 ---
 
 # Using The Color Picker

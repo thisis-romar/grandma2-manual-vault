@@ -16,6 +16,7 @@ pages:
   - "[[Pages/Macros/Command line interaction]]"
   - "[[Pages/Macros/Assign a macro to a key]]"
   - "[[Pages/Macros/Example macros]]"
+summary: "The macro system is a very powerful tool that can help with the programming and can be used to do make repetitive task simpler and faster."
 ---
 
 # Macros

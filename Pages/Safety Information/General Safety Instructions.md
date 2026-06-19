@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/safety"
+summary: "Follow the safety instructions to avoid injury or material damage:"
 ---
 
 # General Safety Instructions

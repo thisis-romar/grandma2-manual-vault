@@ -13,6 +13,7 @@ depth: 3
 tags:
   - "type/page"
   - "section/of"
+summary: "The Tools tab contains a lot of different settings that turns on or off tools in the sheets."
 ---
 
 # Tools

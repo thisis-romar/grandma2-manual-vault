@@ -13,6 +13,7 @@ pages:
   - "[[Pages/XYZ/XYZ and Pan-Tilt in cues and sequences]]"
   - "[[Pages/XYZ/Use Stage Markers]]"
   - "[[Pages/XYZ/Link Objects to Stage Markers in MA 3D]]"
+summary: "XYZ adds virtual channels to the fixtures."
 ---
 
 # XYZ

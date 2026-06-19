@@ -13,6 +13,7 @@ pages:
   - "[[Pages/Single and Multi User Systems/Create user profiles and users]]"
   - "[[Pages/Single and Multi User Systems/User specific settings]]"
   - "[[Pages/Single and Multi User Systems/Login on a station]]"
+summary: "The grandMA2 system can handle small and big systems, with one or many user at the same time."
 ---
 
 # Single User and Multi User systems

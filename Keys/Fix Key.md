@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_key_fix.html"
 related_keyword: "[[Keywords/Fix]]"
 tags:
   - "type/key"
+summary: "The key Fix is located in the command area on the left of the key Select."
 ---
 
 # Fix Key

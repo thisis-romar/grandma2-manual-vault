@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/rdm"
+summary: "Here is a list with links to all specific RDM keywords:"
 ---
 
 # RDM specific keywords

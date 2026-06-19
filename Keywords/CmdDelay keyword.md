@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_cmddelay.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "CmdDelay is a helping keyword used to indicate delay times for the cmd link."
 ---
 
 # CmdDelay keyword

@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/update"
+summary: "If an unexpected software crash happens, you can restart the console direct from the Linux operating system."
 ---
 
 # Restart from Linux

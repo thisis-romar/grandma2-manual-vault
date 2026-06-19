@@ -9,6 +9,7 @@ keyword_type: "unknown"
 related_key: "[[Keys/Exec (Executor) Key]]"
 tags:
   - "type/keyword"
+summary: "Executor is an object keyword acting as a control handle for other objects."
 ---
 
 # Executor

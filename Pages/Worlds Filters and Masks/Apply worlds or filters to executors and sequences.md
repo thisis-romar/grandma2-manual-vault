@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/wfm"
+summary: "Worlds and filters can be assigned to Executors or Sequences."
 ---
 
 # Apply worlds or filters to executors and sequences

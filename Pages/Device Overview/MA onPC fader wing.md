@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/device"
+summary: "45 x Fader Executor Buttons"
 ---
 
 # MA onPC fader wing

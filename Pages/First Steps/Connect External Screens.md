@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/fs"
+summary: "You can connect up to two external screens or touch screens on a console – right and left."
 ---
 
 # Connect External Screens

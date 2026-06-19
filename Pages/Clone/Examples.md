@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/clone"
+summary: "It is possible to clone from fixture types or to fixture types in presets only."
 ---
 
 # Examples

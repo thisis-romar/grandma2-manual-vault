@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/of"
+summary: "The different sheets in the console have many options."
 ---
 
 # Sheet options

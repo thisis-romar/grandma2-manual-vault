@@ -19,6 +19,7 @@ pages:
   - "[[Pages/Backup Menu/Partial Show Read]]"
   - "[[Pages/Backup Menu/ASCII Show Read]]"
   - "[[Pages/Backup Menu/grandMA2 to grandMA3 Show File Converter]]"
+summary: "The Backup Menu is where show files are managed."
 ---
 
 # Using the Backup Menu

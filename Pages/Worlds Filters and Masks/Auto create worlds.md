@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/wfm"
+summary: "grandMA2 can automatically create worlds, based on the selections."
 ---
 
 # Auto create worlds

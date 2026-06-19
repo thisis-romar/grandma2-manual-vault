@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_key_help.html"
 related_keyword: "[[Keywords/Help]]"
 tags:
   - "type/key"
+summary: "The key Help is located on the right of the key Backup."
 ---
 
 # Help Key

@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/layouts"
+summary: "It is possible to create layouts for each part of the stage."
 ---
 
 # Create a Layout

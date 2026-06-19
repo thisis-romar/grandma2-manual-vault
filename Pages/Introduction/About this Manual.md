@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/introduction"
+summary: "Navigation in the Help"
 ---
 
 # About this Manual

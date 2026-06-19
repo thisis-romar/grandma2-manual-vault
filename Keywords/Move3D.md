@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_move3d.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The Move3D keyword moves 3D objects in the Stage View."
 ---
 
 # Move3D

@@ -7,6 +7,7 @@ slug: "key_key_buttonpageminus"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_buttonpageminus.html"
 tags:
   - "type/key"
+summary: "The key Bt Pg - is located left the 100 mm fader."
 ---
 
 # Bt Pg - (Button Page) Key

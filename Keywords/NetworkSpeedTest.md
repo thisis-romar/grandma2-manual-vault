@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_networkspeedtest.
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "Do not use the NetworkSpeedTest keyword in show situations.The NetworkSpeedTest keyword blocks all other network traffic and DMX traffic for some seconds."
 ---
 
 # NetworkSpeedTest

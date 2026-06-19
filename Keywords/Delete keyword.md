@@ -9,6 +9,7 @@ keyword_type: "unknown"
 related_key: "[[Keys/Del (Delete) Key]]"
 tags:
   - "type/keyword"
+summary: "Delete is a function used to remove data from the show file."
 ---
 
 # Delete keyword

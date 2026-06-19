@@ -9,6 +9,7 @@ keyword_type: "unknown"
 related_key: "[[Keys/Up Key]]"
 tags:
   - "type/keyword"
+summary: "The Up keyword scrolls one page up in focused window."
 ---
 
 # Up

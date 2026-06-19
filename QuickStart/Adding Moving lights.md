@@ -6,6 +6,7 @@ slug: "key_09_add_moving_lights"
 url: "https://help.malighting.com/grandMA2/en/help/grandma2_quick_start_guide/key_09_add_moving_lights.html"
 tags:
   - "type/quick-start"
+summary: "We are going to store the show with a new name and add some moving lights to the patch."
 ---
 
 # Adding Moving lights

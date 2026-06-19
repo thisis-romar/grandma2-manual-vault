@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_outdelay.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The OutDelay keyword is a helping keyword to set an outdelay time."
 ---
 
 # OutDelay

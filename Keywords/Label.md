@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_label.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "Label is a function used to give names to objects."
 ---
 
 # Label

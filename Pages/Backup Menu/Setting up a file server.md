@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/backup"
+summary: "The session Master can be connected to a file server in the network."
 ---
 
 # Setting up a file server

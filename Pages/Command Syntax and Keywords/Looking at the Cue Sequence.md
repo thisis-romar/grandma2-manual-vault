@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/cs"
+summary: "If your show has sequences with multiple cues, then it is very useful to be able to see the sequence and see the active cue and the settings for the cue change."
 ---
 
 # Looking at the Cue Sequence

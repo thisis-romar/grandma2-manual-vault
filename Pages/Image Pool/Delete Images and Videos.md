@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/image"
+summary: "It is possible to delete an imported image or video in two different ways."
 ---
 
 # Delete Images and Videos

@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/remote"
+summary: "The grandMA2 can be remote controlled via Telnet."
 ---
 
 # Telnet Remote

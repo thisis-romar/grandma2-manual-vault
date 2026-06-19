@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_key_edit.html"
 related_keyword: "[[Keywords/Edit keyword]]"
 tags:
   - "type/key"
+summary: "The key Edit is located in the command area on the left of the key Oops."
 ---
 
 # Edit Key

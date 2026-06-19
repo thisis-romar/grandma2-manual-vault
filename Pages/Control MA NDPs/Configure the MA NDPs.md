@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/control"
+summary: "This topic deals with settings that can be made in the MA Network Configuration of MA NDPs."
 ---
 
 # Configure the MA NDPs

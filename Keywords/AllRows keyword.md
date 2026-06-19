@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_allrows.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "AllRows is a function used to set the MAtricks property Single Y to none (0), which means to reselect all rows of fixtures in a virtual array created with MAtricksInterleave."
 ---
 
 # AllRows keyword

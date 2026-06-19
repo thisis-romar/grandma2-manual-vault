@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_info.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "Info is a function keyword to add or display user info to an object."
 ---
 
 # Info

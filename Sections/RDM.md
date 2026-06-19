@@ -20,6 +20,7 @@ pages:
   - "[[Pages/RDM/Splitters and Mergers that Support RDM]]"
   - "[[Pages/RDM/Turn RDM off]]"
   - "[[Pages/RDM/RDM specific keywords]]"
+summary: "Requirements:"
 ---
 
 # RDM

@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/ws"
+summary: "This chapter gives you an understanding of the grandMA2 user interface, the different elements such as the command line, and how to work with these elements."
 ---
 
 # User Interface

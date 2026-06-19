@@ -16,6 +16,7 @@ pages:
   - "[[Pages/Advanced Sequence Functionality/Sequence info window]]"
   - "[[Pages/Advanced Sequence Functionality/Looping cues]]"
   - "[[Pages/Advanced Sequence Functionality/Cue path]]"
+summary: "The following sub topics describes some of the more advanced functions regarding sequences."
 ---
 
 # Advanced Sequence Functionality

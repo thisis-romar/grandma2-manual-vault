@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/safety"
+summary: "This device is intended for control of all kinds of lighting genres such as conventional, moving lights, LEDs, video and media via DMX signal or within a network environment."
 ---
 
 # Intended Use

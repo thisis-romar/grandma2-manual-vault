@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_channelfader.html
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "ChannelFader is an object type representing a fader of the ChannelPages."
 ---
 
 # ChannelFader keyword

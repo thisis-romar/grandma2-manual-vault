@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/macro"
+summary: "Here you can find some examples of macros."
 ---
 
 # Example macros

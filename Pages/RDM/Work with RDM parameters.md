@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/rdm"
+summary: "After the RDM is turned on and an RDM fixture is discovered, you can:"
 ---
 
 # Work with RDM parameters

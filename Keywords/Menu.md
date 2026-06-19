@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_menu.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "With the Menu keyword you can open and close menus."
 ---
 
 # Menu

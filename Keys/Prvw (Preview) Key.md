@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_key_preview.html"
 related_keyword: "[[Keywords/Preview]]"
 tags:
   - "type/key"
+summary: "The key Prvw (Preview) is located in the command area on the left of the key Assign."
 ---
 
 # Prvw (Preview) Key

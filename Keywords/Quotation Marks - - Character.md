@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_marks.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "With \" \" quotation marks you can enter text strings into the command line."
 ---
 
 # Quotation Marks " " Character

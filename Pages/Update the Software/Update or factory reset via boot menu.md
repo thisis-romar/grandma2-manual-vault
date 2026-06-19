@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/update"
+summary: "This topic describes how to update the grandMA2 software or do a factory reset via the boot menu."
 ---
 
 # Update or factory reset via boot menu

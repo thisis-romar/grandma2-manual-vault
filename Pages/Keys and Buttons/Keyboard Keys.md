@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/keyboard"
+summary: "Keyboard keys are either located in the keyboard drawer or on any external keyboard connected to the console."
 ---
 
 # Keyboard Keys

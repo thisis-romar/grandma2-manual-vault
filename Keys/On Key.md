@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_key_on.html"
 related_keyword: "[[Keywords/On]]"
 tags:
   - "type/key"
+summary: "The key On is located in the command area on the right of the key Top."
 ---
 
 # On Key

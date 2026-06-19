@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_shufflevalues.htm
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The ShuffleValues keyword mix-up the values of the selected fixtures or channels."
 ---
 
 # ShuffleValues

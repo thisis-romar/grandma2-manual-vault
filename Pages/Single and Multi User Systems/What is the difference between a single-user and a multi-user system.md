@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/single"
+summary: "When talking about a system, we often actually mean a session."
 ---
 
 # What is the difference between a single-user and a multi-user system

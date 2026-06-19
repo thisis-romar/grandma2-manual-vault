@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/macro"
+summary: "Command line interaction can mean two different things when we talk about macros - they are however connected."
 ---
 
 # Command line interaction

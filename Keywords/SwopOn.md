@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_swopon.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The SwopOn keyword temporary overrides the master level of executors to full and all other master levels to zero."
 ---
 
 # SwopOn

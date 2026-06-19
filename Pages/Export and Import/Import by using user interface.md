@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/ei"
+summary: "There is a dedicated GUI for importing Macros, Effects, Masks, MAtricks, Gobo Bitmaps, User Profiles, and DMX Nodes."
 ---
 
 # Import by using user interface

@@ -12,6 +12,7 @@ pages:
   - "[[Pages/Pools/Manage pool objects]]"
   - "[[Pages/Pools/Adjust pool options]]"
   - "[[Pages/Pools/Call Modes]]"
+summary: "This chapter describes pools in general."
 ---
 
 # Pools in General

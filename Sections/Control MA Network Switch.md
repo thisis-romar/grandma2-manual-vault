@@ -25,6 +25,7 @@ pages:
   - "[[Pages/Control MA Network Switch/Update firmware of the MA Network Switch]]"
   - "[[Pages/Control MA Network Switch/Reset the MA Network Switch to its factory defaults]]"
   - "[[Pages/Control MA Network Switch/Delete MA Network Switch from the network configuration]]"
+summary: "The MA Network Switch is the perfect device for a full lighting control solution."
 ---
 
 # Control the MA Network Switch from a grandMA2

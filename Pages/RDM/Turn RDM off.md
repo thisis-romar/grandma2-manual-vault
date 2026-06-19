@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/rdm"
+summary: "To ensure a trouble-free DMX signal and to minimize network traffic, we recommend to turn RDM off for universes including only fixtures NOT providing RDM functionality."
 ---
 
 # Turn RDM off

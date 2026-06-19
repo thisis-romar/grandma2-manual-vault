@@ -14,6 +14,7 @@ depth: 3
 tags:
   - "type/page"
   - "section/basic"
+summary: "The Mirror fixture type defines a type of fixtures with typically a discharge light source like the HDI types."
 ---
 
 # Mirror

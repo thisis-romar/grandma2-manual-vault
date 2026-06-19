@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_halfrate.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "HalfRate is a function keyword to divide the current rate by 2."
 ---
 
 # HalfRate

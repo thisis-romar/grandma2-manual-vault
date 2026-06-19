@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/remote"
+summary: "The stations can be remote controlled by any browser connected to the system."
 ---
 
 # Web Remote

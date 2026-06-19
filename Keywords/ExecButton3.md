@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_execbutton3.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "ExecButton3 is an object keyword for the third button of an executor."
 ---
 
 # ExecButton3

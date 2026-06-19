@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/network"
+summary: "To connect MA devices you need to create a session."
 ---
 
 # Session control

@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_onpc_details.html"
 page_count: 0
 tags:
   - "type/section"
+summary: "The grandMA2 onPC has a special menu only available for the onPC."
 ---
 
 # grandMA2 onPC Details

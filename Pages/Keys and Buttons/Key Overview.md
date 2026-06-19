@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/keys"
+summary: "This overview displays shortcuts for a quick execution of commands."
 ---
 
 # Key Overview

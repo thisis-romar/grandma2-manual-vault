@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/control"
+summary: "Use these steps to add the MA Network Switch to the network configuration."
 ---
 
 # Add the MA Network Switch to the network configuration

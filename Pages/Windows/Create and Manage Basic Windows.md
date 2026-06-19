@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/windows"
+summary: "You can create a basic window in the user-defined area on every screen."
 ---
 
 # Create and Manage Basic Windows

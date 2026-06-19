@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_resetdmxselection
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The ResetDmxSelection keyword clears the selection in the DMX tester."
 ---
 
 # ResetDmxSelection

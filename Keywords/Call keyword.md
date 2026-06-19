@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_call.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "Call is a function used to apply/engage an object or its content (press 2x button \"ON\")."
 ---
 
 # Call keyword

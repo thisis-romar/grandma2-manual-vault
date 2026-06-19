@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/wfm"
+summary: "Besides the filter pool with the defined or prepared filters, you can also use temporary filters."
 ---
 
 # Use temporary filters

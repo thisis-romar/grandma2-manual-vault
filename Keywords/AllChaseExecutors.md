@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_allchaseexecutors
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "AllChaseExecutors is used as an alias to address all executors with chasers assigned."
 ---
 
 # AllChaseExecutors

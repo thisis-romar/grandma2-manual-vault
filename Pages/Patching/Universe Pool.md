@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/patch"
+summary: "The Universe pool displays all the 256 universes that the system can handle."
 ---
 
 # Universe Pool

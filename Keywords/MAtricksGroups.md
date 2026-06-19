@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_matricksgroups.ht
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "MAtricksGroups is a function keyword to set the Align Groups."
 ---
 
 # MAtricksGroups

@@ -12,6 +12,7 @@ pages:
   - "[[Pages/Basic Fixture Types/What are Attributes, Features & Preset Types]]"
   - "[[Pages/Basic Fixture Types/ColorMix vs. MixColor]]"
   - "[[Pages/Basic Fixture Types/Different Fixture Types]]"
+summary: "This section describes the basic concept behind the Fixture Types."
 ---
 
 # Basic Fixture Types

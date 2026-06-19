@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/network"
+summary: "All the 5-pin XLR connectors in a grandMA2 system is a DMX port."
 ---
 
 # Getting DMX in and out of the system

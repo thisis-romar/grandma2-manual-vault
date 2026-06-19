@@ -14,6 +14,7 @@ depth: 3
 tags:
   - "type/page"
   - "section/so"
+summary: "The Network Dimmer Processor (NDP) is the processor used to control dimMA dimmer system."
 ---
 
 # What is the Network Dimmer Processor (NDP)?

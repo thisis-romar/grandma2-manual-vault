@@ -21,6 +21,7 @@ pages:
   - "[[Pages/Worlds Filters and Masks/Create masks]]"
   - "[[Pages/Worlds Filters and Masks/Use masks in the sheets and windows]]"
   - "[[Pages/Worlds Filters and Masks/Apply worlds or filters to executors and sequences]]"
+summary: "The grandMA2 have three different functions that can help you work faster and more efficient."
 ---
 
 # Worlds, Filters and Masks

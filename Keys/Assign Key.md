@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_key_assign.html"
 related_keyword: "[[Keywords/Assign keyword]]"
 tags:
   - "type/key"
+summary: "The key Assign is located in the command area on the right of the key Prvw."
 ---
 
 # Assign Key

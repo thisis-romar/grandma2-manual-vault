@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/cs"
+summary: "Cues are played back from the sequence."
 ---
 
 # Playing back Cues

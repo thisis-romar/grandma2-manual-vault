@@ -6,6 +6,7 @@ slug: "key_qsg_welcome"
 url: "https://help.malighting.com/grandMA2/en/help/grandma2_quick_start_guide/key_qsg_welcome.html"
 tags:
   - "type/quick-start"
+summary: "In the following chapters we are going to have a guided look at some of the most used functions in the grandMA2."
 ---
 
 # Welcome to the Quick Start Guide

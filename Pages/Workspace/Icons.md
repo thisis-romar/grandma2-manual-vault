@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/ws"
+summary: "The following icons are used in the grandMA2 series."
 ---
 
 # Icons

@@ -9,6 +9,7 @@ keyword_type: "unknown"
 related_key: "[[Keys/Backup Key]]"
 tags:
   - "type/keyword"
+summary: "The Backup keyword opens and close the Backup menu."
 ---
 
 # Backup

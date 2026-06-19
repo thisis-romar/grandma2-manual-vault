@@ -13,6 +13,7 @@ depth: 3
 tags:
   - "type/page"
   - "section/adv"
+summary: "The Default Masters are the 11 masters that each executor with a sequence can have assigned."
 ---
 
 # Default Masters

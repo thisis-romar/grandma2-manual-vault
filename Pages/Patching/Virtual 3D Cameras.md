@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/patch"
+summary: "In the Stage View topic we looked at the virtual 3D stage."
 ---
 
 # Virtual 3D Cameras

@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/effects"
+summary: "Delete single, several or all effects."
 ---
 
 # Delete Effects

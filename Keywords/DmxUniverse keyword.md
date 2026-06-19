@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_dmxuniverse.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "DmxUniverse is an object type representing the DMX universes of the console."
 ---
 
 # DmxUniverse keyword

@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_crossfade.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "Crossfade is a function that is assigned for executors."
 ---
 
 # Crossfade keyword

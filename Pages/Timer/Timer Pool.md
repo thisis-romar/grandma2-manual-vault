@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/timers"
+summary: "Manage the stopwatch and the countdowns in the timer pool."
 ---
 
 # Timer Pool

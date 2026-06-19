@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_speed.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "With the Speed keyword, you assign faders the function speed."
 ---
 
 # Speed

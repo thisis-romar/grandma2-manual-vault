@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/update"
+summary: "This topic describes how to format a USB stick for Linux."
 ---
 
 # Format a USB stick for Linux

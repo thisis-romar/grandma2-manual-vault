@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/search"
+summary: "Search can be used to find almost anything in a show file."
 ---
 
 # Search

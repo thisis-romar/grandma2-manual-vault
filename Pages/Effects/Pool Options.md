@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/effects"
+summary: "There are two pools and their options that are related to the effects in general."
 ---
 
 # Pool Options

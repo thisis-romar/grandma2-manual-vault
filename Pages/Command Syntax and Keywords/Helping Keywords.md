@@ -13,6 +13,7 @@ depth: 3
 tags:
   - "type/page"
   - "section/cs"
+summary: "Helping keywords are used to create a relation between functions and objects."
 ---
 
 # Helping Keywords

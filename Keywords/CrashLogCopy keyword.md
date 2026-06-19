@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_crashlogcopy.html
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "CrashLogCopy is a function used to copy crash log files from the internal drive to USB flash drive."
 ---
 
 # CrashLogCopy keyword

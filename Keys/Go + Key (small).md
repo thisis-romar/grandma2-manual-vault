@@ -7,6 +7,7 @@ slug: "key_key_goplus"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_goplus.html"
 tags:
   - "type/key"
+summary: "The key Go + (small) is located in the command area on the right of the key Pause."
 ---
 
 # Go + Key (small)

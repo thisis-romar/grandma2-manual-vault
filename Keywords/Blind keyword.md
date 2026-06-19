@@ -9,6 +9,7 @@ keyword_type: "unknown"
 related_key: "[[Keys/Blind Key]]"
 tags:
   - "type/keyword"
+summary: "Blind is a toggle function."
 ---
 
 # Blind keyword

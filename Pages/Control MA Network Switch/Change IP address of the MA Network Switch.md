@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/control"
+summary: "You can change the IP address of the MA Network Switch from a connected grandMA2 console or a connected grandMA2 onPC."
 ---
 
 # Change IP address of the MA Network Switch

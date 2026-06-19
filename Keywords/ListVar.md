@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_listvar.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The ListVar keyword is a function keyword to get the variables and their values in the Command Line Feedback window displayed."
 ---
 
 # ListVar

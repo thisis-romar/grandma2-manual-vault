@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_fadepath.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "FadePath is an object type representing the possible transition paths of a cue part."
 ---
 
 # FadePath

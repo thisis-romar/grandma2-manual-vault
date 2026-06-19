@@ -14,6 +14,7 @@ depth: 3
 tags:
   - "type/page"
   - "section/network"
+summary: "A single station can be removed from a session or the entire session can be ended."
 ---
 
 # How to end or leave a session

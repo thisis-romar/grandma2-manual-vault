@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/introduction"
+summary: "If you want to run the grandMA2 onPC your PC, here´s what it takes."
 ---
 
 # System Requirements grandMA2 onPC

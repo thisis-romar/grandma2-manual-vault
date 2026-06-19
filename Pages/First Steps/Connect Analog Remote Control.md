@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/fs"
+summary: "To use the analog remote control, connect a contact closure switch e.g., a light barrier or a push button."
 ---
 
 # Connect Analog Remote Control

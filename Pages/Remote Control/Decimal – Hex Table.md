@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/remote"
+summary: "This is a table that compares Decimal, Hex, Art-Net, and ASCII numbers."
 ---
 
 # Decimal – Hex Table

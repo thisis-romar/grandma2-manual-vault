@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_listoops.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The ListOops keyword is a function keyword to get the Oops list in the command line feedback window displayed."
 ---
 
 # ListOops

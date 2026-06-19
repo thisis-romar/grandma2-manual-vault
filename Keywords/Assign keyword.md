@@ -9,6 +9,7 @@ keyword_type: "unknown"
 related_key: "[[Keys/Assign Key]]"
 tags:
   - "type/keyword"
+summary: "Assign is a function used to define relationships between objects or give values to properties."
 ---
 
 # Assign keyword

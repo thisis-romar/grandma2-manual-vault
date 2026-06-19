@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/ws"
+summary: "This chapter gives you an overview about the different colors used in the grandMA2."
 ---
 
 # Colors

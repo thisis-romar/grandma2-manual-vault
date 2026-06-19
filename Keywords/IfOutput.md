@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_ifoutput.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "IfOutput is a function keyword to select fixtures based on their current output."
 ---
 
 # IfOutput

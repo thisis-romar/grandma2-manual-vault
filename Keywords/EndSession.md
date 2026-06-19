@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_endsession.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "EndSession is a function keyword to end a session for all session members."
 ---
 
 # EndSession

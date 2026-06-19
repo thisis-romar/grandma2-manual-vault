@@ -14,6 +14,7 @@ depth: 3
 tags:
   - "type/page"
   - "section/cs"
+summary: "Object keywords are used to allocate objects in your show file."
 ---
 
 # Object Keywords

@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_selfix.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The SelFix keyword creates fixture selections in the programmer."
 ---
 
 # SelFix

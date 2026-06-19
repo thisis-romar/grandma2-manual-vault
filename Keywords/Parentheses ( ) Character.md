@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_parentheses.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "With the ( ) parentheses you create pop-up dialog in macros, to get user input."
 ---
 
 # Parentheses ( ) Character

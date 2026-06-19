@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/safety"
+summary: "The following symbols display possible danger, useful hints and information when using the device."
 ---
 
 # Symbols Used

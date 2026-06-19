@@ -1,0 +1,58 @@
+# .brain/manifest.yaml
+#
+# Vault contract for an external "agent brain" indexer.
+#
+# This repository is a PASSIVE, read-only knowledge resource. It hosts no
+# indexing, retrieval, or MCP tooling of its own (see CLAUDE.md). This manifest
+# declares the vault's machine-readable shape so a separate brain engine can
+# index it — frontmatter schema, link style, taxonomy, typed relations, and a
+# retrieval policy — without any brain code living here. Mirrors the
+# human-readable spec in CLAUDE.md.
+spec_version: 1
+
+vault:
+  name: grandma2-manual-vault
+  description: The grandMA2 User Manual as an interlinked Obsidian vault.
+  source: https://help.malighting.com/grandMA2/en/help/
+
+# How notes link to each other.
+links:
+  style: wikilink # [[Path/Note]] and [[Path/Note|alias]]
+  resolution: path-qualified # targets are vault-root-relative paths
+  id_field: slug # stable, unique, per-note canonical id (resolver key)
+
+# Folder → note type, plus the root index (MOC) pattern.
+taxonomy:
+  folders:
+    Sections/: section
+    Pages/: page
+    Keywords/: keyword
+    Keys/: key
+    QuickStart/: quick-start
+  moc_glob: '000 *.md'
+
+# Required frontmatter fields, by note type (a fileClass-style schema).
+frontmatter:
+  all: [type, slug, url, tags, aliases]
+  by_type:
+    page: [section, ma2_section, section_ref, prev_page, next_page, depth]
+    keyword: [keyword, keyword_type, related_key]
+    key: [key_label, related_keyword]
+    section: [page_count, pages]
+    quick-start: []
+    moc: [tags]
+
+# Typed edges the brain can traverse (in addition to inline [[wikilinks]]).
+relations:
+  section_ref: { from: page, to: section, kind: parent }
+  prev_page: { from: page, to: page, kind: sequence-prev }
+  next_page: { from: page, to: page, kind: sequence-next }
+  related_key: { from: keyword, to: key, kind: cross-ref }
+  related_keyword: { from: key, to: keyword, kind: cross-ref }
+
+# How the brain should index this vault.
+retrieval:
+  chunk: by-heading # split note bodies on `##` headings
+  summary_field: summary # 1-line description (added by scripts/derive-summaries.js)
+  embed_text: [title, summary, body]
+  exclude_types: [moc] # index every type except the MOC index pages

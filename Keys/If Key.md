@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_key_if.html"
 related_keyword: "[[Keywords/If]]"
 tags:
   - "type/key"
+summary: "The key If is located in the command area on the left of the key At."
 ---
 
 # If Key

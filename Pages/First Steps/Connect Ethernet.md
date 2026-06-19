@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/fs"
+summary: "The grandMA2 console has two Ethernet ports on its rear panel."
 ---
 
 # Connect Ethernet

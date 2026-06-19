@@ -14,6 +14,7 @@ depth: 3
 tags:
   - "type/page"
   - "section/network"
+summary: "In a networked solution multiple stations and devices might be connected to the same network."
 ---
 
 # Protecting the session and station

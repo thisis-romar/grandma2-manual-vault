@@ -13,6 +13,7 @@ depth: 3
 tags:
   - "type/page"
   - "section/ws"
+summary: "The preset control bar is a part of the encoder bar."
 ---
 
 # Preset Control Bar

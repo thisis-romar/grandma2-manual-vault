@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/ws"
+summary: "The encoder bar is located below the command line on screen 2."
 ---
 
 # Encoder Bar

@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/basic"
+summary: "These are the building blocks and structure behind the fixtures."
 ---
 
 # What are Attributes, Features & Preset Types

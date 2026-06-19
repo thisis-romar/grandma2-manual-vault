@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/backup"
+summary: "The Save Show button immediately saves the show using the current show name."
 ---
 
 # Saving a show

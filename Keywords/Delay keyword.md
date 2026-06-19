@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_delay.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "Delay is a helping keyword used to indicate delay times."
 ---
 
 # Delay keyword

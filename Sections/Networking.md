@@ -18,6 +18,7 @@ pages:
   - "[[Pages/Networking/Using CITP]]"
   - "[[Pages/Networking/PosiStageNet (PSN)]]"
   - "[[Pages/Networking/FTP connection to console and NPU]]"
+summary: "This section is about networking in grandMA2."
 ---
 
 # Networking

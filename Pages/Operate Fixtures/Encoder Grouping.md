@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/of"
+summary: "Encoder grouping is used to collectively take attributes into the programmer."
 ---
 
 # Encoder Grouping

@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/xyz"
+summary: "It is possible to individually set the position mode in a cue or a sequence."
 ---
 
 # XYZ and Pan/Tilt in cues and sequences

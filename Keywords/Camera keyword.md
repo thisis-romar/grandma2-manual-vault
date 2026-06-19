@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_camera.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The keyword Camera is an object keyword."
 ---
 
 # Camera keyword

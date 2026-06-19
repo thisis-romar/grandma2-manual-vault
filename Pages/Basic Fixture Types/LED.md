@@ -14,6 +14,7 @@ depth: 3
 tags:
   - "type/page"
   - "section/basic"
+summary: "The LED fixture type is for static (non moving) fixture with LED light sources."
 ---
 
 # LED

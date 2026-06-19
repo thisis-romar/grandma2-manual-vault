@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_psrprepare.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "PSRPrepare prepares a showfile for PartialShowRead."
 ---
 
 # PSRPrepare

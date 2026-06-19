@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/wfm"
+summary: "The Filters are used to limit what can be stored, played back or retrieved using the \"At\" key."
 ---
 
 # What are filters

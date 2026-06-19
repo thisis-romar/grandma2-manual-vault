@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_alert.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "Alert is a keyword which generates an alert message in the message center."
 ---
 
 # Alert keyword

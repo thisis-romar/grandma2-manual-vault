@@ -7,6 +7,7 @@ slug: "key_key_ma"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_ma.html"
 tags:
   - "type/key"
+summary: "The !ma key is located in the command area below the 0."
 ---
 
 # MA Key

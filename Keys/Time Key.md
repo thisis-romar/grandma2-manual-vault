@@ -7,6 +7,7 @@ slug: "key_key_time"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_time.html"
 tags:
   - "type/key"
+summary: "The key Time is located in the command area on the left of the key Esc."
 ---
 
 # Time Key

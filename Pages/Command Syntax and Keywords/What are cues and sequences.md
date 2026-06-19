@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/cs"
+summary: "Being able to store and recall a set of attribute values is one of the most important features of a control system."
 ---
 
 # What are cues and sequences

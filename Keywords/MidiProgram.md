@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_midiprogram.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The MidiProgram keyword is a function keyword to transmit MIDI program change messages via the MidiOut port."
 ---
 
 # MidiProgram

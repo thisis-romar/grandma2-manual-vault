@@ -14,6 +14,7 @@ depth: 3
 tags:
   - "type/page"
   - "section/network"
+summary: "MA devices can be added to the session."
 ---
 
 # Adding devices to the session

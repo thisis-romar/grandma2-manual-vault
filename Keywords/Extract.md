@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_extract.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "Extract is a function that applies hard values in the programmer and breaks any referenced links."
 ---
 
 # Extract

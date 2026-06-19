@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_toggle.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The Toggle keyword acts as an on or off keyword, depending of the on/off-status of the object or function/mode it is applied to."
 ---
 
 # Toggle

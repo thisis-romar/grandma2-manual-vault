@@ -9,6 +9,7 @@ keyword_type: "unknown"
 related_key: "[[Keys/Pause (small) Key]]"
 tags:
   - "type/keyword"
+summary: "The Pause keyword is a function keyword to pause:"
 ---
 
 # Pause

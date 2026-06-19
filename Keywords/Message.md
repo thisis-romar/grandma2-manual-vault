@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_message.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The Message keyword is a function keyword to create Messages in the system monitor."
 ---
 
 # Message

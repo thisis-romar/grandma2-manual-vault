@@ -14,6 +14,7 @@ pages:
   - "[[Pages/Device Overview/grandMA2 fader wing]]"
   - "[[Pages/Device Overview/MA onPC command wing]]"
   - "[[Pages/Device Overview/MA onPC fader wing]]"
+summary: "The following chapters provide an overview of the grandMA2 products."
 ---
 
 # Device Overview

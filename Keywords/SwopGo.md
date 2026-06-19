@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_swopgo.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The SwopGo keyword temporary overrides the master level of executors to full and all other master levels to zero, and goes to the next cue."
 ---
 
 # SwopGo

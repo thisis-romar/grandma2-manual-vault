@@ -9,6 +9,7 @@ keyword_type: "unknown"
 related_key: "[[Keys/+ Key]]"
 tags:
   - "type/keyword"
+summary: "+ [Plus] is a helping keyword with various functions."
 ---
 
 # + [Plus] keyword

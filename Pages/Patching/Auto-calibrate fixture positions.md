@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/patch"
+summary: "The Auto-calibration is a system where the software positions moving light fixtures based on four makers on the real floor."
 ---
 
 # Auto-calibrate fixture positions

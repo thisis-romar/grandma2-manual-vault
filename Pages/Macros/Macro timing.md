@@ -13,6 +13,7 @@ depth: 3
 tags:
   - "type/page"
   - "section/macro"
+summary: "As you may have noticed within the Edit Macro pop-up, in addition to the command text field, there is also a wait field for each macro line."
 ---
 
 # Macro timing

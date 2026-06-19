@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/control"
+summary: "SNMP (Simple Network Management Protocol) is an Internet Standard that collects and organizes information about devices managed on IP networks."
 ---
 
 # Disable SNMP

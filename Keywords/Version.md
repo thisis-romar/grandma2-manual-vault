@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_version.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The version keyword gives you access to version details of the console or software in the commandline feedback window."
 ---
 
 # Version

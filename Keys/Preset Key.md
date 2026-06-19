@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_key_preset.html"
 related_keyword: "[[Keywords/Preset]]"
 tags:
   - "type/key"
+summary: "The key Preset is located in the command area on the right of the key Macro."
 ---
 
 # Preset Key

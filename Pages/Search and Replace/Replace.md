@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/search"
+summary: "The Replace mechanism is used to replace some objects with other objects (or values with other values), using the With keyword, and it might be limited to a defined scope using the If keyword."
 ---
 
 # Replace

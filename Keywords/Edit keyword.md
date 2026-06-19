@@ -9,6 +9,7 @@ keyword_type: "unknown"
 related_key: "[[Keys/Edit Key]]"
 tags:
   - "type/keyword"
+summary: "Edit is a function keyword and it is used to modify values."
 ---
 
 # Edit keyword

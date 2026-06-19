@@ -14,6 +14,7 @@ pages:
   - "[[Pages/Control MA xPort Nodes/Configure the MA xPort Nodes in a Browser]]"
   - "[[Pages/Control MA xPort Nodes/Configure the MA xPort Nodes as Splitters or Mergers]]"
   - "[[Pages/Control MA xPort Nodes/Delete the MA xPort Nodes in the Network Configuration]]"
+summary: "MA 8Port Node"
 ---
 
 # Control the MA xPort Nodes

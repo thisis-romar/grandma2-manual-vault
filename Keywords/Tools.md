@@ -9,6 +9,7 @@ keyword_type: "unknown"
 related_key: "[[Keys/Tools Key]]"
 tags:
   - "type/keyword"
+summary: "The Tools keyword opens or closes the tools menu."
 ---
 
 # Tools

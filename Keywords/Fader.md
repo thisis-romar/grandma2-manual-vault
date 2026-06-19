@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_fader.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "Fader is an object keyword representing the fader of an executor."
 ---
 
 # Fader

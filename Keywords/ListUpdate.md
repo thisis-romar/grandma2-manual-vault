@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_listupdate.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The ListUpdate keyword is a function keyword to get the objects in the command line displayed that can be updated."
 ---
 
 # ListUpdate

@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/clone"
+summary: "Table of content:"
 ---
 
 # Clone Presets

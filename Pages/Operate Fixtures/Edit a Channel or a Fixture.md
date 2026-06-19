@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/of"
+summary: "Contrary to editing in live patching where you can edit entire fixture types, here it is possible to edit single objects only."
 ---
 
 # Edit a Channel or a Fixture

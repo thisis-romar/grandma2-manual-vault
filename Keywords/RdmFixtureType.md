@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_rdmfixturetype.ht
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The RdmFixtureType is an object keyword to access Rdm fixtures with a Rdm fixture type ID."
 ---
 
 # RdmFixtureType

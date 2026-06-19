@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_at_@.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The character @ functions as a place holder for user input in front or in the end of a macro line."
 ---
 
 # At @ Character

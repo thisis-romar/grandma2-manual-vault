@@ -15,6 +15,7 @@ pages:
   - "[[Pages/System Overview/Parameter expansion]]"
   - "[[Pages/System Overview/Big systems]]"
   - "[[Pages/System Overview/Media systems and CITP]]"
+summary: "This section takes a look at the different possibilities with a standalone console but also the options when expanding the system."
 ---
 
 # System Overview

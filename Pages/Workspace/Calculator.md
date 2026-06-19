@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/ws"
+summary: "The calculator appears always if you need to enter or edit values."
 ---
 
 # Calculator

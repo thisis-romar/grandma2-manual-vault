@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_key_setup.html"
 related_keyword: "[[Keywords/Setup]]"
 tags:
   - "type/key"
+summary: "The key Setup is located in the command area on the right of the key Tools."
 ---
 
 # Setup Key

@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/pools"
+summary: "Some pool options have the setting of three different call modes."
 ---
 
 # Call Modes

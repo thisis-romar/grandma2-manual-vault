@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_load.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The load keyword is a function keyword used to prepare an executor to jump to another cue rather than jumping to the next cue when a Go+ is performed on the executor."
 ---
 
 # Load

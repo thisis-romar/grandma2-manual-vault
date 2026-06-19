@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_flip.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "Flip is a function keyword to access the different pan/tilt combinations that points a moving head in the same direction."
 ---
 
 # Flip

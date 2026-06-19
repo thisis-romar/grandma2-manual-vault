@@ -9,6 +9,7 @@ keyword_type: "unknown"
 related_key: "[[Keys/Thru Key]]"
 tags:
   - "type/keyword"
+summary: "The Thru keyword reference a range of objects / values."
 ---
 
 # Thru

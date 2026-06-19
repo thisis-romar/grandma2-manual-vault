@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_key_store.html"
 related_keyword: "[[Keywords/Store]]"
 tags:
   - "type/key"
+summary: "The key Store is located in the command area on the left of the key"
 ---
 
 # Store Key

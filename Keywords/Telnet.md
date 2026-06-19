@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_telnet.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The telnet receiver needs to read the commands without a telnet login."
 ---
 
 # Telnet

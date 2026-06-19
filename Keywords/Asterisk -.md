@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_asterisk.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The Asterisk \\ is a wildcard character to substitute for any other character or characters in a name."
 ---
 
 # Asterisk *

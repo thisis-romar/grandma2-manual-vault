@@ -13,6 +13,7 @@ depth: 3
 tags:
   - "type/page"
   - "section/basic"
+summary: "The Virtual Fixture Types are elements that might be patched into the show, but it is not actually a lighting fixture."
 ---
 
 # Virtual Fixtures

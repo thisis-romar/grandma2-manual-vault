@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_clearactive.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "ClearActive is a function used to inactivate all values in programmer."
 ---
 
 # ClearActive keyword

@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/adv"
+summary: "Full access to the Attribute and Encoder Grouping can be by pressing Setup -> Patch & Fixture Schedule -> Fixture Types -> Attribute & Encoder Grouping."
 ---
 
 # Attribute & Encoder Grouping

@@ -14,6 +14,7 @@ depth: 3
 tags:
   - "type/page"
   - "section/adv"
+summary: "The Grand Masters are a selection of 6 different masters that can be assigned to executors."
 ---
 
 # Grand Masters

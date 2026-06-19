@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_new_in_the_manual.html"
 page_count: 0
 tags:
   - "type/section"
+summary: "This is an outline of all changes that took place in the latest version compared to the previous version of the manual."
 ---
 
 # New in the Manual

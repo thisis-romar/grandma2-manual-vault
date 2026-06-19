@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/control"
+summary: "You can update the firmware of the MA Network Switch by using a grandMA2 console or grandMA2 onPC."
 ---
 
 # Update firmware of the MA Network Switch

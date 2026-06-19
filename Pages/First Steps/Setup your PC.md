@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/fs"
+summary: "To run grandMA2 onPC with the best result, we recommend to adjust the following settings on your PC."
 ---
 
 # Setup your PC

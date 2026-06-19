@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/fs"
+summary: "The list below shows the scope of delivery."
 ---
 
 # Check Scope of Delivery

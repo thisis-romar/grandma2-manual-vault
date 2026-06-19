@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_cmdhelp.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "CmdHelp is a function used to list all keywords in the response window of the command line."
 ---
 
 # CmdHelp keyword

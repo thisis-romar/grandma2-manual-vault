@@ -14,6 +14,7 @@ depth: 3
 tags:
   - "type/page"
   - "section/of"
+summary: "Select Layer is an option in Channel, Fixture, Content, and Tracking sheets."
 ---
 
 # Layer mask

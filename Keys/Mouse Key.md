@@ -7,6 +7,7 @@ slug: "key_key_mouse"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_mouse.html"
 tags:
   - "type/key"
+summary: "The key Mouse is located in the left corner above the trackball."
 ---
 
 # Mouse Key

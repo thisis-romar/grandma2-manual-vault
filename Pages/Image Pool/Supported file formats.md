@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/image"
+summary: "If you are not sure which format you can save your videos or images in, see the tables below."
 ---
 
 # Supported file formats

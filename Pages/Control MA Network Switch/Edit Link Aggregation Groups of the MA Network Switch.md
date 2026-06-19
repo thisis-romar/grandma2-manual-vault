@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/control"
+summary: "The Link Aggregation Group (= LAG) combines several physical ports to create a single high-bandwidth data path as well as to implement the traffic load shared among the member ports in a group."
 ---
 
 # Edit Link Aggregation Groups of the MA Network Switch

@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/so"
+summary: "There are some limitation to consider when using the grandMA2 in big systems."
 ---
 
 # Big systems

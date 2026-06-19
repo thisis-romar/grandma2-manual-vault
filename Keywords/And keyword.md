@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_and.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The keyword And is a helping keyword that adds selection or values."
 ---
 
 # And keyword

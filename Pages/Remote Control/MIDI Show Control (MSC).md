@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/remote"
+summary: "MIDI Show Control (MSC) is a different way to remote control the system."
 ---
 
 # MIDI Show Control (MSC)

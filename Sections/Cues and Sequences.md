@@ -23,6 +23,7 @@ pages:
   - "[[Pages/Command Syntax and Keywords/What is MIB]]"
   - "[[Pages/Command Syntax and Keywords/Sequence mini executor]]"
   - "[[Pages/Command Syntax and Keywords/Commands in cues]]"
+summary: "This section is about creating, editing and viewing the cues and sequences."
 ---
 
 # Cues and Sequences

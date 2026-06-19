@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_setip.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The SetIP keyword changes the IP address of the Ethernet interfaces of the console or station."
 ---
 
 # SetIP

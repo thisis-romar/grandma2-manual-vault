@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_paste.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "With the Paste keyword, you will paste previous copied content from the clipboard.xml, or move previous Cut object-lists."
 ---
 
 # Paste

@@ -7,6 +7,7 @@ slug: "key_key_defgoplus"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_defgoplus.html"
 tags:
   - "type/key"
+summary: "The large key Go + is located below the large key Go - ."
 ---
 
 # Go + (large) Key

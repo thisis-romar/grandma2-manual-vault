@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_search.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The Search Keyword searches for objects and values in the show."
 ---
 
 # Search

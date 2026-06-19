@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_allbuttonexecutor
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "AllButtonExecutors is an alias for all button executors."
 ---
 
 # AllButtonExecutors keyword

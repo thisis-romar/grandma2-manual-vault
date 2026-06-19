@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/patch"
+summary: "The Stage View is a virtual 3D space where you can position your fixtures and stage elements."
 ---
 
 # Stage View

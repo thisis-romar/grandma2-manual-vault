@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/control"
+summary: "The configuration is the customized set of parameters that you have selected to run the switch."
 ---
 
 # Work with the switch configuration

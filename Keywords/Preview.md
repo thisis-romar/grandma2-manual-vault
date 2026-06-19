@@ -9,6 +9,7 @@ keyword_type: "unknown"
 related_key: "[[Keys/Prvw (Preview) Key]]"
 tags:
   - "type/keyword"
+summary: "The Preview keyword creates a preview of the programmed output without having an actual DMX output."
 ---
 
 # Preview

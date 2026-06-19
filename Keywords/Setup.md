@@ -9,6 +9,7 @@ keyword_type: "unknown"
 related_key: "[[Keys/Setup Key]]"
 tags:
   - "type/keyword"
+summary: "The Setup keyword opens or closes the setup menu."
 ---
 
 # Setup

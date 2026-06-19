@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/chaser"
+summary: "The Chaser Encoder Toolbar is useful to edit the chaser."
 ---
 
 # Chaser settings

@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/cs"
+summary: "The command line syntax is used to create valid expressions out of keywords."
 ---
 
 # General Syntax Rules

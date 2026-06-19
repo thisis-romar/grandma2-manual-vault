@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_lock.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The lock keyword is a function keyword to lock objects."
 ---
 
 # Lock

@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/macro"
+summary: "Quick steps:"
 ---
 
 # Manually create a macro

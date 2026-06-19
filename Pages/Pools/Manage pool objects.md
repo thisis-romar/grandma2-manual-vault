@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/pools"
+summary: "The following examples explains on the group pool how to manage and organize pool objects in pools."
 ---
 
 # Manage pool objects

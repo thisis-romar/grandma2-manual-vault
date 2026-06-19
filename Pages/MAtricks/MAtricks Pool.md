@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/matricks"
+summary: "Manage the MAtricks of your show in the MAtricks pool."
 ---
 
 # MAtricks Pool

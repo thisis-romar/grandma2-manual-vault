@@ -10,6 +10,7 @@
     "audit": "node audit.js",
     "stats": "node stats.js",
     "migrate:links": "node migrate-internal-links.js",
+    "summaries": "node derive-summaries.js",
     "test": "node --test"
   },
   "dependencies": {

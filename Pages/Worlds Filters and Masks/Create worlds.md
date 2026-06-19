@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/wfm"
+summary: "Worlds are created in the programmer, and stored in the World Pool."
 ---
 
 # Create worlds

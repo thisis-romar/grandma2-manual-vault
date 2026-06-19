@@ -6,6 +6,7 @@ slug: "key_02_patch_dimmers"
 url: "https://help.malighting.com/grandMA2/en/help/grandma2_quick_start_guide/key_02_patch_dimmers.html"
 tags:
   - "type/quick-start"
+summary: "Now we are going to add and patch 40 dimmer channels."
 ---
 
 # Adding and patching dimmers

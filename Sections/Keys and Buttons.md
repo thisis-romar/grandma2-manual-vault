@@ -11,6 +11,7 @@ tags:
 pages:
   - "[[Pages/Keys and Buttons/Key Overview]]"
   - "[[Pages/Keys and Buttons/Keyboard Keys]]"
+summary: "This chapter describes every key and button on the console along with their functions."
 ---
 
 # Keys & Buttons on the Console

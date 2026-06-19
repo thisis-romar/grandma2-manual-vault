@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/control"
+summary: "The switch ID is used for better identification in the network."
 ---
 
 # Change switch ID

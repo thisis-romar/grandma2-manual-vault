@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_addvar.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "AddVar is a function keyword to change or extend content of show specific variables."
 ---
 
 # AddVar

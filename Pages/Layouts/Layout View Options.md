@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/layouts"
+summary: "To open the options of the layout view, tap !"
 ---
 
 # Layout View Options

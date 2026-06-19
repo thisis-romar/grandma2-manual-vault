@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_loadshow.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The LoadShow keyword loads a show from the selected drive."
 ---
 
 # LoadShow

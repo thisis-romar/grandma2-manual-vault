@@ -9,6 +9,7 @@ keyword_type: "unknown"
 related_key: "[[Keys/Cue Key]]"
 tags:
   - "type/keyword"
+summary: "Cue is an object type holding a look on stage."
 ---
 
 # Cue keyword

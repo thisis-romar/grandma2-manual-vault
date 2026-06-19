@@ -13,6 +13,7 @@ depth: 3
 tags:
   - "type/page"
   - "section/ws"
+summary: "Shortcut Button"
 ---
 
 # Turn on or turn off the keyboard shortcuts

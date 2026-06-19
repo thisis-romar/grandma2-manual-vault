@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_effectwidth.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "EffectWidth is a helping keyword to indicate individual EffectWidth."
 ---
 
 # EffectWidth

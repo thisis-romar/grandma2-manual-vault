@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_effectid.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "EffectID is a helping keyword to indicate the EffectID layer."
 ---
 
 # EffectID

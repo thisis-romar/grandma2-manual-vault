@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/fs"
+summary: "Requirement: The console is placed on a stable surface and is connected to power."
 ---
 
 # Turn on the Console the First Time

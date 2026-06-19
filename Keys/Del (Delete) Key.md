@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_key_delete.html"
 related_keyword: "[[Keywords/Delete keyword]]"
 tags:
   - "type/key"
+summary: "The key Del (= Delete) is located in the command area on the right of the key Goto."
 ---
 
 # Del (Delete) Key

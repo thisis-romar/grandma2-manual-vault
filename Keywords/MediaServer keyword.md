@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_mediaserver.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The keyword MediaServer is an object keyword and is used in connection with CITP."
 ---
 
 # MediaServer keyword

@@ -11,6 +11,7 @@ tags:
 pages:
   - "[[Pages/Windows/Create and Manage Basic Windows]]"
   - "[[Pages/Windows/Clear the Screen or Delete Windows]]"
+summary: "This topic deals with windows, sheets, and pools you can create in the user-defined area."
 ---
 
 # Manage windows

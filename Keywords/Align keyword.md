@@ -9,6 +9,7 @@ keyword_type: "unknown"
 related_key: "[[Keys/Align Key]]"
 tags:
   - "type/keyword"
+summary: "Align is a function keyword to change the mode of the attribute encoders."
 ---
 
 # Align keyword

@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/bitmapfixture"
+summary: "To disable the bitmap visualization for specific fixtures, follow the steps below."
 ---
 
 # Disable bitmap for fixtures

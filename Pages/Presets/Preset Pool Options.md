@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/presets"
+summary: "The following example of the preset pool Dimmer displays how to adjust options that are specific for a preset pool."
 ---
 
 # Preset Pool Options

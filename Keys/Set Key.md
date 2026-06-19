@@ -7,6 +7,7 @@ slug: "key_key_set"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_set.html"
 tags:
   - "type/key"
+summary: "The key Set is located in the command area below the key Up."
 ---
 
 # Set Key

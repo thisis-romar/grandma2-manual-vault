@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_tozero.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The ToZero keyword sets the masterlevel of objects to zero."
 ---
 
 # ToZero

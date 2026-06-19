@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_setuservar.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The SetUserVar keyword sets user profile specific variables."
 ---
 
 # SetUserVar

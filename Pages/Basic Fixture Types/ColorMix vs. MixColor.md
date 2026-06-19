@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/basic"
+summary: "There are two words used when talking about color systems in the fixtures."
 ---
 
 # ColorMix vs. MixColor

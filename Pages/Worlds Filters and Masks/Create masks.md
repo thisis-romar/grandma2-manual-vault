@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/wfm"
+summary: "You can create masks in the pool or in the individual windows."
 ---
 
 # Create masks

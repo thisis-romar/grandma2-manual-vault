@@ -15,6 +15,7 @@ pages:
   - "[[Pages/Groups/Choose copy method]]"
   - "[[Pages/Groups/Change colors in group options for all in order and all out of order]]"
   - "[[Pages/Groups/Group Master on Executors]]"
+summary: "Groups are collections of fixtures used for fast selection."
 ---
 
 # Groups

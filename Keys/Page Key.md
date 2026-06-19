@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_key_page.html"
 related_keyword: "[[Keywords/Page]]"
 tags:
   - "type/key"
+summary: "The key Page is located in the command area on the left of the key Macro."
 ---
 
 # Page Key

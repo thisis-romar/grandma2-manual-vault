@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_key_highlight.html"
 related_keyword: "[[Keywords/Highlight]]"
 tags:
   - "type/key"
+summary: "The key Highlt is located in the command area on the left of the key Solo."
 ---
 
 # Highlt (Highlight) Key

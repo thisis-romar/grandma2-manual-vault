@@ -6,6 +6,7 @@ slug: "key_11_control_fixtures"
 url: "https://help.malighting.com/grandMA2/en/help/grandma2_quick_start_guide/key_11_control_fixtures.html"
 tags:
   - "type/quick-start"
+summary: "Being able to control your fixtures is one of the most important things using a grandMA."
 ---
 
 # Controlling fixtures

@@ -13,6 +13,7 @@ depth: 3
 tags:
   - "type/page"
   - "section/ost"
+summary: "Display the MA Dimmer Network using one of the three views:"
 ---
 
 # Views

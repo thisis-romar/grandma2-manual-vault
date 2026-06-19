@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/bitmapfixture"
+summary: "After you imported a bitmap fixture in your show, you can control the bitmap fixture in the fixture sheet."
 ---
 
 # Control bitmap fixture

@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_glossary.html"
 page_count: 0
 tags:
   - "type/section"
+summary: "Art-Net 3 Ethernet communication standard."
 ---
 
 # Glossary

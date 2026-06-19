@@ -9,6 +9,7 @@ keyword_type: "unknown"
 related_key: "[[Keys/Solo Key]]"
 tags:
   - "type/keyword"
+summary: "The Solo keyword forces zero values for intensity output for attributes of all unselected fixtures or channels."
 ---
 
 # Solo

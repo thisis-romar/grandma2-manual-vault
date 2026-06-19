@@ -6,6 +6,7 @@ slug: "index"
 url: "https://help.malighting.com/grandMA2/en/help/grandma2_quick_start_guide/index.html"
 tags:
   - "type/quick-start"
+summary: "01 Create a New Show"
 ---
 
 # grandMA2 Quick Start Guide

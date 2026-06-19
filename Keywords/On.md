@@ -9,6 +9,7 @@ keyword_type: "unknown"
 related_key: "[[Keys/On Key]]"
 tags:
   - "type/keyword"
+summary: "The On keyword can be a function keyword or a helping keyword."
 ---
 
 # On

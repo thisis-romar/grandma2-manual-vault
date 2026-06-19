@@ -14,6 +14,7 @@ depth: 3
 tags:
   - "type/page"
   - "section/macro"
+summary: "In some situation you may want to only process a command, if the user has answered something specific in a popup, or if a variable is set to a specific value."
 ---
 
 # Conditional expressions

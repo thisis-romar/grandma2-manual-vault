@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/macro"
+summary: "Macros can be assigned to Executors, View buttons, and X-keys."
 ---
 
 # Assign a macro to a key

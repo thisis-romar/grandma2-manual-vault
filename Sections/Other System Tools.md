@@ -17,6 +17,7 @@ pages:
   - "[[Pages/Other System Tools/Desk status]]"
   - "[[Pages/Other System Tools/Performance window]]"
   - "[[Pages/Other System Tools/System monitor]]"
+summary: "This is a collection of system windows, not described anywhere else."
 ---
 
 # Other system tools

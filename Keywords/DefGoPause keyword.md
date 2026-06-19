@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_defgopause.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "DefGoPause is a keyword which refers to the selected executor."
 ---
 
 # DefGoPause keyword

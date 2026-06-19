@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/macro"
+summary: "Editing or changing an existing macro is just like creating the macros."
 ---
 
 # Edit a macro

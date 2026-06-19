@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_key_pause.html"
 related_keyword: "[[Keywords/Pause]]"
 tags:
   - "type/key"
+summary: "The small key Pause is located in the command area on the right of the small key Go -."
 ---
 
 # Pause (small) Key

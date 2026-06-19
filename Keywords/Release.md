@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_release.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The Release keyword enters release values in the programmer for attributes by the given object list, filtered by the current selection."
 ---
 
 # Release

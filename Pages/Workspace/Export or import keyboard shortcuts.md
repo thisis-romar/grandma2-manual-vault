@@ -13,6 +13,7 @@ depth: 3
 tags:
   - "type/page"
   - "section/ws"
+summary: "Keyboard shortcuts are only available on a grandMA2 onPC."
 ---
 
 # Export or import keyboard shortcuts

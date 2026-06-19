@@ -21,6 +21,7 @@ pages:
   - "[[Pages/Presets/Edit Presets]]"
   - "[[Pages/Presets/Update Presets]]"
   - "[[Pages/Presets/Delete Presets]]"
+summary: "Presets are stored presettings of parameters."
 ---
 
 # What Are Presets?

@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_channelpage.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "ChannelPage is an object type representing a page of channel faders."
 ---
 
 # ChannelPage keyword

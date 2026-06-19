@@ -14,6 +14,7 @@ depth: 3
 tags:
   - "type/page"
   - "section/widget"
+summary: "The user defined area is available on every screen."
 ---
 
 # User-Defined Area

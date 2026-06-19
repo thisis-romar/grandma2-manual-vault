@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_layer.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "Layer is a function keyword to change the working layer of the attribute encoders."
 ---
 
 # Layer

@@ -14,6 +14,7 @@ depth: 3
 tags:
   - "type/page"
   - "section/widget"
+summary: "The X-Key labels are located at the bottom of screen 1."
 ---
 
 # X-Key Labels

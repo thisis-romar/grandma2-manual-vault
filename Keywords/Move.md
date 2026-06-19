@@ -9,6 +9,7 @@ keyword_type: "unknown"
 related_key: "[[Keys/Move Key]]"
 tags:
   - "type/keyword"
+summary: "The Move keyword is a function keyword to move objects and give them a new object ID."
 ---
 
 # Move

@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_tempfader.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The TempFader keyword, is a function that crossfades the cue on when pulled up, and crossfades the cue off when pulled down."
 ---
 
 # TempFader

@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/matricks"
+summary: "This topic illustrates how to use MAtricksInterleave based on an example."
 ---
 
 # MAtricks Interleave

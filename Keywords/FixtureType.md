@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_fixturetype.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "FixtureType is an object keyword for the fixture types in the show file."
 ---
 
 # FixtureType

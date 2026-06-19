@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/ws"
+summary: "You can store the current size and position of the windows from one or more screens on a view button or in the view pool."
 ---
 
 # Work with views

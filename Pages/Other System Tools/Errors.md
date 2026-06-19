@@ -14,6 +14,7 @@ depth: 3
 tags:
   - "type/page"
   - "section/ost"
+summary: "If an error occurs, it is displayed in red."
 ---
 
 # Errors

@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_key_blind.html"
 related_keyword: "[[Keywords/Blind keyword]]"
 tags:
   - "type/key"
+summary: "The key Blind is located in the command area on the left of the key Freeze."
 ---
 
 # Blind Key

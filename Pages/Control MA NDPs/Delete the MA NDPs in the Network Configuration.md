@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/control"
+summary: "Follow these guidelines to delete the MA NDPs in the network configuration."
 ---
 
 # Delete the MA NDPs in the Network Configuration

@@ -13,6 +13,7 @@ depth: 3
 tags:
   - "type/page"
   - "section/network"
+summary: "You might experience a Session Collision at some point."
 ---
 
 # Session Collision

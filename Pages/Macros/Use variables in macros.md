@@ -13,6 +13,7 @@ depth: 3
 tags:
   - "type/page"
   - "section/macro"
+summary: "It is possible to use variables in your macros and in any command line entry in the show."
 ---
 
 # Use variables in macros

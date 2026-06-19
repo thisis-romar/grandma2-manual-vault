@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_key_thru.html"
 related_keyword: "[[Keywords/Thru]]"
 tags:
   - "type/key"
+summary: "The key Thru is located in the command area on the right of the number key 6 in the number pad."
 ---
 
 # Thru Key

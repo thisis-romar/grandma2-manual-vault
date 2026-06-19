@@ -9,6 +9,7 @@ keyword_type: "unknown"
 related_key: "[[Keys/--- Key]]"
 tags:
   - "type/keyword"
+summary: "The keyword <<< GoFastBack is a function used to jump quickly to previous step (default without timing can be changed in setup)."
 ---
 
 # <<< [GoFastBack] keyword

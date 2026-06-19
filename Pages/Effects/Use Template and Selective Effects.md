@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/effects"
+summary: "This topic deals with template and selective effects."
 ---
 
 # Use Template and Selective Effects

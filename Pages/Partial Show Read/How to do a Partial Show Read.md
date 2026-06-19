@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/psr"
+summary: "This topic illustrates the steps needed to perform a Partial Show Read."
 ---
 
 # How to do a Partial Show Read

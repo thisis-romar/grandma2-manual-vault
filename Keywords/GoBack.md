@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_goback.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "GoBack is a function keyword to activate previous step of an executing object."
 ---
 
 # GoBack

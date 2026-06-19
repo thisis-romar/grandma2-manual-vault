@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_key_top.html"
 related_keyword: "[[Keywords/Top]]"
 tags:
   - "type/key"
+summary: "The key Top is located in the command area on the right of the key Temp."
 ---
 
 # Top Key

@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/rdm"
+summary: "To open the RDM sheet tap at an empty space in the user defined area, tap at Sheets and then RDM."
 ---
 
 # Use the RDM sheet

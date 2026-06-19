@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/adv"
+summary: "A fixture type, or the structure of how a fixture is described, is divided into different sections."
 ---
 
 # Anatomy of a Fixture Type

@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_key_at.html"
 related_keyword: "[[Keywords/At keyword]]"
 tags:
   - "type/key"
+summary: "The key At is located in the command area on the right of the key If."
 ---
 
 # At Key

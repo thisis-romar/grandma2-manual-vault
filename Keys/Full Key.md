@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_key_full.html"
 related_keyword: "[[Keywords/Full]]"
 tags:
   - "type/key"
+summary: "The key Full is located in the command area on the left of the key Highlt."
 ---
 
 # Full Key

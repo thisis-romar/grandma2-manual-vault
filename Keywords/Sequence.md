@@ -9,6 +9,7 @@ keyword_type: "unknown"
 related_key: "[[Keys/Sequ (Sequence) Key]]"
 tags:
   - "type/keyword"
+summary: "The default function of the sequence keyword is SelFix."
 ---
 
 # Sequence

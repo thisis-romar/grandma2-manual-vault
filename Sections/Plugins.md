@@ -11,6 +11,7 @@ tags:
 pages:
   - "[[Pages/Plugins/What is Lua]]"
   - "[[Pages/Plugins/Edit Plugins]]"
+summary: "A plugin is a software component that adds on features to an existing program."
 ---
 
 # Plugins

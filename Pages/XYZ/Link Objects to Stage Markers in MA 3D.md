@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/xyz"
+summary: "You can link objects to stage markers in the MA 3D."
 ---
 
 # Link Objects to Stage Markers in MA 3D

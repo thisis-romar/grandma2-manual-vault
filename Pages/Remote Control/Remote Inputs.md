@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/remote"
+summary: "The Remote Input section can be found by pressing the Setup key and then Remote Input Setup in the Show tab."
 ---
 
 # Remote Inputs

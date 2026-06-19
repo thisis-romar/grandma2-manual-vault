@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_fade.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "Fade is a helping keyword to indicate fade times."
 ---
 
 # Fade

@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/network"
+summary: "The consoles and the grandMA2 NPU can be accessed using a FTP client program."
 ---
 
 # FTP connection to console and NPU

@@ -9,6 +9,7 @@ keyword_type: "unknown"
 related_key: "[[Keys/Temp Key]]"
 tags:
   - "type/keyword"
+summary: "The Temp keyword turns an executor on, as long as you hold the executor button."
 ---
 
 # Temp

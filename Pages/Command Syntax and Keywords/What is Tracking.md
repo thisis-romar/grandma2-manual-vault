@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/cs"
+summary: "Tracking is the principle to only store the changes in the cues."
 ---
 
 # What is Tracking

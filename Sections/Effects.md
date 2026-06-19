@@ -21,6 +21,7 @@ pages:
   - "[[Pages/Effects/Running Effects]]"
   - "[[Pages/Effects/Update Effects]]"
   - "[[Pages/Effects/Delete Effects]]"
+summary: "An effect is an automated movement or change of color."
 ---
 
 # Effects

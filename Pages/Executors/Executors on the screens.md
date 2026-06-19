@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/exec"
+summary: "The grandMA2 supports a lot of executors."
 ---
 
 # Executors on the screens

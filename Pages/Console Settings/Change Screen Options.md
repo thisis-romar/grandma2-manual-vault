@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/window"
+summary: "The screen options are located in the Setup I Screen Options."
 ---
 
 # Change Screen Options

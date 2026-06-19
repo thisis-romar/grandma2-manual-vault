@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_profile.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The Profile keyword is an object keyword to access DMX profiles and DMX profiles points."
 ---
 
 # Profile

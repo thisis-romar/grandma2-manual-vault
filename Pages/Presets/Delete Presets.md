@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/presets"
+summary: "It is possible to delete presets in three different ways."
 ---
 
 # Delete Presets

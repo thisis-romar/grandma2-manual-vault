@@ -13,6 +13,7 @@ depth: 3
 tags:
   - "type/page"
   - "section/network"
+summary: "To create a session you need to give your station (console or onPC) a valid IP address."
 ---
 
 # How to create a session

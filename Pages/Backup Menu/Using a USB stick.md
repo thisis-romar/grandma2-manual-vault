@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/backup"
+summary: "There are different things to keep in mind when using a USB stick."
 ---
 
 # Using a USB stick

@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/of"
+summary: "The programmer is where all the active and nonactive values, which are not in the playbacks, are located."
 ---
 
 # What is the Programmer

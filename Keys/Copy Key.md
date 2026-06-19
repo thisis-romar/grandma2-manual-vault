@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_key_copy.html"
 related_keyword: "[[Keywords/Copy keyword]]"
 tags:
   - "type/key"
+summary: "The key Copy is located in the command area below the key Del."
 ---
 
 # Copy Key

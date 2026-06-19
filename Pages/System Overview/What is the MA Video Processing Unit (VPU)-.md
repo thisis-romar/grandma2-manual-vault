@@ -14,6 +14,7 @@ depth: 3
 tags:
   - "type/page"
   - "section/so"
+summary: "The MA Video Processing Unit (VPU) is a Media Server that was designed to be fully integrated into the MA system."
 ---
 
 # What is the MA Video Processing Unit (VPU)?

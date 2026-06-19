@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/agenda"
+summary: "The agenda is a tool to execute commands according to a calendar."
 ---
 
 # What is agenda

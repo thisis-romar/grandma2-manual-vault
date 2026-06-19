@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_key_blackout.html"
 related_keyword: "[[Keywords/Blackout keyword]]"
 tags:
   - "type/key"
+summary: "The key B.O."
 ---
 
 # B.O. (Blackout) Key

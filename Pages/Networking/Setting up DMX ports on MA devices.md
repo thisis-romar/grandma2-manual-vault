@@ -13,6 +13,7 @@ depth: 3
 tags:
   - "type/page"
   - "section/network"
+summary: "If there is only one station (console or onPC) in the system, then only the DMX ports on the station can be used."
 ---
 
 # Setting up DMX ports on MA devices

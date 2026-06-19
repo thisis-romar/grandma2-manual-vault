@@ -14,6 +14,7 @@ depth: 3
 tags:
   - "type/page"
   - "section/network"
+summary: "DMX can be transmitted or received using network DMX protocols instead of or together with the DMX ports in the system."
 ---
 
 # Network DMX protocols

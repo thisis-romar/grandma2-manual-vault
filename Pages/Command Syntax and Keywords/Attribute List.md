@@ -14,6 +14,7 @@ depth: 3
 tags:
   - "type/page"
   - "section/cs"
+summary: "An attribute list is an object list of attributes."
 ---
 
 # Attribute List

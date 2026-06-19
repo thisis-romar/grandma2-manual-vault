@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_listpluginlibrary
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The ListPluginLibrary is a function keyword to displays the .xml files in the plugins folder of the selected drive in the command line feedback window."
 ---
 
 # ListPluginLibrary

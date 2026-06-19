@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_matricksinterleav
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "MatricksInterleave is a function keyword to create a virtual array of the fixture selection."
 ---
 
 # MAtricksInterleave

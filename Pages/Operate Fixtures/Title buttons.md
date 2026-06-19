@@ -14,6 +14,7 @@ depth: 3
 tags:
   - "type/page"
   - "section/of"
+summary: "Many of the options described in Tools, Layer Mask, and Display can be assigned as a quick access button in the title bars of the relevant sheets."
 ---
 
 # Title buttons

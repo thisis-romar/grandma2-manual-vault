@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_adduservar.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "AddUserVar is a function used to change/extend content of user specific variables."
 ---
 
 # AddUserVar keyword

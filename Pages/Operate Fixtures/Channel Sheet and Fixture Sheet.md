@@ -13,6 +13,7 @@ depth: 3
 tags:
   - "type/page"
   - "section/of"
+summary: "Channel sheet and fixture sheet share identical layers."
 ---
 
 # Channel Sheet and Fixture Sheet

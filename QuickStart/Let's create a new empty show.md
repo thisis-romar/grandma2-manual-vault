@@ -6,6 +6,7 @@ slug: "key_01_create_new_show"
 url: "https://help.malighting.com/grandMA2/en/help/grandma2_quick_start_guide/key_01_create_new_show.html"
 tags:
   - "type/quick-start"
+summary: "The first thing you need to do is the press the Backup key so the Backup Menu can be seen on the 9\" screen in the command section - this is called screen 1."
 ---
 
 # Let's create a new empty show

@@ -14,6 +14,7 @@ depth: 3
 tags:
   - "type/page"
   - "section/widget"
+summary: "The master section is located in the corner on the left of screen 2."
 ---
 
 # Master Section

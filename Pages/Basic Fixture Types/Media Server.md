@@ -14,6 +14,7 @@ depth: 3
 tags:
   - "type/page"
   - "section/basic"
+summary: "Media Servers are a fixture type that could be characterized as virtual fixtures, but it is software being controlled often on dedicated hardware."
 ---
 
 # Media Server

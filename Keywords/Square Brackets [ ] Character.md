@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_square_brackets.h
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "Square brackets [ ] are used in macros."
 ---
 
 # Square Brackets [ ] Character

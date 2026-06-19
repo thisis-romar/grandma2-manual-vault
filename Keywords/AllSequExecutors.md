@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_allsequexecutors.
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "AllSequExecutors is an alias for all executors assigned with a sequence."
 ---
 
 # AllSequExecutors

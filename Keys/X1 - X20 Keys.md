@@ -7,6 +7,7 @@ slug: "key_key_xkey"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_xkey.html"
 tags:
   - "type/key"
+summary: "The X-Keys are located below screen 1."
 ---
 
 # X1 - X20 Keys

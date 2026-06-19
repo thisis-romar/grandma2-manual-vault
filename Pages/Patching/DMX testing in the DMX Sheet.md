@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/patch"
+summary: "You can send DMX values to any DMX address."
 ---
 
 # DMX testing in the DMX Sheet

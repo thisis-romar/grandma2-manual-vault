@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_rotate3d.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The Rotate3D keyword rotates 3D objects in the Stage View."
 ---
 
 # Rotate3D

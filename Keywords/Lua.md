@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_lua.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "This keyword is used to execute commands written in the script language Lua."
 ---
 
 # Lua

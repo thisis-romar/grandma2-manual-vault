@@ -9,6 +9,7 @@ keyword_type: "unknown"
 related_key: "[[Keys/At Key]]"
 tags:
   - "type/keyword"
+summary: "At may be used as a function to apply values or as a helping keyword for other functions to indicate destinations."
 ---
 
 # At keyword

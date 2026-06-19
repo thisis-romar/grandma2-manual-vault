@@ -6,6 +6,7 @@ slug: "key_13_making_presets"
 url: "https://help.malighting.com/grandMA2/en/help/grandma2_quick_start_guide/key_13_making_presets.html"
 tags:
   - "type/quick-start"
+summary: "Next we are going to make some presets."
 ---
 
 # Making presets

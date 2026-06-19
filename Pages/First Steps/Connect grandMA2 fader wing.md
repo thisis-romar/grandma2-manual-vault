@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/fs"
+summary: "To extend the console by 15 motorized faders and 15 executor buttons, connect a grandMA2 fader wing."
 ---
 
 # Connect grandMA2 fader wing

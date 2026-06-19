@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/cs"
+summary: "When a sequence is assigned to an executor, the mini executor view is displaying relevant information."
 ---
 
 # Sequence mini executor

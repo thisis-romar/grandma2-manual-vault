@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_model.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The Model keyword is an object keyword to access 3D models."
 ---
 
 # Model

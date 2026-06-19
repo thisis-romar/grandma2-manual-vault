@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/imag"
+summary: "There are few limitations regarding the size of images and the pool there."
 ---
 
 # Image Limitations and Guidelines for Symbols

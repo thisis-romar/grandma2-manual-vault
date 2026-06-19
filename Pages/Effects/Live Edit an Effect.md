@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/effects"
+summary: "It is possible to live edit effects during a show if necessary."
 ---
 
 # Live Edit an Effect

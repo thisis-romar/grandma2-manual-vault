@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/groups"
+summary: "Groups can be assigned to Executors and be used as group masters."
 ---
 
 # Group Master on Executors

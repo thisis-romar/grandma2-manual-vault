@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_effectsec.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "EffectSec is a helping keyword to indicate individual effect speed in seconds."
 ---
 
 # EffectSec

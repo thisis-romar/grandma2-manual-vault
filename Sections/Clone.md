@@ -12,6 +12,7 @@ pages:
   - "[[Pages/Clone/Clone In User Interface]]"
   - "[[Pages/Clone/Examples]]"
   - "[[Pages/Clone/Clone Presets]]"
+summary: "Clone is used to add fixtures to the rig which suppose to behave exactly the same as existing fixtures."
 ---
 
 # Clone

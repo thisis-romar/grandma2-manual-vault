@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/presets"
+summary: "It is possible to auto create a complete set of presets at once."
 ---
 
 # Auto Create Presets

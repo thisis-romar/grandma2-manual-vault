@@ -6,6 +6,7 @@ slug: "key_07_create_more_cues"
 url: "https://help.malighting.com/grandMA2/en/help/grandma2_quick_start_guide/key_07_create_more_cues.html"
 tags:
   - "type/quick-start"
+summary: "Now we are going to make more cues."
 ---
 
 # Create more cue

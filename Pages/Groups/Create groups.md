@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/groups"
+summary: "Groups contain a selection of fixtures and the selection order of the fixtures."
 ---
 
 # Create groups

@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/ost"
+summary: "To access the Clock window, tap on an empty part of a screen."
 ---
 
 # Clock

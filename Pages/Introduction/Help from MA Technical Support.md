@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/introduction"
+summary: "If the grandMA2 is not working as described in the manual, you can take the following steps:"
 ---
 
 # Help from MA Technical Support

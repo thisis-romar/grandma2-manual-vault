@@ -9,6 +9,7 @@ keyword_type: "unknown"
 related_key: "[[Keys/Esc Key]]"
 tags:
   - "type/keyword"
+summary: "The keyword Escape closes modal dialogs within a macro."
 ---
 
 # Escape keyword

@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/single"
+summary: "There are a lot of settings that follow the User (Profile)."
 ---
 
 # User specific settings

@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/date"
+summary: "Sometimes the console needs to know the current date and time, and sometimes also the location of the console."
 ---
 
 # Date & Time

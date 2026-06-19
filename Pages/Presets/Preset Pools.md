@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/presets"
+summary: "All in all, there are 10 preset pools by default."
 ---
 
 # Preset Pools

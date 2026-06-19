@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_buttonpage.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "ButtonPage is an object type representing the button executor part of a page."
 ---
 
 # ButtonPage keyword

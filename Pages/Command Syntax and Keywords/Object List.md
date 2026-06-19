@@ -13,6 +13,7 @@ depth: 3
 tags:
   - "type/page"
   - "section/cs"
+summary: "An object list is a list of objects of the same type."
 ---
 
 # Object List

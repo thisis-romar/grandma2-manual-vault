@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_or.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "Or is a helping keyword and is usually used along with the keyword If."
 ---
 
 # Or keyword

@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/effects"
+summary: "It is possible to store effects in cues."
 ---
 
 # Effects in a Cue

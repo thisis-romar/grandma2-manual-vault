@@ -6,6 +6,7 @@ slug: "key_03_use_screens_and_windows"
 url: "https://help.malighting.com/grandMA2/en/help/grandma2_quick_start_guide/key_03_use_screens_and_windows.html"
 tags:
   - "type/quick-start"
+summary: "Now is a good time to have a closer look at working with screens and windows."
 ---
 
 # Using the screens and windows

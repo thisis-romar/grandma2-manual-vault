@@ -7,6 +7,7 @@ slug: "key_key_please"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_please.html"
 tags:
   - "type/key"
+summary: "The key Please is located in the command area below the number pad."
 ---
 
 # Please Key

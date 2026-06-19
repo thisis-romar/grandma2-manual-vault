@@ -13,6 +13,7 @@ depth: 3
 tags:
   - "type/page"
   - "section/cs"
+summary: "Function keywords perform a task or a function."
 ---
 
 # Function Keywords

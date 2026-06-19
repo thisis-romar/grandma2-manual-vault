@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_key_tools.html"
 related_keyword: "[[Keywords/Tools]]"
 tags:
   - "type/key"
+summary: "The key Tools is located in the command area on the left of the key Setup."
 ---
 
 # Tools Key

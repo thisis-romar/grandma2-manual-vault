@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_flashgo.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "FlashGo executes the keyword Flash and jumps into the next cue."
 ---
 
 # FlashGo keyword

@@ -14,6 +14,7 @@ depth: 3
 tags:
   - "type/page"
   - "section/of"
+summary: "The Display tab has potentially a lot of options - all dealing with how the data in the sheets are presented to you."
 ---
 
 # Display

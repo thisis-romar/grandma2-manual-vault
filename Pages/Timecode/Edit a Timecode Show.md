@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/timecode"
+summary: "Editing a timecode show opens the Timecode Editor pop-up."
 ---
 
 # Edit a Timecode Show

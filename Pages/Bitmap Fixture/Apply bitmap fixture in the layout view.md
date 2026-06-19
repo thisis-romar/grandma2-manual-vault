@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/bitmapfixture"
+summary: "After the bitmap fixture is imported, it is necessary to have a layout containing the fixtures or channels, to use the bitmap fixture."
 ---
 
 # Apply bitmap fixture in the layout view

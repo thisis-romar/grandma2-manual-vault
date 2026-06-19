@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_effectdecay.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "EffectDecay is a helping keyword to indicate individual EffectDecay of a pulse width modulation form."
 ---
 
 # EffectDecay

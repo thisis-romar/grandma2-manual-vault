@@ -13,6 +13,7 @@ depth: 3
 tags:
   - "type/page"
   - "section/so"
+summary: "A grandMA2 replay unit (RPU) is considered as a console in the system."
 ---
 
 # What is the Replay Unit (RPU)

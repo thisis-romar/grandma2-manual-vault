@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_key_executor.html"
 related_keyword: "[[Keywords/Executor]]"
 tags:
   - "type/key"
+summary: "The key Exec is located in the command area on the right of the key Cue."
 ---
 
 # Exec (Executor) Key

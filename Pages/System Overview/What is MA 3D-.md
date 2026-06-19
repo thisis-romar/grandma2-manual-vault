@@ -14,6 +14,7 @@ depth: 3
 tags:
   - "type/page"
   - "section/so"
+summary: "The MA 3D is a free visualizer that can connect to the MA system and can simulate lights in a 3D environment."
 ---
 
 # What is MA 3D?

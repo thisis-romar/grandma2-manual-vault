@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/patch"
+summary: "In this topic we are going to have a look at two list that is available from the Live Setup menu."
 ---
 
 # DMX and Parameter lists

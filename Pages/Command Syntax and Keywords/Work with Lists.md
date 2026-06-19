@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/cs"
+summary: "There are several lists you can work with:"
 ---
 
 # Work with Lists

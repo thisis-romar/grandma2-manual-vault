@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/rdm"
+summary: "To use RDM (= Remote Device Management Protocol) you need to turn on RDM global."
 ---
 
 # Turn RDM on

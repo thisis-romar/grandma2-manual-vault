@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/matricks"
+summary: "Use the MAtricks toolbar to control the MAtricks."
 ---
 
 # MAtricks Toolbar

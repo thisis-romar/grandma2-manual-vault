@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/backup"
+summary: "Partial Show Read is a function used to import elements from one show into a different show."
 ---
 
 # Partial Show Read

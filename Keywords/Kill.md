@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_kill.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "Kill is a Go+ function that additionally will turn off all other executor objects."
 ---
 
 # Kill

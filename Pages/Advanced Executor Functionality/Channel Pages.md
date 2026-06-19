@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/adv"
+summary: "The Fader Executors can be changed to be Channel Faders instead of Executors."
 ---
 
 # Channel Pages

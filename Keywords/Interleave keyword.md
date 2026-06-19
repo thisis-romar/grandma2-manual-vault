@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_interleave.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "Interleave is used to set ranges in the MAtricks or to create a virtual array of the fixtures selected."
 ---
 
 # Interleave keyword

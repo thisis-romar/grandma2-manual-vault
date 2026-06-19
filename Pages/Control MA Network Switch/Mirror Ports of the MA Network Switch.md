@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/control"
+summary: "In port mirroring, the entire traffic that arrives at a port is mirrored onto a mirror port of the MA Network Switch."
 ---
 
 # Mirror Ports of the MA Network Switch

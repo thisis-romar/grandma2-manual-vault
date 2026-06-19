@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_resetguid.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "ResetGuid resets the identifiers that are unique in every object."
 ---
 
 # ResetGuid keyword

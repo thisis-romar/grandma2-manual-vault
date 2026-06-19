@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_timer.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "With the Timer keyword you can edit, start, pause, restart, switch off, select, lock, unlock, and assign timers."
 ---
 
 # Timer

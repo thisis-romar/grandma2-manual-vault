@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/so"
+summary: "When more devices are connected with each other in a session, then it is a networked system."
 ---
 
 # Network systems

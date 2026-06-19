@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_previewexecutor.h
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "Requirement: A sequence loaded in the preview editor."
 ---
 
 # PreviewExecutor

@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/of"
+summary: "The channel sheet is where your fixtures with channel IDs and their corresponding values or presets are located."
 ---
 
 # Channel Sheet

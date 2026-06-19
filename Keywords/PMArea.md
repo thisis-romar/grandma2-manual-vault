@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_pmarea.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The PMArea keyword is an object keyword to access pixel mapper areas and pixel mapper outputs."
 ---
 
 # PMArea

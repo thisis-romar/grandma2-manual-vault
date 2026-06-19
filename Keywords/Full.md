@@ -9,6 +9,7 @@ keyword_type: "unknown"
 related_key: "[[Keys/Full Key]]"
 tags:
   - "type/keyword"
+summary: "Full is an function keyword to set the dimmer values to 100 %."
 ---
 
 # Full

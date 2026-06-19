@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_deleteshow.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "DeleteShow is a function used to remove show files from hard drives."
 ---
 
 # DeleteShow keyword

@@ -13,6 +13,7 @@ depth: 3
 tags:
   - "type/page"
   - "section/basic"
+summary: "The Conventional fixture type is used for fixtures that primarily only contains a dimmer attribute."
 ---
 
 # Conventional fixture type

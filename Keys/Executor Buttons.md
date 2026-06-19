@@ -7,6 +7,7 @@ slug: "key_key_execbuttons"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_execbuttons.html"
 tags:
   - "type/key"
+summary: "The executor buttons are located above and below the faders."
 ---
 
 # Executor Buttons

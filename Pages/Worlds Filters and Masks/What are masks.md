@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/wfm"
+summary: "Masks are a way to hide fixtures and attributes in some sheets and the Stage window."
 ---
 
 # What are masks

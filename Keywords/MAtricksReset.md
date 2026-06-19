@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_matricksreset.htm
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The MAtricksReset is a function keyword to turn off all active MAtricks settings."
 ---
 
 # MAtricksReset

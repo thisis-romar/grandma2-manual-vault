@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/timecode"
+summary: "There are two ways a timecode signal can trigger cues."
 ---
 
 # Record a Timecode Show

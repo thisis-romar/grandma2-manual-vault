@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_crashlogdelete.ht
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "CrashLogDelete is a function used to delete crash log files on the internal drive."
 ---
 
 # CrashLogDelete keyword

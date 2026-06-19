@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/presets"
+summary: "Embedded presets are stored within other presets."
 ---
 
 # Embedded Presets

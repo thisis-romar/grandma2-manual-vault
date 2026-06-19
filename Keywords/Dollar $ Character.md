@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_dollar.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The $ character indicates variables in the command line."
 ---
 
 # Dollar $ Character

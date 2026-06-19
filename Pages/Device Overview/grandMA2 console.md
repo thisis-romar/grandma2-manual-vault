@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/device"
+summary: "grandMA2 full-size front panel​"
 ---
 
 # grandMA2 console

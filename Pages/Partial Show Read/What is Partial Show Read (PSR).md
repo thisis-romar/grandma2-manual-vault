@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/psr"
+summary: "The Partial Show Read (PSR) is a function that allows you to load or import elements from one show into another."
 ---
 
 # What is Partial Show Read (PSR)

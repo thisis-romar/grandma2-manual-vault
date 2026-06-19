@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_viewbutton.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The ViewButton keyword calls the assigned function on the view button."
 ---
 
 # ViewButton

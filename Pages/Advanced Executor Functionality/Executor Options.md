@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/adv"
+summary: "Each executor can have a lot of options."
 ---
 
 # Executor Options

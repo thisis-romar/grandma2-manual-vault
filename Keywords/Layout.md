@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_layout.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "Layout is an object-type representing a layout of fixtures and other objects."
 ---
 
 # Layout

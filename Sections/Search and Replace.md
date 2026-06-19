@@ -11,6 +11,7 @@ tags:
 pages:
   - "[[Pages/Search and Replace/Search]]"
   - "[[Pages/Search and Replace/Replace]]"
+summary: "The two functions Search and Replace are two very powerful tools in the grandMA2."
 ---
 
 # Search and Replace

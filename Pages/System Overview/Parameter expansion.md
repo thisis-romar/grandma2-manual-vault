@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/so"
+summary: "This page is a closer look at how many parameters can be controlled and how it can be expanded."
 ---
 
 # Parameter expansion

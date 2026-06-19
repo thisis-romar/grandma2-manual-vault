@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/exec"
+summary: "There are two ways to see all the active executors."
 ---
 
 # Looking at the active executors

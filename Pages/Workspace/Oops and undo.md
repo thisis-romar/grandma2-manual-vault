@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/ws"
+summary: "By using the oops functions, you can easily undo actions."
 ---
 
 # Oops and undo

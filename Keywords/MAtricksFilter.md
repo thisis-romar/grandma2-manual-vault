@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_matricksfilter.ht
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "MatricksFilter is a function keyword to set the Matricks filter values."
 ---
 
 # MAtricksFilter

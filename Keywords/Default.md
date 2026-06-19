@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_default.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The Default keyword sets the given attributes for the fixture or channel selection to default values."
 ---
 
 # Default

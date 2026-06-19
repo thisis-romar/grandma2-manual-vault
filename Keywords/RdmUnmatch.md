@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_rdmunmatch.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The RdmUnmatch keyword unmatches previous matched RDM devices in the show file."
 ---
 
 # RdmUnmatch

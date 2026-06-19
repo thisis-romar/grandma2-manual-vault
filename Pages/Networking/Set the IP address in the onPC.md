@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/network"
+summary: "To change the IP address in the onPC, you first need to set the IP address in your computer."
 ---
 
 # Set the IP address in the onPC

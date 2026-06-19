@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_listlibrary.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The ListLirbrary keyword is a function keyword to display the fixture type library in the command line feedback window."
 ---
 
 # ListLibrary

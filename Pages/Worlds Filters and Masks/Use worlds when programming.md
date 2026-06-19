@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/wfm"
+summary: "Worlds are a great tool when programming."
 ---
 
 # Use worlds when programming

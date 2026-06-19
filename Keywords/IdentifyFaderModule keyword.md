@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_identifyfadermodu
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "IdentifyFaderModule defines which module corresponds to which wing."
 ---
 
 # IdentifyFaderModule keyword

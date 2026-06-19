@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/effects"
+summary: "The form is the basis of an effect."
 ---
 
 # Create Effect Forms

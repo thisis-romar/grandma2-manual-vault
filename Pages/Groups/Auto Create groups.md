@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/groups"
+summary: "You can auto create groups."
 ---
 
 # Auto Create groups

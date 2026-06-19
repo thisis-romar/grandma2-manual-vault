@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_key_escape.html"
 related_keyword: "[[Keywords/Escape keyword]]"
 tags:
   - "type/key"
+summary: "The key Esc is located in the command area on the right of the key Time."
 ---
 
 # Esc Key

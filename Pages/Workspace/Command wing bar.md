@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/ws"
+summary: "With the command wing bar you control the faders 1 to 6 and the buttons 101 to 106."
 ---
 
 # Command wing bar

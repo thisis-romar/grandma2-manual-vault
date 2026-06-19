@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_manualxfade.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "ManualXFade activates the function Crossfade of the Special Masters \"Exec Time\" and \"Program Time\"."
 ---
 
 # ManualXFade keyword

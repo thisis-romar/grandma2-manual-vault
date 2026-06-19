@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/bitmapfixture"
+summary: "When working with bitmap effects in the programmer and in playbacks attention should be paid to the following priorities:"
 ---
 
 # Priorities for bitmap effects

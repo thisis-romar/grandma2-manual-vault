@@ -9,6 +9,7 @@ keyword_type: "unknown"
 related_key: "[[Keys/Oops Key]]"
 tags:
   - "type/keyword"
+summary: "The Oops keyword is a function keyword to undo the last:"
 ---
 
 # Oops

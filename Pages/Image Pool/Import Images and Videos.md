@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/image"
+summary: "To import images or videos:"
 ---
 
 # Import Images and Videos

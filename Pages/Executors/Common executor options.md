@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/exec"
+summary: "The executors most common options, and their associated options, are explained in this topic."
 ---
 
 # Common executor options

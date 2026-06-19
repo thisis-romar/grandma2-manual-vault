@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_key_skipminus.html"
 related_keyword: "[[Keywords/--- [GoFastBack] keyword]]"
 tags:
   - "type/key"
+summary: "The key <<< [GoFastBack] is located in the command area on the left of the key Learn."
 ---
 
 # <<<  [GoFastBack] Key

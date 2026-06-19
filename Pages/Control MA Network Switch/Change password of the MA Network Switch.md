@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/control"
+summary: "You can change the password of the MA Network Switch."
 ---
 
 # Change password of the MA Network Switch

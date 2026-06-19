@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_loadprev.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "LoadPrev is a function keyword."
 ---
 
 # LoadPrev keyword

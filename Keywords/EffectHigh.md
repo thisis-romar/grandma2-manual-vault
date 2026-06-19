@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_effecthigh.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "EffectHigh is a helping keyword to indicate individual effect high values."
 ---
 
 # EffectHigh

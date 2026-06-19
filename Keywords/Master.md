@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_master.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The Master keyword is a function keyword to assign an executor the function master."
 ---
 
 # Master

@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_setnetworkspeed.h
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The SetNetworkSpeed keyword, changes the port speed of the first network adapter of grandMA2 consoles and MA NPU."
 ---
 
 # SetNetworkSpeed

@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_effectbpm.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "EffectBPM is a helping keyword to indicate individual effect speed in BPM (= beats per minute)."
 ---
 
 # EffectBPM

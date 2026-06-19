@@ -14,6 +14,7 @@ pages:
   - "[[Pages/Executors/Assign a function]]"
   - "[[Pages/Executors/Looking at the active executors]]"
   - "[[Pages/Executors/Common executor options]]"
+summary: "This section explains some of the most common executor concepts and functions."
 ---
 
 # Executors

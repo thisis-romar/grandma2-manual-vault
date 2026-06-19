@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/patch"
+summary: "Multipatching is a function to add extra fixtures to a Fixture ID or Channel ID."
 ---
 
 # Multipatching

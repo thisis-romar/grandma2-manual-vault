@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_error_messages.html"
 page_count: 0
 tags:
   - "type/section"
+summary: "If the following error messages do not solve the problem, please call or send an email to the tech support."
 ---
 
 # Error Messages

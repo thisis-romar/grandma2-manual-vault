@@ -7,6 +7,7 @@ slug: "key_key_faderpageminus"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_faderpageminus.html"
 tags:
   - "type/key"
+summary: "The key Fd Pg - is located on the left of the 100 mm fader."
 ---
 
 # Fd Pg - (Fader Page) Key

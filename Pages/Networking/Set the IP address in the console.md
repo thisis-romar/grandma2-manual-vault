@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/network"
+summary: "An IP address in a matching range is needed to be able to connect devices."
 ---
 
 # Set the IP address in the console

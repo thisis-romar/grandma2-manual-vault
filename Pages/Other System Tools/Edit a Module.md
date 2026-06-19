@@ -13,6 +13,7 @@ depth: 3
 tags:
   - "type/page"
   - "section/ost"
+summary: "You can also edit modules."
 ---
 
 # Edit a Module

@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_key_align.html"
 related_keyword: "[[Keywords/Align keyword]]"
 tags:
   - "type/key"
+summary: "The key Align is located in the command area on the right of the key Assign."
 ---
 
 # Align Key

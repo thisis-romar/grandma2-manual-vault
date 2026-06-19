@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/of"
+summary: "The fixture sheet is where your attributes with their corresponding values are located."
 ---
 
 # Fixture Sheet

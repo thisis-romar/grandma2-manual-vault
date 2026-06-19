@@ -9,6 +9,7 @@ keyword_type: "unknown"
 related_key: "[[Keys/Fixture Key]]"
 tags:
   - "type/keyword"
+summary: "Fixture is an object keyword to access fixtures with a fixture ID."
 ---
 
 # Fixture

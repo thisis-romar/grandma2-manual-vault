@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_agenda.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "Agenda is an object type which holds scheduled tasks to be executed at specific dates and times."
 ---
 
 # Agenda

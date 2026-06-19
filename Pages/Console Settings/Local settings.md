@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/local"
+summary: "The local settings are located in the Setup I Console I Local Settings."
 ---
 
 # Local settings

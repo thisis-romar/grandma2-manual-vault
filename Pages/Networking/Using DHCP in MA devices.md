@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/network"
+summary: "The grandMA2 supports the use of DHCP (Dynamic Host Configuration Protocol)."
 ---
 
 # Using DHCP in MA devices

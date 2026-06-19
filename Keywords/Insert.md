@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_insert.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The Insert keyword is a function keyword to insert pool objects between two other already taken pool objects."
 ---
 
 # Insert

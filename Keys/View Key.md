@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_key_view.html"
 related_keyword: "[[Keywords/View]]"
 tags:
   - "type/key"
+summary: "The key View is located in the command area on the left of the key Effect."
 ---
 
 # View Key

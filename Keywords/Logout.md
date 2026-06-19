@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_logout.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The logout keyword is a function keyword to logout the current user and change to the guest user."
 ---
 
 # Logout

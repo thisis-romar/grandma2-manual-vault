@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/layouts"
+summary: "This section comprises the description of functions specific for the layout pool."
 ---
 
 # Layout Pool Options

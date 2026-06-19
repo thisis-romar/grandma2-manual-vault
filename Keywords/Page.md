@@ -9,6 +9,7 @@ keyword_type: "unknown"
 related_key: "[[Keys/Page Key]]"
 tags:
   - "type/keyword"
+summary: "The Page keyword is an object keyword to access pages."
 ---
 
 # Page

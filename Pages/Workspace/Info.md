@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/ws"
+summary: "By using the info window, you can easily assign information to an object or view information of an object."
 ---
 
 # Info

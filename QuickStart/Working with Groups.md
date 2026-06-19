@@ -6,6 +6,7 @@ slug: "key_05_groups"
 url: "https://help.malighting.com/grandMA2/en/help/grandma2_quick_start_guide/key_05_groups.html"
 tags:
   - "type/quick-start"
+summary: "Now it is time to have a look at groups."
 ---
 
 # Working with Groups

@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_ifprog.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "IfProg is a function keyword to select fixtures with values in the programmer."
 ---
 
 # IfProg

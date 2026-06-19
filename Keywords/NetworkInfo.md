@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_networkinfo.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The NetworkInfo keyword is a function keyword to display information about the network in the command line feedback window."
 ---
 
 # NetworkInfo

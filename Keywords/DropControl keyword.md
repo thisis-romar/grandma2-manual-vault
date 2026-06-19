@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_dropcontrol.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "DropControl is used if multiple users are in a session."
 ---
 
 # DropControl keyword

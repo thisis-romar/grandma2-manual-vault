@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_snappercent.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "To use the SnapPercent it is necessary that attributes of the fixture types must have Snap On."
 ---
 
 # SnapPercent

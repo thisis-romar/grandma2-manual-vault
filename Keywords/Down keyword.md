@@ -9,6 +9,7 @@ keyword_type: "unknown"
 related_key: "[[Keys/Down Key]]"
 tags:
   - "type/keyword"
+summary: "The keyword Down scrolls down one page in the window you are currently in."
 ---
 
 # Down keyword

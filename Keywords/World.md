@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_world.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The world keyword call worlds along with its filter, and limit the access to the parameters in the word."
 ---
 
 # World

@@ -14,6 +14,7 @@ pages:
   - "[[Pages/Advanced Executor Functionality/Executor Options]]"
   - "[[Pages/Advanced Executor Functionality/Masters Window]]"
   - "[[Pages/Advanced Executor Functionality/Special Masters]]"
+summary: "This section describes some of the more advanced functions regarding the executors."
 ---
 
 # Advanced Executor Functionality

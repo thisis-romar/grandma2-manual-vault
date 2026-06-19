@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_endif.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "EndIf is a helping keyword to indicate the end of an If statement."
 ---
 
 # EndIf

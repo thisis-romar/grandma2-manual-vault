@@ -13,6 +13,7 @@ depth: 3
 tags:
   - "type/page"
   - "section/network"
+summary: "CITP can be used to stream a video feed through the network."
 ---
 
 # Streaming CITP video

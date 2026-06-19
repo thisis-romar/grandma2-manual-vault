@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_feature.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "Feature is an object keyword representing features of a fixture."
 ---
 
 # Feature

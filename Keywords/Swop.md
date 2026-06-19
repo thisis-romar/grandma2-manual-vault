@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_swop.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The Swop keyword temporary overrides the master level of executors to full and set all other master levels to zero."
 ---
 
 # Swop

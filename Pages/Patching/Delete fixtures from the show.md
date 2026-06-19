@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/patch"
+summary: "Quick steps:"
 ---
 
 # Delete fixtures from the show

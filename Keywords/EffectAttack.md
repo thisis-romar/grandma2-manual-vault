@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_effectattack.html
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "EffectAttack is a helping keyword used to indicate individual EffectAttack of a pulse width modulation form."
 ---
 
 # EffectAttack

@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/control"
+summary: "Follow these guidelines to add the MA xPort Nodes to the network configuration."
 ---
 
 # Add the MA xPort Nodes to the Network Configuration

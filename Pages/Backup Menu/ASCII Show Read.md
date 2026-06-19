@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/backup"
+summary: "The grandMA2 can currently import shows from Strand, Transtechnik, and ADB consoles, that have made an ASCII export of the show."
 ---
 
 # ASCII Show Read

@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/control"
+summary: "It is useful to apply presets to ports for a higher network performance or for safety reasons, e.g."
 ---
 
 # Edit presets of the MA Network Switch

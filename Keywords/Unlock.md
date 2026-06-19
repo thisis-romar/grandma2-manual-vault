@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_unlock.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "With the unlock keyword, you can unlock previous locked objects."
 ---
 
 # Unlock

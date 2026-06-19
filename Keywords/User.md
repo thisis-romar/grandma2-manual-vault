@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_user.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The User keyword displays user details in the command line feedback window."
 ---
 
 # User

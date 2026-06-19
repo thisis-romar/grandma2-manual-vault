@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_rdmsetparameter.h
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "With the RdmSetParameter keyword you can set RDM parameters by using the command line."
 ---
 
 # RdmSetParameter

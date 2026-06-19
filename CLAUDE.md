@@ -62,6 +62,8 @@ QuickStart/          — ~20 Quick Start Guide notes (type: quick-start)
 - **url**: canonical source URL
 - **tags**: array — `type/{type}`, `section/{slug}` for non-keyword nodes
 - **aliases**: from `meta-keywords` and `meta-searchwords` in page `<head>`
+- **summary**: 1-line description derived from the note's own body (`npm run summaries`);
+  a retrieval aid for external indexers. Optional/additive — not on `moc` notes.
 - **cssclasses**: `gma2-{type}` — drives per-type reading-view styling via the
   `.obsidian/snippets/note-types.css` snippet
 
@@ -127,7 +129,9 @@ Populated by `npm run stats` after extract. Updated in README.md.
 
 This repository is a **self-contained knowledge resource**: the scripts here only
 build, link, and validate the notes — there is no analytics, graph, or retrieval
-layer in the vault itself.
+layer in the vault itself. An external "brain" indexer reads the vault via the
+machine-readable contract in [`.brain/manifest.yaml`](.brain/manifest.yaml) (frontmatter
+schema, link style, typed relations, retrieval policy) — the vault stays passive.
 
 - `extract.js` (`npm run obsidian`) — scrape the grandMA2 manual and generate the vault.
 - `convert-links.js` (`npm run links`) — rewrite `[[wikilinks]]` to relative markdown
@@ -136,6 +140,8 @@ layer in the vault itself.
 - `stats.js` (`npm run stats`) — write live note counts into `README.md`.
 - `migrate-internal-links.js` (`npm run migrate:links`) — one-shot: rewrite any raw
   internal `key_*.html` body links to `[[wikilinks]]`.
+- `derive-summaries.js` (`npm run summaries`) — add a 1-line `summary:` to each note's
+  frontmatter, sourced from its own body (idempotent; for retrieval/brain indexers).
 - `audit.js` (`npm run audit`) — read-only conformance check (unresolved wikilinks,
   raw internal links, structure / `type`-vs-location / frontmatter / convention issues).
 

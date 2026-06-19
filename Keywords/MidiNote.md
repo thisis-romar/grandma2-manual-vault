@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_midinote.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "With the MidiNote command, you send MIDI Note messages via the Midi Out port at the back of the console."
 ---
 
 # MidiNote

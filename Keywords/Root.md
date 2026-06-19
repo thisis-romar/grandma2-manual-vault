@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_root.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The Root keyword access the root in the object tree."
 ---
 
 # Root

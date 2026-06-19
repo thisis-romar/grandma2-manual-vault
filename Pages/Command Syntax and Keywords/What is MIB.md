@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/cs"
+summary: "This topic is about the concept of Move In Black (MIB)."
 ---
 
 # What is MIB

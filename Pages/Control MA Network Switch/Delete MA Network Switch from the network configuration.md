@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/control"
+summary: "Use these steps to delete the MA Network Switch from the network configuration."
 ---
 
 # Delete MA Network Switch from the network configuration

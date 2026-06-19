@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_removeindividuals
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "RemoveIndividuals is a command used to delete individual values of effects and effect lines."
 ---
 
 # RemoveIndividuals

@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/rdm"
+summary: "MA Lighting tested splitters and mergers that flawlessly support RDM."
 ---
 
 # Splitters and Mergers that Support RDM

@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_allfaderexecutors
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "AllFaderExecutors is an alias for all fader executors."
 ---
 
 # AllFaderExecutors

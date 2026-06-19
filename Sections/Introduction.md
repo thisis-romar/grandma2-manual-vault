@@ -13,6 +13,7 @@ pages:
   - "[[Pages/Introduction/System Requirements grandMA2 onPC]]"
   - "[[Pages/Introduction/Installation of grandMA2 onPC]]"
   - "[[Pages/Introduction/Help from MA Technical Support]]"
+summary: "The grandMA2 represents MA Lighting’s most powerful console and offers the control of conventional light, moving lights, LED fixtures and media from one platform."
 ---
 
 # Introduction

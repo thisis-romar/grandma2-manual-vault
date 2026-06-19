@@ -24,6 +24,7 @@ pages:
   - "[[Pages/First Steps/Connect grandMA2 fader wing]]"
   - "[[Pages/First Steps/Setup your PC]]"
   - "[[Pages/First Steps/Turn on the Console the First Time]]"
+summary: "This chapter describes how to prepare the console and your PC to use it."
 ---
 
 # First Steps

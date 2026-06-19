@@ -13,6 +13,7 @@ depth: 3
 tags:
   - "type/page"
   - "section/adv"
+summary: "If you have arrived at this topic from a link without reading the previous topic, then please read Anatomy of a Fixture Type first."
 ---
 
 # Module Manager

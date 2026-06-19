@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_prevrow.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "If MAtricksInterleave is on, PrevRow reduce the Single Y value by one."
 ---
 
 # PrevRow

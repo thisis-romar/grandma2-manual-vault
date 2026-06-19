@@ -14,6 +14,7 @@ pages:
   - "[[Pages/Timecode/Edit a Timecode Show]]"
   - "[[Pages/Timecode/Playing Back a Timecode Show]]"
   - "[[Pages/Timecode/Organize The Show with Multiple Timecode Shows]]"
+summary: "The timecode section describes all the details for running cues or executors using a timecode source."
 ---
 
 # Timecode

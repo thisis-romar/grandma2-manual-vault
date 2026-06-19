@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_matricksblocks.ht
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "MAtricksBlocks is a function to set the MAtricks Blocks values."
 ---
 
 # MAtricksBlocks

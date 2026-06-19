@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_dmx.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "Dmx is an object type representing the DMX outputs of the console."
 ---
 
 # Dmx keyword

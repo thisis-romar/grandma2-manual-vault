@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_userprofile.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The keyword UserProfile displays the user profiles in the command line feedback."
 ---
 
 # UserProfile

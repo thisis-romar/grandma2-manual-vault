@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/basic"
+summary: "The name Fixture Type covers a wide range of different actual fixtures but also elements like Media Servers and virtual elements like Cameras for MA 3D."
 ---
 
 # Different Fixture Types

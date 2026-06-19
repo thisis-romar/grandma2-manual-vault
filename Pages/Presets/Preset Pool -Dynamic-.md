@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/presets"
+summary: "The preset pool Dynamic is a pool that automatically displays the preset type which is currently enabled in the preset control bar."
 ---
 
 # Preset Pool "Dynamic"

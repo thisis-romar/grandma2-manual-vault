@@ -14,6 +14,7 @@ pages:
   - "[[Pages/Console Settings/Local settings]]"
   - "[[Pages/Console Settings/Wing & Monitor Setup]]"
   - "[[Pages/Console Settings/Date & Time]]"
+summary: "Use the console settings to adjust the console to the environment."
 ---
 
 # Console Settings

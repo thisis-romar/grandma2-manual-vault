@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_storelook.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "StoreLook stores all dimmer values from all fixtures in the show."
 ---
 
 # StoreLook

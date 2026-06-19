@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/backup"
+summary: "The current show can be saved using a new name."
 ---
 
 # Saving a show with a new name

@@ -11,6 +11,7 @@ tags:
 pages:
   - "[[Pages/Agenda/What is agenda]]"
   - "[[Pages/Agenda/Create an appointment in the agenda]]"
+summary: "Use the Agenda to execute scheduled commands on the console, according to the calendar."
 ---
 
 # Agenda

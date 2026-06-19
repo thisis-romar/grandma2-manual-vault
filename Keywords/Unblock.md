@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_unblock.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The unblock keyword convert blocked values in cues (displayed white) into tracking values (displayed magenta)."
 ---
 
 # Unblock

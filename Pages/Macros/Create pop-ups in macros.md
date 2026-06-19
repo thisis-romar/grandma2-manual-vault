@@ -14,6 +14,7 @@ depth: 3
 tags:
   - "type/page"
   - "section/macro"
+summary: "Sometimes it can be very useful to create macros that can collect user input while running."
 ---
 
 # Create pop-ups in macros

@@ -9,6 +9,7 @@ keyword_type: "unknown"
 related_key: "[[Keys/Freeze Key]]"
 tags:
   - "type/keyword"
+summary: "If Freeze is on, programmer values have a higher priority as playbacks."
 ---
 
 # Freeze

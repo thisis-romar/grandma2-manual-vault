@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/presets"
+summary: "A preset reference is very handy when it comes to color presets since the colors of every fixture and manufacturer may vary greatly."
 ---
 
 # Create Preset Reference

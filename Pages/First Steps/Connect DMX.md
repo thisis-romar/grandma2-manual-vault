@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/fs"
+summary: "You can connect DMX IN and DMX OUT on the console."
 ---
 
 # Connect DMX

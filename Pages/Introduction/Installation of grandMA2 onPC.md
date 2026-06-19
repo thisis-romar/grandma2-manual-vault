@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/introduction"
+summary: "To run the grandMA2 onPC software, it is necessary to copy and install the program files on your PC."
 ---
 
 # Installation of grandMA2 onPC

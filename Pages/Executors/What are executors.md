@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/exec"
+summary: "Executors are the handles that are usually preferred when controlling sequences and other playback elements on the grandMA2."
 ---
 
 # What are executors

@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_gel.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The keyword gel provides the opportunity to edit or apply swatch book colors via command line."
 ---
 
 # Gel keyword

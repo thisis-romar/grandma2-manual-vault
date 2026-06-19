@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_psrlist.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The PSRList keyword lists all available and changed objects of the show file which can be inserted."
 ---
 
 # PSRList

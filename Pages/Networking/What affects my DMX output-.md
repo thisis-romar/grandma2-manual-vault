@@ -13,6 +13,7 @@ depth: 3
 tags:
   - "type/page"
   - "section/networking"
+summary: "A crash or a failure – this discontinues DMX output."
 ---
 
 # What affects my DMX output?

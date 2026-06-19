@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_technical_data.html"
 page_count: 0
 tags:
   - "type/section"
+summary: "Technical Data"
 ---
 
 # Technical Data

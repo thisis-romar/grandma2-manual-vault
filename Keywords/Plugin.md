@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_plugin.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The Plugin keyword is an object keyword to access Plugins."
 ---
 
 # Plugin

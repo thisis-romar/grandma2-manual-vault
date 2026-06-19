@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/adv"
+summary: "Most of the Sheets have the option to add \"Sets\" title bar buttons."
 ---
 
 # Using different view sets in the sheets

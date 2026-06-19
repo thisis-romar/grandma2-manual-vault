@@ -6,6 +6,7 @@ slug: "key_06_store_the_first_cue"
 url: "https://help.malighting.com/grandMA2/en/help/grandma2_quick_start_guide/key_06_store_the_first_cue.html"
 tags:
   - "type/quick-start"
+summary: "It is time to make the first cue."
 ---
 
 # Storing the first cue

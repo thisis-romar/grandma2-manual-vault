@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/windows"
+summary: "Clear the entire screen in the user-defined area occupied by different windows."
 ---
 
 # Clear the Screen or Delete Windows

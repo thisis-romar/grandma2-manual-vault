@@ -14,6 +14,7 @@ pages:
   - "[[Pages/Remote Control/Web Remote]]"
   - "[[Pages/Remote Control/Telnet Remote]]"
   - "[[Pages/Remote Control/Decimal – Hex Table]]"
+summary: "There are several ways to remote control grandMA2."
 ---
 
 # Remote Controlling the System

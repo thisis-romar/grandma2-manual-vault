@@ -9,6 +9,7 @@ keyword_type: "unknown"
 related_key: "[[Keys/Store Key]]"
 tags:
   - "type/keyword"
+summary: "The store keyword, stores functions in the show file."
 ---
 
 # Store

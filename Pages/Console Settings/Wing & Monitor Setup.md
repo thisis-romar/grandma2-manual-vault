@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/window"
+summary: "Assign wings to an executor or assign external displays to internal screens in Wing & Monitor Setup."
 ---
 
 # Wing & Monitor Setup

@@ -15,6 +15,7 @@ pages:
   - "[[Pages/MAtricks/MAtricks Blocks]]"
   - "[[Pages/MAtricks/MAtricks Wings]]"
   - "[[Pages/MAtricks/MAtricks Groups]]"
+summary: "MAtricks are used to modify the order of your selection."
 ---
 
 # MAtricks

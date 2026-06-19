@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_shut_down_the_system.html
 page_count: 0
 tags:
   - "type/section"
+summary: "Once you have finished your show, make sure to adequately shut down the system."
 ---
 
 # Shut Down the System

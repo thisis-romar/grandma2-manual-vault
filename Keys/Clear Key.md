@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_key_clear.html"
 related_keyword: "[[Keywords/Clear keyword]]"
 tags:
   - "type/key"
+summary: "The key Clear is located in the command area right beside the key Update."
 ---
 
 # Clear Key

@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/of"
+summary: "Layers are displayed in form of a bar, which is located at the bottom of a sheet."
 ---
 
 # Layer in Sheets

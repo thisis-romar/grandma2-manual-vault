@@ -7,6 +7,7 @@ slug: "key_key_u1-u4"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_u1-u4.html"
 tags:
   - "type/key"
+summary: "The U-Keys are located on the right of screen 1."
 ---
 
 # U1 - U4 keys

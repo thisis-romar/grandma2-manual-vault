@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/groups"
+summary: "When some groups have been created, then they can be used during programming."
 ---
 
 # Using groups when programming

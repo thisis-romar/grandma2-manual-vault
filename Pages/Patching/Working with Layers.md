@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/patch"
+summary: "All fixtures are organized in layers."
 ---
 
 # Working with Layers

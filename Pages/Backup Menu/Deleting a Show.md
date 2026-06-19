@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/backup"
+summary: "Show can be deleted in all the tabs except the \"Demoshows\" and \"Template\" tabs."
 ---
 
 # Deleting a Show

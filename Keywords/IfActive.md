@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_ifactive.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "IfActive is a function keyword to select fixtures with active values in the programmer."
 ---
 
 # IfActive

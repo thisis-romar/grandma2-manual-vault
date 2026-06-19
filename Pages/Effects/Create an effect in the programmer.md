@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/effects"
+summary: "It is possible to generate an effect in the programmer."
 ---
 
 # Create an effect in the programmer

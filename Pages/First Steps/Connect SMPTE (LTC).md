@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/fs"
+summary: "To synchronize the console with an SMPTE timecode source, connect an SMPTE source to the console."
 ---
 
 # Connect SMPTE (LTC)

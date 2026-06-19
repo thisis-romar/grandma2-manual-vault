@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_circularcopy.html
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "CircularCopy is a function used to move attribute values within your current selection."
 ---
 
 # CircularCopy keyword

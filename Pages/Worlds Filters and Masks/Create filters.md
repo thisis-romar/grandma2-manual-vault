@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/wfm"
+summary: "There are two different ways to create filters in the filter pool."
 ---
 
 # Create filters

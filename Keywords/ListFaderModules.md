@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_listfadermodules.
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The ListFaderModules keyword is a function keyword to display all available internal and external wings (= executor modules) in the command line feedback window."
 ---
 
 # ListFaderModules

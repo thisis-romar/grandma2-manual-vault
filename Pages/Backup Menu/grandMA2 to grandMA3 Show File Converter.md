@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/backup"
+summary: "A grandMA2 show file saved as a grandMA3 show file exports the following elements:"
 ---
 
 # grandMA2 to grandMA3 Show File Converter

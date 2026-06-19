@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_key_macro.html"
 related_keyword: "[[Keywords/Macro]]"
 tags:
   - "type/key"
+summary: "The key Macro is located in the command area on the right of the key Page."
 ---
 
 # Macro Key

@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_networknodeupdate
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "NetworkNodeUpdate is a function keyword used for the update of the following MA Nodes:"
 ---
 
 # NetworkNodeUpdate

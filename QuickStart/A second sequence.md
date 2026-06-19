@@ -6,6 +6,7 @@ slug: "key_14_second_sequence"
 url: "https://help.malighting.com/grandMA2/en/help/grandma2_quick_start_guide/key_14_second_sequence.html"
 tags:
   - "type/quick-start"
+summary: "We are going create a second sequence and link the two sequences."
 ---
 
 # A second sequence

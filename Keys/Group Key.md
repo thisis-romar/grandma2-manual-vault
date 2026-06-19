@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_key_group.html"
 related_keyword: "[[Keywords/Group]]"
 tags:
   - "type/key"
+summary: "The key Group is located in the command area on the right of the key Fixture."
 ---
 
 # Group Key

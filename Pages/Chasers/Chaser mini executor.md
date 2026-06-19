@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/chaser"
+summary: "If a chaser is assigned to an executor, the mini executor view displays relevant chaser informations."
 ---
 
 # Chaser mini executor

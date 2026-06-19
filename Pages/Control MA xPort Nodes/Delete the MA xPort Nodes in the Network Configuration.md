@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/control"
+summary: "Follow these guidelines to delete the MA xPort Nodes in the network configuration."
 ---
 
 # Delete the MA xPort Nodes in the Network Configuration

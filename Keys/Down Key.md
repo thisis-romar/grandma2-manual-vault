@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_key_down.html"
 related_keyword: "[[Keywords/Down keyword]]"
 tags:
   - "type/key"
+summary: "The key Down is located in the command area below the key Set."
 ---
 
 # Down Key

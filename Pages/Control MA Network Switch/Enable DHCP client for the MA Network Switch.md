@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/control"
+summary: "If the network is equipped with a DHCP server enable the DHCP client of the switch for it to receive automatically an IP address from the DHCP server."
 ---
 
 # Enable DHCP client for the MA Network Switch

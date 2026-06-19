@@ -9,6 +9,7 @@ keyword_type: "unknown"
 related_key: "[[Keys/Effect Key]]"
 tags:
   - "type/keyword"
+summary: "The keyword Effect is an object keyword."
 ---
 
 # Effect keyword

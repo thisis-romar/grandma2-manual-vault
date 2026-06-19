@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_selection.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The Selection keyword represent the current channels and fixtures selection in the programmer."
 ---
 
 # Selection

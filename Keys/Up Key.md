@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_key_up.html"
 related_keyword: "[[Keywords/Up]]"
 tags:
   - "type/key"
+summary: "The key Up is located in the command area above the key Set."
 ---
 
 # Up Key

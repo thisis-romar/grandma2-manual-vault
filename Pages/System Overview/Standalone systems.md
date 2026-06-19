@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/so"
+summary: "If a console is not connected to anything, then it is a Standalone system."
 ---
 
 # Standalone systems

@@ -14,6 +14,7 @@ depth: 3
 tags:
   - "type/page"
   - "section/basic"
+summary: "The Moving Light fixture type is the moving head or moving body fixtures."
 ---
 
 # Moving Lights

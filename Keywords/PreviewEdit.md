@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_previewedit.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The PreviewEdit toggles between the live programmer and the blind preview editor."
 ---
 
 # PreviewEdit

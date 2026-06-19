@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_effectlow.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "EffectLow is a helping keyword used to indicate individual effect low values."
 ---
 
 # EffectLow

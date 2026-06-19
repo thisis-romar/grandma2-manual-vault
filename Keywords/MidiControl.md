@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_midicontrol.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The MidiControl keyword is a function keyword to transmit MIDI control change messages via the MidiOut port."
 ---
 
 # MidiControl

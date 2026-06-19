@@ -14,6 +14,7 @@ pages:
   - "[[Pages/Export and Import/Import by using command line]]"
   - "[[Pages/Export and Import/Import by using user interface]]"
   - "[[Pages/Export and Import/Import predefined objects]]"
+summary: "The export and import function is a tool to copy a part of the show file, and use it in another show."
 ---
 
 # Export and Import

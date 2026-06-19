@@ -12,6 +12,7 @@ pages:
   - "[[Pages/Control MA NDPs/Add the MA NDPs to the Network Configuration]]"
   - "[[Pages/Control MA NDPs/Configure the MA NDPs]]"
   - "[[Pages/Control MA NDPs/Delete the MA NDPs in the Network Configuration]]"
+summary: "MA Lighting's dimMA dimming system is used in the grandMA1 series."
 ---
 
 # Control the MA NDPs

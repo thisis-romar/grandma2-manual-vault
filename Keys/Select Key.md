@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_key_select.html"
 related_keyword: "[[Keywords/Select]]"
 tags:
   - "type/key"
+summary: "The key Select is located in the command area on the left of the key Off."
 ---
 
 # Select Key

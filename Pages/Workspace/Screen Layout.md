@@ -13,6 +13,7 @@ depth: 3
 tags:
   - "type/page"
   - "section/ws"
+summary: "This topic provides information on the screen layouts of the different screens."
 ---
 
 # Screen Layout

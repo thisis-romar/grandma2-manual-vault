@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/cs"
+summary: "Storing cues is actually quite simple."
 ---
 
 # Storing cues

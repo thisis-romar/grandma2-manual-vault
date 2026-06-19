@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/control"
+summary: "You can change the name of the MA Network Switch."
 ---
 
 # Change hostname of the MA Network Switch

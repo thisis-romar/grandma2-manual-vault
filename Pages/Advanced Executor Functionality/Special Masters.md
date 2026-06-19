@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/adv"
+summary: "The Special Masters are five groups of masters."
 ---
 
 # Special Masters

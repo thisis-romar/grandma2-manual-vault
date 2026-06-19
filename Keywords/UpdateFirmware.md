@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_updatefirmware.ht
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The update firmware process can take up to 60 seconds."
 ---
 
 # UpdateFirmware

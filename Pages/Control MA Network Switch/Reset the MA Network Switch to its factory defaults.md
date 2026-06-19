@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/control"
+summary: "By resetting the MA Network Switch, you return the switch to the state it was in when it was first time powered."
 ---
 
 # Reset the MA Network Switch to its factory defaults

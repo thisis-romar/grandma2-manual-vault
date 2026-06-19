@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/control"
+summary: "This topic describes the different group settings and how to edit the groups."
 ---
 
 # Edit groups of the MA Network Switch

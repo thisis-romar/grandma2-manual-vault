@@ -12,6 +12,7 @@ pages:
   - "[[Pages/Command Syntax and Keywords/General Syntax Rules]]"
   - "[[Pages/Command Syntax and Keywords/All keywords]]"
   - "[[Pages/Command Syntax and Keywords/Work with Lists]]"
+summary: "The usage of the command line is an essential way of communication between the console and its operator."
 ---
 
 # Function of the Command Line

@@ -9,6 +9,7 @@ keyword_type: "unknown"
 related_key: "[[Keys/View Key]]"
 tags:
   - "type/keyword"
+summary: "The view keyword calls views on a screen."
 ---
 
 # View

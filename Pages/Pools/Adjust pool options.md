@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/pools"
+summary: "The following example of the Camera pool displays how to adjust the pool options."
 ---
 
 # Adjust pool options

@@ -24,6 +24,7 @@ pages:
   - "[[Pages/Patching/Virtual 3D Cameras]]"
   - "[[Pages/Patching/Position fixtures in the virtual 3D stage]]"
   - "[[Pages/Patching/Auto-calibrate fixture positions]]"
+summary: "Patching is one word for everything that has to do with the fixtures we have in our show, how they are addressed - both signal wise but also for selecting them - and how they are arranged in a virtual 3D room."
 ---
 
 # Patching, DMX, and Fixture Setup

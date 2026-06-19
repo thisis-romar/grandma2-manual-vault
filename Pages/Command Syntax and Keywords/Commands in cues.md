@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/cs"
+summary: "Each cue can execute a command."
 ---
 
 # Commands in cues

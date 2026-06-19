@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/adv"
+summary: "Cues can be looped."
 ---
 
 # Looping cues

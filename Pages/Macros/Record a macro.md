@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/macro"
+summary: "You can make a live recording of a macro."
 ---
 
 # Record a macro

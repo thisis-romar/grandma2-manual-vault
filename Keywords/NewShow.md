@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_newshow.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The NewShow keyword is a function keyword to create new shows."
 ---
 
 # NewShow

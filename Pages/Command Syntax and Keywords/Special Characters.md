@@ -12,6 +12,7 @@ depth: 3
 tags:
   - "type/page"
   - "section/cs"
+summary: "Special characters execute special functions."
 ---
 
 # Special Characters

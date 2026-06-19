@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_all.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "All is a function used to set the MAtricks property Single X to none (0), which means to reselect all fixtures, (or reselect all columns of fixtures, if Interleave is active)."
 ---
 
 # All

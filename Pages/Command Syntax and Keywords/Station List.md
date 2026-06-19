@@ -13,6 +13,7 @@ depth: 3
 tags:
   - "type/page"
   - "section/cs"
+summary: "[IP-address]"
 ---
 
 # Station List

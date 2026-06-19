@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/timecode"
+summary: "This topic has a few tips and tricks when the show contains multiple timecode shows."
 ---
 
 # Organize The Show with Multiple Timecode Shows

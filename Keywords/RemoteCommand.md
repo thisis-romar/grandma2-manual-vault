@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_remotecommand.htm
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The RemoteCommand keyword executes commands at a specific console."
 ---
 
 # RemoteCommand

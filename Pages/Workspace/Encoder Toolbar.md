@@ -13,6 +13,7 @@ depth: 3
 tags:
   - "type/page"
   - "section/ws"
+summary: "The following topic describes the default encoder toolbar."
 ---
 
 # Encoder Toolbar

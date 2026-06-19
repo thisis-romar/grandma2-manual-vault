@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/cs"
+summary: "This topic displays a list of all keywords."
 ---
 
 # All keywords

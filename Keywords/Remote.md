@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_remote.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The Remote keyword is an object keyword to access the remote input types."
 ---
 
 # Remote

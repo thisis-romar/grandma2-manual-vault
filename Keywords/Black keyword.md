@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_black.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "When the Black function is used with an Executor button the Black On command is executed when the button is pressed."
 ---
 
 # Black keyword

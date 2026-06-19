@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/effects"
+summary: "There are three methods to create an effects that uses presets."
 ---
 
 # Create an Effect that Uses Presets

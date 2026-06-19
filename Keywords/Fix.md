@@ -9,6 +9,7 @@ keyword_type: "unknown"
 related_key: "[[Keys/Fix Key]]"
 tags:
   - "type/keyword"
+summary: "Fix is a function keyword to fix objects on a page."
 ---
 
 # Fix

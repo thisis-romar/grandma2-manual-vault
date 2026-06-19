@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/update"
+summary: "This update process is available beginning with software version 2.8."
 ---
 
 # Update via setup

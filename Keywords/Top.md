@@ -9,6 +9,7 @@ keyword_type: "unknown"
 related_key: "[[Keys/Top Key]]"
 tags:
   - "type/keyword"
+summary: "The Top keyword jumps to the beginning of the cue list or sets the timecode marker at the beginning of the timecode show."
 ---
 
 # Top

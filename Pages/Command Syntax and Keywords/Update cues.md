@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/cs"
+summary: "The stored values in a cue can always be changed by storing new values into them."
 ---
 
 # Update cues

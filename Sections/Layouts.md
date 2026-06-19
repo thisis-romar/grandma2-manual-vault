@@ -13,6 +13,7 @@ pages:
   - "[[Pages/Layouts/Layout Pool Options]]"
   - "[[Pages/Layouts/Edit Layout]]"
   - "[[Pages/Layouts/Layout View Options]]"
+summary: "Layouts are basically two-dimensional drafts where it is possible to arrange channels and fixtures, draw shapes and add text, macros, presets and other pool objects."
 ---
 
 # Layouts

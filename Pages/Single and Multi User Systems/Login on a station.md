@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/single"
+summary: "There are two ways to log into a station."
 ---
 
 # Login on a station

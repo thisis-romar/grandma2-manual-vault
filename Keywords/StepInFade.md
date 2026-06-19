@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_stepinfade.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The StepInFade keyword assigns executors as a step in fader."
 ---
 
 # StepInFade

@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/patch"
+summary: "The two words Channel and Fixtures can be several things and it can be a little bit confusing."
 ---
 
 # What Are Channels & Fixtures

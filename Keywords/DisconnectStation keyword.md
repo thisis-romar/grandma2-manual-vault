@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_disconnectstation
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "DisconnectStation is a function used to throw stations out of your session."
 ---
 
 # DisconnectStation keyword

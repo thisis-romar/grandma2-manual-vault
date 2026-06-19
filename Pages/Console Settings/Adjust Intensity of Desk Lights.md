@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/window"
+summary: "The intensity of the desk lights is located in the Setup I Desk Lights."
 ---
 
 # Adjust Intensity of Desk Lights

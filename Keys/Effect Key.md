@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_key_effect.html"
 related_keyword: "[[Keywords/Effect keyword]]"
 tags:
   - "type/key"
+summary: "The key Effect is located on the right of the key View."
 ---
 
 # Effect Key

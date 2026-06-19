@@ -7,6 +7,7 @@ slug: "key_key_encoder"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_encoder.html"
 tags:
   - "type/key"
+summary: "The key !encoder is located between the four attribute encoders and the right screen encoder."
 ---
 
 # [Encoder] Key

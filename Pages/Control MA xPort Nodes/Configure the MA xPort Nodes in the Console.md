@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/control"
+summary: "The configuration is a customized set of parameters you have set to run an xPort node."
 ---
 
 # Configure the MA xPort Nodes in the Console

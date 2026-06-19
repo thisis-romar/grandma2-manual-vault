@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_execbutton1.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "ExecButton1 is an object keyword for the first button of an executor."
 ---
 
 # ExecButton1

@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_fullhighlight.htm
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "Fullhighlight takes all highlight values of the fixtures that are currently selected into the programmer."
 ---
 
 # FullHighlight keyword

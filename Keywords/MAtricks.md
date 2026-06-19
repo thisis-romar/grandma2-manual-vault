@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_matricks.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The MAtricks keyword acts as an object type and as a mode."
 ---
 
 # MAtricks

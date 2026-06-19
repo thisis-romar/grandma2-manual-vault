@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/patch"
+summary: "You can change the patch of fixtures without going into the full setup or \"Edit Setup\"."
 ---
 
 # Live patching

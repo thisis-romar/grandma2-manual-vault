@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/exec"
+summary: "This topics describes how to assign an object to an executor and how to assign functions to executor keys and faders."
 ---
 
 # Assign a function

@@ -13,6 +13,7 @@ pages:
   - "[[Pages/Image Pool/Image Limitations and Guidelines for Symbols]]"
   - "[[Pages/Image Pool/Supported file formats]]"
   - "[[Pages/Image Pool/Delete Images and Videos]]"
+summary: "The grandMA2 has an image pool with predefined images, which cannot be edited."
 ---
 
 # Image Pool

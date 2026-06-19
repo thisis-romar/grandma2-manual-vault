@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/rdm"
+summary: "After RDM (= Remote Device Management Protocol) is turned on the grandMA2 starts to discover RDM devices."
 ---
 
 # Match RDM devices

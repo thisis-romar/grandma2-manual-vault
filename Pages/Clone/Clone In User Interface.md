@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/clone"
+summary: "It is possible to clone using the user interface."
 ---
 
 # Clone In User Interface

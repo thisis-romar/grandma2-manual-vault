@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_go.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "Go is a function keyword to activate the next step of an executing object."
 ---
 
 # Go

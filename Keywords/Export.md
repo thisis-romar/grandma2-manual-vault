@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_export.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "Export is a function keyword to transfer data from the show file to the libraries in the console."
 ---
 
 # Export

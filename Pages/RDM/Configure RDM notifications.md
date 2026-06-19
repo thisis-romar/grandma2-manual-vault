@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/rdm"
+summary: "You can add or delete RDM notifications to or from the fixture types."
 ---
 
 # Configure RDM notifications

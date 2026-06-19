@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/presets"
+summary: "It is possible to edit the presets in two different ways."
 ---
 
 # Edit Presets

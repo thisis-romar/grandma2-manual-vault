@@ -7,6 +7,7 @@ slug: "key_key_gominus"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_gominus.html"
 tags:
   - "type/key"
+summary: "The key Go - (small) is located in the command area on the left of the key Pause."
 ---
 
 # Go - Key (small)

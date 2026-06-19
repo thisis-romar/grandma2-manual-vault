@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_empty.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "With the Empty keyword, you can assign the function empty to executors."
 ---
 
 # Empty

@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/patch"
+summary: "To fully enjoy the Stage view you will need to position your fixtures in the virtual 3D stage."
 ---
 
 # Position fixtures in the virtual 3D stage

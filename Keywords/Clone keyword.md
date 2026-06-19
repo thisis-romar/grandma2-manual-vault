@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_clone.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "It is possible to clone from fixture to fixture; from fixture to fixture type; from fixture type to fixture; or from fixture type to fixture type."
 ---
 
 # Clone keyword

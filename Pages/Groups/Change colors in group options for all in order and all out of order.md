@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/groups"
+summary: "The following describes how to set colors in All in Order and All out of Order in Group Options."
 ---
 
 # Change colors in group options for all in order and all out of order

@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_masterfade.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "MasterFade keyword is a function to adjust the on and off fade time of chasers and effects, and the off fade time for sequence executors."
 ---
 
 # MasterFade

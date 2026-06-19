@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_halfspeed.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "HalfSpeed is a function keyword to divide the current speed by 2."
 ---
 
 # HalfSpeed

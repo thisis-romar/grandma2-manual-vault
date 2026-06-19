@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/control"
+summary: "It is possible to configure MA xPort Nodes as a splitter or a merger on one universe."
 ---
 
 # Configure the MA xPort Nodes as Splitters or Mergers

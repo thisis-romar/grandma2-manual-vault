@@ -11,6 +11,7 @@ tags:
 pages:
   - "[[Pages/Advanced Fixture Types/Anatomy of a Fixture Type]]"
   - "[[Pages/Advanced Fixture Types/Attribute & Encoder Grouping]]"
+summary: "This section provides detailed information about the fixture types also called fixture profiles."
 ---
 
 # Advanced Fixture Types

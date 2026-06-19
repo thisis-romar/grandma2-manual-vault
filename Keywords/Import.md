@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_import.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "Import is a function keyword to bring data from external .xml and .xmlp libraries into the show file."
 ---
 
 # Import

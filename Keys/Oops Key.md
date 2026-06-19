@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_key_oops.html"
 related_keyword: "[[Keywords/Oops]]"
 tags:
   - "type/key"
+summary: "The key Oops is located in the command area on right of the key Edit."
 ---
 
 # Oops Key

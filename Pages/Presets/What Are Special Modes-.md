@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/presets"
+summary: "In addition to normal, there are three different special modes in the presets."
 ---
 
 # What Are Special Modes?

@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/effects"
+summary: "The window Running Effects displays all the effects that are currently running."
 ---
 
 # Running Effects

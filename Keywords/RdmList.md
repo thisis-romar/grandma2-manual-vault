@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_rdmlist.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The RdmList keyword generates a list of the received RDM data."
 ---
 
 # RdmList

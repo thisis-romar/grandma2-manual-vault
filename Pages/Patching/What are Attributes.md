@@ -13,6 +13,7 @@ depth: 3
 tags:
   - "type/page"
   - "section/patch"
+summary: "Attributes are the different functions in a fixture."
 ---
 
 # What are Attributes

@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_rate1.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The Rate1 keyword resets the rate to 1:1."
 ---
 
 # Rate1

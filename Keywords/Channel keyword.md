@@ -9,6 +9,7 @@ keyword_type: "unknown"
 related_key: "[[Keys/Channel Key]]"
 tags:
   - "type/keyword"
+summary: "Channel is an object type used to access fixtures with a Channel ID."
 ---
 
 # Channel keyword

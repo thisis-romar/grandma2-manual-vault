@@ -13,6 +13,7 @@ depth: 3
 tags:
   - "type/page"
   - "section/ws"
+summary: "Some system colors can be changed or adjusted in the grandMA2."
 ---
 
 # System Colors

@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/network"
+summary: "CITP (Controller Interface Transport Protocol) is a suite of Protocols used to exchange pictures and Video streams through a network."
 ---
 
 # Using CITP

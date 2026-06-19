@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_exit.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "Exit disconnects the connection to Telnet."
 ---
 
 # Exit keyword

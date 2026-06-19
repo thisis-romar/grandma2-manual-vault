@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_key_list.html"
 related_keyword: "[[Keywords/List]]"
 tags:
   - "type/key"
+summary: "The key List is located in the command area on the left of the key Store."
 ---
 
 # List Key

@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_invitestation.htm
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "InviteStation is a function keyword to bring other stations into the session."
 ---
 
 # InviteStation

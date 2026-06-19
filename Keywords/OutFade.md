@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_outfade.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The OutFade keyword is a helping keyword to set an outfade time."
 ---
 
 # OutFade

@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_networknodeinfo.h
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The NetworkNodeInfo keyword displays all in the network available MA Nodes in the command line feedback window."
 ---
 
 # NetworkNodeInfo

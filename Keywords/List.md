@@ -9,6 +9,7 @@ keyword_type: "unknown"
 related_key: "[[Keys/List Key]]"
 tags:
   - "type/keyword"
+summary: "The List keyword displays show data in the command line feedback window."
 ---
 
 # List

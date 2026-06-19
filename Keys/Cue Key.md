@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_key_cue.html"
 related_keyword: "[[Keywords/Cue keyword]]"
 tags:
   - "type/key"
+summary: "The key Cue is located in the command area on the right of the key Sequ."
 ---
 
 # Cue Key

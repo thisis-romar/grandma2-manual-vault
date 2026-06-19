@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/presets"
+summary: "It is possible to update the presets which you have altered."
 ---
 
 # Update Presets

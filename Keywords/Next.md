@@ -9,6 +9,7 @@ keyword_type: "unknown"
 related_key: "[[Keys/Next Key]]"
 tags:
   - "type/keyword"
+summary: "If no fixtures or channels are selected and the default keyword is Fixture or Channel, the Next keyword selects the fixture with lowest fixture or channel ID."
 ---
 
 # Next

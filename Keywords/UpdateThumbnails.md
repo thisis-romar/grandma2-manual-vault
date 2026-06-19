@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_updatethumbnails.
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The UpdateThumbnails keyword updates the thumbnails of the media servers."
 ---
 
 # UpdateThumbnails

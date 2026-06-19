@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_key_previous.html"
 related_keyword: "[[Keywords/Previous]]"
 tags:
   - "type/key"
+summary: "The key Prev is located in the command area on the left of the key Set."
 ---
 
 # Prev (Previous) Key

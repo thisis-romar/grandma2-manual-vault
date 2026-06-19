@@ -13,6 +13,7 @@ pages:
   - "[[Pages/Safety Information/Intended Use]]"
   - "[[Pages/Safety Information/Dangers Caused by Electric Current]]"
   - "[[Pages/Safety Information/General Safety Instructions]]"
+summary: "This device is conform to the following harmonized standards:"
 ---
 
 # Safety Information

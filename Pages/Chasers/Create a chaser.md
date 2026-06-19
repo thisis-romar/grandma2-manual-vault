@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/chaser"
+summary: "To create a chaser, create a sequence with at least 2 cues assigned to an executor."
 ---
 
 # Create a chaser

@@ -11,6 +11,7 @@ tags:
 pages:
   - "[[Pages/Timer/Timer Pool]]"
   - "[[Pages/Timer/Timer Pool Options]]"
+summary: "Use Timer to set and manage stopwatches and countdowns."
 ---
 
 # Timer

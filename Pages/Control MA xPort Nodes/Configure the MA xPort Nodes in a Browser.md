@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/control"
+summary: "Besides configuring nodes on the console, it is also possible to configure MA xPort Nodes in a browser."
 ---
 
 # Configure the MA xPort Nodes in a Browser

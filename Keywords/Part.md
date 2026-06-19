@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_part.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The Part keyword is an object keyword to segment cues in parts."
 ---
 
 # Part

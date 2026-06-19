@@ -14,6 +14,7 @@ depth: 3
 tags:
   - "type/page"
   - "section/cs"
+summary: "A selection list is a list of fixtures."
 ---
 
 # Selection List

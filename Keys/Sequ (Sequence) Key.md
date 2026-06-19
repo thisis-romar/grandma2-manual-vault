@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_key_sequence.html"
 related_keyword: "[[Keywords/Sequence]]"
 tags:
   - "type/key"
+summary: "The key Sequ (Sequence) is located in the command area on the left of the key Cue."
 ---
 
 # Sequ (Sequence) Key

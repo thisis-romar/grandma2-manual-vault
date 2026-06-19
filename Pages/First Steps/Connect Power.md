@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/fs"
+summary: "If only the powerCon connector is provided, you need to attach a suitable cable to the connector."
 ---
 
 # Connect Power

@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_clearall.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "ClearAll is a function used to empty the entire programmer."
 ---
 
 # ClearAll keyword

@@ -14,6 +14,7 @@ depth: 3
 tags:
   - "type/page"
   - "section/ost"
+summary: "Display the readout of the MA Dimmer Network using one of the three readout views:"
 ---
 
 # Readout

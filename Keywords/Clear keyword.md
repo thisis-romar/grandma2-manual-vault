@@ -9,6 +9,7 @@ keyword_type: "unknown"
 related_key: "[[Keys/Clear Key]]"
 tags:
   - "type/keyword"
+summary: "Clear is a function used to clear selection, active values or programmer."
 ---
 
 # Clear keyword

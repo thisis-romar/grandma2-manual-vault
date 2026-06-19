@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/timecode"
+summary: "The timecode shows can be controlled using the Timecode Encoder Toolbar or by the command line."
 ---
 
 # Playing Back a Timecode Show

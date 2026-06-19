@@ -9,6 +9,7 @@ keyword_type: "unknown"
 related_key: "[[Keys/Learn Key]]"
 tags:
   - "type/keyword"
+summary: "With the learn command you set the speed by tapping for:"
 ---
 
 # Learn

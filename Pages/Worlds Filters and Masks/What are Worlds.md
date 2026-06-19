@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/wfm"
+summary: "Worlds are a functionality in the grandMA2 that allows you to limit what is possible to access and what is displayed in windows."
 ---
 
 # What are Worlds

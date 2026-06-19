@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_park.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The Park keyword is a function keyword to lock DMX output values of attributes."
 ---
 
 # Park

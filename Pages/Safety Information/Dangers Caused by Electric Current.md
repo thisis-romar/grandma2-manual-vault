@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/safety"
+summary: "Defective device or defective power cable poses a risk of severe or fatal injury due to electrical shock."
 ---
 
 # Dangers Caused by Electric Current

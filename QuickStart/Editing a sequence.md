@@ -6,6 +6,7 @@ slug: "key_08_edit_a_sequence"
 url: "https://help.malighting.com/grandMA2/en/help/grandma2_quick_start_guide/key_08_edit_a_sequence.html"
 tags:
   - "type/quick-start"
+summary: "Now we are going to make some changes to the sequence."
 ---
 
 # Editing a sequence

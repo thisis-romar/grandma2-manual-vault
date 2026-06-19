@@ -19,6 +19,7 @@ pages:
   - "[[Pages/Operate Fixtures/Using The Shaper Dialog]]"
   - "[[Pages/Operate Fixtures/Using The Smart View]]"
   - "[[Pages/Operate Fixtures/Edit a Channel or a Fixture]]"
+summary: "This chapter deals with the various ways of controlling fixtures."
 ---
 
 # Operate Fixtures

@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/plugins"
+summary: "-To view the specific Lua commands and their structure, import plugin\\1.lua into the plugin pool or follow this path on the grandMA2 onPC:"
 ---
 
 # Edit Plugins

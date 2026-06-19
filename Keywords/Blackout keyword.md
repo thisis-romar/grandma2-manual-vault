@@ -9,6 +9,7 @@ keyword_type: "unknown"
 related_key: "[[Keys/B.O. (Blackout) Key]]"
 tags:
   - "type/keyword"
+summary: "Blackout is a function used to force zero values on output for dimmer parameter of channels and fixtures."
 ---
 
 # Blackout keyword

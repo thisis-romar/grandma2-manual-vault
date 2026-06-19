@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/xyz"
+summary: "Note that a fixture always receives pan and tilt values."
 ---
 
 # XYZ vs. Pan/Tilt

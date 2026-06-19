@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_faderpage.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "FaderPage is an object keyword representing the fader executor part of a page."
 ---
 
 # FaderPage

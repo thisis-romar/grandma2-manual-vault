@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/ei"
+summary: "It is possible to use the Command Line to import all objects."
 ---
 
 # Import by using command line

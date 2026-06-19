@@ -9,6 +9,7 @@ keyword_type: "unknown"
 related_key: "[[Keys/Select Key]]"
 tags:
   - "type/keyword"
+summary: "The Select keyword, selects objects as default objects."
 ---
 
 # Select

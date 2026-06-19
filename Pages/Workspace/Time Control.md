@@ -13,6 +13,7 @@ depth: 3
 tags:
   - "type/page"
   - "section/ws"
+summary: "The time control is located right beside the encoder bar on screen 2."
 ---
 
 # Time Control

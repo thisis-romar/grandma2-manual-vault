@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_rdminfo.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The RdmInfo keyword opens the RDM info pop-up with the actual RDM information to the entered fixture or channel."
 ---
 
 # RdmInfo

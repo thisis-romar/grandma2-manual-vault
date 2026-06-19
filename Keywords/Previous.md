@@ -9,6 +9,7 @@ keyword_type: "unknown"
 related_key: "[[Keys/Prev (Previous) Key]]"
 tags:
   - "type/keyword"
+summary: "The Previous keyword has multiple functions."
 ---
 
 # Previous

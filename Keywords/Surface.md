@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_surface.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The Surface keyword, loads a created surface form the Wing & Monitor Setup."
 ---
 
 # Surface

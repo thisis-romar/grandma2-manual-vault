@@ -7,6 +7,7 @@ slug: "key_key_user2"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_user2.html"
 tags:
   - "type/key"
+summary: "The key User 2 is located on the right of screen 1."
 ---
 
 # User 2 Key

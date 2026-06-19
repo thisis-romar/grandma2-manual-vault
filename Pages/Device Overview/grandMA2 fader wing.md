@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/device"
+summary: "grandMA2 fader wing front panel"
 ---
 
 # grandMA2 fader wing

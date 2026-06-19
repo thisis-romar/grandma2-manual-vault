@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/fs"
+summary: "Unpack the device."
 ---
 
 # Unpack the Device

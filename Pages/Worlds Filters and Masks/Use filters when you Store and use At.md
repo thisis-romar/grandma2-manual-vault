@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/wfm"
+summary: "The active filter is used when you store values and data."
 ---
 
 # Use filters when you Store and use At

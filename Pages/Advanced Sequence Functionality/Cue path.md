@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/adv"
+summary: "Each cue and cue part can have a path assigned."
 ---
 
 # Cue path

@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_key_solo.html"
 related_keyword: "[[Keywords/Solo]]"
 tags:
   - "type/key"
+summary: "The key Solo is located in the command area on the right of the key Highlt."
 ---
 
 # Solo Key

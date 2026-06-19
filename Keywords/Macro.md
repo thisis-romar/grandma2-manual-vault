@@ -9,6 +9,7 @@ keyword_type: "unknown"
 related_key: "[[Keys/Macro Key]]"
 tags:
   - "type/keyword"
+summary: "The Macro keyword is an object keyword access Macros."
 ---
 
 # Macro

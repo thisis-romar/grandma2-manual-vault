@@ -9,6 +9,7 @@ keyword_type: "unknown"
 related_key: "[[Keys/Copy Key]]"
 tags:
   - "type/keyword"
+summary: "Copy is a function used to create copies of an object."
 ---
 
 # Copy keyword

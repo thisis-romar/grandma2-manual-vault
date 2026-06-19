@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/rdm"
+summary: "To unmatch RDM devices from the patch:"
 ---
 
 # Unmatch RDM devices

@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_doublerate.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "DoubleRate is a function used to double the current rate."
 ---
 
 # DoubleRate keyword

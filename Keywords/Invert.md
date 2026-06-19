@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_invert.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "Invert is a function to invert the selection status of fixtures."
 ---
 
 # Invert

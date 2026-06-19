@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/of"
+summary: "The smart view displays default-defined channel sets of an attribute."
 ---
 
 # Using The Smart View

@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/so"
+summary: "A media server can be many things."
 ---
 
 # Media systems and CITP

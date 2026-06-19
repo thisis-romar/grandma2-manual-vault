@@ -13,6 +13,7 @@ depth: 3
 tags:
   - "type/page"
   - "section/ws"
+summary: "The cue colors are value and background colors for the selected executors."
 ---
 
 # Cue Colors

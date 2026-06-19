@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_key_temp.html"
 related_keyword: "[[Keywords/Temp]]"
 tags:
   - "type/key"
+summary: "The key Temp is located in the command area on the left of the key Top."
 ---
 
 # Temp Key

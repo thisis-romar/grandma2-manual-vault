@@ -14,6 +14,7 @@ depth: 3
 tags:
   - "type/page"
   - "section/adv"
+summary: "It is possible to a assign 15 different Speed Masters to executors."
 ---
 
 # Speed Masters

@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/adv"
+summary: "The Masters Window collects the Group, Speed, Rate, and Playback masters in one view."
 ---
 
 # Masters Window

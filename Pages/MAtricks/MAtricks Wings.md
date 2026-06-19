@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/matricks"
+summary: "This topic illustrates how to use the wings in the MAtricks with the help of an example."
 ---
 
 # MAtricks Wings

@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_timecode.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The Timecode keyword, select the timecode by default."
 ---
 
 # Timecode

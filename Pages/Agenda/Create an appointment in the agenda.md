@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/agenda"
+summary: "To create an appointment in the agenda, tap on a date in the Agenda window."
 ---
 
 # Create an appointment in the agenda

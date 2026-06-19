@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_searchresult.html
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The SearchResult keyword opens the world search result after an executed search command."
 ---
 
 # SearchResult

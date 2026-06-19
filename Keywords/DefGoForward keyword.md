@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_defgoforward.html
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "DefGoForward is a keyword which refers to the selected sequence."
 ---
 
 # DefGoForward keyword

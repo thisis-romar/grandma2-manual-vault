@@ -16,6 +16,7 @@ pages:
   - "[[Pages/Bitmap Fixture/Example for bitmap fixture]]"
   - "[[Pages/Bitmap Fixture/Priorities for bitmap effects]]"
   - "[[Pages/Bitmap Fixture/Disable bitmap for fixtures]]"
+summary: "The MA Lighting Bitmap fixture replaces the previous bitmap effects."
 ---
 
 # Bitmap Fixture

@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_cut.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "Cut is a function used to specify the source objects for a two-step move action."
 ---
 
 # Cut keyword

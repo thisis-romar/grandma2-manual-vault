@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_takecontrol.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "TakeControl is a keyword used if multiple users are in a session."
 ---
 
 # TakeControl

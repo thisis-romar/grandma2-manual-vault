@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/adv"
+summary: "This topic is about some of the details concerning MIB (Move In Black)."
 ---
 
 # Working with MIB

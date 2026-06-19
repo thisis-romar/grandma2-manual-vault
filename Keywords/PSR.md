@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_psr.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "Requirement: The partial show read is prepared."
 ---
 
 # PSR

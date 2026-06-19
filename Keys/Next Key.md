@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_key_next.html"
 related_keyword: "[[Keywords/Next]]"
 tags:
   - "type/key"
+summary: "The key Next is located in the command area on the right of the key Set."
 ---
 
 # Next Key

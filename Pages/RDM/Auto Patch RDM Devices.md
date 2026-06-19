@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/rdm"
+summary: "If the RDM fixture DMX address and the DMX address of the patch is not the same, you can auto-patch the fixture and send the patch DMX address via RDM to the fixture."
 ---
 
 # Auto Patch RDM Devices

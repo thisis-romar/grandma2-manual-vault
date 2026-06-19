@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_channellink.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "ChannelLink is a function used to toggle the Channel faders to dynamic mode."
 ---
 
 # ChannelLink keyword

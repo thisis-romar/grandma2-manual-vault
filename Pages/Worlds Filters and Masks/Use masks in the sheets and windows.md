@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/wfm"
+summary: "If you come to this page without any knowledge about Masks then please read the What are masks topic and the Create masks topic."
 ---
 
 # Use masks in the sheets and windows

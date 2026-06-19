@@ -7,6 +7,7 @@ slug: "key_key_v1-v10"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_v1-v10.html"
 tags:
   - "type/key"
+summary: "The keys V1 through V10 are located on the right of screen 2."
 ---
 
 # V1 - V10 Keys

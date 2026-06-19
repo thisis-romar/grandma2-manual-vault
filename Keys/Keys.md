@@ -7,6 +7,7 @@ slug: "key_key_numeric"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_numeric.html"
 tags:
   - "type/key"
+summary: "The numeric keys 0 trough 9 are located in the command area of the console."
 ---
 
 # [Numeric] Keys

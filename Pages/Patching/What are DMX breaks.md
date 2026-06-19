@@ -13,6 +13,7 @@ depth: 3
 tags:
   - "type/page"
   - "section/patch"
+summary: "DMX breaks is a term used when a fixture needs more than one DMX start address."
 ---
 
 # What are DMX breaks

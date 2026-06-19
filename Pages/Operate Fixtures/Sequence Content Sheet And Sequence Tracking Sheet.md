@@ -13,6 +13,7 @@ depth: 3
 tags:
   - "type/page"
   - "section/of"
+summary: "Fundamentally, the value layers and the effect layers in sequence content and sequence tracking are identical to those in channel sheet and fixture sheet."
 ---
 
 # Sequence Content Sheet And Sequence Tracking Sheet

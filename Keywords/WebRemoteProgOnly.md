@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_webremoteprogonly
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The WebRemoteProgOnly keyword, selects in the web remote fixture sheet the option Prg Only (= Programmer Only)."
 ---
 
 # WebRemoteProgOnly

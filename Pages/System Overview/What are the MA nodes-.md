@@ -13,6 +13,7 @@ depth: 3
 tags:
   - "type/page"
   - "section/so"
+summary: "The nodes from MA Lighting work as a translator between the network data and the DMX."
 ---
 
 # What are the MA nodes?

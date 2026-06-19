@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_listeffectlibrary
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The ListEffectLibrary is a function keyword to displays the .xml files in effects folder of the selected drive in the command line feedback window."
 ---
 
 # ListEffectLibrary

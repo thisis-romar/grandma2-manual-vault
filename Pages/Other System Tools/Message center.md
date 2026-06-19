@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/message"
+summary: "To access the Message Center window, tap on an empty part of a screen."
 ---
 
 # Message center

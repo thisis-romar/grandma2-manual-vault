@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/presets"
+summary: "In addition to the functionality of auto creating presets, it is also possible to auto create additional presets."
 ---
 
 # Auto Create Additional Presets

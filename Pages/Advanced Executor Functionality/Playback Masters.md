@@ -13,6 +13,7 @@ depth: 3
 tags:
   - "type/page"
   - "section/adv"
+summary: "It is possible to a assign 50 different Playback Masters to fader executors."
 ---
 
 # Playback Masters

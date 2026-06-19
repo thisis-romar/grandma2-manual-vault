@@ -13,6 +13,7 @@ pages:
   - "[[Pages/Update the Software/Format a USB stick for Linux]]"
   - "[[Pages/Update the Software/Update or factory reset via boot menu]]"
   - "[[Pages/Update the Software/Restart from Linux]]"
+summary: "The chapter gives you information about how to update the grandMA2 if a new software version is available."
 ---
 
 # Update the Software

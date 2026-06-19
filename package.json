@@ -12,6 +12,7 @@
     "stats": "cd scripts && node stats.js",
     "moc": "cd scripts && node generate-moc.js",
     "migrate:links": "cd scripts && node migrate-internal-links.js ..",
+    "summaries": "cd scripts && node derive-summaries.js ..",
     "test": "cd scripts && node --test",
     "lint": "eslint scripts eslint.config.js",
     "format": "prettier --write .",

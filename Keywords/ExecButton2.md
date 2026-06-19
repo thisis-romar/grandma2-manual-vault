@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_execbutton2.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "ExecButton2 is an object keyword for the second button of an executor."
 ---
 
 # ExecButton2

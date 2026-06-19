@@ -9,6 +9,7 @@ keyword_type: "unknown"
 related_key: "[[Keys/Goto Key]]"
 tags:
   - "type/keyword"
+summary: "Goto is a function keyword to jump in a list."
 ---
 
 # Goto

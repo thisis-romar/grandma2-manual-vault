@@ -9,6 +9,7 @@ keyword_type: "unknown"
 related_key: "[[Keys/Preset Key]]"
 tags:
   - "type/keyword"
+summary: "With the Preset keyword you can:"
 ---
 
 # Preset

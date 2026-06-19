@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_saveshow.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The SaveShow keyword saves the show on the selected drive."
 ---
 
 # SaveShow

@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_protocol.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The Protocol keyword is an object keyword to access the network protocols."
 ---
 
 # Protocol

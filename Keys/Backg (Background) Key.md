@@ -7,6 +7,7 @@ slug: "key_key_background"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_background.html"
 tags:
   - "type/key"
+summary: "The key Backg (Background) is located in the command area below the key U 4."
 ---
 
 # Backg (Background) Key

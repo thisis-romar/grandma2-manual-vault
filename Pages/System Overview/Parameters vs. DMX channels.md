@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/so"
+summary: "Most people are used to think in DMX channels when considering how many fixtures can be controlled with system."
 ---
 
 # Parameters vs. DMX channels

@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/ws"
+summary: "This topic provides an overview of the different text indicators and symbols used in the grandMA2."
 ---
 
 # Text indicators and symbols

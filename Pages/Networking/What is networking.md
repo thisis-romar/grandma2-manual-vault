@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/network"
+summary: "Networking in grandMA2 can be a lot of things."
 ---
 
 # What is networking

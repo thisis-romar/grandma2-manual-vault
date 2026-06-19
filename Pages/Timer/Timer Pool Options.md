@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/timers"
+summary: "To open the options of the timer pool, tap the !"
 ---
 
 # Timer Pool Options

@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_key_update.html"
 related_keyword: "[[Keywords/Update]]"
 tags:
   - "type/key"
+summary: "The key Update is located in the command area on the left of the key Clear."
 ---
 
 # Update Key

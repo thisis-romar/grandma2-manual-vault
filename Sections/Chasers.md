@@ -12,6 +12,7 @@ pages:
   - "[[Pages/Chasers/Create a chaser]]"
   - "[[Pages/Chasers/Chaser settings]]"
   - "[[Pages/Chasers/Chaser mini executor]]"
+summary: "A chaser is a sequence that runs in a loop."
 ---
 
 # Chasers

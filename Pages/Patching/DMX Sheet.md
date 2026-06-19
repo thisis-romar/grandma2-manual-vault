@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/patch"
+summary: "The DMX sheet is used to see the actual DMX output from the system."
 ---
 
 # DMX Sheet

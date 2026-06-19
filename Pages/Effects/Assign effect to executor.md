@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/effects"
+summary: "It is possible to assign effects to executors."
 ---
 
 # Assign effect to executor

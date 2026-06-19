@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_key_minus.html"
 related_keyword: "[[Keywords/- [Minus] keyword]]"
 tags:
   - "type/key"
+summary: "The key - is located on the right of the numeric keys in the command area."
 ---
 
 # [Minus] - Key

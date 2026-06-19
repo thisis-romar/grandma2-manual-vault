@@ -9,6 +9,7 @@ keyword_type: "unknown"
 related_key: "[[Keys/If Key]]"
 tags:
   - "type/keyword"
+summary: "The If keyword as a function keyword deselects fixtures not in the entered selection list."
 ---
 
 # If

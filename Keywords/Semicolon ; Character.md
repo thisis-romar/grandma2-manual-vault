@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_semicolon.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The semicolon separates multiple commands."
 ---
 
 # Semicolon ; Character

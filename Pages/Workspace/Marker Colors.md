@@ -14,6 +14,7 @@ depth: 3
 tags:
   - "type/page"
   - "section/ws"
+summary: "Markers are color indicators in form of a bar, square, or a thin line."
 ---
 
 # Marker Colors

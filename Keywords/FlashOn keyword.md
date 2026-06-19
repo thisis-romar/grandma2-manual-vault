@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_flashon.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "FlashOn activates the cue and ignores the fade times and the master level."
 ---
 
 # FlashOn keyword

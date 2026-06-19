@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/ost"
+summary: "Monitor and configure a dimMA system in the window MA Dimmer Network."
 ---
 
 # Network Dimmer

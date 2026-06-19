@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_listowner.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "ListOwner is used as a troubleshooting keyword in case of a multi user access conflict."
 ---
 
 # ListOwner

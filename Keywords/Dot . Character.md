@@ -9,6 +9,7 @@ keyword_type: "unknown"
 related_key: "[[Keys/. Key]]"
 tags:
   - "type/keyword"
+summary: "The ."
 ---
 
 # Dot . Character

@@ -6,6 +6,7 @@ slug: "key_04_control_dimmers_or_channels"
 url: "https://help.malighting.com/grandMA2/en/help/grandma2_quick_start_guide/key_04_control_dimmers_or_channels.html"
 tags:
   - "type/quick-start"
+summary: "We are now going to control the dimmers - called channels."
 ---
 
 # Controlling dimmers or channels

@@ -13,6 +13,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/ei"
+summary: "The predefined macros and effects are a collection made by MA Lighting."
 ---
 
 # Import predefined objects

@@ -24,6 +24,7 @@ pages:
   - "[[Pages/Workspace/Text indicators and symbols]]"
   - "[[Pages/Workspace/Icons]]"
   - "[[Pages/Workspace/Keyboard shortcuts]]"
+summary: "The chapter workspace deals in general with:"
 ---
 
 # Workspace

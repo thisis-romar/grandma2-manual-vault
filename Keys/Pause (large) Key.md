@@ -7,6 +7,7 @@ slug: "key_key_defpause"
 url: "https://help.malighting.com/grandMA2/en/help/key_key_defpause.html"
 tags:
   - "type/key"
+summary: "The large key Pause is located above the large key Go - ."
 ---
 
 # Pause (large) Key

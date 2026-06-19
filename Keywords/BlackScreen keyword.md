@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_blackscreen.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "The keyword BlackScreen is used to make single or all screens of the console turn black."
 ---
 
 # BlackScreen keyword

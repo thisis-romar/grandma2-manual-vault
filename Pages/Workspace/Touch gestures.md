@@ -14,6 +14,7 @@ depth: 2
 tags:
   - "type/page"
   - "section/ws"
+summary: "The grandMA2 comes with one multi-touch screen (screen 1) and at least one internal TFT wide mode touchscreens (screen 2 to screen 4)."
 ---
 
 # Touch gestures

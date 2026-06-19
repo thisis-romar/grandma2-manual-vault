@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_appearance.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "You can change the frame color of pool objects and the background color of cues with the Appearance keyword."
 ---
 
 # Appearance keyword

@@ -8,6 +8,7 @@ url: "https://help.malighting.com/grandMA2/en/help/key_keyword_item3d.html"
 keyword_type: "unknown"
 tags:
   - "type/keyword"
+summary: "Item3D is an object keyword used to modify 3D objects in grandMA 3D."
 ---
 
 # Item3D keyword

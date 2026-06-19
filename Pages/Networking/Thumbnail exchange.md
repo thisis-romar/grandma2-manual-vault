@@ -13,6 +13,7 @@ depth: 3
 tags:
   - "type/page"
   - "section/network"
+summary: "CITP/MSEX protocols are used to transfer information between consoles, media server and visualizers."
 ---
 
 # Thumbnail exchange
