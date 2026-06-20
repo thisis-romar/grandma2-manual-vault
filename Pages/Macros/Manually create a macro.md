@@ -143,9 +143,9 @@ Please read the subtopics for more options in advanced macros.
 
 *   [[Pages/Macros/Use variables in macros|Use variables]]
 *   [[Pages/Macros/Create pop-ups in macros|Create pop-ups]]
-*   [[Pages/Macros/Conditional expressions]]
-*   [[Pages/Macros/Macro timing]]
+*   [[Pages/Macros/Conditional expressions|Conditional expressions]]
+*   [[Pages/Macros/Macro timing|Macro timing]]
 
-← [[Pages/Macros/What are macros]] | [[Pages/Macros/Record a macro]] →
+← [[Pages/Macros/What are macros|What are macros]] | [[Pages/Macros/Record a macro|Record a macro]] →
 
-Part of [[Sections/Macros]] · [[000 Map of Content]]
+Part of [[Sections/Macros|Macros]] · [[000 Map of Content]]

@@ -26,7 +26,7 @@ To get the slash / in the command line, press / .
 
 The slash separates entered object properties or parameter options.
 
-The slash along with the function ChangeDest changes the destinations to the root level. For more information, see [[Keywords/ChangeDest keyword]].
+The slash along with the function ChangeDest changes the destinations to the root level. For more information, see [[Keywords/ChangeDest keyword|ChangeDest keyword]].
 
 The slash along with a keyword and a question mark displays all available options to the keyword in the command line feedback window.
 

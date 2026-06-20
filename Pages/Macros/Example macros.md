@@ -305,6 +305,6 @@ This saves the show with the name. "/nc" suppresses any pop-ups.
 
 In this macro you can see the use of variables and how you can use the AddVar command to append text to other text.
 
-← [[Pages/Macros/Assign a macro to a key]]
+← [[Pages/Macros/Assign a macro to a key|Assign a macro to a key]]
 
-Part of [[Sections/Macros]] · [[000 Map of Content]]
+Part of [[Sections/Macros|Macros]] · [[000 Map of Content]]

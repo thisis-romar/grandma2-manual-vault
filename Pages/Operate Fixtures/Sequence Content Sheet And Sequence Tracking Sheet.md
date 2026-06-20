@@ -50,6 +50,6 @@ Displays which sequence and cue the value comes from stating the number of the s
 
 Displays which sequence and cue the effect comes from stating the number of the sequence and the cue.
 
-← [[Pages/Operate Fixtures/Channel Sheet and Fixture Sheet]]
+← [[Pages/Operate Fixtures/Channel Sheet and Fixture Sheet|Channel Sheet and Fixture Sheet]]
 
-Part of [[Sections/Operate Fixtures]] · [[000 Map of Content]]
+Part of [[Sections/Operate Fixtures|Operate Fixtures]] · [[000 Map of Content]]

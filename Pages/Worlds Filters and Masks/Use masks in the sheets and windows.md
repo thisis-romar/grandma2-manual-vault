@@ -32,8 +32,8 @@ If you come to this page without any knowledge about Masks then please read the 
 
 Mask can be used in the following sheets and windows:
 
-*   [[Pages/Operate Fixtures/Channel Sheet]]
-*   [[Pages/Operate Fixtures/Fixture Sheet]]
+*   [[Pages/Operate Fixtures/Channel Sheet|Channel Sheet]]
+*   [[Pages/Operate Fixtures/Fixture Sheet|Fixture Sheet]]
 *   [[Pages/Command Syntax and Keywords/Looking at the cue content|Sequence Content Sheet]]
 *   [[Pages/Command Syntax and Keywords/Looking at the cue content|Sequence Tracking Sheet]]
 *   [[Pages/Patching/Stage View|Stage View window]]
@@ -72,6 +72,6 @@ Same example:
 
 How you want to set up your sheets are completely up to you and it is often also a question about what kind of a show you are doing. This means that there is no one preferred solution or one way that most programmers or operators set up their views. It is completely user definable and up to your own preferences.
 
-← [[Pages/Worlds Filters and Masks/Create masks]] | [[Pages/Worlds Filters and Masks/Apply worlds or filters to executors and sequences]] →
+← [[Pages/Worlds Filters and Masks/Create masks|Create masks]] | [[Pages/Worlds Filters and Masks/Apply worlds or filters to executors and sequences|Apply worlds or filters to executors and sequences]] →
 
-Part of [[Sections/Worlds Filters and Masks]] · [[000 Map of Content]]
+Part of [[Sections/Worlds Filters and Masks|Worlds Filters and Masks]] · [[000 Map of Content]]

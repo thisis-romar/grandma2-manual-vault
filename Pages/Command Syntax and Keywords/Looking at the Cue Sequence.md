@@ -194,6 +194,6 @@ The top part is all the settings that can be changed regarding the sequence. The
 
 The bottom part is all the columns and rows from the Sequence Executor Sheet. Everything with a gray background can be edited.
 
-← [[Pages/Command Syntax and Keywords/What are cues and sequences]] | [[Pages/Command Syntax and Keywords/Storing cues]] →
+← [[Pages/Command Syntax and Keywords/What are cues and sequences|What are cues and sequences]] | [[Pages/Command Syntax and Keywords/Storing cues|Storing cues]] →
 
-Part of [[Sections/Cues and Sequences]] · [[000 Map of Content]]
+Part of [[Sections/Cues and Sequences|Cues and Sequences]] · [[000 Map of Content]]

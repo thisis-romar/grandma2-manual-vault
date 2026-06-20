@@ -157,6 +157,6 @@ It is possible to lock the console, so no faders and keys can be used, by pressi
 *   **Image Pool Picture** opens the Image Pool for the current show file, to select one of these to be the background.
 *   **Current Desk UI** leaves the screens as they are, but places a red Desk Locked sign above the content.
 
-← [[Pages/Console Settings/Change Screen Options]] | [[Pages/Console Settings/Wing & Monitor Setup]] →
+← [[Pages/Console Settings/Change Screen Options|Change Screen Options]] | [[Pages/Console Settings/Wing & Monitor Setup|Wing & Monitor Setup]] →
 
-Part of [[Sections/Console Settings]] · [[000 Map of Content]]
+Part of [[Sections/Console Settings|Console Settings]] · [[000 Map of Content]]

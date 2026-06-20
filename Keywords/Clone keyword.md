@@ -118,7 +118,7 @@ Suppresses confirmation pop-up. 
 However, using the keyword If may limit the scope of cloning to just cloning parts of your show file.
 
 **Note:**  
-The keyword clone obeys the world and does not change data outside your current world. For more information see [[Keywords/World]]. 
+The keyword clone obeys the world and does not change data outside your current world. For more information see [[Keywords/World|World]]. 
 
 * * *
 

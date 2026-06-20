@@ -99,6 +99,6 @@ Tap to enter release values in the programmer. For more information, see [[Keywo
 **Default Link:**  
 Tap that the attribute links to their default values. For more information, see [[Keywords/Default|Default keyword]].
 
-← [[Pages/Workspace/Touch gestures]] | [[Pages/Workspace/Info]] →
+← [[Pages/Workspace/Touch gestures|Touch gestures]] | [[Pages/Workspace/Info|Info]] →
 
-Part of [[Sections/Workspace]] · [[000 Map of Content]]
+Part of [[Sections/Workspace|Workspace]] · [[000 Map of Content]]

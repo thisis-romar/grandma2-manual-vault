@@ -48,23 +48,23 @@ If the MAtricks button is green, the MAtricks are enabled.
 
 _Encoder Bar - Enabled MAtricks_
 
-*   Pressing and holding Prev + Set executes the [[Keywords/MAtricksInterleave]] -.
+*   Pressing and holding Prev + Set executes the [[Keywords/MAtricksInterleave|MAtricksInterleave]] -.
 
 \[time\] : Executing : MAtricksInterleave -
 
-*   Pressing and holding Next + Set executes [[Keywords/MAtricksInterleave]] +.
+*   Pressing and holding Next + Set executes [[Keywords/MAtricksInterleave|MAtricksInterleave]] +.
 
 \[time\] : Executing : MAtricksInterleave +
 
-*   Pressing and holding ![ma](../../img/ma_1.png) + Prev + Set executes [[Keywords/MAtricksBlocks]] -.
+*   Pressing and holding ![ma](../../img/ma_1.png) + Prev + Set executes [[Keywords/MAtricksBlocks|MAtricksBlocks]] -.
 
 \[time\] : Executing : MAtricksBlocks -
 
-*   Pressing and holding ![ma](../../img/ma_1.png) + Next + Set executes [[Keywords/MAtricksBlocks]] +.
+*   Pressing and holding ![ma](../../img/ma_1.png) + Next + Set executes [[Keywords/MAtricksBlocks|MAtricksBlocks]] +.
 
 \[time\] : Executing : MAtricksBlocks +
 
-For more information see [[Sections/MAtricks]].
+For more information see [[Sections/MAtricks|MAtricks]].
 
 * * *
 

@@ -135,6 +135,6 @@ Now you can assign this macro to an executor or view button and just press that 
 
 You can read more about the @ command in the [[Keywords/At @ Character|At @ topic]].
 
-← [[Pages/Macros/Edit a macro]] | [[Pages/Macros/Assign a macro to a key]] →
+← [[Pages/Macros/Edit a macro|Edit a macro]] | [[Pages/Macros/Assign a macro to a key|Assign a macro to a key]] →
 
-Part of [[Sections/Macros]] · [[000 Map of Content]]
+Part of [[Sections/Macros|Macros]] · [[000 Map of Content]]

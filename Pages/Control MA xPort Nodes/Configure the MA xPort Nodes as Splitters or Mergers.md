@@ -75,6 +75,6 @@ _Configure node as splitter_
 
 You have successfully configured the node as a splitter.
 
-← [[Pages/Control MA xPort Nodes/Configure the MA xPort Nodes in a Browser]] | [[Pages/Control MA xPort Nodes/Delete the MA xPort Nodes in the Network Configuration]] →
+← [[Pages/Control MA xPort Nodes/Configure the MA xPort Nodes in a Browser|Configure the MA xPort Nodes in a Browser]] | [[Pages/Control MA xPort Nodes/Delete the MA xPort Nodes in the Network Configuration|Delete the MA xPort Nodes in the Network Configuration]] →
 
-Part of [[Sections/Control MA xPort Nodes]] · [[000 Map of Content]]
+Part of [[Sections/Control MA xPort Nodes|Control MA xPort Nodes]] · [[000 Map of Content]]

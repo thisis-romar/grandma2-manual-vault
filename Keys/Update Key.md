@@ -36,8 +36,8 @@ _Pop-up Update_
 
 Related Links
 
-*   [[Pages/Presets/Update Presets]]
+*   [[Pages/Presets/Update Presets|Update Presets]]
 *   [[Pages/Command Syntax and Keywords/Update cues|Update Cues]]
-*   [[Pages/Effects/Update Effects]]
+*   [[Pages/Effects/Update Effects|Update Effects]]
 
 Part of [[000 Key Index]] · [[000 Map of Content]]

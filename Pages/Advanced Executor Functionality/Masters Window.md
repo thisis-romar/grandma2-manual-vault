@@ -38,7 +38,7 @@ The four tabs have each of the four different master types.
 
 Each master is represented by a square inside the tap. Each master is divided into three areas.
 
-The top part labels the master. Pressing and holding the top part will perform a [[Keywords/Locate]] command as long as it is pressed. Locate will change to the page where the master is assigned - if it is assigned. It will also change the look of the mini executor. It will write "Here" on a reds background for as long as the top part is pressd. It could look like this:
+The top part labels the master. Pressing and holding the top part will perform a [[Keywords/Locate|Locate]] command as long as it is pressed. Locate will change to the page where the master is assigned - if it is assigned. It will also change the look of the mini executor. It will write "Here" on a reds background for as long as the top part is pressd. It could look like this:
 
 ![](../../img/img_located-executor_v3_2.png)
 
@@ -91,7 +91,7 @@ This is what each speed master looks like:
 
 _Speed Master_
 
-The three buttons in the master gives access to double the speed (DS), half the speed (HS), or "tap" the speed using the [[Keywords/Learn]] command.
+The three buttons in the master gives access to double the speed (DS), half the speed (HS), or "tap" the speed using the [[Keywords/Learn|Learn]] command.
 
 There are three buttons below the speed masters. They are:
 
@@ -130,6 +130,6 @@ Each master has two buttons to set the master at **Full** and at **Zero**.
 
 Below all the playback master are two buttons: **All Full** and **All Zero**. They set all the playback master to full or zero.
 
-← [[Pages/Advanced Executor Functionality/Executor Options]] | [[Pages/Advanced Executor Functionality/Special Masters]] →
+← [[Pages/Advanced Executor Functionality/Executor Options|Executor Options]] | [[Pages/Advanced Executor Functionality/Special Masters|Special Masters]] →
 
-Part of [[Sections/Advanced Executor Functionality]] · [[000 Map of Content]]
+Part of [[Sections/Advanced Executor Functionality|Advanced Executor Functionality]] · [[000 Map of Content]]

@@ -182,7 +182,7 @@ Resets the MAtricks settings.
 *   To reset the MAtricks, tap Reset.
 
 **Hint:**  
-It is also possible to reset the MAtricks using the [[Keywords/ClearAll keyword|ClearAll]] or the [[Keywords/MAtricksReset]] keyword. 
+It is also possible to reset the MAtricks using the [[Keywords/ClearAll keyword|ClearAll]] or the [[Keywords/MAtricksReset|MAtricksReset]] keyword. 
 
 **Circular Copy:**
 
@@ -193,13 +193,13 @@ Copies values in a circular manner in the MAtricks. For more information see [[K
 
 **Shuffle Selection:**
 
-Applies the function Shuffle to the selection in the MAtricks. For more information see [[Keywords/ShuffleSelection]] keyword. 
+Applies the function Shuffle to the selection in the MAtricks. For more information see [[Keywords/ShuffleSelection|ShuffleSelection]] keyword. 
 
 *   To apply this function, tap Shuffle Selection. 
 
 **Hint:**  
 Settings stored in the MAtricks pool can be assigned to the User keys. For more information see [[Keys/User 1 Key|User 1]] key and [[Keys/User 2 Key|User 2]] key.
 
-[[Pages/MAtricks/MAtricks Pool]] →
+[[Pages/MAtricks/MAtricks Pool|MAtricks Pool]] →
 
-Part of [[Sections/MAtricks]] · [[000 Map of Content]]
+Part of [[Sections/MAtricks|MAtricks]] · [[000 Map of Content]]

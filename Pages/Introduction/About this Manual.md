@@ -74,6 +74,6 @@ Command line entry is displayed with the help of the command line.
 
 Command line response is displayed in the command line feedback.
 
-[[Pages/Introduction/System Requirements grandMA2 onPC]] →
+[[Pages/Introduction/System Requirements grandMA2 onPC|System Requirements grandMA2 onPC]] →
 
-Part of [[Sections/Introduction]] · [[000 Map of Content]]
+Part of [[Sections/Introduction|Introduction]] · [[000 Map of Content]]

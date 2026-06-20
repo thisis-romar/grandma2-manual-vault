@@ -234,7 +234,7 @@ not available
 
 x coordinate in the layout view, e.g. -9.17441
 
-Sets the x coordinate in the layout view. For more information, see [[Sections/Layouts]].
+Sets the x coordinate in the layout view. For more information, see [[Sections/Layouts|Layouts]].
 
 y
 
@@ -242,7 +242,7 @@ not available
 
 y coordinate in the layout view, e.g. 7.93822
 
-Sets the y coordinate in the layout view. For more information, see [[Sections/Layouts]].
+Sets the y coordinate in the layout view. For more information, see [[Sections/Layouts|Layouts]].
 
 ## Example
 

@@ -78,6 +78,6 @@ When Extract is not activated then cue zero creates **links** to default values 
 
 When CueZero Extract is activated then, Cue Zero will get the actual default values when CueZero Extract or Cue Zero is activated and when new attributes are added. It is not a link to the default values, but the actual default value. This means that changing the default values afterwards will not change the look of the sequence. Deactivating CueZero Extract (or Cue Zero) and activating it again will store the new defaults.
 
-← [[Pages/Advanced Sequence Functionality/Using Cue Modes]] | [[Pages/Advanced Sequence Functionality/Sequence info window]] →
+← [[Pages/Advanced Sequence Functionality/Using Cue Modes|Using Cue Modes]] | [[Pages/Advanced Sequence Functionality/Sequence info window|Sequence info window]] →
 
-Part of [[Sections/Advanced Sequence Functionality]] · [[000 Map of Content]]
+Part of [[Sections/Advanced Sequence Functionality|Advanced Sequence Functionality]] · [[000 Map of Content]]

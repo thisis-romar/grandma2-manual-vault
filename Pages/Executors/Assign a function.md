@@ -343,6 +343,6 @@ _Assign Menu - Width 5_
 
 Each key and fader can have a function that will execute the selected function to the assigned sequence or effect.
 
-← [[Pages/Executors/Executors on the screens]] | [[Pages/Executors/Looking at the active executors]] →
+← [[Pages/Executors/Executors on the screens|Executors on the screens]] | [[Pages/Executors/Looking at the active executors|Looking at the active executors]] →
 
-Part of [[Sections/Executors]] · [[000 Map of Content]]
+Part of [[Sections/Executors|Executors]] · [[000 Map of Content]]

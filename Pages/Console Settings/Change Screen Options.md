@@ -129,6 +129,6 @@ The screen saver turns on after the timeout selected.
 
 * * *
 
-← [[Pages/Console Settings/Adjust Intensity of Desk Lights]] | [[Pages/Console Settings/Local settings]] →
+← [[Pages/Console Settings/Adjust Intensity of Desk Lights|Adjust Intensity of Desk Lights]] | [[Pages/Console Settings/Local settings|Local settings]] →
 
-Part of [[Sections/Console Settings]] · [[000 Map of Content]]
+Part of [[Sections/Console Settings|Console Settings]] · [[000 Map of Content]]

@@ -34,6 +34,6 @@ Tapping one of the executors in the list will make this the assigned executor fo
 
 Read more about the Link Mode in the [[Pages/Operate Fixtures/Layer mask|Layer Mask topic]].
 
-← [[Pages/Operate Fixtures/Title buttons]] | [[Pages/Operate Fixtures/Mask (local)]] →
+← [[Pages/Operate Fixtures/Title buttons|Title buttons]] | [[Pages/Operate Fixtures/Mask (local)|Mask (local)]] →
 
-Part of [[Sections/Operate Fixtures]] · [[000 Map of Content]]
+Part of [[Sections/Operate Fixtures|Operate Fixtures]] · [[000 Map of Content]]

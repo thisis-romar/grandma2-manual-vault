@@ -65,8 +65,8 @@ It is also possible to use the fader as a manual cross fade from old to new valu
 
 Tap or press the same button to deactivate the manual cross fade - green marker disappears.
 
-An Executor can be set to ignore the Exec Time. This is done in the [[Pages/Advanced Executor Functionality/Executor Options]]. This will make the Executor run as normal using the stored cue timings.
+An Executor can be set to ignore the Exec Time. This is done in the [[Pages/Advanced Executor Functionality/Executor Options|Executor Options]]. This will make the Executor run as normal using the stored cue timings.
 
-← [[Pages/Workspace/Master Section]]
+← [[Pages/Workspace/Master Section|Master Section]]
 
-Part of [[Sections/Workspace]] · [[000 Map of Content]]
+Part of [[Sections/Workspace|Workspace]] · [[000 Map of Content]]

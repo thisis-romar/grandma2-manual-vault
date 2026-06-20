@@ -58,6 +58,6 @@ The Help window contains help about the grandMA 2 consoles, onPC, MA 3D and MA
 This manual is available online. The website https://help2.malighting.com provides help for grandMA 2 products, dot2 products, MA Network Switch and MA Fixture Builder.  
 These manuals are edited regularly and are more up-to-date than the help viewer in the console.
 
-← [[Pages/Other System Tools/Message center]] | [[Pages/Other System Tools/Clock]] →
+← [[Pages/Other System Tools/Message center|Message center]] | [[Pages/Other System Tools/Clock|Clock]] →
 
-Part of [[Sections/Other System Tools]] · [[000 Map of Content]]
+Part of [[Sections/Other System Tools|Other System Tools]] · [[000 Map of Content]]

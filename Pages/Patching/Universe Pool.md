@@ -80,6 +80,6 @@ Many off the options related to the DMX universe is explained in the [[Pages/Pat
     When there are DMX channels affected by the DMX tester then there is an ![](../../img/icon_warning_v3-3.png) icon in the pool button and a "!" in the column.  
     Read more details about the DMX tester function in the [[Pages/Patching/DMX testing in the DMX Sheet|DMX testing topic]].
 
-← [[Pages/Patching/DMX and Parameter lists]] | [[Pages/Patching/Stage View]] →
+← [[Pages/Patching/DMX and Parameter lists|DMX and Parameter lists]] | [[Pages/Patching/Stage View|Stage View]] →
 
-Part of [[Sections/Patching]] · [[000 Map of Content]]
+Part of [[Sections/Patching|Patching]] · [[000 Map of Content]]

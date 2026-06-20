@@ -146,6 +146,6 @@ Then the result is used to limit where the replace is performed and the dimmer a
 
 \[Channel\]> Replace Attribute "Dim" With Preset 1.5 If SearchResult
 
-← [[Pages/Search and Replace/Search]]
+← [[Pages/Search and Replace/Search|Search]]
 
-Part of [[Sections/Search and Replace]] · [[000 Map of Content]]
+Part of [[Sections/Search and Replace|Search and Replace]] · [[000 Map of Content]]

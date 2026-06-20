@@ -59,6 +59,6 @@ In a Multi User system, you can have users with different operator rights. There
 
 The User Profiles can also be limited to only a specific world. This would only allow the user to access a part of the fixtures.
 
-[[Pages/Single and Multi User Systems/Create user profiles and users]] →
+[[Pages/Single and Multi User Systems/Create user profiles and users|Create user profiles and users]] →
 
-Part of [[Sections/Single and Multi User Systems]] · [[000 Map of Content]]
+Part of [[Sections/Single and Multi User Systems|Single and Multi User Systems]] · [[000 Map of Content]]

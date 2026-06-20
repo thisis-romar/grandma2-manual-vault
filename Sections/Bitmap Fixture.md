@@ -57,22 +57,22 @@ We recommend to test the videos during the show preparation before using them in
 
 #### Sub topics
 
-*   [[Pages/Bitmap Fixture/Import bitmap fixture]]
+*   [[Pages/Bitmap Fixture/Import bitmap fixture|Import bitmap fixture]]
 *   [[Pages/Bitmap Fixture/Apply bitmap fixture in the layout view|Apply bitmap fixture in the layout]]
-*   [[Pages/Bitmap Fixture/Control bitmap fixture]]
-*   [[Pages/Bitmap Fixture/Edit bitmap fixture]]
+*   [[Pages/Bitmap Fixture/Control bitmap fixture|Control bitmap fixture]]
+*   [[Pages/Bitmap Fixture/Edit bitmap fixture|Edit bitmap fixture]]
 *   [[Pages/Bitmap Fixture/Example for bitmap fixture|Example]]
-*   [[Pages/Bitmap Fixture/Priorities for bitmap effects]]
-*   [[Pages/Bitmap Fixture/Disable bitmap for fixtures]]
+*   [[Pages/Bitmap Fixture/Priorities for bitmap effects|Priorities for bitmap effects]]
+*   [[Pages/Bitmap Fixture/Disable bitmap for fixtures|Disable bitmap for fixtures]]
 
 ## Pages in This Section
 
-- [[Pages/Bitmap Fixture/Import bitmap fixture]]
-- [[Pages/Bitmap Fixture/Apply bitmap fixture in the layout view]]
-- [[Pages/Bitmap Fixture/Control bitmap fixture]]
-- [[Pages/Bitmap Fixture/Edit bitmap fixture]]
-- [[Pages/Bitmap Fixture/Example for bitmap fixture]]
-- [[Pages/Bitmap Fixture/Priorities for bitmap effects]]
-- [[Pages/Bitmap Fixture/Disable bitmap for fixtures]]
+- [[Pages/Bitmap Fixture/Import bitmap fixture|Import bitmap fixture]]
+- [[Pages/Bitmap Fixture/Apply bitmap fixture in the layout view|Apply bitmap fixture in the layout view]]
+- [[Pages/Bitmap Fixture/Control bitmap fixture|Control bitmap fixture]]
+- [[Pages/Bitmap Fixture/Edit bitmap fixture|Edit bitmap fixture]]
+- [[Pages/Bitmap Fixture/Example for bitmap fixture|Example for bitmap fixture]]
+- [[Pages/Bitmap Fixture/Priorities for bitmap effects|Priorities for bitmap effects]]
+- [[Pages/Bitmap Fixture/Disable bitmap for fixtures|Disable bitmap for fixtures]]
 
 Part of [[000 Map of Content]]

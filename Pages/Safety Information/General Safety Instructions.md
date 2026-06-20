@@ -35,6 +35,6 @@ Follow the safety instructions to avoid injury or material damage:
 *   Do not block or cover any ventilation holes in the housing. These are essential for the airflow within the unit and protect the device from overheating.
 *   Place the device on stable surfaces only. If it is placed on unstable surfaces, it may fall and break.
 
-← [[Pages/Safety Information/Dangers Caused by Electric Current]]
+← [[Pages/Safety Information/Dangers Caused by Electric Current|Dangers Caused by Electric Current]]
 
-Part of [[Sections/Safety Information]] · [[000 Map of Content]]
+Part of [[Sections/Safety Information|Safety Information]] · [[000 Map of Content]]

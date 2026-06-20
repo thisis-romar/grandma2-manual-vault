@@ -45,7 +45,7 @@ Please note that whenever changing the mode, a restart is required. 
 4.  The console is successfully powered down.
 5.  Turn off the power switch on the rear panel and disconnect the plug. 
 
-For more information on the location of the power key and the power switch see [[Pages/Device Overview/grandMA2 console]]. 
+For more information on the location of the power key and the power switch see [[Pages/Device Overview/grandMA2 console|grandMA2 console]]. 
 
 * * *
 

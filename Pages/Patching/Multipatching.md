@@ -79,6 +79,6 @@ Now you have multipatched fixtures.
 
 For more about positioning the fixture in MA 3D or the Stage view, please have look at the [[Pages/Patching/Position fixtures in the virtual 3D stage|Position fixtures in the 3D stage]] topic.
 
-← [[Pages/Patching/Working with Layers]] | [[Pages/Patching/Live patching]] →
+← [[Pages/Patching/Working with Layers|Working with Layers]] | [[Pages/Patching/Live patching|Live patching]] →
 
-Part of [[Sections/Patching]] · [[000 Map of Content]]
+Part of [[Sections/Patching|Patching]] · [[000 Map of Content]]

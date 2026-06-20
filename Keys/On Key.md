@@ -30,7 +30,7 @@ _Location k__ey_ _On_ 
 
 \[Channel\]> On
 
-*   Pressing On On enters the [[Keywords/Call keyword]] into the command line.
+*   Pressing On On enters the [[Keywords/Call keyword|Call keyword]] into the command line.
 
 \[Channel\]> Call
 

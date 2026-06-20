@@ -28,7 +28,7 @@ Version 3.9
 If the grandMA2 is not working as described in the manual, you can take the following steps:
 
 *   **Error message**: You cannot proceed with the next step of the description and you receive an error message:  
-    Refer to [[Sections/Error Messages]] and repeat the procedure.  
+    Refer to [[Sections/Error Messages|Error Messages]] and repeat the procedure.  
     If the problem is still there, contact the technical support.
 *   **System is not working:** If you cannot proceed with the next step of the description and you do not receive an error message:  
     Contact the technical support and describe the last steps you took.
@@ -44,6 +44,6 @@ This email service is monitored during MA Lighting's regular business hours in G
 **For emergency services please contact your local MA distributor or the MA Lighting Service Hotline.  
 Call: +49 5251 688865-99. Please note that this is a 24/7 hotline which is used for emergency cases only. Use this hotline only if troubles occur shortly before an upcoming event.**
 
-← [[Pages/Introduction/Installation of grandMA2 onPC]]
+← [[Pages/Introduction/Installation of grandMA2 onPC|Installation of grandMA2 onPC]]
 
-Part of [[Sections/Introduction]] · [[000 Map of Content]]
+Part of [[Sections/Introduction|Introduction]] · [[000 Map of Content]]

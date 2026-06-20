@@ -57,6 +57,6 @@ Auto-created presets are always global since they are generated in fixture types
 12.  To add the name of a subattribute to the name of a channel set, tap Add Name of Subattribute. 
 13.  To close the menu, tap ![](../../img/icon_close_small_v3-2.png) in the upper right corner of the window.
 
-← [[Pages/Presets/Create Preset Reference]] | [[Pages/Presets/Auto Create Additional Presets]] →
+← [[Pages/Presets/Create Preset Reference|Create Preset Reference]] | [[Pages/Presets/Auto Create Additional Presets|Auto Create Additional Presets]] →
 
-Part of [[Sections/Presets]] · [[000 Map of Content]]
+Part of [[Sections/Presets|Presets]] · [[000 Map of Content]]

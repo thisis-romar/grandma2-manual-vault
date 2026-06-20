@@ -60,6 +60,6 @@ Many attributes are already grouped, for example the function pan and tilt or RG
 Pan and tilt is grouped since the position a fixture occupies has two directions.   
 RGB is grouped, because the color consists of a mixture between red, green and blue.
 
-← [[Pages/Operate Fixtures/What is the Programmer]] | [[Pages/Operate Fixtures/Using The Color Picker]] →
+← [[Pages/Operate Fixtures/What is the Programmer|What is the Programmer]] | [[Pages/Operate Fixtures/Using The Color Picker|Using The Color Picker]] →
 
-Part of [[Sections/Operate Fixtures]] · [[000 Map of Content]]
+Part of [[Sections/Operate Fixtures|Operate Fixtures]] · [[000 Map of Content]]

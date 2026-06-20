@@ -75,6 +75,6 @@ Cue number 3 is gone. The orange color stored in the cue is now stored in cue nu
 
 Tracking is discussed in details in the [[Pages/Command Syntax and Keywords/What is Tracking|What is Tracking topic]].
 
-← [[Pages/Command Syntax and Keywords/Renumber cues]] | [[Pages/Command Syntax and Keywords/Playing back Cues]] →
+← [[Pages/Command Syntax and Keywords/Renumber cues|Renumber cues]] | [[Pages/Command Syntax and Keywords/Playing back Cues|Playing back Cues]] →
 
-Part of [[Sections/Cues and Sequences]] · [[000 Map of Content]]
+Part of [[Sections/Cues and Sequences|Cues and Sequences]] · [[000 Map of Content]]

@@ -139,6 +139,6 @@ If there are 2 Fader Wings connected then they need to be identified. This is do
 
 Here are two buttons called Identify Fader 1 and Identify Fader 2. Tapping one of these followed by one of the keys on the Fader Wings will identify the wing in the system. It is only necessary if there are 2 Fader Wings connected to same onPC.
 
-It can be changed what block of 15 executors each wing should handle in the [[Pages/Console Settings/Wing & Monitor Setup]]. There is a green check mark in the detected hardware.
+It can be changed what block of 15 executors each wing should handle in the [[Pages/Console Settings/Wing & Monitor Setup|Wing & Monitor Setup]]. There is a green check mark in the detected hardware.
 
 Part of [[000 Map of Content]]

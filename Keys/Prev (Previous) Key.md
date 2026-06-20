@@ -32,7 +32,7 @@ If a pop-up dialog is open, for example the pop-up Choose store method, you can 
 
 \[time\] : Executing : Previous
 
-*   Pressing and holding ![ma](../../img/ma_1.png) + Prev executes the [[Keywords/PrevRow|PrevRow keyword]]. For more information see [[Sections/MAtricks]].
+*   Pressing and holding ![ma](../../img/ma_1.png) + Prev executes the [[Keywords/PrevRow|PrevRow keyword]]. For more information see [[Sections/MAtricks|MAtricks]].
 
 \[time\] : Executing : PrevRow
 

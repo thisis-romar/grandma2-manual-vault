@@ -53,7 +53,7 @@ It is all done from the setup.
 The fixtures are organized in layers (or maybe just one layer) in the **EditSetup**.
 
 **Important:**  
-For details about Layers please read the [[Pages/Patching/Working with Layers]] topic.  
+For details about Layers please read the [[Pages/Patching/Working with Layers|Working with Layers]] topic.  
 For details about the **EditSetup** menu please read the [[Pages/Patching/Adding fixtures to the show|Adding fixtures to your show]] topic.
 
 2.  Select the layer that have the fixture that needs to be deleted.
@@ -71,7 +71,7 @@ _Attention pop-up - Deleting an object in use_
     A new pop-up asks if the changes should be saved to the active setup.
 6.  Tap Yes to confirm the changes and leave the EditSetup (No to discard any changes, Cancel to stay in the EditSetup).
 
-Read more details about the Warning pop-up at the end of the [[Pages/Patching/Adding fixtures to the show]] topic.
+Read more details about the Warning pop-up at the end of the [[Pages/Patching/Adding fixtures to the show|Adding fixtures to the show]] topic.
 
 That was it for deleting a fixture.
 
@@ -79,6 +79,6 @@ There is no easy way to delete the fixture using the command line or hard keys.
 
 Pressing Delete Fixture 1 0 1 Please, only unpatches fixture 101 - it will not be deleted.
 
-← [[Pages/Patching/Adding fixtures to the show]] | [[Pages/Patching/Working with Layers]] →
+← [[Pages/Patching/Adding fixtures to the show|Adding fixtures to the show]] | [[Pages/Patching/Working with Layers|Working with Layers]] →
 
-Part of [[Sections/Patching]] · [[000 Map of Content]]
+Part of [[Sections/Patching|Patching]] · [[000 Map of Content]]

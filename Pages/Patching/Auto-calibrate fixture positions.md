@@ -29,7 +29,7 @@ The Auto-calibration is a system where the software positions moving light fixtu
 
 One of the big advantages with having a precise position and rotation of your moving lights is the option to use XYZ position programming.
 
-You can access this system using a [[Pages/Patching/Stage View]] and opening the **Stage View Options**. Here is a tab called "Calibration". In this tab you will find a single button called Calibrate Fixture Pos. Tapping this will open the Calibration pop-up.
+You can access this system using a [[Pages/Patching/Stage View|Stage View]] and opening the **Stage View Options**. Here is a tab called "Calibration". In this tab you will find a single button called Calibrate Fixture Pos. Tapping this will open the Calibration pop-up.
 
 It could look like this:
 
@@ -122,6 +122,6 @@ There are some rules and limitations using XYZ position programming:
 *   To fade fixture positions on the stage in a straight line between point A and B you need the XYZ parameters.
 *   Do not unblock sequences containing a mixture of XYZ and Pan/Tilt position data and do not "store /remove" or remove values to remove single attributes of the position preset type of cues when using XYZ. This could result in unexpected loss of position data inside your sequence.
 
-← [[Pages/Patching/Position fixtures in the virtual 3D stage]]
+← [[Pages/Patching/Position fixtures in the virtual 3D stage|Position fixtures in the virtual 3D stage]]
 
-Part of [[Sections/Patching]] · [[000 Map of Content]]
+Part of [[Sections/Patching|Patching]] · [[000 Map of Content]]

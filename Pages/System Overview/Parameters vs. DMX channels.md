@@ -120,6 +120,6 @@ MA Lighting is working with many visualizer manufactures to allow them to read t
 
 Learn more about parameter expansion [[Pages/System Overview/Parameter expansion|here]].
 
-← [[Pages/System Overview/Network systems]] | [[Pages/System Overview/Parameter expansion]] →
+← [[Pages/System Overview/Network systems|Network systems]] | [[Pages/System Overview/Parameter expansion|Parameter expansion]] →
 
-Part of [[Sections/System Overview]] · [[000 Map of Content]]
+Part of [[Sections/System Overview|System Overview]] · [[000 Map of Content]]

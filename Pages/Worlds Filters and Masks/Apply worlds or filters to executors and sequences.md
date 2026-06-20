@@ -96,6 +96,6 @@ You can see in the mini executor if one or both of the filters are applied. It i
 
 Read more in the [[Pages/Command Syntax and Keywords/Sequence mini executor|Sequence mini executor topic]].
 
-← [[Pages/Worlds Filters and Masks/Use masks in the sheets and windows]]
+← [[Pages/Worlds Filters and Masks/Use masks in the sheets and windows|Use masks in the sheets and windows]]
 
-Part of [[Sections/Worlds Filters and Masks]] · [[000 Map of Content]]
+Part of [[Sections/Worlds Filters and Masks|Worlds Filters and Masks]] · [[000 Map of Content]]

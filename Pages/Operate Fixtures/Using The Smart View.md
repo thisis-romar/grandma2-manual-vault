@@ -126,6 +126,6 @@ To close the options, tap ![](../../img/icon_close_small_v3-2.png) in the uppe
 
 To close the smart view altogether, tap ![](../../img/icon_yellow-ball_3_2.png)in the upper left corner of the dialog and tap Delete Window.
 
-← [[Pages/Operate Fixtures/Using The Shaper Dialog]] | [[Pages/Operate Fixtures/Edit a Channel or a Fixture]] →
+← [[Pages/Operate Fixtures/Using The Shaper Dialog|Using The Shaper Dialog]] | [[Pages/Operate Fixtures/Edit a Channel or a Fixture|Edit a Channel or a Fixture]] →
 
-Part of [[Sections/Operate Fixtures]] · [[000 Map of Content]]
+Part of [[Sections/Operate Fixtures|Operate Fixtures]] · [[000 Map of Content]]

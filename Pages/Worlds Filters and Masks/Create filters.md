@@ -78,6 +78,6 @@ _Filter without "Curve" attribute_
 
 Preset Type and Feature buttons are only On if all attributes inside them are On.
 
-← [[Pages/Worlds Filters and Masks/What are filters]] | [[Pages/Worlds Filters and Masks/Use filters when you Store and use At]] →
+← [[Pages/Worlds Filters and Masks/What are filters|What are filters]] | [[Pages/Worlds Filters and Masks/Use filters when you Store and use At|Use filters when you Store and use At]] →
 
-Part of [[Sections/Worlds Filters and Masks]] · [[000 Map of Content]]
+Part of [[Sections/Worlds Filters and Masks|Worlds Filters and Masks]] · [[000 Map of Content]]

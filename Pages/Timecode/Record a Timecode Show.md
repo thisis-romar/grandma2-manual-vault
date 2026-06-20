@@ -78,6 +78,6 @@ When the recording is done then tap the **Stop** (yellow square) button in the t
 
 All these action can of cause also be done from the command line. Please see the [[Keywords/Timecode|Timecode Keyword]] description for examples of all of the actions mentioned regarding the timecode show.
 
-← [[Pages/Timecode/What is Timecode and Timecode Shows]] | [[Pages/Timecode/Edit a Timecode Show]] →
+← [[Pages/Timecode/What is Timecode and Timecode Shows|What is Timecode and Timecode Shows]] | [[Pages/Timecode/Edit a Timecode Show|Edit a Timecode Show]] →
 
-Part of [[Sections/Timecode]] · [[000 Map of Content]]
+Part of [[Sections/Timecode|Timecode]] · [[000 Map of Content]]

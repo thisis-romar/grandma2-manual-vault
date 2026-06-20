@@ -43,6 +43,6 @@ The keyboard shortcuts are turned on for the grandMA2 onPC. The shortcuts are di
 
 The keyboard shortcuts are turned off for the grandMA2 onPC.
 
-[[Pages/Workspace/Edit keyboard shortcuts]] →
+[[Pages/Workspace/Edit keyboard shortcuts|Edit keyboard shortcuts]] →
 
-Part of [[Sections/Workspace]] · [[000 Map of Content]]
+Part of [[Sections/Workspace|Workspace]] · [[000 Map of Content]]

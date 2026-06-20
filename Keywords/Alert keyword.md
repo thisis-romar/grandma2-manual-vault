@@ -30,7 +30,7 @@ Alert "text"
 
 Typing the keyword **Alert** into the command line displays an alert message marked in red in the message center. 
 
-For more information on the icons, the colors of messages, and the center itself see [[Pages/Other System Tools/Message center]]. 
+For more information on the icons, the colors of messages, and the center itself see [[Pages/Other System Tools/Message center|Message center]]. 
 
 ## Example: 
 

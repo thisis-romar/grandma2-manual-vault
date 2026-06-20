@@ -25,7 +25,7 @@ Version 3.9
 
 # Wheel Manager
 
-If you have arrived at this topic from a link without reading the previous topic, then please read [[Pages/Advanced Fixture Types/Anatomy of a Fixture Type]] first.
+If you have arrived at this topic from a link without reading the previous topic, then please read [[Pages/Advanced Fixture Types/Anatomy of a Fixture Type|Anatomy of a Fixture Type]] first.
 
 The **Wheel Manager** lists the different wheels for the fixture. It can be color wheels, gobo wheels, but also scrollers are defined as a wheel.
 
@@ -64,6 +64,6 @@ This is a short description of the columns in the editor:
 
 Close the editor when the wheel is correct.
 
-← [[Pages/Advanced Fixture Types/Instance Manager]]
+← [[Pages/Advanced Fixture Types/Instance Manager|Instance Manager]]
 
-Part of [[Sections/Advanced Fixture Types]] · [[000 Map of Content]]
+Part of [[Sections/Advanced Fixture Types|Advanced Fixture Types]] · [[000 Map of Content]]

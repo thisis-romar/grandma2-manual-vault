@@ -46,6 +46,6 @@ _Unmatched RDM device_
 **Hint:**  
 You can also unmatch RDM devices by using the [[Keywords/RdmUnmatch|keyword RdmUnmatch]].
 
-← [[Pages/RDM/Use the RDM sheet]] | [[Pages/RDM/Splitters and Mergers that Support RDM]] →
+← [[Pages/RDM/Use the RDM sheet|Use the RDM sheet]] | [[Pages/RDM/Splitters and Mergers that Support RDM|Splitters and Mergers that Support RDM]] →
 
-Part of [[Sections/RDM]] · [[000 Map of Content]]
+Part of [[Sections/RDM|RDM]] · [[000 Map of Content]]

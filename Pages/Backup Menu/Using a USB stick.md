@@ -39,6 +39,6 @@ This is not rules in all software versions. But it is a list of advice that have
 
 So maybe not rules, but at least a good advice.
 
-← [[Pages/Backup Menu/Deleting a Show]] | [[Pages/Backup Menu/Setting up a file server]] →
+← [[Pages/Backup Menu/Deleting a Show|Deleting a Show]] | [[Pages/Backup Menu/Setting up a file server|Setting up a file server]] →
 
-Part of [[Sections/Backup Menu]] · [[000 Map of Content]]
+Part of [[Sections/Backup Menu|Backup Menu]] · [[000 Map of Content]]

@@ -27,15 +27,15 @@ Version 3.9
 
 Here is a list with links to all specific RDM keywords:
 
-*   [[Keywords/RdmAutomatch]]
-*   [[Keywords/RdmAutopatch]]
-*   [[Keywords/RdmFixtureType]]
-*   [[Keywords/RdmInfo]]
-*   [[Keywords/RdmList]]
-*   [[Keywords/RdmSetParameter]]
-*   [[Keywords/RdmSetpatch]]
-*   [[Keywords/RdmUnmatch]]
+*   [[Keywords/RdmAutomatch|RdmAutomatch]]
+*   [[Keywords/RdmAutopatch|RdmAutopatch]]
+*   [[Keywords/RdmFixtureType|RdmFixtureType]]
+*   [[Keywords/RdmInfo|RdmInfo]]
+*   [[Keywords/RdmList|RdmList]]
+*   [[Keywords/RdmSetParameter|RdmSetParameter]]
+*   [[Keywords/RdmSetpatch|RdmSetpatch]]
+*   [[Keywords/RdmUnmatch|RdmUnmatch]]
 
-← [[Pages/RDM/Turn RDM off]]
+← [[Pages/RDM/Turn RDM off|Turn RDM off]]
 
-Part of [[Sections/RDM]] · [[000 Map of Content]]
+Part of [[Sections/RDM|RDM]] · [[000 Map of Content]]

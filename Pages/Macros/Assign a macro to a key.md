@@ -150,6 +150,6 @@ _X-keys as view button with assigned macros_
 
 The location, on screen 1, is very convenient for often used macros. Remember that macros assigned to Executors are shared by all users and macros assigned to View Buttons are a user profile setting.
 
-← [[Pages/Macros/Command line interaction]] | [[Pages/Macros/Example macros]] →
+← [[Pages/Macros/Command line interaction|Command line interaction]] | [[Pages/Macros/Example macros|Example macros]] →
 
-Part of [[Sections/Macros]] · [[000 Map of Content]]
+Part of [[Sections/Macros|Macros]] · [[000 Map of Content]]

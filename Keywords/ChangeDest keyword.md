@@ -40,7 +40,7 @@ CD /
 
 Changing the destination is done by drilling down through a tree-structured database. To display the elements at a given destination use the function List.
 
-For more information on the function List see [[Keywords/List]]. 
+For more information on the function List see [[Keywords/List|List]]. 
 
 ## Example:
 

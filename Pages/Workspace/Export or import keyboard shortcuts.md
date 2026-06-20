@@ -67,6 +67,6 @@ If you have exported the keyboard shortcuts .xml file on a USB stick, the export
 
 The selected keyboard shortcuts are imported.
 
-← [[Pages/Workspace/Add or delete keyboard shortcuts]]
+← [[Pages/Workspace/Add or delete keyboard shortcuts|Add or delete keyboard shortcuts]]
 
-Part of [[Sections/Workspace]] · [[000 Map of Content]]
+Part of [[Sections/Workspace|Workspace]] · [[000 Map of Content]]

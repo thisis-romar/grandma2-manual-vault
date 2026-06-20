@@ -67,7 +67,7 @@ If the Library and Image Subattributes is not automatically recognized by the sy
 
 The Media Server will provide information like the server "Name", "Port", "Device State", "CITP command", "CITP Version" and "MSEX Version".
 
-When all is set up correctly then you can press the Update Thumbnail button. This will start the transfer of the thumbnails to the console. This might take a while and there will be a progress bar in the "CITP Command" cell. It can also be done using the command line. Please read more about it in the [[Keywords/UpdateThumbnails]] command.
+When all is set up correctly then you can press the Update Thumbnail button. This will start the transfer of the thumbnails to the console. This might take a while and there will be a progress bar in the "CITP Command" cell. It can also be done using the command line. Please read more about it in the [[Keywords/UpdateThumbnails|UpdateThumbnails]] command.
 
 ## Visualizers tab
 
@@ -77,6 +77,6 @@ This part is not implemented yet.
 
 This part is not implemented yet.
 
-← [[Pages/Networking/Streaming CITP video]]
+← [[Pages/Networking/Streaming CITP video|Streaming CITP video]]
 
-Part of [[Sections/Networking]] · [[000 Map of Content]]
+Part of [[Sections/Networking|Networking]] · [[000 Map of Content]]

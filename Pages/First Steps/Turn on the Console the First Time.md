@@ -60,6 +60,6 @@ Select the show, tap Check All and then Load Show. To close the backup menu, ta
 
 _grandMA2 start show on screen 1_
 
-← [[Pages/First Steps/Setup your PC]]
+← [[Pages/First Steps/Setup your PC|Setup your PC]]
 
-Part of [[Sections/First Steps]] · [[000 Map of Content]]
+Part of [[Sections/First Steps|First Steps]] · [[000 Map of Content]]

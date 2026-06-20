@@ -174,6 +174,6 @@ To configure the ports:
 
 The port is configured and the changes are saved in the startup configuration.
 
-← [[Pages/Control MA Network Switch/Change switch ID]] | [[Pages/Control MA Network Switch/Edit groups of the MA Network Switch]] →
+← [[Pages/Control MA Network Switch/Change switch ID|Change switch ID]] | [[Pages/Control MA Network Switch/Edit groups of the MA Network Switch|Edit groups of the MA Network Switch]] →
 
-Part of [[Sections/Control MA Network Switch]] · [[000 Map of Content]]
+Part of [[Sections/Control MA Network Switch|Control MA Network Switch]] · [[000 Map of Content]]

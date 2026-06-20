@@ -86,6 +86,6 @@ When saving on an USB stick, the grandMA2 show file is saved in **D:\\grandMA3\\
 
 Now, this show file can be opened in the grandMA3 software.
 
-← [[Pages/Backup Menu/ASCII Show Read]]
+← [[Pages/Backup Menu/ASCII Show Read|ASCII Show Read]]
 
-Part of [[Sections/Backup Menu]] · [[000 Map of Content]]
+Part of [[Sections/Backup Menu|Backup Menu]] · [[000 Map of Content]]

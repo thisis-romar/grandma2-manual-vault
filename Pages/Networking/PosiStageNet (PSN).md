@@ -90,6 +90,6 @@ When the tracker starts to move then the information will update and the StageMa
 
 The 3D Text button in the picture above should just be ignored - it does not do anything and is not implemented.
 
-← [[Pages/Networking/Using CITP]] | [[Pages/Networking/FTP connection to console and NPU]] →
+← [[Pages/Networking/Using CITP|Using CITP]] | [[Pages/Networking/FTP connection to console and NPU|FTP connection to console and NPU]] →
 
-Part of [[Sections/Networking]] · [[000 Map of Content]]
+Part of [[Sections/Networking|Networking]] · [[000 Map of Content]]

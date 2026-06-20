@@ -32,6 +32,6 @@ They are historically fitted with a discharge light source. Especially in the la
 
 The default 3D model is a mowing head fixture.
 
-← [[Pages/Basic Fixture Types/Mirror]] | [[Pages/Basic Fixture Types/Media Server]] →
+← [[Pages/Basic Fixture Types/Mirror|Mirror]] | [[Pages/Basic Fixture Types/Media Server|Media Server]] →
 
-Part of [[Sections/Basic Fixture Types]] · [[000 Map of Content]]
+Part of [[Sections/Basic Fixture Types|Basic Fixture Types]] · [[000 Map of Content]]

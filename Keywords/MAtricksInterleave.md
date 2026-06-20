@@ -28,7 +28,7 @@ MatricksInterleave is a function keyword to create a virtual array of the fixtur
 
 With the function MatricksInterleave the selection is wrapped onto a new row for every n'th fixture, creating a virtual array.
 
-For more information see [[Sections/MAtricks]].
+For more information see [[Sections/MAtricks|MAtricks]].
 
 ## Syntax
 

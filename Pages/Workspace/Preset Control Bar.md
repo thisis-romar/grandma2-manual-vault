@@ -29,8 +29,8 @@ The preset control bar is a part of the encoder bar.
 
 You can also turn the preset control bar on or off for the:
 
-*   [[Pages/Operate Fixtures/Fixture Sheet]]
-*   [[Pages/Operate Fixtures/Channel Sheet]]
+*   [[Pages/Operate Fixtures/Fixture Sheet|Fixture Sheet]]
+*   [[Pages/Operate Fixtures/Channel Sheet|Channel Sheet]]
 *   Sequence Content Sheet
 *   Sequence Tracking Sheet
 
@@ -89,14 +89,14 @@ The red indicator is visible.
 
 You can change programmer values by using the preset type bar for these functions:
 
-*   [[Keywords/On]]
-*   [[Keywords/Off]]
-*   [[Keywords/Park]]
-*   [[Keywords/Unpark]]
-*   [[Keywords/Remove]]
-*   [[Keywords/Release]]
-*   [[Keywords/Stomp]]
-*   [[Keywords/Default]]
+*   [[Keywords/On|On]]
+*   [[Keywords/Off|Off]]
+*   [[Keywords/Park|Park]]
+*   [[Keywords/Unpark|Unpark]]
+*   [[Keywords/Remove|Remove]]
+*   [[Keywords/Release|Release]]
+*   [[Keywords/Stomp|Stomp]]
+*   [[Keywords/Default|Default]]
 
 ### Example
 
@@ -121,6 +121,6 @@ The preset control bar is on or off in the sheet.
 
 To save the preset control bar settings, save the setting as default or save the view.
 
-[[Pages/Workspace/Encoder Toolbar]] →
+[[Pages/Workspace/Encoder Toolbar|Encoder Toolbar]] →
 
-Part of [[Sections/Workspace]] · [[000 Map of Content]]
+Part of [[Sections/Workspace|Workspace]] · [[000 Map of Content]]

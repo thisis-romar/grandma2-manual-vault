@@ -157,6 +157,6 @@ To edit groups:
 
 The groups are configured and the changes are saved in the startup configuration.
 
-← [[Pages/Control MA Network Switch/Configure ports of the MA Network Switch]] | [[Pages/Control MA Network Switch/Edit presets of the MA Network Switch]] →
+← [[Pages/Control MA Network Switch/Configure ports of the MA Network Switch|Configure ports of the MA Network Switch]] | [[Pages/Control MA Network Switch/Edit presets of the MA Network Switch|Edit presets of the MA Network Switch]] →
 
-Part of [[Sections/Control MA Network Switch]] · [[000 Map of Content]]
+Part of [[Sections/Control MA Network Switch|Control MA Network Switch]] · [[000 Map of Content]]

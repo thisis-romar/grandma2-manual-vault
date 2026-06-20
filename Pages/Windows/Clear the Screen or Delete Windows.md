@@ -60,6 +60,6 @@ To delete windows from the user-defined area:
 
 The window is deleted in the user-defined area.
 
-← [[Pages/Windows/Create and Manage Basic Windows]]
+← [[Pages/Windows/Create and Manage Basic Windows|Create and Manage Basic Windows]]
 
-Part of [[Sections/Windows]] · [[000 Map of Content]]
+Part of [[Sections/Windows|Windows]] · [[000 Map of Content]]

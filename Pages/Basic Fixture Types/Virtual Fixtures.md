@@ -35,6 +35,6 @@ It can include:
 *   Moving Paths for moving elements in MA 3D
 *   Figure in MA 3D
 
-← [[Pages/Basic Fixture Types/Media Server]]
+← [[Pages/Basic Fixture Types/Media Server|Media Server]]
 
-Part of [[Sections/Basic Fixture Types]] · [[000 Map of Content]]
+Part of [[Sections/Basic Fixture Types|Basic Fixture Types]] · [[000 Map of Content]]

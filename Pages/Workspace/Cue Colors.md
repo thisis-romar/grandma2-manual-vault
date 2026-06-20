@@ -29,9 +29,9 @@ The cue colors are value and background colors for the selected executors.
 
 The cue colors are visible in the:
 
-*   [[Pages/Operate Fixtures/Fixture Sheet]]
-*   [[Pages/Operate Fixtures/Channel Sheet]]
-*   [[Pages/Patching/DMX Sheet]] (Programmer Colors)
+*   [[Pages/Operate Fixtures/Fixture Sheet|Fixture Sheet]]
+*   [[Pages/Operate Fixtures/Channel Sheet|Channel Sheet]]
+*   [[Pages/Patching/DMX Sheet|DMX Sheet]] (Programmer Colors)
 *   Sequence Content Sheet
 *   Sequence Tracking Sheet
 *   [[Sections/Layouts|Layout View]] (only for dimmer values)
@@ -66,8 +66,8 @@ White values or backgrounds indicates the same value is stored a second time (bl
 
 To change the cue color options in the
 
-*   [[Pages/Operate Fixtures/Fixture Sheet]]
-*   [[Pages/Operate Fixtures/Channel Sheet]]
+*   [[Pages/Operate Fixtures/Fixture Sheet|Fixture Sheet]]
+*   [[Pages/Operate Fixtures/Channel Sheet|Channel Sheet]]
 *   Sequence Content Sheet
 *   Sequence Tracking Sheet
 
@@ -99,6 +99,6 @@ The cue color options are changed.
 
 To save the cue color option, save the option as default or save the view.
 
-← [[Pages/Workspace/Marker Colors]]
+← [[Pages/Workspace/Marker Colors|Marker Colors]]
 
-Part of [[Sections/Workspace]] · [[000 Map of Content]]
+Part of [[Sections/Workspace|Workspace]] · [[000 Map of Content]]

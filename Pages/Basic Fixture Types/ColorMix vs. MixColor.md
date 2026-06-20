@@ -75,6 +75,6 @@ There is currently 22 defined ColorRGBs. They are:
 **Important:**  
 MixColor has been called ColorDim and ColorMix (CM) in the past. These names are now obsolete and depreciated
 
-← [[Pages/Basic Fixture Types/What are Attributes, Features & Preset Types]] | [[Pages/Basic Fixture Types/Different Fixture Types]] →
+← [[Pages/Basic Fixture Types/What are Attributes, Features & Preset Types|What are Attributes, Features & Preset Types]] | [[Pages/Basic Fixture Types/Different Fixture Types|Different Fixture Types]] →
 
-Part of [[Sections/Basic Fixture Types]] · [[000 Map of Content]]
+Part of [[Sections/Basic Fixture Types|Basic Fixture Types]] · [[000 Map of Content]]

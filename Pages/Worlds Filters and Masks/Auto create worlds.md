@@ -72,6 +72,6 @@ This button have two modes. When it is **Earliest** the console will use the fir
 
 To cancel the auto creation, press the yellow X in the upper right corner.
 
-← [[Pages/Worlds Filters and Masks/Create worlds]] | [[Pages/Worlds Filters and Masks/Use worlds when programming]] →
+← [[Pages/Worlds Filters and Masks/Create worlds|Create worlds]] | [[Pages/Worlds Filters and Masks/Use worlds when programming|Use worlds when programming]] →
 
-Part of [[Sections/Worlds Filters and Masks]] · [[000 Map of Content]]
+Part of [[Sections/Worlds Filters and Masks|Worlds Filters and Masks]] · [[000 Map of Content]]

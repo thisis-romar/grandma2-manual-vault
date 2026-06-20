@@ -55,6 +55,6 @@ _MA onPC command wing rear panel_
 8.  MIDI In
 9.  2 x DMX Out
 
-← [[Pages/Device Overview/grandMA2 fader wing]] | [[Pages/Device Overview/MA onPC fader wing]] →
+← [[Pages/Device Overview/grandMA2 fader wing|grandMA2 fader wing]] | [[Pages/Device Overview/MA onPC fader wing|MA onPC fader wing]] →
 
-Part of [[Sections/Device Overview]] · [[000 Map of Content]]
+Part of [[Sections/Device Overview|Device Overview]] · [[000 Map of Content]]

@@ -49,7 +49,7 @@ Displays all effects running in an executor.
 Displays effects that were started as a pool playback.  
 
 **Programmer:**  
-Displays effects in the programmer. Whereas the effect is stored in the effect pool and is running the programmer. Effects created in the programmer are not displayed in this window. For more information see [[Pages/Effects/Create an effect in the programmer]]. 
+Displays effects in the programmer. Whereas the effect is stored in the effect pool and is running the programmer. Effects created in the programmer are not displayed in this window. For more information see [[Pages/Effects/Create an effect in the programmer|Create an effect in the programmer]]. 
 
 **Sequence:**  
 Displays sequences containing effects that are currently running.
@@ -87,6 +87,6 @@ _Options of running effects_
     Tap ![](../../img/icon_close_small_v3-2.png) in the upper right corner of the window.
 5.  To close the entire window, tap Delete Window.
 
-← [[Pages/Effects/Live Edit an Effect]] | [[Pages/Effects/Update Effects]] →
+← [[Pages/Effects/Live Edit an Effect|Live Edit an Effect]] | [[Pages/Effects/Update Effects|Update Effects]] →
 
-Part of [[Sections/Effects]] · [[000 Map of Content]]
+Part of [[Sections/Effects|Effects]] · [[000 Map of Content]]

@@ -112,6 +112,6 @@ _Select the position mode of a cue_
 4.  Tap the position you would like to set for the current cue.
 5.  The position has been adjusted.
 
-← [[Pages/XYZ/XYZ vs. Pan-Tilt]] | [[Pages/XYZ/Use Stage Markers]] →
+← [[Pages/XYZ/XYZ vs. Pan-Tilt|XYZ vs. Pan-Tilt]] | [[Pages/XYZ/Use Stage Markers|Use Stage Markers]] →
 
-Part of [[Sections/XYZ]] · [[000 Map of Content]]
+Part of [[Sections/XYZ|XYZ]] · [[000 Map of Content]]

@@ -25,7 +25,7 @@ Version 3.9
 
 # Date & Time
 
-Sometimes the console needs to know the current date and time, and sometimes also the location of the console. These settings are important if an **Agenda** is used. For more information, read the **[[Sections/Agenda]]** topic. 
+Sometimes the console needs to know the current date and time, and sometimes also the location of the console. These settings are important if an **Agenda** is used. For more information, read the **[[Sections/Agenda|Agenda]]** topic. 
 
 The date and time settings are located in the **Setup I Console I Date & Time**.
 
@@ -126,6 +126,6 @@ To use a GPS on the system do as followed:
 
 The GPS Master refers to the console where the GPS is connected.
 
-← [[Pages/Console Settings/Wing & Monitor Setup]]
+← [[Pages/Console Settings/Wing & Monitor Setup|Wing & Monitor Setup]]
 
-Part of [[Sections/Console Settings]] · [[000 Map of Content]]
+Part of [[Sections/Console Settings|Console Settings]] · [[000 Map of Content]]

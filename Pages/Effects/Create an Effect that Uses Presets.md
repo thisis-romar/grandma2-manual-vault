@@ -103,6 +103,6 @@ Create an effect that uses presets in the programmer:
 
 The preset is instantly applied and executed.
 
-← [[Pages/Effects/Create an effect in the programmer]] | [[Pages/Effects/Create Effect Forms]] →
+← [[Pages/Effects/Create an effect in the programmer|Create an effect in the programmer]] | [[Pages/Effects/Create Effect Forms|Create Effect Forms]] →
 
-Part of [[Sections/Effects]] · [[000 Map of Content]]
+Part of [[Sections/Effects|Effects]] · [[000 Map of Content]]

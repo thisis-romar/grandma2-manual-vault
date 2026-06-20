@@ -74,6 +74,6 @@ You have a pan tilt effect by using the bitmap fixture.
 
 _Stage view with running bitmap fixture_
 
-← [[Pages/Bitmap Fixture/Edit bitmap fixture]] | [[Pages/Bitmap Fixture/Priorities for bitmap effects]] →
+← [[Pages/Bitmap Fixture/Edit bitmap fixture|Edit bitmap fixture]] | [[Pages/Bitmap Fixture/Priorities for bitmap effects|Priorities for bitmap effects]] →
 
-Part of [[Sections/Bitmap Fixture]] · [[000 Map of Content]]
+Part of [[Sections/Bitmap Fixture|Bitmap Fixture]] · [[000 Map of Content]]

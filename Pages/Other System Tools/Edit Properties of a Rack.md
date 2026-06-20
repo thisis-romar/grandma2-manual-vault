@@ -177,6 +177,6 @@ It is possible to load racks from an internal drive and previous software versio
 
 The rack is configured and the settings are applied.
 
-← [[Pages/Other System Tools/Readout]] | [[Pages/Other System Tools/Edit a Module]] →
+← [[Pages/Other System Tools/Readout|Readout]] | [[Pages/Other System Tools/Edit a Module|Edit a Module]] →
 
-Part of [[Sections/Other System Tools]] · [[000 Map of Content]]
+Part of [[Sections/Other System Tools|Other System Tools]] · [[000 Map of Content]]

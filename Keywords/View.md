@@ -45,7 +45,7 @@ View \[ID\] / \[option\] = \[option value\]
 
 ## Options
 
-The following table displays the assignable options along with the [[Keywords/Assign keyword]].
+The following table displays the assignable options along with the [[Keywords/Assign keyword|Assign keyword]].
 
 Option
 

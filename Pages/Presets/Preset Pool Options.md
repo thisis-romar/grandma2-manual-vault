@@ -44,7 +44,7 @@ _Preset pool options_
 **Hint:**  
 All preset pools have the same pool options. 
 
-3.  To adjust the frame color, to reset colors or apply a different style and font see [[Pages/Pools/Adjust pool options]]. 
+3.  To adjust the frame color, to reset colors or apply a different style and font see [[Pages/Pools/Adjust pool options|Adjust pool options]]. 
 
  **Hint:**  
 To reset the colors in all preset pools, press Setup and tap User Settings – Window Settings – Presets and then subsequently tap Reset All Preset Pool Colors. 
@@ -87,6 +87,6 @@ It is also possible to set the default of the preset type via **Setup**:
 **Hint:**  
 To close the preset pool altogether, tap Delete Window.
 
-← [[Pages/Presets/Create Presets]] | [[Pages/Presets/Create Preset Reference]] →
+← [[Pages/Presets/Create Presets|Create Presets]] | [[Pages/Presets/Create Preset Reference|Create Preset Reference]] →
 
-Part of [[Sections/Presets]] · [[000 Map of Content]]
+Part of [[Sections/Presets|Presets]] · [[000 Map of Content]]

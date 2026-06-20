@@ -62,6 +62,6 @@ Basic syntax is: \[Function\] \[Object\]
 *   [[Pages/Command Syntax and Keywords/Object Keywords|Object keywords]]
 *   [[Pages/Command Syntax and Keywords/Function Keywords|Function keywords]]
 
-[[Pages/Command Syntax and Keywords/All keywords]] →
+[[Pages/Command Syntax and Keywords/All keywords|All keywords]] →
 
-Part of [[Sections/Command Syntax and Keywords]] · [[000 Map of Content]]
+Part of [[Sections/Command Syntax and Keywords|Command Syntax and Keywords]] · [[000 Map of Content]]

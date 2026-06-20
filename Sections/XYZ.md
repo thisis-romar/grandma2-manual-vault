@@ -111,9 +111,9 @@ For information on different combinations of pan/tilt see [[Keywords/Flip|the Fl
 
 ## Pages in This Section
 
-- [[Pages/XYZ/XYZ vs. Pan-Tilt]]
-- [[Pages/XYZ/XYZ and Pan-Tilt in cues and sequences]]
-- [[Pages/XYZ/Use Stage Markers]]
-- [[Pages/XYZ/Link Objects to Stage Markers in MA 3D]]
+- [[Pages/XYZ/XYZ vs. Pan-Tilt|XYZ vs. Pan-Tilt]]
+- [[Pages/XYZ/XYZ and Pan-Tilt in cues and sequences|XYZ and Pan-Tilt in cues and sequences]]
+- [[Pages/XYZ/Use Stage Markers|Use Stage Markers]]
+- [[Pages/XYZ/Link Objects to Stage Markers in MA 3D|Link Objects to Stage Markers in MA 3D]]
 
 Part of [[000 Map of Content]]

@@ -26,11 +26,11 @@ The key Copy is located in the command area below the key Del.
 
 _Location k__ey_ _Copy_ 
 
-*   Pressing Copy enters the [[Keywords/Copy keyword]] into the command line.
+*   Pressing Copy enters the [[Keywords/Copy keyword|Copy keyword]] into the command line.
 
 \[Channel\]> Copy
 
-*   Pressing Copy Copy enters the [[Keywords/Clone keyword]] into the command line.
+*   Pressing Copy Copy enters the [[Keywords/Clone keyword|Clone keyword]] into the command line.
 
 \[Channel\]> Clone
 

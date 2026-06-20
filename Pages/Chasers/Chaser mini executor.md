@@ -45,6 +45,6 @@ The middle part is divided into three lines.
 *   The second line is the fade time set by the encoder **Step Fade**.
 *   The third line shows the current step out of the total steps. Pay attention to the numbers. These do not refers to the cue number or cue name, but only the current step out of total steps in the chaser.
 
-← [[Pages/Chasers/Chaser settings]]
+← [[Pages/Chasers/Chaser settings|Chaser settings]]
 
-Part of [[Sections/Chasers]] · [[000 Map of Content]]
+Part of [[Sections/Chasers|Chasers]] · [[000 Map of Content]]

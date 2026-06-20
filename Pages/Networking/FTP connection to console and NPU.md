@@ -86,6 +86,6 @@ On the consoles it is also possible to get these crash logs using the [[Keywords
 
 It is possible to make a screenshot of the last touched screen by pressing the Prt Scr key on the keyboard. The screenshots are stored in the "temp" folder. It is a gz compressed tga file. It needs to be uncompressed before it can be opened.
 
-← [[Pages/Networking/PosiStageNet (PSN)]]
+← [[Pages/Networking/PosiStageNet (PSN)|PosiStageNet (PSN)]]
 
-Part of [[Sections/Networking]] · [[000 Map of Content]]
+Part of [[Sections/Networking|Networking]] · [[000 Map of Content]]

@@ -81,6 +81,6 @@ For updating a cue, tap the sequence you want to update or if you have selected 
 
 It is also possible to change the values directly in the Sequence Tracking Sheet and the Sequence Content Sheet. These two sheets and the editing process are described in the [[Pages/Command Syntax and Keywords/Looking at the cue content|Looking at the Cue Content topic]].
 
-← [[Pages/Command Syntax and Keywords/Looking at the cue content]] | [[Pages/Command Syntax and Keywords/What is Tracking]] →
+← [[Pages/Command Syntax and Keywords/Looking at the cue content|Looking at the cue content]] | [[Pages/Command Syntax and Keywords/What is Tracking|What is Tracking]] →
 
-Part of [[Sections/Cues and Sequences]] · [[000 Map of Content]]
+Part of [[Sections/Cues and Sequences|Cues and Sequences]] · [[000 Map of Content]]

@@ -40,7 +40,7 @@ _Areas in the Master Section_ 
 
 The master section is also displayed in the Command Section View along with [[Pages/Workspace/Time Control|Program Time]] and [[Pages/Workspace/Time Control|Exec Time]].
 
-*   Open the Command Section View via the **pop-up Create Basic Window**. For more information see [[Pages/Windows/Create and Manage Basic Windows]]. 
+*   Open the Command Section View via the **pop-up Create Basic Window**. For more information see [[Pages/Windows/Create and Manage Basic Windows|Create and Manage Basic Windows]]. 
 
 ![](../../img/window_command-section-view_v3-3.png)
 
@@ -80,6 +80,6 @@ _Fader Assignment_
 
 For more information, see [[Pages/Executors/Assign a function|executor - assign a function]].
 
-← [[Pages/Workspace/View Buttons]] | [[Pages/Workspace/Time Control]] →
+← [[Pages/Workspace/View Buttons|View Buttons]] | [[Pages/Workspace/Time Control|Time Control]] →
 
-Part of [[Sections/Workspace]] · [[000 Map of Content]]
+Part of [[Sections/Workspace|Workspace]] · [[000 Map of Content]]

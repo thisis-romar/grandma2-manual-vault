@@ -38,6 +38,6 @@ Follow the safety instructions to avoid the risks caused by electric current.
 *   Do not expose the device to rain or moisture.
 *   Do not submerge the device in water.
 
-← [[Pages/Safety Information/Intended Use]] | [[Pages/Safety Information/General Safety Instructions]] →
+← [[Pages/Safety Information/Intended Use|Intended Use]] | [[Pages/Safety Information/General Safety Instructions|General Safety Instructions]] →
 
-Part of [[Sections/Safety Information]] · [[000 Map of Content]]
+Part of [[Sections/Safety Information|Safety Information]] · [[000 Map of Content]]

@@ -32,6 +32,6 @@ The user defined area is available on every screen. To manage windows in the use
 
 _Empty user defined area_
 
-← [[Pages/Workspace/Screen Layout]] | [[Pages/Workspace/Command Line]] →
+← [[Pages/Workspace/Screen Layout|Screen Layout]] | [[Pages/Workspace/Command Line|Command Line]] →
 
-Part of [[Sections/Workspace]] · [[000 Map of Content]]
+Part of [[Sections/Workspace|Workspace]] · [[000 Map of Content]]

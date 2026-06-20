@@ -60,10 +60,10 @@ For more information read the corresponding topics. 
 
 ## Pages in This Section
 
-- [[Pages/Control MA xPort Nodes/Add the MA xPort Nodes to the Network Configuration]]
-- [[Pages/Control MA xPort Nodes/Configure the MA xPort Nodes in the Console]]
-- [[Pages/Control MA xPort Nodes/Configure the MA xPort Nodes in a Browser]]
-- [[Pages/Control MA xPort Nodes/Configure the MA xPort Nodes as Splitters or Mergers]]
-- [[Pages/Control MA xPort Nodes/Delete the MA xPort Nodes in the Network Configuration]]
+- [[Pages/Control MA xPort Nodes/Add the MA xPort Nodes to the Network Configuration|Add the MA xPort Nodes to the Network Configuration]]
+- [[Pages/Control MA xPort Nodes/Configure the MA xPort Nodes in the Console|Configure the MA xPort Nodes in the Console]]
+- [[Pages/Control MA xPort Nodes/Configure the MA xPort Nodes in a Browser|Configure the MA xPort Nodes in a Browser]]
+- [[Pages/Control MA xPort Nodes/Configure the MA xPort Nodes as Splitters or Mergers|Configure the MA xPort Nodes as Splitters or Mergers]]
+- [[Pages/Control MA xPort Nodes/Delete the MA xPort Nodes in the Network Configuration|Delete the MA xPort Nodes in the Network Configuration]]
 
 Part of [[000 Map of Content]]

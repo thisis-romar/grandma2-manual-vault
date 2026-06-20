@@ -54,6 +54,6 @@ The pool options are adjusted to your needs and are saved in the user profile.
 **Hint:**  
 To change the color of one or more pool objects, you can also use the [[Keywords/Appearance keyword|Appearance Keyword]].
 
-← [[Pages/Pools/Manage pool objects]] | [[Pages/Pools/Call Modes]] →
+← [[Pages/Pools/Manage pool objects|Manage pool objects]] | [[Pages/Pools/Call Modes|Call Modes]] →
 
-Part of [[Sections/Pools]] · [[000 Map of Content]]
+Part of [[Sections/Pools|Pools]] · [[000 Map of Content]]

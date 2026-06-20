@@ -81,6 +81,6 @@ thus the bitmap effect from cue 1 or a new bitmap effect
 
 is visible
 
-← [[Pages/Bitmap Fixture/Example for bitmap fixture]] | [[Pages/Bitmap Fixture/Disable bitmap for fixtures]] →
+← [[Pages/Bitmap Fixture/Example for bitmap fixture|Example for bitmap fixture]] | [[Pages/Bitmap Fixture/Disable bitmap for fixtures|Disable bitmap for fixtures]] →
 
-Part of [[Sections/Bitmap Fixture]] · [[000 Map of Content]]
+Part of [[Sections/Bitmap Fixture|Bitmap Fixture]] · [[000 Map of Content]]

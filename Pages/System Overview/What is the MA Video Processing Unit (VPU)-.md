@@ -44,6 +44,6 @@ One of the big advantages of the MA VPU is the option to use the pixel mapper in
 
 The MA VPU is a feature-rich software and hardware and it got its own manual.
 
-← [[Pages/System Overview/What is the Network Processing Unit (NPU)]] | [[Pages/System Overview/What is the Network Dimmer Processor (NDP)-]] →
+← [[Pages/System Overview/What is the Network Processing Unit (NPU)|What is the Network Processing Unit (NPU)]] | [[Pages/System Overview/What is the Network Dimmer Processor (NDP)-|What is the Network Dimmer Processor (NDP)-]] →
 
-Part of [[Sections/System Overview]] · [[000 Map of Content]]
+Part of [[Sections/System Overview|System Overview]] · [[000 Map of Content]]

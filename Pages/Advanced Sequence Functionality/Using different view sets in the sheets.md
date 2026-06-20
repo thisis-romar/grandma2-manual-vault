@@ -27,7 +27,7 @@ Version 3.9
 
 Most of the Sheets have the option to add "Sets" title bar buttons.
 
-For the [[Pages/Operate Fixtures/Channel Sheet]], [[Pages/Operate Fixtures/Fixture Sheet]], [[Pages/Command Syntax and Keywords/Looking at the cue content|Sequence Content Sheet]], [[Pages/Command Syntax and Keywords/Looking at the cue content|Sequence Tracking Sheet]] they offer fast access to masks - please read the [[Pages/Worlds Filters and Masks/Use masks in the sheets and windows|Use Masks in the Sheets topic]] for more details on this.
+For the [[Pages/Operate Fixtures/Channel Sheet|Channel Sheet]], [[Pages/Operate Fixtures/Fixture Sheet|Fixture Sheet]], [[Pages/Command Syntax and Keywords/Looking at the cue content|Sequence Content Sheet]], [[Pages/Command Syntax and Keywords/Looking at the cue content|Sequence Tracking Sheet]] they offer fast access to masks - please read the [[Pages/Worlds Filters and Masks/Use masks in the sheets and windows|Use Masks in the Sheets topic]] for more details on this.
 
 The [[Pages/Command Syntax and Keywords/Looking at the Cue Sequence|Sequence Executor Sheet]] is different. It has 5 Sets that can be accessed as [[Pages/Operate Fixtures/Title buttons|Title Buttons]].
 
@@ -64,6 +64,6 @@ With the mouse or a lasso marking it is possible to select several cells at the 
 **Important:**  
 Remember to save your view after editing the Set Buttons - otherwise the changes are lost next time a view is recalled.
 
-[[Pages/Advanced Sequence Functionality/Working with MIB]] →
+[[Pages/Advanced Sequence Functionality/Working with MIB|Working with MIB]] →
 
-Part of [[Sections/Advanced Sequence Functionality]] · [[000 Map of Content]]
+Part of [[Sections/Advanced Sequence Functionality|Advanced Sequence Functionality]] · [[000 Map of Content]]

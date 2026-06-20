@@ -91,7 +91,7 @@ To apply the stage marker:
 1.  Select the fixtures that are to point to the stage marker in the fixture sheet and turn them on.
 
 **Important:**  
-Note that XYZ has to be activated in the fixtures that point to the stage marker. For more information see [[Sections/XYZ]]. 
+Note that XYZ has to be activated in the fixtures that point to the stage marker. For more information see [[Sections/XYZ|XYZ]]. 
 
 2.  Tap the preset type Position and then tap Stage B.
 3.  Tap Mark and the calculator opens displaying the channel sets of markers. 
@@ -115,6 +115,6 @@ _Direct the beams to a stage marker_
  **Hint:**  
 You can link objects to stage markers. For more information see [[Pages/XYZ/Link Objects to Stage Markers in MA 3D|Link objects to stage markers in MA 3D]].
 
-← [[Pages/XYZ/XYZ and Pan-Tilt in cues and sequences]] | [[Pages/XYZ/Link Objects to Stage Markers in MA 3D]] →
+← [[Pages/XYZ/XYZ and Pan-Tilt in cues and sequences|XYZ and Pan-Tilt in cues and sequences]] | [[Pages/XYZ/Link Objects to Stage Markers in MA 3D|Link Objects to Stage Markers in MA 3D]] →
 
-Part of [[Sections/XYZ]] · [[000 Map of Content]]
+Part of [[Sections/XYZ|XYZ]] · [[000 Map of Content]]

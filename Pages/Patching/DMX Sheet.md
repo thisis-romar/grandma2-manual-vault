@@ -46,7 +46,7 @@ The top black bar displays the column number. The grid is a matrix, so the colum
 
 Fixtures can be selected using a DMX address by pressing the Select key twice and then the DMX address in the sheet - Have a look at the [[Keywords/Dmx keyword|DMX keyword]].
 
-The Assign key can be used in combination with the sheet to patch fixtures - please have a look at the [[Pages/Patching/Live patching]] topic.
+The Assign key can be used in combination with the sheet to patch fixtures - please have a look at the [[Pages/Patching/Live patching|Live patching]] topic.
 
 Each fixture have a frame around the DMX channels it uses. If the fixture is selected, then the frame is yellow. Non selected fixtures will have a gray frame.
 
@@ -70,6 +70,6 @@ The options can be opened by tapping the yellow ball in the upper left corner.
 
 The options are all described in the [[Pages/Operate Fixtures/Sheet options|Sheet Options topics]].
 
-← [[Pages/Patching/Live patching]] | [[Pages/Patching/DMX testing in the DMX Sheet]] →
+← [[Pages/Patching/Live patching|Live patching]] | [[Pages/Patching/DMX testing in the DMX Sheet|DMX testing in the DMX Sheet]] →
 
-Part of [[Sections/Patching]] · [[000 Map of Content]]
+Part of [[Sections/Patching|Patching]] · [[000 Map of Content]]

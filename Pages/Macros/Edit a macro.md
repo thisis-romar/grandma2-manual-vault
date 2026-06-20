@@ -48,6 +48,6 @@ Type the new command. finish by pressing Please/Enter and close the pop-up.
 
 You have now edited the macro. If you want learn more about creating macros, then please read the [[Pages/Macros/Manually create a macro|Manually create a macro topic]].
 
-← [[Pages/Macros/Record a macro]] | [[Pages/Macros/Command line interaction]] →
+← [[Pages/Macros/Record a macro|Record a macro]] | [[Pages/Macros/Command line interaction|Command line interaction]] →
 
-Part of [[Sections/Macros]] · [[000 Map of Content]]
+Part of [[Sections/Macros|Macros]] · [[000 Map of Content]]

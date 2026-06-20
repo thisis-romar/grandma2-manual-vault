@@ -115,6 +115,6 @@ This button toggles between Color Name, Color Key and Color Name + Key.
 
 _Color presets_
 
-← [[Pages/Presets/Auto Create Presets]] | [[Pages/Presets/Embedded Presets]] →
+← [[Pages/Presets/Auto Create Presets|Auto Create Presets]] | [[Pages/Presets/Embedded Presets|Embedded Presets]] →
 
-Part of [[Sections/Presets]] · [[000 Map of Content]]
+Part of [[Sections/Presets|Presets]] · [[000 Map of Content]]

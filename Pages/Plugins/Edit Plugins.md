@@ -81,6 +81,6 @@ It is also possible to write the Lua code directly in the editor.
 
 The Lua code is applied.
 
-← [[Pages/Plugins/What is Lua]]
+← [[Pages/Plugins/What is Lua|What is Lua]]
 
-Part of [[Sections/Plugins]] · [[000 Map of Content]]
+Part of [[Sections/Plugins|Plugins]] · [[000 Map of Content]]

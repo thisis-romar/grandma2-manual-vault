@@ -41,8 +41,8 @@ This is a calendar that contains all the scheduled appointments. By default it 
 
 To start the agenda, tap Stopped in the upper right corner. To stop the agenda, tap the button again.
 
-To create an appointment, see the [[Pages/Agenda/Create an appointment in the agenda]] topic
+To create an appointment, see the [[Pages/Agenda/Create an appointment in the agenda|Create an appointment in the agenda]] topic
 
-[[Pages/Agenda/Create an appointment in the agenda]] →
+[[Pages/Agenda/Create an appointment in the agenda|Create an appointment in the agenda]] →
 
-Part of [[Sections/Agenda]] · [[000 Map of Content]]
+Part of [[Sections/Agenda|Agenda]] · [[000 Map of Content]]

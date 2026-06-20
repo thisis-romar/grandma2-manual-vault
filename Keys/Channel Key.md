@@ -29,15 +29,15 @@ _Location k__ey_ _Channel_ 
   
  
 
-*   Pressing Channel enters the [[Keywords/Channel keyword]] into the command line.
+*   Pressing Channel enters the [[Keywords/Channel keyword|Channel keyword]] into the command line.
 
 \[Channel\]> Channel
 
-*   Pressing Channel Channel enters the [[Keywords/Dmx keyword]] into the command line.
+*   Pressing Channel Channel enters the [[Keywords/Dmx keyword|Dmx keyword]] into the command line.
 
 \[Channel\]> Dmx
 
-*   Pressing Channel Channel Channel enters the [[Keywords/DmxUniverse keyword]] into the command line.
+*   Pressing Channel Channel Channel enters the [[Keywords/DmxUniverse keyword|DmxUniverse keyword]] into the command line.
 
 \[Channel\]> DmxUniverse
 

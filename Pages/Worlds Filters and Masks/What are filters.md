@@ -76,6 +76,6 @@ The primary functions of this window is described in the [[Pages/Worlds Filters 
 
 This window will always show you the current filtering, and allow you to do temporary modifications.
 
-← [[Pages/Worlds Filters and Masks/Use worlds when programming]] | [[Pages/Worlds Filters and Masks/Create filters]] →
+← [[Pages/Worlds Filters and Masks/Use worlds when programming|Use worlds when programming]] | [[Pages/Worlds Filters and Masks/Create filters|Create filters]] →
 
-Part of [[Sections/Worlds Filters and Masks]] · [[000 Map of Content]]
+Part of [[Sections/Worlds Filters and Masks|Worlds Filters and Masks]] · [[000 Map of Content]]

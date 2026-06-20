@@ -133,6 +133,6 @@ The changes you make here are executed immediately.
 
 You can change the same things by editing the fixture (Edit Fixture X).
 
-← [[Pages/Patching/DMX testing in the DMX Sheet]] | [[Pages/Patching/Universe Pool]] →
+← [[Pages/Patching/DMX testing in the DMX Sheet|DMX testing in the DMX Sheet]] | [[Pages/Patching/Universe Pool|Universe Pool]] →
 
-Part of [[Sections/Patching]] · [[000 Map of Content]]
+Part of [[Sections/Patching|Patching]] · [[000 Map of Content]]

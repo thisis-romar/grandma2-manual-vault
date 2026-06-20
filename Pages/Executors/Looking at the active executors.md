@@ -122,6 +122,6 @@ Here are the different options for the Running Playbacks window.
 
 Here you can turn On or Off title bar buttons for all the options described above - except the font size.
 
-← [[Pages/Executors/Assign a function]] | [[Pages/Executors/Common executor options]] →
+← [[Pages/Executors/Assign a function|Assign a function]] | [[Pages/Executors/Common executor options|Common executor options]] →
 
-Part of [[Sections/Executors]] · [[000 Map of Content]]
+Part of [[Sections/Executors|Executors]] · [[000 Map of Content]]

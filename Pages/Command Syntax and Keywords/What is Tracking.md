@@ -116,7 +116,7 @@ If a different sequence is sending values to the attribute then these values are
 
 ## Release First Step
 
-There is an option in the [[Pages/Advanced Executor Functionality/Executor Options]] that is called **Release Firststep**. This becomes relevant if another option called **Wrap Around** is active. 
+There is an option in the [[Pages/Advanced Executor Functionality/Executor Options|Executor Options]] that is called **Release Firststep**. This becomes relevant if another option called **Wrap Around** is active. 
 
 You can enter the Executor options by pressing the Assign key and then one of the keys associated with an executor using a sequence - this opens the **Assign Menu**. Tap the Options button on the right side of the menu.
 
@@ -142,6 +142,6 @@ _Sequence with Tracking turned Off_
 
 Fixtures 1 and 3 would only be On in cue 2. Fixture 2 would be On and in a position in cue 1. In cue 2 it would turn Off and the position would be released and go back to the default for the fixture. Fixture 2 would turn On again in cue 3 and Off in cue 4. You would not need to store the Off (closed) values, unless other sequences might also try to control the same fixtures and you want to make sure they turn Off.
 
-← [[Pages/Command Syntax and Keywords/Update cues]] | [[Pages/Command Syntax and Keywords/What is MIB]] →
+← [[Pages/Command Syntax and Keywords/Update cues|Update cues]] | [[Pages/Command Syntax and Keywords/What is MIB|What is MIB]] →
 
-Part of [[Sections/Cues and Sequences]] · [[000 Map of Content]]
+Part of [[Sections/Cues and Sequences|Cues and Sequences]] · [[000 Map of Content]]

@@ -26,7 +26,7 @@ The key At is located in the command area on the right of the key If.
 
 _Location k__ey_ _At_ 
 
-*   Pressing At enters [[Keywords/At keyword]] into the command line.
+*   Pressing At enters [[Keywords/At keyword|At keyword]] into the command line.
 
 \[Channel\]> At
 

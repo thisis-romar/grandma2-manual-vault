@@ -142,6 +142,6 @@ The configuration of the DMX nodes and switches can be exported and imported. Th
 
 Please read the [[Sections/Export and Import|Export and Import topics]] for more information about this.
 
-[[Pages/Networking/Network DMX protocols]] →
+[[Pages/Networking/Network DMX protocols|Network DMX protocols]] →
 
-Part of [[Sections/Networking]] · [[000 Map of Content]]
+Part of [[Sections/Networking|Networking]] · [[000 Map of Content]]

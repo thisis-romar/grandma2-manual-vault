@@ -27,7 +27,7 @@ To execute the keyword FixtureType press ![ma](../../img/ma_1.png) and Fixtur
 FixtureType is an object keyword for the fixture types in the show file. Fixture types also contain global data in presets. 
 
 **Important:**  
-Most edits and command line actions with the keyword FixtureType has to be done while in the Edit Setup mode. For more information, see [[Keywords/ChangeDest keyword]].
+Most edits and command line actions with the keyword FixtureType has to be done while in the Edit Setup mode. For more information, see [[Keywords/ChangeDest keyword|ChangeDest keyword]].
 
 **Hint:**  
 Fixture types are displayed at the bottom of channel and fixture sheets.

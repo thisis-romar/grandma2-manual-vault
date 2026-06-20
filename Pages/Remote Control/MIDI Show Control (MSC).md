@@ -677,6 +677,6 @@ The message is:
 
 **47 4D 41 00 4D 53 43 00 13 00 00 00 F0 7F 7F 02 7F 07 01 F7**
 
-← [[Pages/Remote Control/Remote Inputs]] | [[Pages/Remote Control/Web Remote]] →
+← [[Pages/Remote Control/Remote Inputs|Remote Inputs]] | [[Pages/Remote Control/Web Remote|Web Remote]] →
 
-Part of [[Sections/Remote Control]] · [[000 Map of Content]]
+Part of [[Sections/Remote Control|Remote Control]] · [[000 Map of Content]]

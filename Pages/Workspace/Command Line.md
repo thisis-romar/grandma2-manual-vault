@@ -36,7 +36,7 @@ _Command Line_
 
 ## Set the Cursor in the Command Line
 
-To enter keywords into the command line set the cursor in the command line first. For more information see [[Sections/Command Syntax and Keywords]].
+To enter keywords into the command line set the cursor in the command line first. For more information see [[Sections/Command Syntax and Keywords|Command Syntax and Keywords]].
 
 To set the cursor into the command line:
 
@@ -136,6 +136,6 @@ To change the default keyword:
 1.  Press a key with a default keyword on it, for example Fixture.
 2.  Press Please.
 
-← [[Pages/Workspace/User-Defined Area]] | [[Pages/Workspace/X-Key Labels]] →
+← [[Pages/Workspace/User-Defined Area|User-Defined Area]] | [[Pages/Workspace/X-Key Labels|X-Key Labels]] →
 
-Part of [[Sections/Workspace]] · [[000 Map of Content]]
+Part of [[Sections/Workspace|Workspace]] · [[000 Map of Content]]

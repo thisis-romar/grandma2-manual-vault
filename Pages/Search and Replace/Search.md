@@ -106,6 +106,6 @@ _Search pop-up - fixture 1 through 10_
 
 Here we can see where the ten objects (the fixtures) are used.
 
-[[Pages/Search and Replace/Replace]] →
+[[Pages/Search and Replace/Replace|Replace]] →
 
-Part of [[Sections/Search and Replace]] · [[000 Map of Content]]
+Part of [[Sections/Search and Replace|Search and Replace]] · [[000 Map of Content]]

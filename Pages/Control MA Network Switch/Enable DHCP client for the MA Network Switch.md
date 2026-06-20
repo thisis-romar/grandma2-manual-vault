@@ -55,10 +55,10 @@ If DHCP is on, the MA Network Switch is reachable only with the DHCP IP address.
 
 **Hint:**  
 You can also enable the DHCP client by using the command line.  
-\- Change the destination of the command line to NetConfig/Network Switch 8. For more information see [[Keywords/ChangeDest keyword]].  
+\- Change the destination of the command line to NetConfig/Network Switch 8. For more information see [[Keywords/ChangeDest keyword|ChangeDest keyword]].  
 \- Type in the command line Assign 1 / DHCPclientenabled = "Yes".  
 The DHCP client of the NetworkSwitch 1 is enabled.
 
-← [[Pages/Control MA Network Switch/Change IP address of the MA Network Switch]] | [[Pages/Control MA Network Switch/Change hostname of the MA Network Switch]] →
+← [[Pages/Control MA Network Switch/Change IP address of the MA Network Switch|Change IP address of the MA Network Switch]] | [[Pages/Control MA Network Switch/Change hostname of the MA Network Switch|Change hostname of the MA Network Switch]] →
 
-Part of [[Sections/Control MA Network Switch]] · [[000 Map of Content]]
+Part of [[Sections/Control MA Network Switch|Control MA Network Switch]] · [[000 Map of Content]]

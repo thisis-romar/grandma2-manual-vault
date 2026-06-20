@@ -106,6 +106,6 @@ Remember that the world you select only affects your programmer and what is disp
 
 But you can assign a world to an executor or a sequence. Read more about that in the [[Pages/Worlds Filters and Masks/Apply worlds or filters to executors and sequences|Apply worlds or filters to executors and sequences topic]].
 
-← [[Pages/Worlds Filters and Masks/Auto create worlds]] | [[Pages/Worlds Filters and Masks/What are filters]] →
+← [[Pages/Worlds Filters and Masks/Auto create worlds|Auto create worlds]] | [[Pages/Worlds Filters and Masks/What are filters|What are filters]] →
 
-Part of [[Sections/Worlds Filters and Masks]] · [[000 Map of Content]]
+Part of [[Sections/Worlds Filters and Masks|Worlds Filters and Masks]] · [[000 Map of Content]]

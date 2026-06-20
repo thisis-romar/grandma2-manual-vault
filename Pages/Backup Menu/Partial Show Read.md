@@ -32,8 +32,8 @@ The setup of the two shows are compared and you can choose what setup is wanted 
 
 After the comparison - called initialization - then access is granted to a new menu where different wanted elements can be chosen for import.
 
-The actual process is more complex, but this is the idea. Please read the [[Sections/Partial Show Read]] chapters to learn more about it.
+The actual process is more complex, but this is the idea. Please read the [[Sections/Partial Show Read|Partial Show Read]] chapters to learn more about it.
 
-← [[Pages/Backup Menu/Setting up a file server]] | [[Pages/Backup Menu/ASCII Show Read]] →
+← [[Pages/Backup Menu/Setting up a file server|Setting up a file server]] | [[Pages/Backup Menu/ASCII Show Read|ASCII Show Read]] →
 
-Part of [[Sections/Backup Menu]] · [[000 Map of Content]]
+Part of [[Sections/Backup Menu|Backup Menu]] · [[000 Map of Content]]

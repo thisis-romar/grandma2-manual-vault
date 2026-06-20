@@ -78,6 +78,6 @@ _grandMA2 full-size rear panel in detail_
 16.  Ethernet 1 (= eth0)
 17.  PowerCon Connector
 
-[[Pages/Device Overview/grandMA2 replay unit (RPU)]] →
+[[Pages/Device Overview/grandMA2 replay unit (RPU)|grandMA2 replay unit (RPU)]] →
 
-Part of [[Sections/Device Overview]] · [[000 Map of Content]]
+Part of [[Sections/Device Overview|Device Overview]] · [[000 Map of Content]]

@@ -47,6 +47,6 @@ _RDM sheet_
     \- **Sensors**
 *   For a better overview, you can sort every column up-and-down. To sort a column tap and hold in a header cell of the RDM sheet or right mouse click in the header cell.
 
-← [[Pages/RDM/Configure RDM notifications]] | [[Pages/RDM/Unmatch RDM devices]] →
+← [[Pages/RDM/Configure RDM notifications|Configure RDM notifications]] | [[Pages/RDM/Unmatch RDM devices|Unmatch RDM devices]] →
 
-Part of [[Sections/RDM]] · [[000 Map of Content]]
+Part of [[Sections/RDM|RDM]] · [[000 Map of Content]]

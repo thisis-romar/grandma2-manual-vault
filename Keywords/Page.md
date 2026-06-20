@@ -27,7 +27,7 @@ You can also type **Page** or the shortcut **Pag** in the command line.
 
 ## Description
 
-The Page keyword is an object keyword to access pages. The default function is Call. For more information, see [[Keywords/Call keyword]].
+The Page keyword is an object keyword to access pages. The default function is Call. For more information, see [[Keywords/Call keyword|Call keyword]].
 
 If you apply a function not supported by the page object, the function will be passed on to the executor child objects of the page.
 

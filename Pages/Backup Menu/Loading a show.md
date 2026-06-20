@@ -110,6 +110,6 @@ Executing onPC.exe with parameter -s allows to specify a show file for loading.
 
 Show files can be loaded using the command line. The command is called LoadShow. Read more about it [[Keywords/LoadShow|here]].
 
-← [[Pages/Backup Menu/Create a new show]] | [[Pages/Backup Menu/Saving a show]] →
+← [[Pages/Backup Menu/Create a new show|Create a new show]] | [[Pages/Backup Menu/Saving a show|Saving a show]] →
 
-Part of [[Sections/Backup Menu]] · [[000 Map of Content]]
+Part of [[Sections/Backup Menu|Backup Menu]] · [[000 Map of Content]]

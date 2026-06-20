@@ -39,8 +39,8 @@ A shaper dialog is used to manipulate the beam of a fixture with the help of sha
 To open the shaper:
 
 1.  Select fixtures with the attribute of blades in the fixture sheet. 
-2.  Tap Shapers in the [[Pages/Workspace/Preset Control Bar]]. 
-3.  Next, tap Special Dialog in the [[Pages/Workspace/Encoder Toolbar]] right below Shapers in the preset control bar. 
+2.  Tap Shapers in the [[Pages/Workspace/Preset Control Bar|Preset Control Bar]]. 
+3.  Next, tap Special Dialog in the [[Pages/Workspace/Encoder Toolbar|Encoder Toolbar]] right below Shapers in the preset control bar. 
 4.  The dialog **Shaper** opens. 
 
 ![](../../img/img_shaper-dialog_corner-mode_v3-3.png)
@@ -176,6 +176,6 @@ Is used to zoom in and out of the fader scale. 
 
 To close the shaper, tap ![](../../img/icon_close_small_v3-2.png) in the upper right corner of the dialog.
 
-← [[Pages/Operate Fixtures/Using The Color Picker]] | [[Pages/Operate Fixtures/Using The Smart View]] →
+← [[Pages/Operate Fixtures/Using The Color Picker|Using The Color Picker]] | [[Pages/Operate Fixtures/Using The Smart View|Using The Smart View]] →
 
-Part of [[Sections/Operate Fixtures]] · [[000 Map of Content]]
+Part of [[Sections/Operate Fixtures|Operate Fixtures]] · [[000 Map of Content]]

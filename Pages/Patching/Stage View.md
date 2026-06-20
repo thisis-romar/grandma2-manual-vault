@@ -121,6 +121,6 @@ In the options (see above) or by pressing the Edit key and then the Follow butto
 
 The Follow function overwrite all other Mouse Modes.
 
-← [[Pages/Patching/Universe Pool]] | [[Pages/Patching/Virtual 3D Cameras]] →
+← [[Pages/Patching/Universe Pool|Universe Pool]] | [[Pages/Patching/Virtual 3D Cameras|Virtual 3D Cameras]] →
 
-Part of [[Sections/Patching]] · [[000 Map of Content]]
+Part of [[Sections/Patching|Patching]] · [[000 Map of Content]]

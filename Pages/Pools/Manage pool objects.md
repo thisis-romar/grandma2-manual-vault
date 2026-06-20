@@ -137,7 +137,7 @@ _Group pool - copied pool object_
 Group 16 is copied at group 17. The copied group is indicated by a **#2**.
 
 **Hint:**  
-You can also use the [[Keywords/Copy keyword]] to copy pool objects.
+You can also use the [[Keywords/Copy keyword|Copy keyword]] to copy pool objects.
 
 * * *
 
@@ -251,6 +251,6 @@ Group 17 is deleted.
 **Hint:**  
 You can also use the [[Keywords/Delete keyword|Delete command]] to delete pool objects.
 
-[[Pages/Pools/Adjust pool options]] →
+[[Pages/Pools/Adjust pool options|Adjust pool options]] →
 
-Part of [[Sections/Pools]] · [[000 Map of Content]]
+Part of [[Sections/Pools|Pools]] · [[000 Map of Content]]

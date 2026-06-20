@@ -115,7 +115,7 @@ The default options of fixtures and channels are similar to those of the pool el
 1.  To enable or disable the display of the fixture or channel IDs in the layout view, tap the buttons below **Show Fixture ID** or **Show Channel ID**.
 2.  Next, enable or disable the notification of RDM in the layout view:  
     \-Tap the button below **RDM Notifications**.  
-    If you enable the notification of RDM, RDM alert or warning will be shown in the layout view. For more information on RDM notifications see [[Pages/RDM/Configure RDM notifications]].
+    If you enable the notification of RDM, RDM alert or warning will be shown in the layout view. For more information on RDM notifications see [[Pages/RDM/Configure RDM notifications|Configure RDM notifications]].
 
 * * *
 
@@ -224,6 +224,6 @@ After adjusting the options to your liking tap ![](../../img/icon_close_small_v3
 
 To close the layout view altogether, tap Delete Window.
 
-← [[Pages/Layouts/Edit Layout]]
+← [[Pages/Layouts/Edit Layout|Edit Layout]]
 
-Part of [[Sections/Layouts]] · [[000 Map of Content]]
+Part of [[Sections/Layouts|Layouts]] · [[000 Map of Content]]

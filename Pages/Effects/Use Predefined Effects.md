@@ -379,7 +379,7 @@ _Pop-up – select effect attribute_
     Relative effects are then automatically readout as Center/Size and absolute effects as high and low values.
 9.  To remove effects that deviate from the majority of the effects in an effect line, tap Remove Individuals.
 
-For more information on the keyword see [[Keywords/RemoveIndividuals]].
+For more information on the keyword see [[Keywords/RemoveIndividuals|RemoveIndividuals]].
 
 ### Example:
 
@@ -457,6 +457,6 @@ Sets the range of a value. 
 
 To close the effect line editor, tap ![](../../img/icon_close_small_v3-2.png) in the upper right corner.
 
-[[Pages/Effects/Use Template and Selective Effects]] →
+[[Pages/Effects/Use Template and Selective Effects|Use Template and Selective Effects]] →
 
-Part of [[Sections/Effects]] · [[000 Map of Content]]
+Part of [[Sections/Effects|Effects]] · [[000 Map of Content]]

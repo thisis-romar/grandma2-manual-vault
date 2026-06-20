@@ -51,6 +51,6 @@ To change the button page, press Bt Pg + or Bt Pg -.
 
 _X-Key Labels for Mini Executor Bar_
 
-← [[Pages/Workspace/Command Line]] | [[Pages/Workspace/View Buttons]] →
+← [[Pages/Workspace/Command Line|Command Line]] | [[Pages/Workspace/View Buttons|View Buttons]] →
 
-Part of [[Sections/Workspace]] · [[000 Map of Content]]
+Part of [[Sections/Workspace|Workspace]] · [[000 Map of Content]]

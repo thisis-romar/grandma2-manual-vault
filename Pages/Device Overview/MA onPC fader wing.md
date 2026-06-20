@@ -46,6 +46,6 @@ Version 3.9
 5.  USB Type A Connector, 5V for desklamp
 6.  4 x DMX Out
 
-← [[Pages/Device Overview/MA onPC command wing]]
+← [[Pages/Device Overview/MA onPC command wing|MA onPC command wing]]
 
-Part of [[Sections/Device Overview]] · [[000 Map of Content]]
+Part of [[Sections/Device Overview|Device Overview]] · [[000 Map of Content]]

@@ -43,6 +43,6 @@ Delete single, several or all effects. 
 
 \[Channel\]> Delete Effect 1 Thru
 
-← [[Pages/Effects/Update Effects]]
+← [[Pages/Effects/Update Effects|Update Effects]]
 
-Part of [[Sections/Effects]] · [[000 Map of Content]]
+Part of [[Sections/Effects|Effects]] · [[000 Map of Content]]

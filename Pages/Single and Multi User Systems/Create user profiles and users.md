@@ -137,6 +137,6 @@ To create a new user with a new user profile you will need to do the following (
 11.  Change the user Rights if you need to.
 12.  Tap the Login button if you want to login immediately as this new user.
 
-← [[Pages/Single and Multi User Systems/What is the difference between a single-user and a multi-user system]] | [[Pages/Single and Multi User Systems/User specific settings]] →
+← [[Pages/Single and Multi User Systems/What is the difference between a single-user and a multi-user system|What is the difference between a single-user and a multi-user system]] | [[Pages/Single and Multi User Systems/User specific settings|User specific settings]] →
 
-Part of [[Sections/Single and Multi User Systems]] · [[000 Map of Content]]
+Part of [[Sections/Single and Multi User Systems|Single and Multi User Systems]] · [[000 Map of Content]]

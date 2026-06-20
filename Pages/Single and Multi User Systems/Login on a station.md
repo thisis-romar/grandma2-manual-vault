@@ -48,7 +48,7 @@ One other option is when in the User & Profile Setup (follow link above) then yo
 
 ## Log in using the command line
 
-Login can also be done using the [[Keywords/Login]] command. Follow the link to read the details about it.
+Login can also be done using the [[Keywords/Login|Login]] command. Follow the link to read the details about it.
 
 The general use is that "Login" is typed followed by the user name and the password (if any) and then executes the command with Please/Enter.
 
@@ -58,6 +58,6 @@ If you wanted to log in as administrator then you would type:
 
 \[Channel\]> login administrator admin
 
-← [[Pages/Single and Multi User Systems/User specific settings]]
+← [[Pages/Single and Multi User Systems/User specific settings|User specific settings]]
 
-Part of [[Sections/Single and Multi User Systems]] · [[000 Map of Content]]
+Part of [[Sections/Single and Multi User Systems|Single and Multi User Systems]] · [[000 Map of Content]]

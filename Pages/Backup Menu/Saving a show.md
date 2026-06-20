@@ -44,6 +44,6 @@ There is also a fast way to save the show. It is called "Quick Save".
 
 When the backup menu is **not** open then press the Backup key twice (like a double click on a mouse) will perform the Quick Save.
 
-← [[Pages/Backup Menu/Loading a show]] | [[Pages/Backup Menu/Saving a show with a new name]] →
+← [[Pages/Backup Menu/Loading a show|Loading a show]] | [[Pages/Backup Menu/Saving a show with a new name|Saving a show with a new name]] →
 
-Part of [[Sections/Backup Menu]] · [[000 Map of Content]]
+Part of [[Sections/Backup Menu|Backup Menu]] · [[000 Map of Content]]

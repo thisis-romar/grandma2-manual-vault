@@ -35,8 +35,8 @@ As an alternative you could make cue parts and add each command in each part - r
 
 The commands are executed by the logged in user on the master station in a session. So be aware that it might not be the user who triggers the cue that runs the commands.
 
-A useful keyword to know, if you need to trigger a command on a specific station, is the [[Keywords/RemoteCommand]].
+A useful keyword to know, if you need to trigger a command on a specific station, is the [[Keywords/RemoteCommand|RemoteCommand]].
 
-← [[Pages/Command Syntax and Keywords/Sequence mini executor]]
+← [[Pages/Command Syntax and Keywords/Sequence mini executor|Sequence mini executor]]
 
-Part of [[Sections/Cues and Sequences]] · [[000 Map of Content]]
+Part of [[Sections/Cues and Sequences|Cues and Sequences]] · [[000 Map of Content]]

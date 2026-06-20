@@ -109,7 +109,7 @@ The scroll bar is only visible if it is needed.
 
 **Link Encoders** is an option in DMX, Content, Executor, and Tracking Sheets.
 
-If this option is on then activating the sheet (by tapping inside the sheet) will change the [[Pages/Workspace/Encoder Toolbar]]. The result is different depending on the type of sheet.
+If this option is on then activating the sheet (by tapping inside the sheet) will change the [[Pages/Workspace/Encoder Toolbar|Encoder Toolbar]]. The result is different depending on the type of sheet.
 
 ### DMX Sheet
 
@@ -141,6 +141,6 @@ If it is Absolute readout, then it only displays one number. That means that the
 
 If it is Separated readout, the sheet will display two numbers separated by a colon. The first number is the universe and the second is the DMX address in that universe.
 
-[[Pages/Operate Fixtures/Layer mask]] →
+[[Pages/Operate Fixtures/Layer mask|Layer mask]] →
 
-Part of [[Sections/Operate Fixtures]] · [[000 Map of Content]]
+Part of [[Sections/Operate Fixtures|Operate Fixtures]] · [[000 Map of Content]]

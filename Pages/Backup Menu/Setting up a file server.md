@@ -111,6 +111,6 @@ The special input field for NFS is **NFS Export Path**. It is the path or direct
 
 When you are happy with your setting, then tap Please to mount the server. If successful then a tab will appear with the label specified.
 
-← [[Pages/Backup Menu/Using a USB stick]] | [[Pages/Backup Menu/Partial Show Read]] →
+← [[Pages/Backup Menu/Using a USB stick|Using a USB stick]] | [[Pages/Backup Menu/Partial Show Read|Partial Show Read]] →
 
-Part of [[Sections/Backup Menu]] · [[000 Map of Content]]
+Part of [[Sections/Backup Menu|Backup Menu]] · [[000 Map of Content]]

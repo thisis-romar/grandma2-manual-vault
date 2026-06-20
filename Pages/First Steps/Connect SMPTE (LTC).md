@@ -49,6 +49,6 @@ The SMPTE source is connected to the LTC IN connector.
 
 _grandMA2 full-size LTC IN connector_
 
-← [[Pages/First Steps/Connect Sound]] | [[Pages/First Steps/Connect Ethernet]] →
+← [[Pages/First Steps/Connect Sound|Connect Sound]] | [[Pages/First Steps/Connect Ethernet|Connect Ethernet]] →
 
-Part of [[Sections/First Steps]] · [[000 Map of Content]]
+Part of [[Sections/First Steps|First Steps]] · [[000 Map of Content]]

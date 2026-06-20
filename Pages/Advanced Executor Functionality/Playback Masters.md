@@ -37,10 +37,10 @@ _Executor with a Playback Master_
 
 The left of the two fader representations are the fader for the local executor. The right representation is the level of the Playback Master.
 
-Read more about assigning playback masters to sequence executors in the [[Pages/Advanced Executor Functionality/Executor Options]] topic.
+Read more about assigning playback masters to sequence executors in the [[Pages/Advanced Executor Functionality/Executor Options|Executor Options]] topic.
 
 All the Playback Masters can be seen and adjusted in the [[Pages/Advanced Executor Functionality/Masters Window|Masters window]].
 
-← [[Pages/Advanced Executor Functionality/Rate Masters]]
+← [[Pages/Advanced Executor Functionality/Rate Masters|Rate Masters]]
 
-Part of [[Sections/Advanced Executor Functionality]] · [[000 Map of Content]]
+Part of [[Sections/Advanced Executor Functionality|Advanced Executor Functionality]] · [[000 Map of Content]]

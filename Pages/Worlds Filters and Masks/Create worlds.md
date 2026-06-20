@@ -56,6 +56,6 @@ A world is updated simply by restoring the world. If this is done while you are 
 
 As usual it is really a good idea to name the worlds as soon as they are created.
 
-← [[Pages/Worlds Filters and Masks/What are Worlds]] | [[Pages/Worlds Filters and Masks/Auto create worlds]] →
+← [[Pages/Worlds Filters and Masks/What are Worlds|What are Worlds]] | [[Pages/Worlds Filters and Masks/Auto create worlds|Auto create worlds]] →
 
-Part of [[Sections/Worlds Filters and Masks]] · [[000 Map of Content]]
+Part of [[Sections/Worlds Filters and Masks|Worlds Filters and Masks]] · [[000 Map of Content]]

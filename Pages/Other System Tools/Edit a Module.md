@@ -67,6 +67,6 @@ You can edit columns in the **pop-up Module Properties**. For more information 
 
 The module is now edited.
 
-← [[Pages/Other System Tools/Edit Properties of a Rack]]
+← [[Pages/Other System Tools/Edit Properties of a Rack|Edit Properties of a Rack]]
 
-Part of [[Sections/Other System Tools]] · [[000 Map of Content]]
+Part of [[Sections/Other System Tools|Other System Tools]] · [[000 Map of Content]]

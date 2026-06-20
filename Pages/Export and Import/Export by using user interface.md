@@ -81,6 +81,6 @@ _Export gobo bitmap pop-up_
 
 The selected bitmaps are exported to the selected USB stick.
 
-← [[Pages/Export and Import/Export by using command line]] | [[Pages/Export and Import/Import by using command line]] →
+← [[Pages/Export and Import/Export by using command line|Export by using command line]] | [[Pages/Export and Import/Import by using command line|Import by using command line]] →
 
-Part of [[Sections/Export and Import]] · [[000 Map of Content]]
+Part of [[Sections/Export and Import|Export and Import]] · [[000 Map of Content]]

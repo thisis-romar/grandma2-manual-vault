@@ -144,6 +144,6 @@ You can delete previous added RDM parameters.
 
 The parameter is deleted.
 
-← [[Pages/RDM/Auto Patch RDM Devices]] | [[Pages/RDM/Work with RDM sensors]] →
+← [[Pages/RDM/Auto Patch RDM Devices|Auto Patch RDM Devices]] | [[Pages/RDM/Work with RDM sensors|Work with RDM sensors]] →
 
-Part of [[Sections/RDM]] · [[000 Map of Content]]
+Part of [[Sections/RDM|RDM]] · [[000 Map of Content]]

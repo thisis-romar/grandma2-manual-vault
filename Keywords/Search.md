@@ -49,6 +49,6 @@ The Search keyword is a function keyword.
 
 _Search results_
 
-For more information on the search function and further examples see [[Pages/Search and Replace/Search]].
+For more information on the search function and further examples see [[Pages/Search and Replace/Search|Search]].
 
 Part of [[000 Keyword Index]] · [[000 Map of Content]]

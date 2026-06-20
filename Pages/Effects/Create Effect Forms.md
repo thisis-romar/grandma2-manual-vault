@@ -40,7 +40,7 @@ To create a form, open the form pool first:
 
 _Form pool_
 
-Like the image pool, the form pool displays red padlocks. For more information on padlocks and their meanings see [[Sections/Image Pool]]. 
+Like the image pool, the form pool displays red padlocks. For more information on padlocks and their meanings see [[Sections/Image Pool|Image Pool]]. 
 
 **Important:**  
 Forms are locked so that predefined effects can fall back to the default values.
@@ -164,6 +164,6 @@ The modes are applied between two points. 
 If all setting were adjusted accordingly, close the graph editor:  
 \-Tap ![](../../img/icon_close_small_v3-2.png) in the upper right corner of the window and the editor closes.
 
-← [[Pages/Effects/Create an Effect that Uses Presets]] | [[Pages/Effects/Pool Options]] →
+← [[Pages/Effects/Create an Effect that Uses Presets|Create an Effect that Uses Presets]] | [[Pages/Effects/Pool Options|Pool Options]] →
 
-Part of [[Sections/Effects]] · [[000 Map of Content]]
+Part of [[Sections/Effects|Effects]] · [[000 Map of Content]]

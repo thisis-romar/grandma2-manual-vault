@@ -69,6 +69,6 @@ Changing the rack number proves handy if you have configured specific settings i
 
 The MA NDPs are configured and the settings are applied.
 
-← [[Pages/Control MA NDPs/Add the MA NDPs to the Network Configuration]] | [[Pages/Control MA NDPs/Delete the MA NDPs in the Network Configuration]] →
+← [[Pages/Control MA NDPs/Add the MA NDPs to the Network Configuration|Add the MA NDPs to the Network Configuration]] | [[Pages/Control MA NDPs/Delete the MA NDPs in the Network Configuration|Delete the MA NDPs in the Network Configuration]] →
 
-Part of [[Sections/Control MA NDPs]] · [[000 Map of Content]]
+Part of [[Sections/Control MA NDPs|Control MA NDPs]] · [[000 Map of Content]]

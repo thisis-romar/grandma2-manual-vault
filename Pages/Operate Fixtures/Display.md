@@ -96,7 +96,7 @@ Readout can also be a [[Pages/Operate Fixtures/Title buttons|Title Button]].
 
 **Cue Color Columns** is an option in Executor and Tracking sheets.
 
-The [[Keywords/Appearance keyword]] can be used to give a color to individual cues. This option changes how this color is displayed in the sheets.
+The [[Keywords/Appearance keyword|Appearance keyword]] can be used to give a color to individual cues. This option changes how this color is displayed in the sheets.
 
 Tapping the button opens the small Select Cue Color Columns pop-up. It has two different sizes regarding the options. There are more options in the Executor sheet than in the Tracking sheet. This is the pop-up from the Executor sheet:
 
@@ -410,6 +410,6 @@ The options are:
 
 Read more about RDM and how to configure the warning and alert notifications in the [[Sections/RDM|RDM section]].
 
-← [[Pages/Operate Fixtures/Layer mask]] | [[Pages/Operate Fixtures/Title buttons]] →
+← [[Pages/Operate Fixtures/Layer mask|Layer mask]] | [[Pages/Operate Fixtures/Title buttons|Title buttons]] →
 
-Part of [[Sections/Operate Fixtures]] · [[000 Map of Content]]
+Part of [[Sections/Operate Fixtures|Operate Fixtures]] · [[000 Map of Content]]

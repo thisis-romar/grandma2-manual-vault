@@ -57,6 +57,6 @@ If you do not want to update the preset you have edited or you would like to clo
 
  See [[Pages/Presets/Update Presets|Update presets]].
 
-← [[Pages/Presets/Embedded Presets]] | [[Pages/Presets/Update Presets]] →
+← [[Pages/Presets/Embedded Presets|Embedded Presets]] | [[Pages/Presets/Update Presets|Update Presets]] →
 
-Part of [[Sections/Presets]] · [[000 Map of Content]]
+Part of [[Sections/Presets|Presets]] · [[000 Map of Content]]

@@ -162,6 +162,6 @@ If the Snap Percent is set to 100% then the Snap will be performed when all fade
 
 The Snap Percent can be set to anything between 0% and 100%, allowing you to choose when the Snap is performed.
 
-← [[Pages/Command Syntax and Keywords/Store Options and Defaults]] | [[Pages/Command Syntax and Keywords/Renumber cues]] →
+← [[Pages/Command Syntax and Keywords/Store Options and Defaults|Store Options and Defaults]] | [[Pages/Command Syntax and Keywords/Renumber cues|Renumber cues]] →
 
-Part of [[Sections/Cues and Sequences]] · [[000 Map of Content]]
+Part of [[Sections/Cues and Sequences|Cues and Sequences]] · [[000 Map of Content]]

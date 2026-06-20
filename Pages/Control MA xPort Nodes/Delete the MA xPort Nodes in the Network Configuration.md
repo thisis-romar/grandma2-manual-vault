@@ -41,6 +41,6 @@ _MA Network Configuration – DMX Node_
 
 The MA xPort Nodes have been deleted in the network configuration.
 
-← [[Pages/Control MA xPort Nodes/Configure the MA xPort Nodes as Splitters or Mergers]]
+← [[Pages/Control MA xPort Nodes/Configure the MA xPort Nodes as Splitters or Mergers|Configure the MA xPort Nodes as Splitters or Mergers]]
 
-Part of [[Sections/Control MA xPort Nodes]] · [[000 Map of Content]]
+Part of [[Sections/Control MA xPort Nodes|Control MA xPort Nodes]] · [[000 Map of Content]]

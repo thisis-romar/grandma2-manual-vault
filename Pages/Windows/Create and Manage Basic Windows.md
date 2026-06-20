@@ -133,6 +133,6 @@ To load window options from default:
 
 Window options are loaded from default.
 
-[[Pages/Windows/Clear the Screen or Delete Windows]] →
+[[Pages/Windows/Clear the Screen or Delete Windows|Clear the Screen or Delete Windows]] →
 
-Part of [[Sections/Windows]] · [[000 Map of Content]]
+Part of [[Sections/Windows|Windows]] · [[000 Map of Content]]

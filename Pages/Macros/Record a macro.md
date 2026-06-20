@@ -63,6 +63,6 @@ If you have a macro pool visible then you can also tap the pool object to start 
 
 It is the same workflow for starting and stopping the recording.
 
-← [[Pages/Macros/Manually create a macro]] | [[Pages/Macros/Edit a macro]] →
+← [[Pages/Macros/Manually create a macro|Manually create a macro]] | [[Pages/Macros/Edit a macro|Edit a macro]] →
 
-Part of [[Sections/Macros]] · [[000 Map of Content]]
+Part of [[Sections/Macros|Macros]] · [[000 Map of Content]]

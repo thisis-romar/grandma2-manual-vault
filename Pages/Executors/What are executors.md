@@ -31,7 +31,7 @@ The different elements that can be assigned to an executor are:
 
 *   [[Sections/Cues and Sequences|Sequences]]
 *   [[Pages/Groups/Group Master on Executors|Group Masters]] (only Fader Executors)
-*   [[Pages/Advanced Executor Functionality/Special Masters]] (only Fader Executors)
+*   [[Pages/Advanced Executor Functionality/Special Masters|Special Masters]] (only Fader Executors)
 *   [[Pages/Effects/Assign effect to executor|Effects]]
 *   [[Pages/Macros/Assign a macro to a key|Macros]]
 *   [[Sections/Timer|Timers]]
@@ -100,6 +100,6 @@ The **Master** is the same as a Master fader - this control the intensity level.
 
 The **OFF Time** is used when the executor is turned off. This can be used to fade out the intensity and keep other attributes (color, position, and so on) until the fade out is complete. The Off time can also be set using a **MFade** fader - read the [[Pages/Executors/Assign a function|Assign a Function topic]] to learn more about assigning a fader function or read more about the MFade in the [[Pages/Advanced Executor Functionality/Default Masters|Default Masters topic]].
 
-[[Pages/Executors/Executors on the screens]] →
+[[Pages/Executors/Executors on the screens|Executors on the screens]] →
 
-Part of [[Sections/Executors]] · [[000 Map of Content]]
+Part of [[Sections/Executors|Executors]] · [[000 Map of Content]]

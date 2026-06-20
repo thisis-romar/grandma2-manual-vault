@@ -56,6 +56,6 @@ So to sum up. We call each device a fixture and each fixture can have a Channel 
 *   [[Pages/Patching/What are Attributes|Attributes]]
 *   [[Pages/Patching/What are DMX breaks|DMX break]]
 
-[[Pages/Patching/What is 3D and Stage setup]] →
+[[Pages/Patching/What is 3D and Stage setup|What is 3D and Stage setup]] →
 
-Part of [[Sections/Patching]] · [[000 Map of Content]]
+Part of [[Sections/Patching|Patching]] · [[000 Map of Content]]

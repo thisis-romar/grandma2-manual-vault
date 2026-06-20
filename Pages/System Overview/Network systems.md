@@ -63,6 +63,6 @@ Learn more about the considerations in big network systems [[Pages/System Overvi
 *   [[Pages/System Overview/What is MA 3D-|What is MA 3D]]
 *   [[Pages/System Overview/What are the MA nodes-|What are the MA nodes]]
 
-← [[Pages/System Overview/Standalone systems]] | [[Pages/System Overview/Parameters vs. DMX channels]] →
+← [[Pages/System Overview/Standalone systems|Standalone systems]] | [[Pages/System Overview/Parameters vs. DMX channels|Parameters vs. DMX channels]] →
 
-Part of [[Sections/System Overview]] · [[000 Map of Content]]
+Part of [[Sections/System Overview|System Overview]] · [[000 Map of Content]]

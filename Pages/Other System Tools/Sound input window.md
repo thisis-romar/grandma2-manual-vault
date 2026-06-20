@@ -70,6 +70,6 @@ The three buttons to the right are responding to the BPM.
 *   Learn will allow you to tap the beat manually, and adjust the BPM to this level.
 *   HS will half the value of the BPM counter.
 
-← [[Pages/Other System Tools/Clock]] | [[Pages/Other System Tools/Network Dimmer]] →
+← [[Pages/Other System Tools/Clock|Clock]] | [[Pages/Other System Tools/Network Dimmer|Network Dimmer]] →
 
-Part of [[Sections/Other System Tools]] · [[000 Map of Content]]
+Part of [[Sections/Other System Tools|Other System Tools]] · [[000 Map of Content]]

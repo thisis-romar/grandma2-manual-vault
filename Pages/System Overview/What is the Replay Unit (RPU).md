@@ -33,6 +33,6 @@ It functions exactly like a console in the system.
 
 For more information see grandMA2 replay unit (RPU) [[Pages/Device Overview/grandMA2 replay unit (RPU)|general description]] and [[Sections/Technical Data|technical data]].
 
-[[Pages/System Overview/What is the Network Processing Unit (NPU)]] →
+[[Pages/System Overview/What is the Network Processing Unit (NPU)|What is the Network Processing Unit (NPU)]] →
 
-Part of [[Sections/System Overview]] · [[000 Map of Content]]
+Part of [[Sections/System Overview|System Overview]] · [[000 Map of Content]]

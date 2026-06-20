@@ -26,7 +26,7 @@ Version 3.9
 
 # Instance Manager
 
-If you have arrived at this topic from a link without reading the previous topic, then please read [[Pages/Advanced Fixture Types/Anatomy of a Fixture Type]] first.
+If you have arrived at this topic from a link without reading the previous topic, then please read [[Pages/Advanced Fixture Types/Anatomy of a Fixture Type|Anatomy of a Fixture Type]] first.
 
 The **Instance Manager** is used to add and arrange existing **Modules** to the fixture.
 
@@ -55,6 +55,6 @@ This is done by editing the columns in the instance manager. This is short descr
 *   **Locked**:  
     Enable if instance should not be individually movable, but move together with the other instance, keeping the relative distance between them.
 
-← [[Pages/Advanced Fixture Types/Module Manager]] | [[Pages/Advanced Fixture Types/Wheel Manager]] →
+← [[Pages/Advanced Fixture Types/Module Manager|Module Manager]] | [[Pages/Advanced Fixture Types/Wheel Manager|Wheel Manager]] →
 
-Part of [[Sections/Advanced Fixture Types]] · [[000 Map of Content]]
+Part of [[Sections/Advanced Fixture Types|Advanced Fixture Types]] · [[000 Map of Content]]

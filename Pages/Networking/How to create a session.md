@@ -41,6 +41,6 @@ Now you can tap the Create Session button.
 
 Your station will create a session and upload the show file to all devices that are linked to your session. Read more about this in the [[Pages/Networking/Adding devices to the session|Adding devices to your session]].
 
-[[Pages/Networking/Protecting the session and station]] →
+[[Pages/Networking/Protecting the session and station|Protecting the session and station]] →
 
-Part of [[Sections/Networking]] · [[000 Map of Content]]
+Part of [[Sections/Networking|Networking]] · [[000 Map of Content]]

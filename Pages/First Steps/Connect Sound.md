@@ -43,6 +43,6 @@ _grandMA2 full-size Audio IN connector_
 
 For more information see [[Pages/Other System Tools/Sound input window|adjust sound input]] and [[Pages/Effects/Create Effect Forms|create effect form]].
 
-← [[Pages/First Steps/Connect DMX]] | [[Pages/First Steps/Connect SMPTE (LTC)]] →
+← [[Pages/First Steps/Connect DMX|Connect DMX]] | [[Pages/First Steps/Connect SMPTE (LTC)|Connect SMPTE (LTC)]] →
 
-Part of [[Sections/First Steps]] · [[000 Map of Content]]
+Part of [[Sections/First Steps|First Steps]] · [[000 Map of Content]]

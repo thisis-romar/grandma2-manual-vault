@@ -30,13 +30,13 @@ This topic illustrates how to use the wings in the MAtricks with the help of an 
 
 Wings split the selection into parts. Each wing mirrors the opposite wing. For explanation see [2\. Example](#2_example).
 
-For information on the keyword see [[Keywords/MAtricksWings]].
+For information on the keyword see [[Keywords/MAtricksWings|MAtricksWings]].
 
 **Requirement:**
 
 *   Fixtures are selected via the command line or keys. 
 
-For more information on how to select fixtures for the usage of MAtricks see [[Sections/MAtricks]]. 
+For more information on how to select fixtures for the usage of MAtricks see [[Sections/MAtricks|MAtricks]]. 
 
 ### 1\. Example
 
@@ -89,6 +89,6 @@ The wing on the right – the third wing – mirrors the adjacent wing in the mi
 
 ![](../../img/img_bulb_off_v3-3.png)![](../../img/img_bulb_on_v3-3.png)![](../../img/img_bulb_off_v3-3.png)![](../../img/img_bulb_off_v3-3.png) **|** ![](../../img/img_bulb_off_v3-3.png)![](../../img/img_bulb_off_v3-3.png)![](../../img/img_bulb_on_v3-3.png)![](../../img/img_bulb_off_v3-3.png) **|** ![](../../img/img_bulb_off_v3-3.png)![](../../img/img_bulb_on_v3-3.png)![](../../img/img_bulb_off_v3-3.png)![](../../img/img_bulb_off_v3-3.png)
 
-← [[Pages/MAtricks/MAtricks Blocks]] | [[Pages/MAtricks/MAtricks Groups]] →
+← [[Pages/MAtricks/MAtricks Blocks|MAtricks Blocks]] | [[Pages/MAtricks/MAtricks Groups|MAtricks Groups]] →
 
-Part of [[Sections/MAtricks]] · [[000 Map of Content]]
+Part of [[Sections/MAtricks|MAtricks]] · [[000 Map of Content]]

@@ -55,7 +55,7 @@ This is what it would look like:
 
 _Group colors_
 
-For more information on how to reset and adjust colors, change the pool into sheet style and/or how to use the **Hue**, **Saturation** and the **Brightness** slider see [[Pages/Pools/Adjust pool options]]. 
+For more information on how to reset and adjust colors, change the pool into sheet style and/or how to use the **Hue**, **Saturation** and the **Brightness** slider see [[Pages/Pools/Adjust pool options|Adjust pool options]]. 
 
 **Important:**  
 Some fixtures may have a red line within the pool object right above the font of the pool object. This red line is automatically generated when all fixtures or a part of fixtures are not available due to storing onto another [[Keywords/World|world]].  
@@ -63,8 +63,8 @@ Some fixtures may have a red line within the pool object right above the font of
 The pool options are now adjusted to your needs and are saved in your user profile. 
 
 **Hint:**  
-You can also use the [[Keywords/Appearance keyword]] to change the color of one or more pool objects.
+You can also use the [[Keywords/Appearance keyword|Appearance keyword]] to change the color of one or more pool objects.
 
-← [[Pages/Groups/Choose copy method]] | [[Pages/Groups/Group Master on Executors]] →
+← [[Pages/Groups/Choose copy method|Choose copy method]] | [[Pages/Groups/Group Master on Executors|Group Master on Executors]] →
 
-Part of [[Sections/Groups]] · [[000 Map of Content]]
+Part of [[Sections/Groups|Groups]] · [[000 Map of Content]]

@@ -40,6 +40,6 @@ It can be very complex to create good fixture profiles for media servers.
 
 Selecting the **Media Server** fixture type does not necessary assign a class to the fixture profile. Since the server is not visualized as a fixture in MA 3D, then this OK. The video output from the server might be used as a CITP stream into the MA 3D (read more about CITP in the [[Pages/Networking/Using CITP|Using CITP topics]]).
 
-← [[Pages/Basic Fixture Types/Moving Lights]] | [[Pages/Basic Fixture Types/Virtual Fixtures]] →
+← [[Pages/Basic Fixture Types/Moving Lights|Moving Lights]] | [[Pages/Basic Fixture Types/Virtual Fixtures|Virtual Fixtures]] →
 
-Part of [[Sections/Basic Fixture Types]] · [[000 Map of Content]]
+Part of [[Sections/Basic Fixture Types|Basic Fixture Types]] · [[000 Map of Content]]

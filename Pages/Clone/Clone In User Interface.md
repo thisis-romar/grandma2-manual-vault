@@ -200,7 +200,7 @@ It is also possible to set filters in the window **Cloning**. 
 5.  To perform cloning click on Clone in the lower right corner of the window **Select Filters**. 
 
 **Hint:**  
-It is also possible to set a filter via the Filter Pool. For more information see [[Pages/Worlds Filters and Masks/What are filters]].
+It is also possible to set a filter via the Filter Pool. For more information see [[Pages/Worlds Filters and Masks/What are filters|What are filters]].
 
 ![](../../img/window_cloning_select-filters_v3-3.png)
 
@@ -219,7 +219,7 @@ _Command filter window_
 **Important:**  
 This is a temporary filter which displays current filtering and allows you to create temporary modifications. However, if you would like to set several filters use the Pool Filter. 
 
-For more information on how to use the Command Filter see [[Pages/Worlds Filters and Masks/Create filters]].
+For more information on how to use the Command Filter see [[Pages/Worlds Filters and Masks/Create filters|Create filters]].
 
 * * *
 
@@ -242,6 +242,6 @@ The pop-up **Please Confirm** appears displaying four options:
 
 _Pop-up please confirm - perform cloning_
 
-[[Pages/Clone/Examples]] →
+[[Pages/Clone/Examples|Examples]] →
 
-Part of [[Sections/Clone]] · [[000 Map of Content]]
+Part of [[Sections/Clone|Clone]] · [[000 Map of Content]]

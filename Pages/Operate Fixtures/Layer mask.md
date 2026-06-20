@@ -53,7 +53,7 @@ The link mode decides what executor the sheet is displaying. 
 This drop down list has three options:
 
 *   **Link Selected:**  
-    This will make the sheet display the content from the selected executor. This means that the sheet will change content when you selected different executors using the [[Keywords/Select]] command.
+    This will make the sheet display the content from the selected executor. This means that the sheet will change content when you selected different executors using the [[Keywords/Select|Select]] command.
 *   **Not Linked:**  
     This will make the sheet display a specific executors content. The sheet will continue to display this  executors content no matter if you select a different executor.  
     You need to choose what executors to display. This is done in the Assign Executors tab - read more about it in the [[Pages/Operate Fixtures/Assign executor|Assign Executor topic]].
@@ -105,6 +105,6 @@ If the sheet has a local mask loaded from the mask pool and this mask is not loc
 
 Read more about this in the [[Pages/Operate Fixtures/Mask (local)|Mask (Local) topic]].
 
-← [[Pages/Operate Fixtures/Tools]] | [[Pages/Operate Fixtures/Display]] →
+← [[Pages/Operate Fixtures/Tools|Tools]] | [[Pages/Operate Fixtures/Display|Display]] →
 
-Part of [[Sections/Operate Fixtures]] · [[000 Map of Content]]
+Part of [[Sections/Operate Fixtures|Operate Fixtures]] · [[000 Map of Content]]

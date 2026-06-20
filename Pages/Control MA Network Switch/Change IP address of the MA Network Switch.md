@@ -31,7 +31,7 @@ The IP address will be used to reach the web interface and to reach the connecte
 The current IP address is displayed in the IP ETHERCON 1(ETH0) or in the IP ETHERCON 1(ETH0.1) column, depending on the used Ethernet connector.
 
 **Important:**  
-If you change the IP address and the new IP address is within another subnet, it is necessary to set the IP address on your computer or grandMA2 console to connect to the web interface. For more information about how to change the IP address see [[Sections/Networking]].  
+If you change the IP address and the new IP address is within another subnet, it is necessary to set the IP address on your computer or grandMA2 console to connect to the web interface. For more information about how to change the IP address see [[Sections/Networking|Networking]].  
 If the computer or the grandMA2 console and the switch are in different subnet, the connection is not possible.
 
 **Important:**  
@@ -55,6 +55,6 @@ Make sure that every device in the network has its unique IP address. If two dev
 
 The IP address is changed and saved in the startup configuration.
 
-← [[Pages/Control MA Network Switch/Add the MA Network Switch to the network configuration]] | [[Pages/Control MA Network Switch/Enable DHCP client for the MA Network Switch]] →
+← [[Pages/Control MA Network Switch/Add the MA Network Switch to the network configuration|Add the MA Network Switch to the network configuration]] | [[Pages/Control MA Network Switch/Enable DHCP client for the MA Network Switch|Enable DHCP client for the MA Network Switch]] →
 
-Part of [[Sections/Control MA Network Switch]] · [[000 Map of Content]]
+Part of [[Sections/Control MA Network Switch|Control MA Network Switch]] · [[000 Map of Content]]

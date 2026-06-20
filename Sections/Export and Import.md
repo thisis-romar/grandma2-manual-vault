@@ -61,12 +61,12 @@ Almost all objects from the showfile can be exported and imported. For example:
 *   ​Fixtures
 *   Screens
 
-To export or import **Macros**, **Effects**, **Masks**, **MAtricks**, **Gobo Bitmaps**, **User Profiles** and **DMX nodes**, it is easier to use the GUI. For more information see the [[Pages/Export and Import/Export by using user interface]] and [[Pages/Export and Import/Import by using user interface]] topics.
+To export or import **Macros**, **Effects**, **Masks**, **MAtricks**, **Gobo Bitmaps**, **User Profiles** and **DMX nodes**, it is easier to use the GUI. For more information see the [[Pages/Export and Import/Export by using user interface|Export by using user interface]] and [[Pages/Export and Import/Import by using user interface|Import by using user interface]] topics.
 
 To Import an image to the Image Pool, read more in the [[Pages/Image Pool/Import Images and Videos|Import images and video]] topic.
 
 **Restriction:**  
-It is not possible to export or import the show, or a part of the show to any other console format for example other manufactures consoles. To handle a ASCII file, see the [[Pages/Backup Menu/ASCII Show Read]] topic.
+It is not possible to export or import the show, or a part of the show to any other console format for example other manufactures consoles. To handle a ASCII file, see the [[Pages/Backup Menu/ASCII Show Read|ASCII Show Read]] topic.
 
 **Hint:**  
 It is possible to open show files from a dot2 console directly on a grandMA2 console or onPC.
@@ -77,18 +77,18 @@ It is possible to open show files from a dot2 console directly on a grandMA2 co
 
 #### Sub topics
 
-*   [[Pages/Export and Import/Export by using command line]]
-*   [[Pages/Export and Import/Export by using user interface]]
-*   [[Pages/Export and Import/Import by using command line]]
-*   [[Pages/Export and Import/Import by using user interface]]
-*   [[Pages/Export and Import/Import predefined objects]]
+*   [[Pages/Export and Import/Export by using command line|Export by using command line]]
+*   [[Pages/Export and Import/Export by using user interface|Export by using user interface]]
+*   [[Pages/Export and Import/Import by using command line|Import by using command line]]
+*   [[Pages/Export and Import/Import by using user interface|Import by using user interface]]
+*   [[Pages/Export and Import/Import predefined objects|Import predefined objects]]
 
 ## Pages in This Section
 
-- [[Pages/Export and Import/Export by using command line]]
-- [[Pages/Export and Import/Export by using user interface]]
-- [[Pages/Export and Import/Import by using command line]]
-- [[Pages/Export and Import/Import by using user interface]]
-- [[Pages/Export and Import/Import predefined objects]]
+- [[Pages/Export and Import/Export by using command line|Export by using command line]]
+- [[Pages/Export and Import/Export by using user interface|Export by using user interface]]
+- [[Pages/Export and Import/Import by using command line|Import by using command line]]
+- [[Pages/Export and Import/Import by using user interface|Import by using user interface]]
+- [[Pages/Export and Import/Import predefined objects|Import predefined objects]]
 
 Part of [[000 Map of Content]]

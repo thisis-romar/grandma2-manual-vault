@@ -87,6 +87,6 @@ To adjust the size of the rectangle for e.g. a 16:9 ratio, tap in the layout enc
 
 The bitmap visualization is assigned to the fixtures or channels in the layout.
 
-← [[Pages/Bitmap Fixture/Import bitmap fixture]] | [[Pages/Bitmap Fixture/Control bitmap fixture]] →
+← [[Pages/Bitmap Fixture/Import bitmap fixture|Import bitmap fixture]] | [[Pages/Bitmap Fixture/Control bitmap fixture|Control bitmap fixture]] →
 
-Part of [[Sections/Bitmap Fixture]] · [[000 Map of Content]]
+Part of [[Sections/Bitmap Fixture|Bitmap Fixture]] · [[000 Map of Content]]

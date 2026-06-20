@@ -145,7 +145,7 @@ Even though these are listed as "Global" some are actually user variables. Two d
 
 ## Additions with Variables
 
-There are two commands that allow you to do a little addition with variables: [[Keywords/AddVar]] and [[Keywords/AddUserVar keyword|AddUserVar]].
+There are two commands that allow you to do a little addition with variables: [[Keywords/AddVar|AddVar]] and [[Keywords/AddUserVar keyword|AddUserVar]].
 
 You can do math with numbers and you can append text to text or numbers (this will convert a number to text).
 
@@ -207,6 +207,6 @@ The result is a text that reads: **The answer is 42**.
 
 For more practical examples please read the [[Pages/Macros/Example macros|Example macros topic]].
 
-[[Pages/Macros/Create pop-ups in macros]] →
+[[Pages/Macros/Create pop-ups in macros|Create pop-ups in macros]] →
 
-Part of [[Sections/Macros]] · [[000 Map of Content]]
+Part of [[Sections/Macros|Macros]] · [[000 Map of Content]]

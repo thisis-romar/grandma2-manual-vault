@@ -62,6 +62,6 @@ The external screens are connected.
 
 For more information see [[Pages/Console Settings/Change Screen Options|change screen options]].
 
-← [[Pages/First Steps/Connect Desk Lamps]] | [[Pages/First Steps/Connect USB Mouse and USB Keyboad]] →
+← [[Pages/First Steps/Connect Desk Lamps|Connect Desk Lamps]] | [[Pages/First Steps/Connect USB Mouse and USB Keyboad|Connect USB Mouse and USB Keyboad]] →
 
-Part of [[Sections/First Steps]] · [[000 Map of Content]]
+Part of [[Sections/First Steps|First Steps]] · [[000 Map of Content]]

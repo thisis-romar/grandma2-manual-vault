@@ -34,7 +34,7 @@ If you change the page, all executors which are on will automatically be fixed.�
 ## B
 
 **Blind:**  
-Create values without DMX output. For more information see [[Keys/Blind Key]] and [[Keywords/Blind keyword|Blind Command]].
+Create values without DMX output. For more information see [[Keys/Blind Key|Blind Key]] and [[Keywords/Blind keyword|Blind Command]].
 
 **B.O.** (black out):  
 Brings dimmer values to zero. For more information see [[Keys/B.O. (Blackout) Key|B.O. Key]].
@@ -51,7 +51,7 @@ For more information see [[Pages/Operate Fixtures/Channel Sheet|Channel Sheet]]
 Predefined values within the fixture type for fast access.
 
 **Chaser:**  
-A chaser is an executor mode that runs randomly, in a loop or bounces in the cue list. For more information see [[Sections/Chasers]]. 
+A chaser is an executor mode that runs randomly, in a loop or bounces in the cue list. For more information see [[Sections/Chasers|Chasers]]. 
 
 **Cmd** (Command):  
 Instructions you enter into the console.
@@ -69,7 +69,7 @@ Constant bit rate defines the bit rate images are encoded with. The data stream 
 Control attributes are, for example lamp control, fixture global and scan rate.
 
 **Cue:**  
-Cues contain values that were stored. For more information see [[Pages/Command Syntax and Keywords/What are cues and sequences]]. 
+Cues contain values that were stored. For more information see [[Pages/Command Syntax and Keywords/What are cues and sequences|What are cues and sequences]]. 
 
 **Cue List:**  
 List containing more than one cue and which is stored on an executor.
@@ -98,7 +98,7 @@ Is an indicator for how many DMX channels the fixture type needs.
 One DMX universe contains 512 DMX channels. You can connect one universe to one XLR connector.
 
 **DVI-D** (digital visual interface - digital):  
-Connection for external screen. For more information see [[Sections/Device Overview]].
+Connection for external screen. For more information see [[Sections/Device Overview|Device Overview]].
 
 ## E
 
@@ -106,13 +106,13 @@ Connection for external screen. For more information see [[Sections/Device Overv
 Manipulates and creates looping changes of values from attributes.
 
 **Encoder:**  
-The five round rotary knobs below screen 1, to control values of attributes or scroll on the screen. For more information see [[Sections/Device Overview]].
+The five round rotary knobs below screen 1, to control values of attributes or scroll on the screen. For more information see [[Sections/Device Overview|Device Overview]].
 
 **Ethernet:**  
-Is a local network with bus topology, what allows multiply devices access at the same time. It is used for communication between light consoles. The grandMA2 consoles have two Ethernet connectors. For more information see [[Sections/Device Overview]].
+Is a local network with bus topology, what allows multiply devices access at the same time. It is used for communication between light consoles. The grandMA2 consoles have two Ethernet connectors. For more information see [[Sections/Device Overview|Device Overview]].
 
 **Executor:**  
-Button and fader executor on the console and executor in the virtual playbacks. You store cues on an executor. For more information see [[Pages/Executors/What are executors]]. 
+Button and fader executor on the console and executor in the virtual playbacks. You store cues on an executor. For more information see [[Pages/Executors/What are executors|What are executors]]. 
 
 **Executor Button:**  
 Physical key on the console to execute cues.
@@ -152,7 +152,7 @@ Is a picture frequency. The default setting is 30 fps. From this follows that 1 
 ## G
 
 **Grand master:**  
-Fader rightmost at the console to reduce all dimmer values. For more information see [[Sections/Device Overview]].
+Fader rightmost at the console to reduce all dimmer values. For more information see [[Sections/Device Overview|Device Overview]].
 
 Groups relating to the Groups Pool:
 
@@ -242,7 +242,7 @@ The program time master can be a fader. Refer to, Empty Executor Window.
 ## R
 
 **RDM** (= Remote Device Management Protocol):  
-Permits intelligent bidirectional communication between devices from multiple manufacturers using a modified DMX512 data link. RDM is an EF 1.0 implementation of ANSI E1.11 (DMX512-A). To use RDM see [[Sections/RDM]].
+Permits intelligent bidirectional communication between devices from multiple manufacturers using a modified DMX512 data link. RDM is an EF 1.0 implementation of ANSI E1.11 (DMX512-A). To use RDM see [[Sections/RDM|RDM]].
 
 **Rpm** (revolutions per minute):  
 Rotation speed of a gobo wheel in the unit revolutions per minute.
@@ -316,6 +316,6 @@ Grants remote access to the grandMA2 console via a web browser.
 Is the right fader next to the Master Fader. With the XFade you fade manual from one cue to the next cue.
 
 **XLR A-D:**  
-Four pin connector for DMX signal at the back of the console. For more information see [[Sections/Technical Data]].
+Four pin connector for DMX signal at the back of the console. For more information see [[Sections/Technical Data|Technical Data]].
 
 Part of [[000 Map of Content]]

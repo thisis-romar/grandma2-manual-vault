@@ -38,16 +38,16 @@ For more information on the various settings see the links below:
 
 *   [[Pages/Console Settings/Adjust Intensity of Desk Lights|Adjust the intensity of desk lights]]
 *   [[Pages/Console Settings/Change Screen Options|Change screen options]]
-*   [[Pages/Console Settings/Local settings]]
+*   [[Pages/Console Settings/Local settings|Local settings]]
 *   [[Pages/Console Settings/Wing & Monitor Setup|Wing &amp; monitor setup]]
-*   [[Pages/Console Settings/Date & Time]]
+*   [[Pages/Console Settings/Date & Time|Date & Time]]
 
 ## Pages in This Section
 
-- [[Pages/Console Settings/Adjust Intensity of Desk Lights]]
-- [[Pages/Console Settings/Change Screen Options]]
-- [[Pages/Console Settings/Local settings]]
-- [[Pages/Console Settings/Wing & Monitor Setup]]
-- [[Pages/Console Settings/Date & Time]]
+- [[Pages/Console Settings/Adjust Intensity of Desk Lights|Adjust Intensity of Desk Lights]]
+- [[Pages/Console Settings/Change Screen Options|Change Screen Options]]
+- [[Pages/Console Settings/Local settings|Local settings]]
+- [[Pages/Console Settings/Wing & Monitor Setup|Wing & Monitor Setup]]
+- [[Pages/Console Settings/Date & Time|Date & Time]]
 
 Part of [[000 Map of Content]]

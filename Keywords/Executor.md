@@ -29,7 +29,7 @@ You can also type **Executor** or the shortcut **Ex** directly in the command li
 
 Executor is an object keyword acting as a control handle for other objects.
 
-The default function for Executor objects is [[Keywords/SelFix]]. This means that calling executors without any function specified selects the fixtures of the executor in programmer.
+The default function for Executor objects is [[Keywords/SelFix|SelFix]]. This means that calling executors without any function specified selects the fixtures of the executor in programmer.
 
 If you apply a function or reference a property not supported by the Executor object, the command will be passed on its child: Button/fader or the object assigned to the executor.
 
@@ -129,7 +129,7 @@ MasterGo
 
 "on", "off", "go", "top"
 
-Assigns the action that is executed if the master fader is above zero. For more information see [[Pages/Executors/Common executor options]].
+Assigns the action that is executed if the master fader is above zero. For more information see [[Pages/Executors/Common executor options|Common executor options]].
 
 MIBAlways
 
@@ -194,7 +194,7 @@ Restart
 "Current"  
 "Next"
 
-Assigns the restart mode. For more information see [[Pages/Executors/Common executor options]].
+Assigns the restart mode. For more information see [[Pages/Executors/Common executor options|Common executor options]].
 
 SoftLTP
 

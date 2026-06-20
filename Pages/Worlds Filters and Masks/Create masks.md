@@ -217,6 +217,6 @@ This button is only available if you have loaded a mask from the pool. This allo
 
 Please read the [[Pages/Worlds Filters and Masks/Use masks in the sheets and windows|Use Masks in Sheets topic]] to learn more about how it use the masks in the different sheets and windows.
 
-← [[Pages/Worlds Filters and Masks/What are masks]] | [[Pages/Worlds Filters and Masks/Use masks in the sheets and windows]] →
+← [[Pages/Worlds Filters and Masks/What are masks|What are masks]] | [[Pages/Worlds Filters and Masks/Use masks in the sheets and windows|Use masks in the sheets and windows]] →
 
-Part of [[Sections/Worlds Filters and Masks]] · [[000 Map of Content]]
+Part of [[Sections/Worlds Filters and Masks|Worlds Filters and Masks]] · [[000 Map of Content]]

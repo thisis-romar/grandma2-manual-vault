@@ -111,6 +111,6 @@ _Wing & monitor setup – table mode_
 
 All settings are now applied.
 
-← [[Pages/Console Settings/Local settings]] | [[Pages/Console Settings/Date & Time]] →
+← [[Pages/Console Settings/Local settings|Local settings]] | [[Pages/Console Settings/Date & Time|Date & Time]] →
 
-Part of [[Sections/Console Settings]] · [[000 Map of Content]]
+Part of [[Sections/Console Settings|Console Settings]] · [[000 Map of Content]]

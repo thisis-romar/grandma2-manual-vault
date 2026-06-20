@@ -247,6 +247,6 @@ The values in the programmer are irrelevant in this case. They are simply an in
 
 For removal of a few values, the Sequence Tracking Sheet or Sequence Content Sheets might be good tools. Read about them in the [[Pages/Command Syntax and Keywords/Looking at the cue content|Looking at the Cue Content topic]].
 
-← [[Pages/Command Syntax and Keywords/Looking at the Cue Sequence]] | [[Pages/Command Syntax and Keywords/Store Options and Defaults]] →
+← [[Pages/Command Syntax and Keywords/Looking at the Cue Sequence|Looking at the Cue Sequence]] | [[Pages/Command Syntax and Keywords/Store Options and Defaults|Store Options and Defaults]] →
 
-Part of [[Sections/Cues and Sequences]] · [[000 Map of Content]]
+Part of [[Sections/Cues and Sequences|Cues and Sequences]] · [[000 Map of Content]]

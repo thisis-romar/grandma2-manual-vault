@@ -48,7 +48,7 @@ It also has the default trigger.
 
 ### Preset Defaults
 
-The Preset defaults contain four different settings. They are not described here, please read the [[Sections/Presets]] topics instead.
+The Preset defaults contain four different settings. They are not described here, please read the [[Sections/Presets|Presets]] topics instead.
 
 ### Layout Defaults
 
@@ -102,7 +102,7 @@ This is where the store options are saved. These are the settings used when stor
 
 All the settings are not described here.
 
-Please read the [[Sections/Cues and Sequences]] and [[Sections/Presets]] topics instead.
+Please read the [[Sections/Cues and Sequences|Cues and Sequences]] and [[Sections/Presets|Presets]] topics instead.
 
 ## Settings
 
@@ -196,11 +196,11 @@ This section contains different settings all related to the User (Profile).
      
 *   **Single Digit Value** - All numeric value input below 10 will be a multiplication of 10; for example: channel 1 at 5 = channel 1 gets value 50.  
      
-*   **Max. Program Time** - This is the maximum allowed Program time for the **Program Time Special Master**. Follow this link [[Pages/Workspace/Time Control]] to read more about the Program Time.  
+*   **Max. Program Time** - This is the maximum allowed Program time for the **Program Time Special Master**. Follow this link [[Pages/Workspace/Time Control|Time Control]] to read more about the Program Time.  
      
-*   **Max. Exec Time** - This is the maximum allowed Executor time for the **Executor Time Special Master**. Follow this link [[Pages/Workspace/Time Control]] to read more about the Executor Time.  
+*   **Max. Exec Time** - This is the maximum allowed Executor time for the **Executor Time Special Master**. Follow this link [[Pages/Workspace/Time Control|Time Control]] to read more about the Executor Time.  
      
-*   **Special Fader Buttons** - Here you can Enable or Disable the extra buttons above the 100mm faders. Follow this link [[Pages/Workspace/Master Section]] to read more about this area.  
+*   **Special Fader Buttons** - Here you can Enable or Disable the extra buttons above the 100mm faders. Follow this link [[Pages/Workspace/Master Section|Master Section]] to read more about this area.  
      
 *   **Disable View Button and View CLI** - With this option activated Views and Viewbuttons will not interact with the command line anymore. For example hitting the store button to store a group and realizing you have to change the View to get a group pool would not accidently store a view.  
      
@@ -234,6 +234,6 @@ This section contains different settings all related to the User (Profile).
     
     *   **Programmer Colors** - This setting allows to change between two different set of visual color feedback regarding the programmer. The two options are **Standard** and **High Contrast**. Read about the in the [[Pages/Workspace/System Colors|System Colors topic]].
 
-← [[Pages/Single and Multi User Systems/Create user profiles and users]] | [[Pages/Single and Multi User Systems/Login on a station]] →
+← [[Pages/Single and Multi User Systems/Create user profiles and users|Create user profiles and users]] | [[Pages/Single and Multi User Systems/Login on a station|Login on a station]] →
 
-Part of [[Sections/Single and Multi User Systems]] · [[000 Map of Content]]
+Part of [[Sections/Single and Multi User Systems|Single and Multi User Systems]] · [[000 Map of Content]]

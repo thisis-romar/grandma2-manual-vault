@@ -35,7 +35,7 @@ It is also possible to update the ports of the grandMA 1 series via Setup – MA
 For more information see [[Pages/Networking/Adding devices to the session|Adding devices to your session]].
 
 **Important:**  
-The keyword NetworkNodeUpdate is only used for the MA nodes of the grandMA1 series. To update the xPort nodes of the grandMA2 series use the keyword [[Keywords/UpdateSoftware]] or see [[Pages/Update the Software/Update via setup]].
+The keyword NetworkNodeUpdate is only used for the MA nodes of the grandMA1 series. To update the xPort nodes of the grandMA2 series use the keyword [[Keywords/UpdateSoftware|UpdateSoftware]] or see [[Pages/Update the Software/Update via setup|Update via setup]].
 
 ## Syntax
 

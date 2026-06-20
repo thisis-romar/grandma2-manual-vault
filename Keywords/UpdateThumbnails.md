@@ -32,7 +32,7 @@ For more information on media servers see the [[Keywords/MediaServer keyword|key
 
 UpdateThumbnails MediaServer \[RowID\]
 
-The row ID is the row in the window CITP Network Configuration. For more information see [[Pages/Networking/Thumbnail exchange]]. 
+The row ID is the row in the window CITP Network Configuration. For more information see [[Pages/Networking/Thumbnail exchange|Thumbnail exchange]]. 
 
 ## Example
 

@@ -51,6 +51,6 @@ _Auto-patched RDM fixture_
 **Hint:**  
 You can also auto-patch fixtures by using the [[Keywords/RdmAutopatch|RdmAutopatch keyword]].
 
-← [[Pages/RDM/Match RDM devices]] | [[Pages/RDM/Work with RDM parameters]] →
+← [[Pages/RDM/Match RDM devices|Match RDM devices]] | [[Pages/RDM/Work with RDM parameters|Work with RDM parameters]] →
 
-Part of [[Sections/RDM]] · [[000 Map of Content]]
+Part of [[Sections/RDM|RDM]] · [[000 Map of Content]]

@@ -37,12 +37,12 @@ For more information on Lua see the subtopic or click the link above.
 
 #### Sub topics
 
-*   [[Pages/Plugins/What is Lua]]
+*   [[Pages/Plugins/What is Lua|What is Lua]]
 *   [[Pages/Plugins/Edit Plugins|Edit plugins]]
 
 ## Pages in This Section
 
-- [[Pages/Plugins/What is Lua]]
-- [[Pages/Plugins/Edit Plugins]]
+- [[Pages/Plugins/What is Lua|What is Lua]]
+- [[Pages/Plugins/Edit Plugins|Edit Plugins]]
 
 Part of [[000 Map of Content]]

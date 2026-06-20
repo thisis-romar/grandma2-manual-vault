@@ -52,6 +52,6 @@ The MA Lighting Bitmap fixture is imported in the show and visible in the fixtur
 
 Now, you can control the bitmap fixture. For more information, see [[Pages/Bitmap Fixture/Control bitmap fixture|control bitmap fixture]].
 
-[[Pages/Bitmap Fixture/Apply bitmap fixture in the layout view]] →
+[[Pages/Bitmap Fixture/Apply bitmap fixture in the layout view|Apply bitmap fixture in the layout view]] →
 
-Part of [[Sections/Bitmap Fixture]] · [[000 Map of Content]]
+Part of [[Sections/Bitmap Fixture|Bitmap Fixture]] · [[000 Map of Content]]

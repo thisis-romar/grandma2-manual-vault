@@ -28,7 +28,7 @@ MAtricksWings is a function keyword to set the MAtricks Wings value.
 
 With the MAtricksWings the fixture selection is splitted in x parts and each part is mirroring the previous part.
 
-For more information see [[Sections/MAtricks]].
+For more information see [[Sections/MAtricks|MAtricks]].
 
 ## Syntax
 

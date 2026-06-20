@@ -28,13 +28,13 @@ Version 3.9
 
 This topic illustrates how to use the Block X based on an example.
 
-For information on the keyword see [[Keywords/MAtricksBlocks]]. 
+For information on the keyword see [[Keywords/MAtricksBlocks|MAtricksBlocks]]. 
 
 **Requirement:**
 
 *   Fixtures are selected via the command line or keys.
 
-For more information on how to select fixtures for the usage of MAtricks see [[Sections/MAtricks]]. 
+For more information on how to select fixtures for the usage of MAtricks see [[Sections/MAtricks|MAtricks]]. 
 
 ### 1\. Example
 
@@ -116,6 +116,6 @@ A block of 3 fixtures is applied on the x-axis and a block of 3 fixtures on the 
 
 ![](../../img/img_bulb_off_v3-3.png)![](../../img/img_bulb_off_v3-3.png)![](../../img/img_bulb_off_v3-3.png)![](../../img/img_bulb_off_v3-3.png)
 
-← [[Pages/MAtricks/MAtricks Interleave]] | [[Pages/MAtricks/MAtricks Wings]] →
+← [[Pages/MAtricks/MAtricks Interleave|MAtricks Interleave]] | [[Pages/MAtricks/MAtricks Wings|MAtricks Wings]] →
 
-Part of [[Sections/MAtricks]] · [[000 Map of Content]]
+Part of [[Sections/MAtricks|MAtricks]] · [[000 Map of Content]]

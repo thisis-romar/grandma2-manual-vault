@@ -42,6 +42,6 @@ _grandMA2 full-size MA-LINK connector_
 
 To configure the wings see [[Pages/Console Settings/Wing & Monitor Setup|wing & monitor setup]].
 
-← [[Pages/First Steps/Connect Analog Remote Control]] | [[Pages/First Steps/Setup your PC]] →
+← [[Pages/First Steps/Connect Analog Remote Control|Connect Analog Remote Control]] | [[Pages/First Steps/Setup your PC|Setup your PC]] →
 
-Part of [[Sections/First Steps]] · [[000 Map of Content]]
+Part of [[Sections/First Steps|First Steps]] · [[000 Map of Content]]

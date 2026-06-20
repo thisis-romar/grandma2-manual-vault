@@ -540,11 +540,11 @@ The keyboard shortcuts are reset to their defaults.
 
 #### Sub topics
 
-*   [[Pages/Workspace/Turn on or turn off the keyboard shortcuts]]
-*   [[Pages/Workspace/Edit keyboard shortcuts]]
-*   [[Pages/Workspace/Add or delete keyboard shortcuts]]
-*   [[Pages/Workspace/Export or import keyboard shortcuts]]
+*   [[Pages/Workspace/Turn on or turn off the keyboard shortcuts|Turn on or turn off the keyboard shortcuts]]
+*   [[Pages/Workspace/Edit keyboard shortcuts|Edit keyboard shortcuts]]
+*   [[Pages/Workspace/Add or delete keyboard shortcuts|Add or delete keyboard shortcuts]]
+*   [[Pages/Workspace/Export or import keyboard shortcuts|Export or import keyboard shortcuts]]
 
-← [[Pages/Workspace/Icons]]
+← [[Pages/Workspace/Icons|Icons]]
 
-Part of [[Sections/Workspace]] · [[000 Map of Content]]
+Part of [[Sections/Workspace|Workspace]] · [[000 Map of Content]]

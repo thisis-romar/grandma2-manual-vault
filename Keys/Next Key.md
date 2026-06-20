@@ -32,7 +32,7 @@ _Location k__ey_ _Next_ 
 
 \[time\] : Executing : Next
 
-*   Pressing and holding ![ma](../../img/ma_1.png) + Next executes the [[Keywords/NextRow|NextRow keyword]]. For more information see [[Sections/MAtricks]].
+*   Pressing and holding ![ma](../../img/ma_1.png) + Next executes the [[Keywords/NextRow|NextRow keyword]]. For more information see [[Sections/MAtricks|MAtricks]].
 
 \[time\] : Executing : NextRow
 

@@ -31,7 +31,7 @@ The masters needs to be assigned to Fader Executors or to the 100mm master fader
 
 They can all be assigned using the [[Pages/Executors/Assign a function|Assign Menu]]. They are found in the Special Masters section. Selecting this in the Assign Menu will reveal a tree structure separated into the five groups of Special Masters.
 
-They can also be assigned (or adjusted) using the [[Keywords/SpecialMaster]] keyword.
+They can also be assigned (or adjusted) using the [[Keywords/SpecialMaster|SpecialMaster]] keyword.
 
 Assigning Special Masters to the 100mm faders are done by tapping the label above the faders. For more information see the [[Pages/Workspace/Master Section|Master Section topic]].
 
@@ -53,6 +53,6 @@ Please read about the Special Masters in the subtopics.
 *   [[Pages/Advanced Executor Functionality/Rate Masters|Rate masters]]
 *   [[Pages/Advanced Executor Functionality/Playback Masters|Playback masters]]
 
-← [[Pages/Advanced Executor Functionality/Masters Window]]
+← [[Pages/Advanced Executor Functionality/Masters Window|Masters Window]]
 
-Part of [[Sections/Advanced Executor Functionality]] · [[000 Map of Content]]
+Part of [[Sections/Advanced Executor Functionality|Advanced Executor Functionality]] · [[000 Map of Content]]

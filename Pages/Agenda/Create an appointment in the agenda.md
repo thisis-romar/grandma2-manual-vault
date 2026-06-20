@@ -25,7 +25,7 @@ Version 3.9
 
 # Create an appointment in the agenda
 
-To create an appointment in the agenda, tap on a date in the Agenda window. To get to the **Agenda window**, see the [[Pages/Agenda/What is agenda]] topic.
+To create an appointment in the agenda, tap on a date in the Agenda window. To get to the **Agenda window**, see the [[Pages/Agenda/What is agenda|What is agenda]] topic.
 
 The Agenda window will now change, and it could look like this:
 
@@ -73,7 +73,7 @@ CMD
 
 This is the command that will be executed for this appointment.
 
-For more information about commands and keywords, see the [[Sections/Command Syntax and Keywords]] topic.
+For more information about commands and keywords, see the [[Sections/Command Syntax and Keywords|Command Syntax and Keywords]] topic.
 
 ## Info
 
@@ -101,6 +101,6 @@ Here it is possible to navigate in the calendar by using the encoders.
 
 Tap the yellow ball in the upper left corner to get a list of all scheduled appointments.
 
-← [[Pages/Agenda/What is agenda]]
+← [[Pages/Agenda/What is agenda|What is agenda]]
 
-Part of [[Sections/Agenda]] · [[000 Map of Content]]
+Part of [[Sections/Agenda|Agenda]] · [[000 Map of Content]]

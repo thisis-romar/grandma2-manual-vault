@@ -119,6 +119,6 @@ This window shows the playback status and current time of the timecode show. The
 
 The timecode view is very similar to the timecode editor, except the editor has more options. Please read the [[Pages/Timecode/Edit a Timecode Show|Edit a Timecode Show topic]] for more information about the editor and thereby also this viewer.
 
-[[Pages/Timecode/Record a Timecode Show]] →
+[[Pages/Timecode/Record a Timecode Show|Record a Timecode Show]] →
 
-Part of [[Sections/Timecode]] · [[000 Map of Content]]
+Part of [[Sections/Timecode|Timecode]] · [[000 Map of Content]]

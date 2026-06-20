@@ -30,7 +30,7 @@ _Location k__ey_ _Help_ 
 
 \[Channel\]> Help
 
-*   Pressing Help Help enters the [[Keywords/CmdHelp keyword]] into the command line.
+*   Pressing Help Help enters the [[Keywords/CmdHelp keyword|CmdHelp keyword]] into the command line.
 
 \[Channel\]> CmdHelp
 

@@ -86,7 +86,7 @@ Now you have a copy of the layer. 
 
 You can export a layer (or even a fixture). This is meant for exporting the information about the structure. This can be used to document the setup and patch.
 
-Please have look at the [[Sections/Export and Import]] topics.
+Please have look at the [[Sections/Export and Import|Export and Import]] topics.
 
 ## Move fixtures between layers
 
@@ -107,6 +107,6 @@ Now you are asked if you want to save the changes you have made.
 
 Tap Yes to save. No to not save any changes and keep the fixture schedule as it was. Cancel to return to fixture schedule without saving.
 
-← [[Pages/Patching/Delete fixtures from the show]] | [[Pages/Patching/Multipatching]] →
+← [[Pages/Patching/Delete fixtures from the show|Delete fixtures from the show]] | [[Pages/Patching/Multipatching|Multipatching]] →
 
-Part of [[Sections/Patching]] · [[000 Map of Content]]
+Part of [[Sections/Patching|Patching]] · [[000 Map of Content]]

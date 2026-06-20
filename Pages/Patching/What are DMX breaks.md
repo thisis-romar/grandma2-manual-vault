@@ -49,6 +49,6 @@ _DMX break in the Fixture Schedule window_
 
 _DMX break in the DMX patch window_
 
-← [[Pages/Patching/What are Attributes]]
+← [[Pages/Patching/What are Attributes|What are Attributes]]
 
-Part of [[Sections/Patching]] · [[000 Map of Content]]
+Part of [[Sections/Patching|Patching]] · [[000 Map of Content]]

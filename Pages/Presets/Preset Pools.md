@@ -63,6 +63,6 @@ Here is an outline of all preset pools. 
 
 _Preset pools_
 
-← [[Pages/Presets/What Are Special Modes-]] | [[Pages/Presets/Preset Pool -Dynamic-]] →
+← [[Pages/Presets/What Are Special Modes-|What Are Special Modes-]] | [[Pages/Presets/Preset Pool -Dynamic-|Preset Pool -Dynamic-]] →
 
-Part of [[Sections/Presets]] · [[000 Map of Content]]
+Part of [[Sections/Presets|Presets]] · [[000 Map of Content]]

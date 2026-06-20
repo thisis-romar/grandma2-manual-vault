@@ -34,6 +34,6 @@ Follow the instructions below:
 *   Do not place the device directly into the sun.
 *   Keep a minimum distance of 15 cm ( 5.91 inches) between multi-touch screen surface and radio intercom systems. If you go below the minimum distance, this may lead to unexpected behaviors such as unwanted multi-touch actions or mouse movements.
 
-← [[Pages/First Steps/Check Scope of Delivery]] | [[Pages/First Steps/Connect Power]] →
+← [[Pages/First Steps/Check Scope of Delivery|Check Scope of Delivery]] | [[Pages/First Steps/Connect Power|Connect Power]] →
 
-Part of [[Sections/First Steps]] · [[000 Map of Content]]
+Part of [[Sections/First Steps|First Steps]] · [[000 Map of Content]]

@@ -26,7 +26,7 @@ The key B.O. is located in the command area on the right of the key Align.
 
 _Location k__ey_ _B.O._ 
 
-As long as you press and hold B.O., the blackout mode is on. For more information see [[Keywords/Blackout keyword]].
+As long as you press and hold B.O., the blackout mode is on. For more information see [[Keywords/Blackout keyword|Blackout keyword]].
 
 The command line stays unaffected.
 

@@ -28,13 +28,13 @@ Version 3.9
 
 This topic illustrates how to use MAtricksInterleave based on an example. 
 
-For information on the keyword see [[Keywords/MAtricksInterleave]]. 
+For information on the keyword see [[Keywords/MAtricksInterleave|MAtricksInterleave]]. 
 
 **Requirement:**
 
 *   Fixtures are selected via the command line or keys.
 
-For more information on how to select fixtures for the usage of MAtricks see [[Sections/MAtricks]].
+For more information on how to select fixtures for the usage of MAtricks see [[Sections/MAtricks|MAtricks]].
 
 ### Example
 
@@ -127,6 +127,6 @@ To jump to the third fixture in the second row:
 
 The MAtricksInterleave is now disabled.
 
-← [[Pages/MAtricks/MAtricks Pool]] | [[Pages/MAtricks/MAtricks Blocks]] →
+← [[Pages/MAtricks/MAtricks Pool|MAtricks Pool]] | [[Pages/MAtricks/MAtricks Blocks|MAtricks Blocks]] →
 
-Part of [[Sections/MAtricks]] · [[000 Map of Content]]
+Part of [[Sections/MAtricks|MAtricks]] · [[000 Map of Content]]

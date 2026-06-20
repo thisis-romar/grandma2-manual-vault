@@ -123,6 +123,6 @@ Additional requirements:
 
 We recommend that you visit your PC manufacturer´s website for information about updated drivers and hardware compatibility.
 
-← [[Pages/Introduction/About this Manual]] | [[Pages/Introduction/Installation of grandMA2 onPC]] →
+← [[Pages/Introduction/About this Manual|About this Manual]] | [[Pages/Introduction/Installation of grandMA2 onPC|Installation of grandMA2 onPC]] →
 
-Part of [[Sections/Introduction]] · [[000 Map of Content]]
+Part of [[Sections/Introduction|Introduction]] · [[000 Map of Content]]

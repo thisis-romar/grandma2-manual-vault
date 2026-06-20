@@ -297,7 +297,7 @@ This will invert the direction of the Tilt movement when using the encoders. Thi
 This can be used to offset the programmed Pan values. This can be very useful if the show has been preprogrammed or it is a touring show, and the fixtures are not hung the way they were planned to be. The offset value is not visible in the Fixture Sheet, but it can be seen in the DMX Sheet. It is a nice function as long the fixtures do not come all the way out to their endpoints in the programming. The number entered here is a degree number and can be a negative value.
 
 **Important:**  
-The Pan and Tilt Offset values can also be edited with live output to the fixtures. This can be done in the [[Pages/Patching/Live patching]], when editing fixtures, or via command line. When this is done for several hundred fixtures at the same time, then this information is distributed live to all stations and NPUs in the session and this is distributed with a small delay in the system. A progress bar is displayed. Please wait until the distribution is done before continuing working. If this is done live for a small group of fixtures, then there should be no delay. If the value is changed in the EditSetup then the values are updated with the show upload.
+The Pan and Tilt Offset values can also be edited with live output to the fixtures. This can be done in the [[Pages/Patching/Live patching|Live patching]], when editing fixtures, or via command line. When this is done for several hundred fixtures at the same time, then this information is distributed live to all stations and NPUs in the session and this is distributed with a small delay in the system. A progress bar is displayed. Please wait until the distribution is done before continuing working. If this is done live for a small group of fixtures, then there should be no delay. If the value is changed in the EditSetup then the values are updated with the show upload.
 
 **Tilt Offset:**
 
@@ -464,7 +464,7 @@ The system will stop all DMX output while the show upload is running.
 
 [[Pages/Patching/DMX and Parameter lists|DMX List]]
 
-[[Pages/Patching/Live patching]]
+[[Pages/Patching/Live patching|Live patching]]
 
 [[Pages/Patching/Multipatching|Multipatch]]
 
@@ -474,6 +474,6 @@ The system will stop all DMX output while the show upload is running.
 
 [[Sections/RDM|RDM devices]]
 
-← [[Pages/Patching/What is 3D and Stage setup]] | [[Pages/Patching/Delete fixtures from the show]] →
+← [[Pages/Patching/What is 3D and Stage setup|What is 3D and Stage setup]] | [[Pages/Patching/Delete fixtures from the show|Delete fixtures from the show]] →
 
-Part of [[Sections/Patching]] · [[000 Map of Content]]
+Part of [[Sections/Patching|Patching]] · [[000 Map of Content]]

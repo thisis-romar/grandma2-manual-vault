@@ -117,6 +117,6 @@ To select the dedicated AMD graphic card:
 
 grandMA2 onPC is using the dedicated AMD graphic card.
 
-← [[Pages/First Steps/Connect grandMA2 fader wing]] | [[Pages/First Steps/Turn on the Console the First Time]] →
+← [[Pages/First Steps/Connect grandMA2 fader wing|Connect grandMA2 fader wing]] | [[Pages/First Steps/Turn on the Console the First Time|Turn on the Console the First Time]] →
 
-Part of [[Sections/First Steps]] · [[000 Map of Content]]
+Part of [[Sections/First Steps|First Steps]] · [[000 Map of Content]]

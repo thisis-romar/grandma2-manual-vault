@@ -44,6 +44,6 @@ The bitmap fixture has 100 images and 100 layouts by default. If you need more t
 
 The bitmap fixture is edited and has 101 images to select. For more information about the smart view, see [[Pages/Operate Fixtures/Using The Smart View|using smart view]].
 
-← [[Pages/Bitmap Fixture/Control bitmap fixture]] | [[Pages/Bitmap Fixture/Example for bitmap fixture]] →
+← [[Pages/Bitmap Fixture/Control bitmap fixture|Control bitmap fixture]] | [[Pages/Bitmap Fixture/Example for bitmap fixture|Example for bitmap fixture]] →
 
-Part of [[Sections/Bitmap Fixture]] · [[000 Map of Content]]
+Part of [[Sections/Bitmap Fixture|Bitmap Fixture]] · [[000 Map of Content]]

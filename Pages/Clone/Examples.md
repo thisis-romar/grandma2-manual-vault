@@ -153,6 +153,6 @@ If you clone fixture type 1 to fixture type 2 with the option **Overwrite**:
 *   This process creates global data for fixture type 2.
 *   Fixture type 2 now does the exact same thing as fixture type 1.
 
-← [[Pages/Clone/Clone In User Interface]] | [[Pages/Clone/Clone Presets]] →
+← [[Pages/Clone/Clone In User Interface|Clone In User Interface]] | [[Pages/Clone/Clone Presets|Clone Presets]] →
 
-Part of [[Sections/Clone]] · [[000 Map of Content]]
+Part of [[Sections/Clone|Clone]] · [[000 Map of Content]]

@@ -117,6 +117,6 @@ If **Off On Overwritten** is _not_ active then the same scenario would be:
 2.  Moving up the second fader will make the fixture turn blue.
 3.  Moving down the second fader will make the fixture red (when the fader is at 0) because the first executor is still active.
 
-← [[Pages/Executors/Looking at the active executors]]
+← [[Pages/Executors/Looking at the active executors|Looking at the active executors]]
 
-Part of [[Sections/Executors]] · [[000 Map of Content]]
+Part of [[Sections/Executors|Executors]] · [[000 Map of Content]]

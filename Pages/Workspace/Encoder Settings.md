@@ -159,6 +159,6 @@ To clear all screens:
 
 All screens are cleared.
 
-← [[Pages/Workspace/Encoder Bar]] | [[Pages/Workspace/Command wing bar]] →
+← [[Pages/Workspace/Encoder Bar|Encoder Bar]] | [[Pages/Workspace/Command wing bar|Command wing bar]] →
 
-Part of [[Sections/Workspace]] · [[000 Map of Content]]
+Part of [[Sections/Workspace|Workspace]] · [[000 Map of Content]]

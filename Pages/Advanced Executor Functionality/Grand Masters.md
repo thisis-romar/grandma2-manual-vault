@@ -45,6 +45,6 @@ The **Grand** is the Grand Master. This has a dedicated physical fader, but can 
 
 The **Snd In or Sound In** is the master for the incoming sound. Read more about this and the **Snd Fade** in the [[Pages/Other System Tools/Sound input window|Sound Input topic]].
 
-← [[Pages/Advanced Executor Functionality/Default Masters]] | [[Pages/Advanced Executor Functionality/Speed Masters]] →
+← [[Pages/Advanced Executor Functionality/Default Masters|Default Masters]] | [[Pages/Advanced Executor Functionality/Speed Masters|Speed Masters]] →
 
-Part of [[Sections/Advanced Executor Functionality]] · [[000 Map of Content]]
+Part of [[Sections/Advanced Executor Functionality|Advanced Executor Functionality]] · [[000 Map of Content]]

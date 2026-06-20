@@ -65,6 +65,6 @@ There are 6 predefined masks in the pool. The following is a short description o
 
 Please read the [[Pages/Worlds Filters and Masks/Create masks|Create Masks topic]] to learn how to create your own and the [[Pages/Worlds Filters and Masks/Use masks in the sheets and windows|Use Masks in sheets topic]] to learn about using the masks in the sheets and Stage window.
 
-← [[Pages/Worlds Filters and Masks/Use temporary filters]] | [[Pages/Worlds Filters and Masks/Create masks]] →
+← [[Pages/Worlds Filters and Masks/Use temporary filters|Use temporary filters]] | [[Pages/Worlds Filters and Masks/Create masks|Create masks]] →
 
-Part of [[Sections/Worlds Filters and Masks]] · [[000 Map of Content]]
+Part of [[Sections/Worlds Filters and Masks|Worlds Filters and Masks]] · [[000 Map of Content]]

@@ -71,9 +71,9 @@ There is also the button that can be used to move the menu to a different screen
 
 Below this there are different tabs. There is always minimum three called "Internal", "Demoshows" and "Templates". There might be more. Each software version installed will have its own tab. This allows the option to load a show from a previous version. It is not possible to save a show from a newer software version in one of the tabs from previous versions.
 
-If a USB stick is connect to the console/onPC, then it will get its own tab. Select this tab will change the default storage drive to the USB stick. Read the [[Pages/Backup Menu/Using a USB stick]] to learn more about specific USB stick handling. 
+If a USB stick is connect to the console/onPC, then it will get its own tab. Select this tab will change the default storage drive to the USB stick. Read the [[Pages/Backup Menu/Using a USB stick|Using a USB stick]] to learn more about specific USB stick handling. 
 
-If a file server is added to the system, then this will also get its own tab. This tab can be selected to save or load shows using the storage space on the server. Read the [[Pages/Backup Menu/Setting up a file server]] to learn more about server setup. 
+If a file server is added to the system, then this will also get its own tab. This tab can be selected to save or load shows using the storage space on the server. Read the [[Pages/Backup Menu/Setting up a file server|Setting up a file server]] to learn more about server setup. 
 
 The selected tab is then the selected "drive" and the location where shows will be saved. The selected drive can also be selected using the command line - it is a command called SelectDrive or just SD - read more about it [[Keywords/SelectDrive|here]].  
 
@@ -154,23 +154,23 @@ Read the following pages to read about the different operations that can be done
 *   [[Pages/Backup Menu/Saving a show|Save show]]
 *   [[Pages/Backup Menu/Saving a show with a new name|Save show as...]]
 *   [[Pages/Backup Menu/Deleting a Show|Delete shows]]
-*   [[Pages/Backup Menu/Using a USB stick]]
-*   [[Pages/Backup Menu/Setting up a file server]]
+*   [[Pages/Backup Menu/Using a USB stick|Using a USB stick]]
+*   [[Pages/Backup Menu/Setting up a file server|Setting up a file server]]
 *   [[Pages/Backup Menu/Partial Show Read|Partial show read]]
 *   [[Pages/Backup Menu/ASCII Show Read|ASCII show read]]
 *   [[Pages/Backup Menu/grandMA2 to grandMA3 Show File Converter|grandMA2 to grandMA3 show file converter]]
 
 ## Pages in This Section
 
-- [[Pages/Backup Menu/Create a new show]]
-- [[Pages/Backup Menu/Loading a show]]
-- [[Pages/Backup Menu/Saving a show]]
-- [[Pages/Backup Menu/Saving a show with a new name]]
-- [[Pages/Backup Menu/Deleting a Show]]
-- [[Pages/Backup Menu/Using a USB stick]]
-- [[Pages/Backup Menu/Setting up a file server]]
-- [[Pages/Backup Menu/Partial Show Read]]
-- [[Pages/Backup Menu/ASCII Show Read]]
-- [[Pages/Backup Menu/grandMA2 to grandMA3 Show File Converter]]
+- [[Pages/Backup Menu/Create a new show|Create a new show]]
+- [[Pages/Backup Menu/Loading a show|Loading a show]]
+- [[Pages/Backup Menu/Saving a show|Saving a show]]
+- [[Pages/Backup Menu/Saving a show with a new name|Saving a show with a new name]]
+- [[Pages/Backup Menu/Deleting a Show|Deleting a Show]]
+- [[Pages/Backup Menu/Using a USB stick|Using a USB stick]]
+- [[Pages/Backup Menu/Setting up a file server|Setting up a file server]]
+- [[Pages/Backup Menu/Partial Show Read|Partial Show Read]]
+- [[Pages/Backup Menu/ASCII Show Read|ASCII Show Read]]
+- [[Pages/Backup Menu/grandMA2 to grandMA3 Show File Converter|grandMA2 to grandMA3 Show File Converter]]
 
 Part of [[000 Map of Content]]

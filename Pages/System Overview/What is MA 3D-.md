@@ -42,6 +42,6 @@ An object in MA 3D can be used as a surface that can display video or images. It
 
 MA 3D can create screenshots. If a video capture is needed, then additional capture software is needed.
 
-← [[Pages/System Overview/What is the Network Dimmer Processor (NDP)-]] | [[Pages/System Overview/What are the MA nodes-]] →
+← [[Pages/System Overview/What is the Network Dimmer Processor (NDP)-|What is the Network Dimmer Processor (NDP)-]] | [[Pages/System Overview/What are the MA nodes-|What are the MA nodes-]] →
 
-Part of [[Sections/System Overview]] · [[000 Map of Content]]
+Part of [[Sections/System Overview|System Overview]] · [[000 Map of Content]]

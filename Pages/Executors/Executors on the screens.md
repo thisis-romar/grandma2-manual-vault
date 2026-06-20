@@ -128,6 +128,6 @@ Read about the Channel Faders in the [[Pages/Advanced Executor Functionality/Cha
 
 The options look and functions exactly as the Playback Big options. Please read the description above.
 
-← [[Pages/Executors/What are executors]] | [[Pages/Executors/Assign a function]] →
+← [[Pages/Executors/What are executors|What are executors]] | [[Pages/Executors/Assign a function|Assign a function]] →
 
-Part of [[Sections/Executors]] · [[000 Map of Content]]
+Part of [[Sections/Executors|Executors]] · [[000 Map of Content]]

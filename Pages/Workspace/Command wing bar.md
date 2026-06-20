@@ -61,6 +61,6 @@ The command wing bar is visible at the bottom of screen 2, left beside the encod
 
 _Command wing bar grandMA2 onPC_
 
-← [[Pages/Workspace/Encoder Settings]] | [[Pages/Workspace/Command Section]] →
+← [[Pages/Workspace/Encoder Settings|Encoder Settings]] | [[Pages/Workspace/Command Section|Command Section]] →
 
-Part of [[Sections/Workspace]] · [[000 Map of Content]]
+Part of [[Sections/Workspace|Workspace]] · [[000 Map of Content]]

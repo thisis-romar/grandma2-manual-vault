@@ -33,9 +33,9 @@ To create a chaser, create a sequence with at least 2 cues assigned to an execu
 
 The mini executor is now cyan.
 
-It is possible to change the functions of keys and fader associated with the Executor. For more information, see [[Pages/Executors/Assign a function]].
+It is possible to change the functions of keys and fader associated with the Executor. For more information, see [[Pages/Executors/Assign a function|Assign a function]].
 
-All timing and loop information in the sequence is ignored. Commands (CMD) are executed and the **CMD Delay** is the only timing from the sequence that is actually used. For more information, see​ [[Pages/Command Syntax and Keywords/Commands in cues]].
+All timing and loop information in the sequence is ignored. Commands (CMD) are executed and the **CMD Delay** is the only timing from the sequence that is actually used. For more information, see​ [[Pages/Command Syntax and Keywords/Commands in cues|Commands in cues]].
 
 * * *
 
@@ -45,6 +45,6 @@ All timing and loop information in the sequence is ignored. Commands (CMD) are e
 *   To **stop** the chaser, press Off and one of the keys associated with the executor. To fade out the chaser, press Off Time and the fade time in seconds, for example 5.
 *   To **pause** the chaser, press Pause. The chaser stops in the current step and contains the output from this step. To start the chaser again, press Pause once more.
 
-[[Pages/Chasers/Chaser settings]] →
+[[Pages/Chasers/Chaser settings|Chaser settings]] →
 
-Part of [[Sections/Chasers]] · [[000 Map of Content]]
+Part of [[Sections/Chasers|Chasers]] · [[000 Map of Content]]

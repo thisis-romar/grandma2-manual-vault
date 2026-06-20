@@ -26,7 +26,7 @@ To get the All keyword in the command line type **All** in the command line.
 
 All is a function used to set the MAtricks property Single X to _none (0)_, which means to reselect all fixtures, (or reselect all columns of fixtures, if Interleave is active).
 
-For more information see [[Sections/MAtricks]].
+For more information see [[Sections/MAtricks|MAtricks]].
 
 ## Syntax
 

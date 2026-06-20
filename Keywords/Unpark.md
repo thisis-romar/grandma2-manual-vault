@@ -59,7 +59,7 @@ Unpark \[Attributes-list\]
 ## Related Links
 
 *   [[Keywords/Park|Park Keyword]]
-*   [[Keys/Go + Key (small)]]
-*   [[Pages/Workspace/Command Line]]
+*   [[Keys/Go + Key (small)|Go + Key (small)]]
+*   [[Pages/Workspace/Command Line|Command Line]]
 
 Part of [[000 Keyword Index]] · [[000 Map of Content]]

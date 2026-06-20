@@ -54,6 +54,6 @@ In the last example we did not need the quotation marks. They are needed if the 
 
 The asterisk can also be used in front of the name. If there are several groups with the word **cold** in the name and all of them needs to go to 60, then write the following g \*cold\* at 60.
 
-← [[Pages/Groups/Auto Create groups]] | [[Pages/Groups/Choose copy method]] →
+← [[Pages/Groups/Auto Create groups|Auto Create groups]] | [[Pages/Groups/Choose copy method|Choose copy method]] →
 
-Part of [[Sections/Groups]] · [[000 Map of Content]]
+Part of [[Sections/Groups|Groups]] · [[000 Map of Content]]

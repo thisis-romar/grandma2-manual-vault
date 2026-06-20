@@ -70,6 +70,6 @@ The keyboard shortcut is added.
 
 The keyboard shortcut is deleted.
 
-← [[Pages/Workspace/Edit keyboard shortcuts]] | [[Pages/Workspace/Export or import keyboard shortcuts]] →
+← [[Pages/Workspace/Edit keyboard shortcuts|Edit keyboard shortcuts]] | [[Pages/Workspace/Export or import keyboard shortcuts|Export or import keyboard shortcuts]] →
 
-Part of [[Sections/Workspace]] · [[000 Map of Content]]
+Part of [[Sections/Workspace|Workspace]] · [[000 Map of Content]]

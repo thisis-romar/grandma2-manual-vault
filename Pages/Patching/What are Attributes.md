@@ -35,6 +35,6 @@ The grandMA2 have a lot of predefined attributes. You can make your own and you 
 
 For more details about all this please have a look at [[Pages/Basic Fixture Types/What are Attributes, Features & Preset Types|What are attributes, features & preset types]] under the [[Sections/Basic Fixture Types|Basic Fixture types]] topic.
 
-[[Pages/Patching/What are DMX breaks]] →
+[[Pages/Patching/What are DMX breaks|What are DMX breaks]] →
 
-Part of [[Sections/Patching]] · [[000 Map of Content]]
+Part of [[Sections/Patching|Patching]] · [[000 Map of Content]]

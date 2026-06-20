@@ -30,9 +30,9 @@ The different sheets in the console have many options. A lot of them are shared 
 
 The sheets are described in the different sections where they are relevant. Follow the links below to read about the individual sheet.
 
-*   [[Pages/Operate Fixtures/Channel Sheet]]
-*   [[Pages/Patching/DMX Sheet]]
-*   [[Pages/Operate Fixtures/Fixture Sheet]]
+*   [[Pages/Operate Fixtures/Channel Sheet|Channel Sheet]]
+*   [[Pages/Patching/DMX Sheet|DMX Sheet]]
+*   [[Pages/Operate Fixtures/Fixture Sheet|Fixture Sheet]]
 *   [[Pages/Command Syntax and Keywords/Looking at the cue content|Sequence Content Sheet]]
 *   [[Pages/Command Syntax and Keywords/Looking at the Cue Sequence|Sequence Executor Sheet]]
 *   [[Pages/Command Syntax and Keywords/Looking at the cue content|Sequence Tracking Sheet]]
@@ -69,13 +69,13 @@ Please read the following subtopics to learn more about the different options.
 
 #### Sub topics
 
-*   [[Pages/Operate Fixtures/Tools]]
-*   [[Pages/Operate Fixtures/Layer mask]]
-*   [[Pages/Operate Fixtures/Display]]
-*   [[Pages/Operate Fixtures/Title buttons]]
-*   [[Pages/Operate Fixtures/Assign executor]]
-*   [[Pages/Operate Fixtures/Mask (local)]]
+*   [[Pages/Operate Fixtures/Tools|Tools]]
+*   [[Pages/Operate Fixtures/Layer mask|Layer mask]]
+*   [[Pages/Operate Fixtures/Display|Display]]
+*   [[Pages/Operate Fixtures/Title buttons|Title buttons]]
+*   [[Pages/Operate Fixtures/Assign executor|Assign executor]]
+*   [[Pages/Operate Fixtures/Mask (local)|Mask (local)]]
 
-← [[Pages/Operate Fixtures/Fixture Sheet]] | [[Pages/Operate Fixtures/Layer in Sheets]] →
+← [[Pages/Operate Fixtures/Fixture Sheet|Fixture Sheet]] | [[Pages/Operate Fixtures/Layer in Sheets|Layer in Sheets]] →
 
-Part of [[Sections/Operate Fixtures]] · [[000 Map of Content]]
+Part of [[Sections/Operate Fixtures|Operate Fixtures]] · [[000 Map of Content]]

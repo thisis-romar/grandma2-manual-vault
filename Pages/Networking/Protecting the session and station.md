@@ -59,6 +59,6 @@ It is up to the user to decide what the system should do by toggling Autojoin in
 
 It is not all devices that prompts a show upload. Nodes are generally just listening to the network traffic, and do not need a show upload.
 
-← [[Pages/Networking/How to create a session]] | [[Pages/Networking/Adding devices to the session]] →
+← [[Pages/Networking/How to create a session|How to create a session]] | [[Pages/Networking/Adding devices to the session|Adding devices to the session]] →
 
-Part of [[Sections/Networking]] · [[000 Map of Content]]
+Part of [[Sections/Networking|Networking]] · [[000 Map of Content]]

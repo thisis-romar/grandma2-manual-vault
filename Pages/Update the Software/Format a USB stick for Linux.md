@@ -53,6 +53,6 @@ To format a USB stick for a later grandMA2 update:
 
 The USB stick is formatted into a Linux USB stick and ready for a grandMA2 update or a factory reset.
 
-← [[Pages/Update the Software/Update via setup]] | [[Pages/Update the Software/Update or factory reset via boot menu]] →
+← [[Pages/Update the Software/Update via setup|Update via setup]] | [[Pages/Update the Software/Update or factory reset via boot menu|Update or factory reset via boot menu]] →
 
-Part of [[Sections/Update the Software]] · [[000 Map of Content]]
+Part of [[Sections/Update the Software|Update the Software]] · [[000 Map of Content]]

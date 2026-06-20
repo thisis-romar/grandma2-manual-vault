@@ -87,6 +87,6 @@ The following example explains how to reset an RDM sensor. This is also the way
 
 You have reset a sensor.
 
-← [[Pages/RDM/Work with RDM parameters]] | [[Pages/RDM/Configure RDM notifications]] →
+← [[Pages/RDM/Work with RDM parameters|Work with RDM parameters]] | [[Pages/RDM/Configure RDM notifications|Configure RDM notifications]] →
 
-Part of [[Sections/RDM]] · [[000 Map of Content]]
+Part of [[Sections/RDM|RDM]] · [[000 Map of Content]]

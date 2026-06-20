@@ -27,13 +27,13 @@ Version 3.9
 
 This topic illustrates how to use MAtricksGroups based on an example. 
 
-For information on the keyword see [[Keywords/MAtricksGroups]]. 
+For information on the keyword see [[Keywords/MAtricksGroups|MAtricksGroups]]. 
 
 **Requirement:**
 
 *   Fixtures are selected via the command line or keys. 
 
-For more information on how to select fixtures for the usage of MAtricks see [[Sections/MAtricks]]. 
+For more information on how to select fixtures for the usage of MAtricks see [[Sections/MAtricks|MAtricks]]. 
 
 ### 1\. Example
 
@@ -136,6 +136,6 @@ The fan starts in the first group and fans out toward the third group. 
 
 The fan function is set within the group.
 
-← [[Pages/MAtricks/MAtricks Wings]]
+← [[Pages/MAtricks/MAtricks Wings|MAtricks Wings]]
 
-Part of [[Sections/MAtricks]] · [[000 Map of Content]]
+Part of [[Sections/MAtricks|MAtricks]] · [[000 Map of Content]]

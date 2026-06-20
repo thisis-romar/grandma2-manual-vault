@@ -195,6 +195,6 @@ It has three options:
 **Hint:**  
 If the show has not been structurally changed or has not been reloaded, it is possible to open the Partial Show Read again without preparing it first. For example, entering **Patch & Fixture Schedule** forces a new PSR Prepare.
 
-← [[Pages/Partial Show Read/What is Partial Show Read (PSR)]]
+← [[Pages/Partial Show Read/What is Partial Show Read (PSR)|What is Partial Show Read (PSR)]]
 
-Part of [[Sections/Partial Show Read]] · [[000 Map of Content]]
+Part of [[Sections/Partial Show Read|Partial Show Read]] · [[000 Map of Content]]

@@ -32,7 +32,7 @@ ToZero is a function keyword.
 
 **Important:**  
 ToZero sets only masterlevels to zero and NOT e.g. speedmaster or crossfader.  
-To set all faders to zero, use the [[Keywords/At keyword]].
+To set all faders to zero, use the [[Keywords/At keyword|At keyword]].
 
 ## Syntax
 

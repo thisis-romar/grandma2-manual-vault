@@ -57,6 +57,6 @@ _Pop-up assign preset_
 5.  Choose the special mode you would like to save your preset as.
 6.  After choosing a special mode, apply the fixtures to be modified with this preset.
 
-[[Pages/Presets/Preset Pools]] →
+[[Pages/Presets/Preset Pools|Preset Pools]] →
 
-Part of [[Sections/Presets]] · [[000 Map of Content]]
+Part of [[Sections/Presets|Presets]] · [[000 Map of Content]]

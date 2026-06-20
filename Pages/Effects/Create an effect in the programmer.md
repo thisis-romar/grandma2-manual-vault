@@ -87,6 +87,6 @@ _Pop-up – effect value containing programmer values_
 
 The effect is now saved in the pool or in a cue.
 
-← [[Pages/Effects/Use Template and Selective Effects]] | [[Pages/Effects/Create an Effect that Uses Presets]] →
+← [[Pages/Effects/Use Template and Selective Effects|Use Template and Selective Effects]] | [[Pages/Effects/Create an Effect that Uses Presets|Create an Effect that Uses Presets]] →
 
-Part of [[Sections/Effects]] · [[000 Map of Content]]
+Part of [[Sections/Effects|Effects]] · [[000 Map of Content]]

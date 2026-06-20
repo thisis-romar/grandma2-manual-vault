@@ -81,7 +81,7 @@ This will display the selected timecode in gray digits. If the timecode is r
 
 _Timecode window_
 
-For more information about **Timecodes** see the [[Sections/Timecode]] topic.
+For more information about **Timecodes** see the [[Sections/Timecode|Timecode]] topic.
 
 In the top of the window, there are four different action buttons:
 
@@ -98,7 +98,7 @@ These can be used to control the internal **Timecode** generator.
 
 Use **Link Selected Timecode** button to select one of the 8 timecode slots as default or the selected slot.
 
-For more information about timecodes see the [[Sections/Timecode]] topic.
+For more information about timecodes see the [[Sections/Timecode|Timecode]] topic.
 
 ## Timer
 
@@ -120,6 +120,6 @@ To **Reset** the timer, tap the reset key or enter the following syntax in the c
 
 For more information about Timers see the [[Sections/Timer|Timers]] topics
 
-← [[Pages/Other System Tools/Help]] | [[Pages/Other System Tools/Sound input window]] →
+← [[Pages/Other System Tools/Help|Help]] | [[Pages/Other System Tools/Sound input window|Sound input window]] →
 
-Part of [[Sections/Other System Tools]] · [[000 Map of Content]]
+Part of [[Sections/Other System Tools|Other System Tools]] · [[000 Map of Content]]

@@ -84,6 +84,6 @@ For more information on the DMX Fail Mode see [[Pages/Networking/Setting up DMX 
 
 The configuration settings have now been applied to the node.
 
-← [[Pages/Control MA xPort Nodes/Add the MA xPort Nodes to the Network Configuration]] | [[Pages/Control MA xPort Nodes/Configure the MA xPort Nodes in a Browser]] →
+← [[Pages/Control MA xPort Nodes/Add the MA xPort Nodes to the Network Configuration|Add the MA xPort Nodes to the Network Configuration]] | [[Pages/Control MA xPort Nodes/Configure the MA xPort Nodes in a Browser|Configure the MA xPort Nodes in a Browser]] →
 
-Part of [[Sections/Control MA xPort Nodes]] · [[000 Map of Content]]
+Part of [[Sections/Control MA xPort Nodes|Control MA xPort Nodes]] · [[000 Map of Content]]

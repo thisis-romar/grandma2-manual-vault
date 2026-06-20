@@ -24,10 +24,10 @@ To enter @ into the command line press and hold Shift + 2.
 
 ## Description
 
-The character @ functions as a place holder for user input in front or in the end of a macro line. For more information see [[Pages/Macros/Command line interaction]]. 
+The character @ functions as a place holder for user input in front or in the end of a macro line. For more information see [[Pages/Macros/Command line interaction|Command line interaction]]. 
 
 **Important:**  
-If you enter the character @ in the front of a macro line, you have to disable CLI (= command line interaction) in the macro. For more information see [[Pages/Macros/Command line interaction]]. If CLI is enabled, the macro line does not work.
+If you enter the character @ in the front of a macro line, you have to disable CLI (= command line interaction) in the macro. For more information see [[Pages/Macros/Command line interaction|Command line interaction]]. If CLI is enabled, the macro line does not work.
 
 ## Examples
 

@@ -52,7 +52,7 @@ Store a view at key X1.
 ## Related Links
 
 *   [[Keywords/ViewPage|ViewPage Keyword]]
-*   [[Keys/View Key]]
+*   [[Keys/View Key|View Key]]
 *   [[Keys/V1 - V10 Keys|V-Keys]]
 *   [[Keys/X1 - X20 Keys|X-Keys]]
 

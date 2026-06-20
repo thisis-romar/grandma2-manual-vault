@@ -128,7 +128,7 @@ The Edit Color pop-up opens.
 Preset object 1 has a red frame around it.
 
 **Hint:**  
-Executors display the appearance of objects assigned. To view the appearance of objects on executors, open **Playback big**. For more information see [[Pages/Executors/Executors on the screens]]. 
+Executors display the appearance of objects assigned. To view the appearance of objects on executors, open **Playback big**. For more information see [[Pages/Executors/Executors on the screens|Executors on the screens]]. 
 
 ## Example: 2 - Change Frame Color of Several Objects
 

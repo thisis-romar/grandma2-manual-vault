@@ -40,7 +40,7 @@ For more information see [[Pages/Networking/Adding devices to the session|Adding
 
 For more information on how to access the different views see [[Pages/Other System Tools/Network Dimmer|Network dimmer]]. 
 
-For more information on the display of various views see [[Pages/Other System Tools/Views]]. 
+For more information on the display of various views see [[Pages/Other System Tools/Views|Views]]. 
 
 ![](../../img/window_error_normal-view_v3-3.png)
 
@@ -83,6 +83,6 @@ _Confirm errors_
 
 4.  To toggle the error back to red, tap Confirm Errors once again.
 
-← [[Pages/Other System Tools/Views]] | [[Pages/Other System Tools/Readout]] →
+← [[Pages/Other System Tools/Views|Views]] | [[Pages/Other System Tools/Readout|Readout]] →
 
-Part of [[Sections/Other System Tools]] · [[000 Map of Content]]
+Part of [[Sections/Other System Tools|Other System Tools]] · [[000 Map of Content]]

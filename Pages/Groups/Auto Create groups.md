@@ -122,6 +122,6 @@ This will store the new content (group, world, preset, or channel page) at the f
 
 This will store the content at the pool object after the currently last used pool object. For example if the highest group number you have is 11 then it will create group 12.
 
-← [[Pages/Groups/Create groups]] | [[Pages/Groups/Using groups when programming]] →
+← [[Pages/Groups/Create groups|Create groups]] | [[Pages/Groups/Using groups when programming|Using groups when programming]] →
 
-Part of [[Sections/Groups]] · [[000 Map of Content]]
+Part of [[Sections/Groups|Groups]] · [[000 Map of Content]]
