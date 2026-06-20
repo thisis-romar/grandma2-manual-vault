@@ -20,7 +20,7 @@ import pLimit from 'p-limit';
 import { promises as fs } from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
-import { rewriteInternalLinks } from './lib/internal-links.js';
+import { rewriteInternalLinks, aliasPathWikilinks } from './lib/internal-links.js';
 
 // ─── Config ──────────────────────────────────────────────────────────────────
 
@@ -604,7 +604,12 @@ function buildQuickStartNote(entry, content) {
 async function writeNote(relPath, content) {
   const fullPath = path.join(VAULT_ROOT, relPath);
   await fs.mkdir(path.dirname(fullPath), { recursive: true });
-  await fs.writeFile(fullPath, content, 'utf8');
+  // Alias path-qualified BODY wikilinks (footers/nav included) so links read as
+  // clean labels on the github-browse branch — frontmatter typed relations stay
+  // bare. Same helper as scripts/alias-sublinks.js (zero drift).
+  const m = content.match(/^(---\r?\n[\s\S]*?\r?\n---\r?\n?)([\s\S]*)$/);
+  const aliased = m ? m[1] + aliasPathWikilinks(m[2]).text : aliasPathWikilinks(content).text;
+  await fs.writeFile(fullPath, aliased, 'utf8');
 }
 
 // ─── Main ─────────────────────────────────────────────────────────────────────
