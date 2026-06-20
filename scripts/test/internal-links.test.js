@@ -3,7 +3,11 @@
  */
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { INTERNAL_HTML_LINK_RE, rewriteInternalLinks } from '../lib/internal-links.js';
+import {
+  INTERNAL_HTML_LINK_RE,
+  rewriteInternalLinks,
+  aliasPathWikilinks,
+} from '../lib/internal-links.js';
 
 const index = new Map([
   ['key_keyword_buttonpage', 'Keywords/ButtonPage keyword'],
@@ -96,4 +100,35 @@ test('leaves external (scheme) links and images untouched', () => {
 test('INTERNAL_HTML_LINK_RE matches a raw internal link but not a scheme URL', () => {
   assert.match('[a](key_foo.html)', new RegExp(INTERNAL_HTML_LINK_RE.source));
   assert.doesNotMatch('[a](https://x/key_foo.html)', new RegExp(INTERNAL_HTML_LINK_RE.source));
+});
+
+// ─── aliasPathWikilinks (sublink display fix) ────────────────────────────────
+
+test('aliasPathWikilinks adds a basename alias to a bare path-qualified link', () => {
+  const { text, aliased } = aliasPathWikilinks('see [[Keywords/Assign keyword]] now');
+  assert.equal(text, 'see [[Keywords/Assign keyword|Assign keyword]] now');
+  assert.equal(aliased, 1);
+});
+
+test('aliasPathWikilinks leaves an already-aliased link unchanged', () => {
+  const src = '[[Keywords/Label|Label keyword]]';
+  assert.equal(aliasPathWikilinks(src).text, src);
+  assert.equal(aliasPathWikilinks(src).aliased, 0);
+});
+
+test('aliasPathWikilinks leaves a bare root link (no slash) unchanged', () => {
+  const src = 'Part of [[000 Map of Content]]';
+  assert.equal(aliasPathWikilinks(src).text, src);
+});
+
+test('aliasPathWikilinks leaves an un-aliasable bracketed basename bare', () => {
+  const src = 'see [[Keywords/+ [Plus] keyword]] x';
+  const { text, skipped } = aliasPathWikilinks(src);
+  assert.equal(text, src);
+  assert.equal(skipped, 1);
+});
+
+test('aliasPathWikilinks preserves an anchor on the target, aliasing to the basename', () => {
+  const { text } = aliasPathWikilinks('[[Pages/Patching/Stage View#Setup]]');
+  assert.equal(text, '[[Pages/Patching/Stage View#Setup|Stage View]]');
 });

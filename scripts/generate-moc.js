@@ -8,6 +8,7 @@ import { promises as fs } from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
 import { computeStats, updateReadme } from './stats.js';
+import { aliasPathWikilinks } from './lib/internal-links.js';
 
 const VAULT_ROOT_DEFAULT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 
@@ -25,10 +26,12 @@ export async function generateMOC(vaultRoot = VAULT_ROOT_DEFAULT, _allEntries = 
     sectionFiles = sectionFiles.filter((f) => f.endsWith('.md'));
   } catch {}
 
-  const sectionLinks = sectionFiles
-    .map((f) => `- [[Sections/${f.replace('.md', '')}]]`)
-    .sort()
-    .join('\n');
+  const sectionLinks = aliasPathWikilinks(
+    sectionFiles
+      .map((f) => `- [[Sections/${f.replace('.md', '')}]]`)
+      .sort()
+      .join('\n'),
+  ).text;
 
   const mocContent = `---
 type: moc
@@ -80,10 +83,12 @@ ${sectionLinks || '*No sections generated yet. Run npm run obsidian.*'}
     kwFiles = kwFiles.filter((f) => f.endsWith('.md'));
   } catch {}
 
-  const kwLinks = kwFiles
-    .sort((a, b) => a.localeCompare(b, undefined, { sensitivity: 'base' }))
-    .map((f) => `- [[Keywords/${f.replace('.md', '')}]]`)
-    .join('\n');
+  const kwLinks = aliasPathWikilinks(
+    kwFiles
+      .sort((a, b) => a.localeCompare(b, undefined, { sensitivity: 'base' }))
+      .map((f) => `- [[Keywords/${f.replace('.md', '')}]]`)
+      .join('\n'),
+  ).text;
 
   const kwIndexContent = `---
 type: moc
@@ -115,10 +120,12 @@ Part of [[000 Map of Content]]
     keyFiles = keyFiles.filter((f) => f.endsWith('.md'));
   } catch {}
 
-  const keyLinks = keyFiles
-    .sort()
-    .map((f) => `- [[Keys/${f.replace('.md', '')}]]`)
-    .join('\n');
+  const keyLinks = aliasPathWikilinks(
+    keyFiles
+      .sort()
+      .map((f) => `- [[Keys/${f.replace('.md', '')}]]`)
+      .join('\n'),
+  ).text;
 
   const keyIndexContent = `---
 type: moc
