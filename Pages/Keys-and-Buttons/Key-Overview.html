@@ -1,0 +1,861 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr"><head><title>Key Overview</title><meta charset="utf-8"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com"/><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Schibsted Grotesk:wght@400;700&amp;family=Source Sans Pro:ital,wght@0,400;0,600;1,400;1,600&amp;family=IBM Plex Mono:wght@400;600&amp;display=swap"/><link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin="anonymous"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta name="og:site_name" content="grandMA2 Manual Vault"/><meta property="og:title" content="Key Overview"/><meta property="og:type" content="website"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="Key Overview"/><meta name="twitter:description" content="Key Overview Source MA Lighting Help – Key Overview Version 3.9 Key Overview This overview displays shortcuts for a quick execution of commands."/><meta property="og:description" content="Key Overview Source MA Lighting Help – Key Overview Version 3.9 Key Overview This overview displays shortcuts for a quick execution of commands."/><meta property="og:image:alt" content="Key Overview Source MA Lighting Help – Key Overview Version 3.9 Key Overview This overview displays shortcuts for a quick execution of commands."/><meta property="twitter:domain" content="quartz.jzhao.xyz"/><meta property="og:url" content="https://quartz.jzhao.xyz/Pages/Keys-and-Buttons/Key-Overview"/><meta property="twitter:url" content="https://quartz.jzhao.xyz/Pages/Keys-and-Buttons/Key-Overview"/><link rel="icon" href="../../static/icon.png"/><meta name="description" content="Key Overview Source MA Lighting Help – Key Overview Version 3.9 Key Overview This overview displays shortcuts for a quick execution of commands."/><meta name="generator" content="Quartz"/><link href="../../index.css" rel="stylesheet" type="text/css" spa-preserve/><style>.expand-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  right: 0;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.expand-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.expand-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.expand-button:focus {
+  outline: 0;
+}
+
+pre:hover > .expand-button {
+  opacity: 1;
+  transition: 0.2s;
+}
+
+#mermaid-container {
+  position: fixed;
+  contain: layout;
+  z-index: 999;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  display: none;
+  backdrop-filter: blur(4px);
+  background: rgba(0, 0, 0, 0.5);
+}
+#mermaid-container.active {
+  display: inline-block;
+}
+#mermaid-container > #mermaid-space {
+  border: 1px solid var(--lightgray);
+  background-color: var(--light);
+  border-radius: 5px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 80vh;
+  width: 80vw;
+  overflow: hidden;
+}
+#mermaid-container > #mermaid-space > .mermaid-content {
+  padding: 2rem;
+  position: relative;
+  transform-origin: 0 0;
+  transition: transform 0.1s ease;
+  overflow: visible;
+  min-height: 200px;
+  min-width: 200px;
+}
+#mermaid-container > #mermaid-space > .mermaid-content pre {
+  margin: 0;
+  border: none;
+}
+#mermaid-container > #mermaid-space > .mermaid-content svg {
+  max-width: none;
+  height: auto;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  display: flex;
+  gap: 8px;
+  padding: 8px;
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  z-index: 2;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  border: 1px solid var(--lightgray);
+  background: var(--light);
+  color: var(--dark);
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  font-family: var(--bodyFont);
+  transition: all 0.2s ease;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:hover {
+  background: var(--lightgray);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:active {
+  transform: translateY(1px);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:nth-child(2) {
+  width: auto;
+  padding: 0 12px;
+  font-size: 14px;
+}
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VSb290IjoiL2hvbWUvcnVubmVyL3dvcmsvZ3JhbmRtYTItbWFudWFsLXZhdWx0L2dyYW5kbWEyLW1hbnVhbC12YXVsdC9fcXVhcnR6L3F1YXJ0ei9jb21wb25lbnRzL3N0eWxlcyIsInNvdXJjZXMiOlsibWVybWFpZC5pbmxpbmUuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNFO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7RUFDQTs7QUFHRjtFQUNFO0VBQ0E7O0FBR0Y7RUFDRTs7O0FBS0Y7RUFDRTtFQUNBOzs7QUFJSjtFQUNFO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7O0FBRUE7RUFDRTs7QUFHRjtFQUNFO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7O0FBRUE7RUFDRTtFQUNBOztBQUdGO0VBQ0U7RUFDQTs7QUFJSjtFQUNFO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7O0FBRUE7RUFDRTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7O0FBR0Y7RUFDRTs7QUFJRjtFQUNFO0VBQ0E7RUFDQSIsInNvdXJjZXNDb250ZW50IjpbIi5leHBhbmQtYnV0dG9uIHtcbiAgcG9zaXRpb246IGFic29sdXRlO1xuICBkaXNwbGF5OiBmbGV4O1xuICBmbG9hdDogcmlnaHQ7XG4gIHBhZGRpbmc6IDAuNHJlbTtcbiAgbWFyZ2luOiAwLjNyZW07XG4gIHJpZ2h0OiAwOyAvLyBOT1RFOiByaWdodCB3aWxsIGJlIHNldCBpbiBtZXJtYWlkLmlubGluZS50c1xuICBjb2xvcjogdmFyKC0tZ3JheSk7XG4gIGJvcmRlci1jb2xvcjogdmFyKC0tZGFyayk7XG4gIGJhY2tncm91bmQtY29sb3I6IHZhcigtLWxpZ2h0KTtcbiAgYm9yZGVyOiAxcHggc29saWQ7XG4gIGJvcmRlci1yYWRpdXM6IDVweDtcbiAgb3BhY2l0eTogMDtcbiAgdHJhbnNpdGlvbjogMC4ycztcblxuICAmID4gc3ZnIHtcbiAgICBmaWxsOiB2YXIoLS1saWdodCk7XG4gICAgZmlsdGVyOiBjb250cmFzdCgwLjMpO1xuICB9XG5cbiAgJjpob3ZlciB7XG4gICAgY3Vyc29yOiBwb2ludGVyO1xuICAgIGJvcmRlci1jb2xvcjogdmFyKC0tc2Vjb25kYXJ5KTtcbiAgfVxuXG4gICY6Zm9jdXMge1xuICAgIG91dGxpbmU6IDA7XG4gIH1cbn1cblxucHJlIHtcbiAgJjpob3ZlciA+IC5leHBhbmQtYnV0dG9uIHtcbiAgICBvcGFjaXR5OiAxO1xuICAgIHRyYW5zaXRpb246IDAuMnM7XG4gIH1cbn1cblxuI21lcm1haWQtY29udGFpbmVyIHtcbiAgcG9zaXRpb246IGZpeGVkO1xuICBjb250YWluOiBsYXlvdXQ7XG4gIHotaW5kZXg6IDk5OTtcbiAgbGVmdDogMDtcbiAgdG9wOiAwO1xuICB3aWR0aDogMTAwdnc7XG4gIGhlaWdodDogMTAwdmg7XG4gIG92ZXJmbG93OiBoaWRkZW47XG4gIGRpc3BsYXk6IG5vbmU7XG4gIGJhY2tkcm9wLWZpbHRlcjogYmx1cig0cHgpO1xuICBiYWNrZ3JvdW5kOiByZ2JhKDAsIDAsIDAsIDAuNSk7XG5cbiAgJi5hY3RpdmUge1xuICAgIGRpc3BsYXk6IGlubGluZS1ibG9jaztcbiAgfVxuXG4gICYgPiAjbWVybWFpZC1zcGFjZSB7XG4gICAgYm9yZGVyOiAxcHggc29saWQgdmFyKC0tbGlnaHRncmF5KTtcbiAgICBiYWNrZ3JvdW5kLWNvbG9yOiB2YXIoLS1saWdodCk7XG4gICAgYm9yZGVyLXJhZGl1czogNXB4O1xuICAgIHBvc2l0aW9uOiBmaXhlZDtcbiAgICB0b3A6IDUwJTtcbiAgICBsZWZ0OiA1MCU7XG4gICAgdHJhbnNmb3JtOiB0cmFuc2xhdGUoLTUwJSwgLTUwJSk7XG4gICAgaGVpZ2h0OiA4MHZoO1xuICAgIHdpZHRoOiA4MHZ3O1xuICAgIG92ZXJmbG93OiBoaWRkZW47XG5cbiAgICAmID4gLm1lcm1haWQtY29udGVudCB7XG4gICAgICBwYWRkaW5nOiAycmVtO1xuICAgICAgcG9zaXRpb246IHJlbGF0aXZlO1xuICAgICAgdHJhbnNmb3JtLW9yaWdpbjogMCAwO1xuICAgICAgdHJhbnNpdGlvbjogdHJhbnNmb3JtIDAuMXMgZWFzZTtcbiAgICAgIG92ZXJmbG93OiB2aXNpYmxlO1xuICAgICAgbWluLWhlaWdodDogMjAwcHg7XG4gICAgICBtaW4td2lkdGg6IDIwMHB4O1xuXG4gICAgICBwcmUge1xuICAgICAgICBtYXJnaW46IDA7XG4gICAgICAgIGJvcmRlcjogbm9uZTtcbiAgICAgIH1cblxuICAgICAgc3ZnIHtcbiAgICAgICAgbWF4LXdpZHRoOiBub25lO1xuICAgICAgICBoZWlnaHQ6IGF1dG87XG4gICAgICB9XG4gICAgfVxuXG4gICAgJiA+IC5tZXJtYWlkLWNvbnRyb2xzIHtcbiAgICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTtcbiAgICAgIGJvdHRvbTogMjBweDtcbiAgICAgIHJpZ2h0OiAyMHB4O1xuICAgICAgZGlzcGxheTogZmxleDtcbiAgICAgIGdhcDogOHB4O1xuICAgICAgcGFkZGluZzogOHB4O1xuICAgICAgYmFja2dyb3VuZDogdmFyKC0tbGlnaHQpO1xuICAgICAgYm9yZGVyOiAxcHggc29saWQgdmFyKC0tbGlnaHRncmF5KTtcbiAgICAgIGJvcmRlci1yYWRpdXM6IDZweDtcbiAgICAgIGJveC1zaGFkb3c6IDAgMnB4IDRweCByZ2JhKDAsIDAsIDAsIDAuMSk7XG4gICAgICB6LWluZGV4OiAyO1xuXG4gICAgICAubWVybWFpZC1jb250cm9sLWJ1dHRvbiB7XG4gICAgICAgIGRpc3BsYXk6IGZsZXg7XG4gICAgICAgIGFsaWduLWl0ZW1zOiBjZW50ZXI7XG4gICAgICAgIGp1c3RpZnktY29udGVudDogY2VudGVyO1xuICAgICAgICB3aWR0aDogMzJweDtcbiAgICAgICAgaGVpZ2h0OiAzMnB4O1xuICAgICAgICBwYWRkaW5nOiAwO1xuICAgICAgICBib3JkZXI6IDFweCBzb2xpZCB2YXIoLS1saWdodGdyYXkpO1xuICAgICAgICBiYWNrZ3JvdW5kOiB2YXIoLS1saWdodCk7XG4gICAgICAgIGNvbG9yOiB2YXIoLS1kYXJrKTtcbiAgICAgICAgYm9yZGVyLXJhZGl1czogNHB4O1xuICAgICAgICBjdXJzb3I6IHBvaW50ZXI7XG4gICAgICAgIGZvbnQtc2l6ZTogMTZweDtcbiAgICAgICAgZm9udC1mYW1pbHk6IHZhcigtLWJvZHlGb250KTtcbiAgICAgICAgdHJhbnNpdGlvbjogYWxsIDAuMnMgZWFzZTtcblxuICAgICAgICAmOmhvdmVyIHtcbiAgICAgICAgICBiYWNrZ3JvdW5kOiB2YXIoLS1saWdodGdyYXkpO1xuICAgICAgICB9XG5cbiAgICAgICAgJjphY3RpdmUge1xuICAgICAgICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlWSgxcHgpO1xuICAgICAgICB9XG5cbiAgICAgICAgLy8gU3R5bGUgdGhlIHJlc2V0IGJ1dHRvbiBkaWZmZXJlbnRseVxuICAgICAgICAmOm50aC1jaGlsZCgyKSB7XG4gICAgICAgICAgd2lkdGg6IGF1dG87XG4gICAgICAgICAgcGFkZGluZzogMCAxMnB4O1xuICAgICAgICAgIGZvbnQtc2l6ZTogMTRweDtcbiAgICAgICAgfVxuICAgICAgfVxuICAgIH1cbiAgfVxufVxuIl19 */</style><link href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" rel="stylesheet" type="text/css" spa-preserve/><script src="../../prescript.js" type="application/javascript" spa-preserve></script><script type="application/javascript" spa-preserve>const fetchData = fetch("../../static/contentIndex.json").then(data => data.json())</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://quartz.jzhao.xyz/index.xml"/><meta property="og:image:width" content="1200"/><meta property="og:image:height" content="630"/><meta property="og:image" content="https://quartz.jzhao.xyz/Pages/Keys-and-Buttons/Key-Overview-og-image.webp"/><meta property="og:image:url" content="https://quartz.jzhao.xyz/Pages/Keys-and-Buttons/Key-Overview-og-image.webp"/><meta name="twitter:image" content="https://quartz.jzhao.xyz/Pages/Keys-and-Buttons/Key-Overview-og-image.webp"/><meta property="og:image:type" content="image/.webp"/></head><body data-slug="Pages/Keys-and-Buttons/Key-Overview"><div id="quartz-root" class="page"><div id="quartz-body"><div class="left sidebar"><h2 class="page-title"><a href="../..">grandMA2 Manual Vault</a></h2><div class="spacer mobile-only"></div><div class="flex-component" style="flex-direction: row; flex-wrap: nowrap; gap: 1rem;"><div style="flex-grow: 1; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><div class="search"><button class="search-button"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title>Search</title><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"></path><circle cx="8" cy="8" r="7"></circle></g></svg><p>Search</p></button><div class="search-container"><div class="search-space"><input autocomplete="off" class="search-bar" name="search" type="text" aria-label="Search for something" placeholder="Search for something"/><div class="search-layout" data-preview="true"></div></div></div></div></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="darkmode"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="dayIcon" x="0px" y="0px" viewBox="0 0 35 35" style="enable-background:new 0 0 35 35" xml:space="preserve" aria-label="Dark mode"><title>Dark mode</title><path d="M6,17.5C6,16.672,5.328,16,4.5,16h-3C0.672,16,0,16.672,0,17.5    S0.672,19,1.5,19h3C5.328,19,6,18.328,6,17.5z M7.5,26c-0.414,0-0.789,0.168-1.061,0.439l-2,2C4.168,28.711,4,29.086,4,29.5    C4,30.328,4.671,31,5.5,31c0.414,0,0.789-0.168,1.06-0.44l2-2C8.832,28.289,9,27.914,9,27.5C9,26.672,8.329,26,7.5,26z M17.5,6    C18.329,6,19,5.328,19,4.5v-3C19,0.672,18.329,0,17.5,0S16,0.672,16,1.5v3C16,5.328,16.671,6,17.5,6z M27.5,9    c0.414,0,0.789-0.168,1.06-0.439l2-2C30.832,6.289,31,5.914,31,5.5C31,4.672,30.329,4,29.5,4c-0.414,0-0.789,0.168-1.061,0.44    l-2,2C26.168,6.711,26,7.086,26,7.5C26,8.328,26.671,9,27.5,9z M6.439,8.561C6.711,8.832,7.086,9,7.5,9C8.328,9,9,8.328,9,7.5    c0-0.414-0.168-0.789-0.439-1.061l-2-2C6.289,4.168,5.914,4,5.5,4C4.672,4,4,4.672,4,5.5c0,0.414,0.168,0.789,0.439,1.06    L6.439,8.561z M33.5,16h-3c-0.828,0-1.5,0.672-1.5,1.5s0.672,1.5,1.5,1.5h3c0.828,0,1.5-0.672,1.5-1.5S34.328,16,33.5,16z     M28.561,26.439C28.289,26.168,27.914,26,27.5,26c-0.828,0-1.5,0.672-1.5,1.5c0,0.414,0.168,0.789,0.439,1.06l2,2    C28.711,30.832,29.086,31,29.5,31c0.828,0,1.5-0.672,1.5-1.5c0-0.414-0.168-0.789-0.439-1.061L28.561,26.439z M17.5,29    c-0.829,0-1.5,0.672-1.5,1.5v3c0,0.828,0.671,1.5,1.5,1.5s1.5-0.672,1.5-1.5v-3C19,29.672,18.329,29,17.5,29z M17.5,7    C11.71,7,7,11.71,7,17.5S11.71,28,17.5,28S28,23.29,28,17.5S23.29,7,17.5,7z M17.5,25c-4.136,0-7.5-3.364-7.5-7.5    c0-4.136,3.364-7.5,7.5-7.5c4.136,0,7.5,3.364,7.5,7.5C25,21.636,21.636,25,17.5,25z"></path></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="nightIcon" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100" xml:space="preserve" aria-label="Light mode"><title>Light mode</title><path d="M96.76,66.458c-0.853-0.852-2.15-1.064-3.23-0.534c-6.063,2.991-12.858,4.571-19.655,4.571  C62.022,70.495,50.88,65.88,42.5,57.5C29.043,44.043,25.658,23.536,34.076,6.47c0.532-1.08,0.318-2.379-0.534-3.23  c-0.851-0.852-2.15-1.064-3.23-0.534c-4.918,2.427-9.375,5.619-13.246,9.491c-9.447,9.447-14.65,22.008-14.65,35.369  c0,13.36,5.203,25.921,14.65,35.368s22.008,14.65,35.368,14.65c13.361,0,25.921-5.203,35.369-14.65  c3.872-3.871,7.064-8.328,9.491-13.246C97.826,68.608,97.611,67.309,96.76,66.458z"></path></svg></button></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="readermode"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="readerIcon" fill="currentColor" stroke="currentColor" stroke-width="0.2" stroke-linecap="round" stroke-linejoin="round" width="64px" height="64px" viewBox="0 0 24 24" aria-label="Reader mode"><title>Reader mode</title><g transform="translate(-1.8, -1.8) scale(1.15, 1.2)"><path d="M8.9891247,2.5 C10.1384702,2.5 11.2209868,2.96705384 12.0049645,3.76669482 C12.7883914,2.96705384 13.8709081,2.5 15.0202536,2.5 L18.7549359,2.5 C19.1691495,2.5 19.5049359,2.83578644 19.5049359,3.25 L19.5046891,4.004 L21.2546891,4.00457396 C21.6343849,4.00457396 21.9481801,4.28672784 21.9978425,4.6528034 L22.0046891,4.75457396 L22.0046891,20.25 C22.0046891,20.6296958 21.7225353,20.943491 21.3564597,20.9931534 L21.2546891,21 L2.75468914,21 C2.37499337,21 2.06119817,20.7178461 2.01153575,20.3517706 L2.00468914,20.25 L2.00468914,4.75457396 C2.00468914,4.37487819 2.28684302,4.061083 2.65291858,4.01142057 L2.75468914,4.00457396 L4.50368914,4.004 L4.50444233,3.25 C4.50444233,2.87030423 4.78659621,2.55650904 5.15267177,2.50684662 L5.25444233,2.5 L8.9891247,2.5 Z M4.50368914,5.504 L3.50468914,5.504 L3.50468914,19.5 L10.9478955,19.4998273 C10.4513189,18.9207296 9.73864328,18.5588115 8.96709342,18.5065584 L8.77307039,18.5 L5.25444233,18.5 C4.87474657,18.5 4.56095137,18.2178461 4.51128895,17.8517706 L4.50444233,17.75 L4.50368914,5.504 Z M19.5049359,17.75 C19.5049359,18.1642136 19.1691495,18.5 18.7549359,18.5 L15.2363079,18.5 C14.3910149,18.5 13.5994408,18.8724714 13.0614828,19.4998273 L20.5046891,19.5 L20.5046891,5.504 L19.5046891,5.504 L19.5049359,17.75 Z M18.0059359,3.999 L15.0202536,4 L14.8259077,4.00692283 C13.9889509,4.06666544 13.2254227,4.50975805 12.7549359,5.212 L12.7549359,17.777 L12.7782651,17.7601316 C13.4923805,17.2719483 14.3447024,17 15.2363079,17 L18.0059359,16.999 L18.0056891,4.798 L18.0033792,4.75457396 L18.0056891,4.71 L18.0059359,3.999 Z M8.9891247,4 L6.00368914,3.999 L6.00599909,4.75457396 L6.00599909,4.75457396 L6.00368914,4.783 L6.00368914,16.999 L8.77307039,17 C9.57551536,17 10.3461406,17.2202781 11.0128313,17.6202194 L11.2536891,17.776 L11.2536891,5.211 C10.8200889,4.56369974 10.1361548,4.13636104 9.37521067,4.02745763 L9.18347055,4.00692283 L8.9891247,4 Z"></path></g></svg></button></div></div><div class="explorer" data-behavior="link" data-collapsed="collapsed" data-savestate="true" data-data-fns="{&quot;order&quot;:[&quot;filter&quot;,&quot;map&quot;,&quot;sort&quot;],&quot;sortFn&quot;:&quot;(a,b)=>!a.isFolder&amp;&amp;!b.isFolder||a.isFolder&amp;&amp;b.isFolder?a.displayName.localeCompare(b.displayName,void 0,{numeric:!0,sensitivity:\&quot;base\&quot;}):!a.isFolder&amp;&amp;b.isFolder?1:-1&quot;,&quot;filterFn&quot;:&quot;node=>node.slugSegment!==\&quot;tags\&quot;&quot;,&quot;mapFn&quot;:&quot;node=>node&quot;}"><button type="button" class="explorer-toggle mobile-explorer hide-until-loaded" data-mobile="true" aria-controls="explorer-677"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-menu"><line x1="4" x2="20" y1="12" y2="12"></line><line x1="4" x2="20" y1="6" y2="6"></line><line x1="4" x2="20" y1="18" y2="18"></line></svg></button><button type="button" class="title-button explorer-toggle desktop-explorer" data-mobile="false" aria-expanded="true"><h2>Explorer</h2><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><div id="explorer-677" class="explorer-content" aria-expanded="false" role="group"><ul class="explorer-ul overflow" id="list-0"><li class="overflow-end"></li></ul></div><template id="template-file"><li><a href="#"></a></li></template><template id="template-folder"><li><div class="folder-container"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div><button class="folder-button"><span class="folder-title"></span></button></div></div><div class="folder-outer"><ul class="content"></ul></div></li></template></div></div><div class="center"><div class="page-header"><div class="popover-hint"><nav class="breadcrumb-container" aria-label="breadcrumbs"><div class="breadcrumb-element"><a href="../../">Home</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../../Pages/">Pages</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../../Pages/Keys-and-Buttons/">Keys and Buttons</a><p> ❯ </p></div><div class="breadcrumb-element"><a href>Key Overview</a></div></nav><h1 class="article-title">Key Overview</h1><p show-comma="true" class="content-meta"><time datetime="2026-06-21T03:40:35.087Z">Jun 21, 2026</time><span>10 min read</span></p><ul class="tags"><li><a href="../../tags/type/page" class="internal tag-link">type/page</a></li><li><a href="../../tags/section/keys" class="internal tag-link">section/keys</a></li></ul></div></div><article class="popover-hint gma2-page"><h1 id="key-overview">Key Overview<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#key-overview" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<blockquote class="callout source is-collapsible is-collapsed" data-callout="source" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>Source </p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+<div class="callout-content">
+<p><a href="https://help.malighting.com/grandMA2/en/help/key_keys_key_overview.html" class="external">MA Lighting Help – Key Overview<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+</div>
+</blockquote>
+<p>Version 3.9</p>
+<h1 id="key-overview-1">Key Overview<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#key-overview-1" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>This overview displays shortcuts for a quick execution of commands. </p>
+<p><strong>Important:</strong><br/>
+For information on how to use the <img src="../.././../img/ma_1.png" alt="ma"/> key in combination with shortcuts see the <a href="../../Keys/MA-Key" class="internal alias" data-slug="Keys/MA-Key">MA key</a>.</p>
+<p>Press this Key</p>
+<p>Command</p>
+<p>Description</p>
+<p>Example</p>
+<p>&lt;&lt;&lt;</p>
+<p>[[Keywords/--- [GoFastBack] keyword|&lt;&lt;&lt;]]</p>
+<p>Goes fast backward and ignores the cue timing.</p>
+<ul>
+<li>&lt;&lt;&lt; Executor 1</li>
+</ul>
+<p>&lt;&lt;&lt; &lt;&lt;&lt;</p>
+<p><a href="../../Keywords/Black-keyword" class="internal alias" data-slug="Keywords/Black-keyword">Black</a></p>
+<p>Blacks out an executor without timing. </p>
+<p>Sets the master of an executor to 0 while holding the executor. </p>
+<ul>
+<li>&lt;&lt;&lt; &lt;&lt;&lt; Executor 1</li>
+</ul>
+<p>&lt;&lt;&lt; &lt;&lt;&lt; &lt;&lt;&lt;</p>
+<p><a href="../../Keywords/ToZero" class="internal alias" data-slug="Keywords/ToZero">ToZero</a></p>
+<p>Sets the master level of objects to zero.</p>
+<ul>
+<li>&lt;&lt;&lt; &lt;&lt;&lt; &lt;&lt;&lt; Executor 1</li>
+</ul>
+<p>>>></p>
+<p>[[Keywords/--- [GoFastForward] keyword|>>>]]</p>
+<p>Goes fast forward and ignores the cue timing.</p>
+<ul>
+<li>>>> Executor 1</li>
+</ul>
+<p>>>> >>></p>
+<p><a href="../../Keywords/Flash" class="internal alias" data-slug="Keywords/Flash">Flash</a></p>
+<p>Flashes an executor without timing.</p>
+<ul>
+<li>>>> >>> Executor 1</li>
+</ul>
+<p>>>> >>> >>></p>
+<p><a href="../../Keywords/ToFull" class="internal alias" data-slug="Keywords/ToFull">ToFull</a></p>
+<p>Sets the master level of objects to full.</p>
+<ul>
+<li>>>> >>> >>> Executor 1</li>
+</ul>
+<p>Align</p>
+<p><a href="../../Keywords/Align-keyword" class="internal alias" data-slug="Keywords/Align-keyword">Align</a> ”&lt;”</p>
+<p>Fans from the first object selected to the right.</p>
+<p>No example</p>
+<p>Align Align</p>
+<p>Align ”>”</p>
+<p>Fans from first object selected to the left. </p>
+<p>No example</p>
+<p>Align Align Align</p>
+<p>Align ”>&lt;”</p>
+<p>Fans from the center of the selection.</p>
+<p>No example</p>
+<p>Align Align Align Align</p>
+<p>Align ”&lt;>”</p>
+<p>Fans between first and last objects selected.</p>
+<p>No example </p>
+<p>Align Align Align Align Align</p>
+<p>Align Off</p>
+<p>Switches off the fan function.</p>
+<p>No example</p>
+<p>Assign</p>
+<p><a href="../../Keywords/Assign-keyword" class="internal alias" data-slug="Keywords/Assign-keyword">Assign</a></p>
+<p>Assigns functions to buttons or opens the assign menu. </p>
+<ul>
+<li>Assign Executor 1</li>
+<li>Assign Flash Executor 1</li>
+</ul>
+<p>Assign Assign</p>
+<p><a href="../../Keywords/Label" class="internal alias" data-slug="Keywords/Label">Label</a></p>
+<p>Labels the objects.</p>
+<ul>
+<li>Label Cue 1</li>
+</ul>
+<p>Assign Assign Assign</p>
+<p><a href="../../Keywords/Appearance-keyword" class="internal alias" data-slug="Keywords/Appearance-keyword">Appearance</a></p>
+<p>Changes the frame color for pool objects and cues.</p>
+<ul>
+<li>Appearance Cue 1</li>
+</ul>
+<p>Assign Effect Effect</p>
+<p>Assign Form</p>
+<p>Forms objects.</p>
+<ul>
+<li>Assign Form 8 Effect 1</li>
+</ul>
+<p>At</p>
+<p><a href="../../Keywords/At-keyword" class="internal alias" data-slug="Keywords/At-keyword">At</a></p>
+<p>Enters the keyword At into the command line. </p>
+<ul>
+<li>Channel 1 At 100</li>
+<li>Fixture 1 At Fixture 2</li>
+</ul>
+<p>At At</p>
+<p><a href="../../Keywords/Normal" class="internal alias" data-slug="Keywords/Normal">Normal</a></p>
+<p>Sets the selection to normal value. It is possible to change the normal value in <strong>Setup - User - Settings</strong>.</p>
+<ul>
+<li>Normal Fixture 1</li>
+</ul>
+<p>At press &amp; hold</p>
+<p><a href="../../Keywords/Filter" class="internal alias" data-slug="Keywords/Filter">Filter</a></p>
+<p>Opens the command “Filter”. </p>
+<p>No example </p>
+<p>Blind</p>
+<p><a href="../../Keywords/Blind-keyword" class="internal alias" data-slug="Keywords/Blind-keyword">Blind</a></p>
+<p>Switches on/off the live programmer to black.</p>
+<p>No example </p>
+<p>Blind<br/>
+press &amp; hold</p>
+<p><a href="../../Keywords/BlindEdit-keyword" class="internal alias" data-slug="Keywords/BlindEdit-keyword">BlindEdit</a></p>
+<p>Switches on/off the second blind programmer.</p>
+<p>No example </p>
+<p>Bt Pg -</p>
+<p>ButtonPage -</p>
+<p>Switches to previous ButtonPage.</p>
+<p>No example</p>
+<p>Bt Pg - <br/>
+press &amp; hold</p>
+<p>ButtonPage 1</p>
+<p>Switches to first ButtonPage.</p>
+<p>No example </p>
+<p>Bt Pg +</p>
+<p>ButtonPage +</p>
+<p>Switches to next ButtonPage.</p>
+<p>No example  </p>
+<p>Ch Pg -</p>
+<p>ChannelPage -</p>
+<p>Switches to previous ChannelPage.</p>
+<p>No example</p>
+<p>Ch Pg -<br/>
+press &amp; hold</p>
+<p>Channel Page 1</p>
+<p>Switches to first ChannelPage.</p>
+<p>No example</p>
+<p>Ch Pg +</p>
+<p>ChannelPage +</p>
+<p>Switches to next ChannelPage.</p>
+<p>No example </p>
+<p>Channel</p>
+<p><a href="../../Keywords/Channel-keyword" class="internal alias" data-slug="Keywords/Channel-keyword">Channel</a></p>
+<p>Enters the keyword Channel into the command line. </p>
+<ul>
+<li>Channel 1 At 50</li>
+</ul>
+<p>Channel Channel</p>
+<p><a href="../../Keywords/Dmx-keyword" class="internal alias" data-slug="Keywords/Dmx-keyword">Dmx</a></p>
+<p>Enters the keyword DMX into the command line. </p>
+<ul>
+<li>DMX 2.1 At 50</li>
+</ul>
+<p>Channel Channel Channel</p>
+<p><a href="../../Keywords/DmxUniverse-keyword" class="internal alias" data-slug="Keywords/DmxUniverse-keyword">DmxUniverse</a></p>
+<p>Enters the keyword DMXUniverse into the command line. </p>
+<ul>
+<li>Unpark DMX Universe 1</li>
+</ul>
+<p>Clear</p>
+<p><a href="../../Keywords/ClearSelection-keyword" class="internal alias" data-slug="Keywords/ClearSelection-keyword">ClearSelection</a></p>
+<p>Deselects all fixtures or channels in the programmer.</p>
+<p>No example </p>
+<p>Clear press &amp; hold</p>
+<p><a href="../../Keywords/ClearAll-keyword" class="internal alias" data-slug="Keywords/ClearAll-keyword">ClearAll</a></p>
+<p>Releases everything and clears the programmer.</p>
+<p>No example</p>
+<p>Clear Clear</p>
+<p><a href="../../Keywords/ClearActive-keyword" class="internal alias" data-slug="Keywords/ClearActive-keyword">ClearActive</a></p>
+<p>Deactivates all values in the programmer.</p>
+<p>No example</p>
+<p>Clear Clear Clear</p>
+<p>ClearAll</p>
+<p>Releases everything and clears the programmer.</p>
+<p>No example</p>
+<p>Copy</p>
+<p><a href="../../Keywords/Copy-keyword" class="internal alias" data-slug="Keywords/Copy-keyword">Copy</a></p>
+<p>Copies source object to destination object.</p>
+<ul>
+<li>Copy Cue 1 At 5</li>
+</ul>
+<p>Copy Copy</p>
+<p><a href="../../Keywords/Clone-keyword" class="internal alias" data-slug="Keywords/Clone-keyword">Clone</a></p>
+<p>Clones source object to destination object.</p>
+<ul>
+<li>Clone Fixture 1 to 21 If Sequence 1</li>
+</ul>
+<p>Cue</p>
+<p><a href="../../Keywords/Cue-keyword" class="internal alias" data-slug="Keywords/Cue-keyword">Cue</a></p>
+<p>Enters the keyword Cue into the command line. </p>
+<ul>
+<li>Store Cue 5</li>
+</ul>
+<p>Cue Cue</p>
+<p><a href="../../Keywords/Part" class="internal alias" data-slug="Keywords/Part">Part</a></p>
+<p>Enters part cue object into the command line. </p>
+<ul>
+<li>Store Cue 5 Part 2</li>
+</ul>
+<p>Delete</p>
+<p><a href="../../Keywords/Delete-keyword" class="internal alias" data-slug="Keywords/Delete-keyword">Delete</a></p>
+<p>Deletes objects. </p>
+<ul>
+<li>Delete Sequence 1</li>
+<li>Delete Executor 11</li>
+</ul>
+<p>Delete Delete</p>
+<p><a href="../../Keywords/Remove" class="internal alias" data-slug="Keywords/Remove">Remove</a></p>
+<p>Loads “Remove” into the programmer.</p>
+<ul>
+<li>Remove Position</li>
+</ul>
+<p>Delete Delete Delete</p>
+<p><a href="../../Keywords/Release" class="internal alias" data-slug="Keywords/Release">Release</a></p>
+<p>Loads “Release” into the programmer.</p>
+<ul>
+<li>Release Fixture 1</li>
+</ul>
+<p>.</p>
+<p>.</p>
+<p>Enters the keyword . into the command line to indicate values separated by a dot.</p>
+<ul>
+<li>Preset 4.1 </li>
+<li>Fixture 1 At 10.5</li>
+</ul>
+<p>. .</p>
+<p><a href="../../Keywords/Zero" class="internal alias" data-slug="Keywords/Zero">Zero</a></p>
+<p>Sets the selection at dimmer value zero.</p>
+<ul>
+<li>Fixture 5 Zero</li>
+</ul>
+<p>Down</p>
+<p>No command </p>
+<p>The last focus goes a page down in the window.</p>
+<p>No example</p>
+<p>Edit</p>
+<p><a href="../../Keywords/Edit-keyword" class="internal alias" data-slug="Keywords/Edit-keyword">Edit</a></p>
+<p>Loads a cue in the programmer.</p>
+<ul>
+<li>Edit Cue 1</li>
+</ul>
+<p>Edit + Next/Previous</p>
+<p>No command</p>
+<p>Loads the next/previous cue in the programmer.</p>
+<p>No example</p>
+<p>Effect</p>
+<p><a href="../../Keywords/Effect-keyword" class="internal alias" data-slug="Keywords/Effect-keyword">Effect</a></p>
+<p>Enters the keyword Effect into the command line. </p>
+<ul>
+<li>Off Effect 2</li>
+</ul>
+<p>Effect<br/>
+press &amp; hold</p>
+<p>No command</p>
+<p>Temporarily opens the view Running Effects. </p>
+<p>No example </p>
+<p>Exec</p>
+<p><a href="../../Keywords/Executor" class="internal alias" data-slug="Keywords/Executor">Executor</a></p>
+<p>Enters the keyword Executor into the command line.</p>
+<ul>
+<li>Executor 1 At 100 Fade 5</li>
+</ul>
+<p>Exec Exec</p>
+<p><a href="../../Keywords/SpecialMaster" class="internal alias" data-slug="Keywords/SpecialMaster">SpecialMaster</a></p>
+<p>Enters the keyword SpecialMaster into the command line.</p>
+<ul>
+<li>Assign SpecialMaster 3.1 Executor 15</li>
+</ul>
+<p>Fd Pg -</p>
+<p>FaderPage -</p>
+<p>Switches to previous FaderPage.</p>
+<p>No example</p>
+<p>Fd Pg -<br/>
+press &amp; hold</p>
+<p>FaderPage 1</p>
+<p>Switches to first FaderPage.</p>
+<p>No example</p>
+<p>Fd Pg +</p>
+<p>FaderPage +</p>
+<p>Switches to next FaderPage.</p>
+<p>No example</p>
+<p>Fix</p>
+<p><a href="../../Keywords/Fix" class="internal alias" data-slug="Keywords/Fix">Fix</a></p>
+<p>Fixes and unfixes an executor for all pages.</p>
+<ul>
+<li>Fix Executor 1.2</li>
+</ul>
+<p>Fixture</p>
+<p><a href="../../Keywords/Fixture" class="internal alias" data-slug="Keywords/Fixture">Fixture</a></p>
+<p>Enters the keyword Fixture into the command line. </p>
+<ul>
+<li>Fixture 2 At 50</li>
+</ul>
+<p>Fixture Fixture</p>
+<p><a href="../../Keywords/Selection" class="internal alias" data-slug="Keywords/Selection">Selection</a></p>
+<p>Enters the current programmer selection into the command line. </p>
+<ul>
+<li>Park Selection</li>
+</ul>
+<p>Full</p>
+<p><a href="../../Keywords/Full" class="internal alias" data-slug="Keywords/Full">Full</a></p>
+<p>Sets selection to dimmer value 100%.</p>
+<ul>
+<li>Fixture 1 Full</li>
+</ul>
+<p>Full Full</p>
+<p>No command</p>
+<p>Loads the highlight values into the programmer.</p>
+<ul>
+<li>Fixture 1 Full Full</li>
+</ul>
+<p>Go -</p>
+<p><a href="../../Keywords/GoBack" class="internal alias" data-slug="Keywords/GoBack">GoBack</a></p>
+<p>Jumps back in a sequence list. </p>
+<ul>
+<li>Go - Executor 2</li>
+</ul>
+<p>Go +</p>
+<p><a href="../../Keywords/Go" class="internal alias" data-slug="Keywords/Go">Go</a></p>
+<p>Switches to next cue in the sequence with cue timing.</p>
+<ul>
+<li>Go Executor 2</li>
+</ul>
+<p>Go + Go +</p>
+<p><a href="../../Keywords/Unpark" class="internal alias" data-slug="Keywords/Unpark">Unpark</a></p>
+<p>Enters the keyword Unpark into the command line. </p>
+<ul>
+<li>Unpark Selection</li>
+</ul>
+<p>Go+ Prvw</p>
+<p><a href="../../Keywords/PreviewExecutor" class="internal alias" data-slug="Keywords/PreviewExecutor">PreviewExecutor</a></p>
+<p>Steps through a cue list in preview mode.</p>
+<p>No example</p>
+<p>Goto</p>
+<p><a href="../../Keywords/Goto" class="internal alias" data-slug="Keywords/Goto">Goto</a></p>
+<p>Jumps to a cue. </p>
+<ul>
+<li>Goto Executor 1</li>
+<li>Goto Cue 1 (Executor 11) </li>
+</ul>
+<p>Goto Goto</p>
+<p><a href="../../Keywords/Load" class="internal alias" data-slug="Keywords/Load">Load</a></p>
+<p>Enters the keyword Load into the command line. </p>
+<ul>
+<li>Load Executor 11 </li>
+<li>Load Cue 1 (Executor 11) </li>
+</ul>
+<p>Group</p>
+<p><a href="../../Keywords/Group" class="internal alias" data-slug="Keywords/Group">Group</a></p>
+<p>Enters the keyword Group into the command line.</p>
+<ul>
+<li>Group 2 At 100</li>
+</ul>
+<p>Group <br/>
+press &amp; hold</p>
+<p>No command</p>
+<p>Opens group master view temporarily.</p>
+<p>No example</p>
+<p>Group Group</p>
+<p><a href="../../Keywords/World" class="internal alias" data-slug="Keywords/World">World</a></p>
+<p>Enters “World” into the command line. </p>
+<ul>
+<li>World 1</li>
+</ul>
+<p>Group Group Group</p>
+<p><a href="../../Keywords/Filter" class="internal alias" data-slug="Keywords/Filter">Filter</a></p>
+<p>Calls or selects a filter. </p>
+<ul>
+<li>Select Filter 1</li>
+</ul>
+<p>Help + Object</p>
+<p>No command</p>
+<p>Opens help for an object.</p>
+<ul>
+<li>Help Fixture</li>
+</ul>
+<p>Help Please</p>
+<p><a href="../../Keywords/Help" class="internal alias" data-slug="Keywords/Help">Help</a></p>
+<p>Opens the help view temporarily.</p>
+<p>No example</p>
+<p>Help Help</p>
+<p><a href="../../Keywords/CmdHelp-keyword" class="internal alias" data-slug="Keywords/CmdHelp-keyword">CmdHelp</a></p>
+<p>Displays all shortcuts in the command window.</p>
+<p>No example</p>
+<p>Highlt</p>
+<p><a href="../../Keywords/Highlight" class="internal alias" data-slug="Keywords/Highlight">Highlight</a></p>
+<p>Sets the selection to the highlight values.</p>
+<p>No example</p>
+<p>Highlt<br/>
+press &amp; hold</p>
+<p>No command</p>
+<p>Sets the selection to the highlight values and the highlight value of the dimmer starts to pulse. </p>
+<p>No example</p>
+<p>IF</p>
+<p><a href="../../Keywords/IfOutput" class="internal alias" data-slug="Keywords/IfOutput">IfOutput</a></p>
+<p>Selects fixtures with a dimmer value higher than 0%.</p>
+<ul>
+<li>IfOutput At 70 thru 100</li>
+</ul>
+<p>IF IF</p>
+<p><a href="../../Keywords/IfActive" class="internal alias" data-slug="Keywords/IfActive">IfActive</a></p>
+<p>Selects fixtures with active values in the programmer.</p>
+<p>No example</p>
+<p>IF IF IF</p>
+<p><a href="../../Keywords/IfProg" class="internal alias" data-slug="Keywords/IfProg">IfProg</a></p>
+<p>Selects fixtures with active or inactive values in the programmer.</p>
+<p>No example</p>
+<p>IF IF IF IF</p>
+<p><a href="../../Keywords/If" class="internal alias" data-slug="Keywords/If">If</a></p>
+<p>Selects fixtures which exist in both groups.</p>
+<ul>
+<li>Group 1 If Group 2</li>
+</ul>
+<p>Learn</p>
+<p><a href="../../Keywords/Learn" class="internal alias" data-slug="Keywords/Learn">Learn</a></p>
+<p>Learns speed for a chaser or effect.</p>
+<p>No example</p>
+<p>Learn press &amp; hold + executor button</p>
+<p>No command</p>
+<p>Holding the key Learn and tapping the executor at a certain speed teaches the chaser to run at this particular speed. </p>
+<p>No example</p>
+<p>Learn Learn</p>
+<p><a href="../../Keywords/Rate1" class="internal alias" data-slug="Keywords/Rate1">Rate1</a></p>
+<p>Sets the rate of an executor back to 1:1.</p>
+<ul>
+<li>Rate1 Executor 1</li>
+</ul>
+<p>List</p>
+<p>No command</p>
+<p>Switches the x-keys to button executors.</p>
+<p>No example</p>
+<p>Macro</p>
+<p><a href="../../Keywords/Macro" class="internal alias" data-slug="Keywords/Macro">Macro</a></p>
+<p>Enters the keyword Macro into the command line. </p>
+<ul>
+<li>Macro 1</li>
+</ul>
+<p>Macro Macro</p>
+<p><a href="../../Keywords/Timecode" class="internal alias" data-slug="Keywords/Timecode">Timecode</a></p>
+<p>Enters the keyword Timecode into the command line. </p>
+<ul>
+<li>Go Timecode 1</li>
+</ul>
+<p>Macro Macro Macro</p>
+<p><a href="../../Keywords/Agenda" class="internal alias" data-slug="Keywords/Agenda">Agenda</a></p>
+<p>Enters the keyword Agenda into the command line and executes the first entry in the agenda list.</p>
+<ul>
+<li>Agenda 1</li>
+</ul>
+<p>minus</p>
+<p>No command</p>
+<p>Sets a relative value when used with spaces. Sets an absolute value when used without spaces. </p>
+<ul>
+<li>Group 5 - Fixture 10</li>
+<li>Attribute “Tilt” At -22</li>
+</ul>
+<p>minus minus</p>
+<p>At - 10</p>
+<p>Dimmer goes down by 10 percent.</p>
+<ul>
+<li>Fixture 1 At - 10 </li>
+</ul>
+<p>Move</p>
+<p><a href="../../Keywords/Move" class="internal alias" data-slug="Keywords/Move">Move</a></p>
+<p>Moves source objects to destination objects.</p>
+<ul>
+<li>Move Executor 1 At 2</li>
+</ul>
+<p>Move Move</p>
+<p><a href="../../Keywords/Replace" class="internal alias" data-slug="Keywords/Replace">Replace</a></p>
+<p>Replaces objects or values. </p>
+<ul>
+<li>Replace Fixture 1 with 2</li>
+</ul>
+<p>Move Move Move</p>
+<p><a href="../../Keywords/Insert" class="internal alias" data-slug="Keywords/Insert">Insert</a></p>
+<p>Moves objects to a new ID.</p>
+<p>No example</p>
+<p>Next</p>
+<p><a href="../../Keywords/Next" class="internal alias" data-slug="Keywords/Next">Next</a></p>
+<p>Selects next fixture or fixture of a selection.</p>
+<p>No example</p>
+<p>Off</p>
+<p><a href="../../Keywords/Off" class="internal alias" data-slug="Keywords/Off">Off</a></p>
+<p>Knocks out values or releases executors.</p>
+<ul>
+<li>Off Executor 1</li>
+</ul>
+<p>Off Off</p>
+<p>No command</p>
+<p>Temporarily opens the Off Menu.</p>
+<ul>
+<li>Off Off</li>
+</ul>
+<p>On</p>
+<p><a href="../../Keywords/On" class="internal alias" data-slug="Keywords/On">On</a></p>
+<p>Enters the keyword On into the command line. </p>
+<ul>
+<li>On Cue 1</li>
+<li>On Selection</li>
+</ul>
+<p>On On</p>
+<p><a href="../../Keywords/Call-keyword" class="internal alias" data-slug="Keywords/Call-keyword">Call</a></p>
+<p>Calls the status of the cue in the programmer. </p>
+<ul>
+<li>Call Cue Thru 2</li>
+</ul>
+<p>Oops</p>
+<p><a href="../../Keywords/Oops" class="internal alias" data-slug="Keywords/Oops">Oops</a></p>
+<p>Undoes the last action.</p>
+<p>No example</p>
+<p>Oops press &amp; hold</p>
+<p>No command</p>
+<p>Temporarily opens the Oops Menu. </p>
+<p>No example</p>
+<p>Page</p>
+<p><a href="../../Keywords/Page" class="internal alias" data-slug="Keywords/Page">Page</a></p>
+<p>Enters the keyword Page into the command line. </p>
+<ul>
+<li>Page 3</li>
+</ul>
+<p>Page Page</p>
+<p><a href="../../Keywords/ChannelPage-keyword" class="internal alias" data-slug="Keywords/ChannelPage-keyword">ChannelPage</a></p>
+<p>Enters the keyword ChannelPage into the command line. </p>
+<ul>
+<li>ChannelPage 2</li>
+</ul>
+<p>Page Page Page</p>
+<p><a href="../../Keywords/FaderPage" class="internal alias" data-slug="Keywords/FaderPage">FaderPage</a></p>
+<p>Enters the keyword FaderPage into the command line. </p>
+<ul>
+<li>FaderPage 3</li>
+</ul>
+<p>Page Page Page Page</p>
+<p><a href="../../Keywords/ButtonPage-keyword" class="internal alias" data-slug="Keywords/ButtonPage-keyword">ButtonPage</a></p>
+<p>Enters the keyword ButtonPage into the command line. </p>
+<ul>
+<li>ButtonPage 4</li>
+</ul>
+<p>Pause</p>
+<p><a href="../../Keywords/Pause" class="internal alias" data-slug="Keywords/Pause">Pause</a></p>
+<p>Pauses the current cue fade. </p>
+<ul>
+<li>Pause Executor 1</li>
+</ul>
+<p>Pause Pause</p>
+<p><a href="../../Keywords/Park" class="internal alias" data-slug="Keywords/Park">Park</a></p>
+<p>Parks objects. </p>
+<ul>
+<li>Park Fixture 10</li>
+</ul>
+<p>Please</p>
+<p>Please</p>
+<p>Executes commands.</p>
+<p>No example</p>
+<p>Please Please</p>
+<p>No command</p>
+<p>Activates all attributes for the selection.</p>
+<p>No example</p>
+<p>plus</p>
+<p>[[Keywords/+ [Plus] keyword|+]]</p>
+<p>Functions as an “and”. </p>
+<ul>
+<li>Fixture 1 + fixture 2</li>
+</ul>
+<p>plus plus</p>
+<p>At + 10</p>
+<p>Dimmer goes up by 10 percent.</p>
+<p>No example</p>
+<p>Preset</p>
+<p><a href="../../Keywords/Preset" class="internal alias" data-slug="Keywords/Preset">Preset</a></p>
+<p>Enters the keyword Preset into the command line. </p>
+<ul>
+<li>At Preset 4.2</li>
+</ul>
+<p>Preset Preset</p>
+<p><a href="../../Keywords/Attribute-keyword" class="internal alias" data-slug="Keywords/Attribute-keyword">Attribute</a></p>
+<p>Enters the keyword Attribute into the command line. </p>
+<ul>
+<li>Attribute “Tilt” At 50</li>
+</ul>
+<p>Preset Preset Preset</p>
+<p><a href="../../Keywords/Gel-keyword" class="internal alias" data-slug="Keywords/Gel-keyword">Gel</a> </p>
+<p>Calls the keyword Gel from the Swatch Book. </p>
+<ul>
+<li>At Gel “Manufacturer”.”Number or name of color”</li>
+</ul>
+<p>Previous</p>
+<p><a href="../../Keywords/Previous" class="internal alias" data-slug="Keywords/Previous">Previous</a></p>
+<p>Selects previous fixture or fixture of a selection.</p>
+<p>No example</p>
+<p>Previous + Next</p>
+<p><a href="../../Keywords/All" class="internal alias" data-slug="Keywords/All">All</a></p>
+<p>Leaves the Next/Previous MAtricks selection and selects all.</p>
+<p>No example</p>
+<p>Previous + Set + Next</p>
+<p><a href="../../Keywords/MAtricksInterleave" class="internal alias" data-slug="Keywords/MAtricksInterleave">MAtricksInterleave</a> Off</p>
+<p>Turns off MAtricksInterleave.</p>
+<p>No example</p>
+<p>Prvw</p>
+<p><a href="../../Keywords/Preview" class="internal alias" data-slug="Keywords/Preview">Preview</a></p>
+<p>Shows the preview of a cue. Preview does not generate a DMX output. </p>
+<ul>
+<li>Preview Cue 1</li>
+</ul>
+<p>Prvw Prvw</p>
+<p><a href="../../Keywords/PreviewEdit" class="internal alias" data-slug="Keywords/PreviewEdit">PreviewEdit</a></p>
+<p>Switches on/off the preview mode. </p>
+<p>No example</p>
+<p>Select</p>
+<p><a href="../../Keywords/Select" class="internal alias" data-slug="Keywords/Select">Select</a></p>
+<p>Enters the keyword Select into the command line. </p>
+<ul>
+<li>Select Executor 1</li>
+</ul>
+<p>Select Select</p>
+<p><a href="../../Keywords/SelFix" class="internal alias" data-slug="Keywords/SelFix">Selfix</a></p>
+<p>Selects all channels and fixtures of an executor. </p>
+<ul>
+<li>Selfix Executor 1</li>
+</ul>
+<p>Sequ</p>
+<p><a href="../../Keywords/Sequence" class="internal alias" data-slug="Keywords/Sequence">Sequence</a></p>
+<p>Enters the keyword Sequence into the command line. </p>
+<ul>
+<li>Assign Sequence 1 Executor 2</li>
+</ul>
+<p>Set</p>
+<p><a href="../../Keywords/MAtricks" class="internal alias" data-slug="Keywords/MAtricks">MAtricks</a> Toggle</p>
+<p>Toggles between the entire and the current selection of MAtricks Next/Previous. </p>
+<p>No example </p>
+<p>Set + Next</p>
+<p>MAtricksInterleave +</p>
+<p>Toggles MAtricks Interleave to +1.</p>
+<p>No example</p>
+<p>Set + Previous</p>
+<p>MAtricksInterleave -</p>
+<p>Toggles MAtricks Interleave to -1.</p>
+<p>No example</p>
+<p>Store</p>
+<p><a href="../../Keywords/Store" class="internal alias" data-slug="Keywords/Store">Store</a></p>
+<p>Enters the keyword Store into the command line. </p>
+<ul>
+<li>Store Executor 1.10</li>
+</ul>
+<p>Store press &amp; hold</p>
+<p>No command</p>
+<p>Opens the Temporary Store Options.  </p>
+<p> </p>
+<p>Temp</p>
+<p><a href="../../Keywords/Temp" class="internal alias" data-slug="Keywords/Temp">Temp</a></p>
+<p>Flashes an executor with timing and executor master level.</p>
+<ul>
+<li>Temp Executor 3</li>
+</ul>
+<p>Temp Temp</p>
+<p><a href="../../Keywords/Toggle" class="internal alias" data-slug="Keywords/Toggle">Toggle</a></p>
+<p>Switches on/off an executor.</p>
+<ul>
+<li>Assign Toggle Executor 101.</li>
+</ul>
+<p>Thru</p>
+<p><a href="../../Keywords/Thru" class="internal alias" data-slug="Keywords/Thru">Thru</a></p>
+<p>Selects several objects. </p>
+<ul>
+<li>Fixture 1 Thru 10 </li>
+<li>Fixture 1 Thru 10 At 0 Thru 100</li>
+</ul>
+<p>Time</p>
+<p><a href="../../Keywords/Fade" class="internal alias" data-slug="Keywords/Fade">Fade</a></p>
+<p>Switches to layer Fade. </p>
+<p>No example</p>
+<p>Time Time</p>
+<p><a href="../../Keywords/Delay-keyword" class="internal alias" data-slug="Keywords/Delay-keyword">Delay</a></p>
+<p>Switches to layer Delay. </p>
+<p>No example</p>
+<p>Time Time Time</p>
+<p><a href="../../Keywords/Value" class="internal alias" data-slug="Keywords/Value">Value</a></p>
+<p>Switches to layer Value. </p>
+<p>No example</p>
+<p>Top</p>
+<p><a href="../../Keywords/Top" class="internal alias" data-slug="Keywords/Top">Top</a></p>
+<p>Jumps to the first cue of a sequence or the beginning of a time code. </p>
+<ul>
+<li>Top Timecode 1</li>
+</ul>
+<p>Top Top</p>
+<p><a href="../../Keywords/Kill" class="internal alias" data-slug="Keywords/Kill">Kill</a></p>
+<p>Releases all executors, which are not kill-protected, on all pages except for the executor you kill. </p>
+<ul>
+<li>Kill Executor 5</li>
+</ul>
+<p>Up</p>
+<p>No command</p>
+<p>Pages up in the window with the last focus. </p>
+<p>No example</p>
+<p>Update</p>
+<p><a href="../../Keywords/Update" class="internal alias" data-slug="Keywords/Update">Update</a></p>
+<p>Temporarily opens the Update View. </p>
+<p>No example</p>
+<p>View</p>
+<p><a href="../../Keywords/View" class="internal alias" data-slug="Keywords/View">View</a></p>
+<p>Enters the keyword View into the command line.</p>
+<p>No example</p>
+<p>View View</p>
+<p><a href="../../Keywords/ViewButton" class="internal alias" data-slug="Keywords/ViewButton">ViewButton</a></p>
+<p>Enters the keyword ViewButton into the command line. </p>
+<ul>
+<li>Store ViewButton 1.1 </li>
+</ul>
+<p>View View View</p>
+<p><a href="../../Keywords/ViewPage" class="internal alias" data-slug="Keywords/ViewPage">ViewPage</a></p>
+<p>Switches to a ViewPage. </p>
+<ul>
+<li> ViewPage 2</li>
+</ul>
+<p><a href="../../Pages/Keys-and-Buttons/Keyboard-Keys" class="internal alias" data-slug="Pages/Keys-and-Buttons/Keyboard-Keys">Keyboard Keys</a> →</p>
+<p>Part of <a href="../../Sections/Keys-and-Buttons" class="internal alias" data-slug="Sections/Keys-and-Buttons">Keys and Buttons</a> · <a href="../../000-Map-of-Content" class="internal alias" data-slug="000-Map-of-Content">000 Map of Content</a></p></article><hr/><div class="page-footer"></div></div><div class="right sidebar"><div class="graph"><h3>Graph View</h3><div class="graph-outer"><div class="graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:1,&quot;scale&quot;:1.1,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.3,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:false,&quot;enableRadial&quot;:false}"></div><button class="global-graph-icon" aria-label="Global Graph"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 55 55" fill="currentColor" xml:space="preserve"><path d="M49,0c-3.309,0-6,2.691-6,6c0,1.035,0.263,2.009,0.726,2.86l-9.829,9.829C32.542,17.634,30.846,17,29,17
+                s-3.542,0.634-4.898,1.688l-7.669-7.669C16.785,10.424,17,9.74,17,9c0-2.206-1.794-4-4-4S9,6.794,9,9s1.794,4,4,4
+                c0.74,0,1.424-0.215,2.019-0.567l7.669,7.669C21.634,21.458,21,23.154,21,25s0.634,3.542,1.688,4.897L10.024,42.562
+                C8.958,41.595,7.549,41,6,41c-3.309,0-6,2.691-6,6s2.691,6,6,6s6-2.691,6-6c0-1.035-0.263-2.009-0.726-2.86l12.829-12.829
+                c1.106,0.86,2.44,1.436,3.898,1.619v10.16c-2.833,0.478-5,2.942-5,5.91c0,3.309,2.691,6,6,6s6-2.691,6-6c0-2.967-2.167-5.431-5-5.91
+                v-10.16c1.458-0.183,2.792-0.759,3.898-1.619l7.669,7.669C41.215,39.576,41,40.26,41,41c0,2.206,1.794,4,4,4s4-1.794,4-4
+                s-1.794-4-4-4c-0.74,0-1.424,0.215-2.019,0.567l-7.669-7.669C36.366,28.542,37,26.846,37,25s-0.634-3.542-1.688-4.897l9.665-9.665
+                C46.042,11.405,47.451,12,49,12c3.309,0,6-2.691,6-6S52.309,0,49,0z M11,9c0-1.103,0.897-2,2-2s2,0.897,2,2s-0.897,2-2,2
+                S11,10.103,11,9z M6,51c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S8.206,51,6,51z M33,49c0,2.206-1.794,4-4,4s-4-1.794-4-4
+                s1.794-4,4-4S33,46.794,33,49z M29,31c-3.309,0-6-2.691-6-6s2.691-6,6-6s6,2.691,6,6S32.309,31,29,31z M47,41c0,1.103-0.897,2-2,2
+                s-2-0.897-2-2s0.897-2,2-2S47,39.897,47,41z M49,10c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S51.206,10,49,10z"></path></svg></button></div><div class="global-graph-outer"><div class="global-graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:-1,&quot;scale&quot;:0.9,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.2,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:true,&quot;enableRadial&quot;:true}"></div></div></div><div class="toc desktop-only"><button type="button" class="toc-header" aria-controls="toc-564" aria-expanded="true"><h3>Table of Contents</h3><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><ul id="list-1" class="toc-content overflow"><li class="depth-0"><a href="#key-overview" data-for="key-overview">Key Overview</a></li><li class="depth-0"><a href="#key-overview-1" data-for="key-overview-1">Key Overview</a></li><li class="overflow-end"></li></ul></div><div class="backlinks"><h3>Backlinks</h3><ul id="list-2" class="overflow"><li><a href="../../Pages/Keys-and-Buttons/Keyboard-Keys" class="internal">Keyboard Keys</a></li><li><a href="../../Pages/Workspace/Command-Section" class="internal">Command Section</a></li><li><a href="../../Sections/Command-Syntax-and-Keywords" class="internal">Command Syntax and Keywords</a></li><li><a href="../../Sections/Keys-and-Buttons" class="internal">Keys and Buttons</a></li><li class="overflow-end"></li></ul></div></div><footer class><p>Created with <a href="https://quartz.jzhao.xyz/">Quartz v4.5.2</a> © 2026</p><ul><li><a href="https://github.com/jackyzha0/quartz">GitHub</a></li><li><a href="https://discord.gg/cRFFHYye7t">Discord Community</a></li></ul></footer></div></div></body><script type="application/javascript">function n(){let t=this.parentElement;t.classList.toggle("is-collapsed");let e=t.getElementsByClassName("callout-content")[0];if(!e)return;let l=t.classList.contains("is-collapsed");e.style.gridTemplateRows=l?"0fr":"1fr"}function c(){let t=document.getElementsByClassName("callout is-collapsible");for(let e of t){let l=e.getElementsByClassName("callout-title")[0],s=e.getElementsByClassName("callout-content")[0];if(!l||!s)continue;l.addEventListener("click",n),window.addCleanup(()=>l.removeEventListener("click",n));let o=e.classList.contains("is-collapsed");s.style.gridTemplateRows=o?"0fr":"1fr"}}document.addEventListener("nav",c);
+</script><script type="module">function f(i,e){if(!i)return;function r(o){o.target===this&&(o.preventDefault(),o.stopPropagation(),e())}function t(o){o.key.startsWith("Esc")&&(o.preventDefault(),e())}i?.addEventListener("click",r),window.addCleanup(()=>i?.removeEventListener("click",r)),document.addEventListener("keydown",t),window.addCleanup(()=>document.removeEventListener("keydown",t))}function y(i){for(;i.firstChild;)i.removeChild(i.firstChild)}var h=class{constructor(e,r){this.container=e;this.content=r;this.setupEventListeners(),this.setupNavigationControls(),this.resetTransform()}isDragging=!1;startPan={x:0,y:0};currentPan={x:0,y:0};scale=1;MIN_SCALE=.5;MAX_SCALE=3;cleanups=[];setupEventListeners(){let e=this.onMouseDown.bind(this),r=this.onMouseMove.bind(this),t=this.onMouseUp.bind(this),o=this.resetTransform.bind(this);this.container.addEventListener("mousedown",e),document.addEventListener("mousemove",r),document.addEventListener("mouseup",t),window.addEventListener("resize",o),this.cleanups.push(()=>this.container.removeEventListener("mousedown",e),()=>document.removeEventListener("mousemove",r),()=>document.removeEventListener("mouseup",t),()=>window.removeEventListener("resize",o))}cleanup(){for(let e of this.cleanups)e()}setupNavigationControls(){let e=document.createElement("div");e.className="mermaid-controls";let r=this.createButton("+",()=>this.zoom(.1)),t=this.createButton("-",()=>this.zoom(-.1)),o=this.createButton("Reset",()=>this.resetTransform());e.appendChild(t),e.appendChild(o),e.appendChild(r),this.container.appendChild(e)}createButton(e,r){let t=document.createElement("button");return t.textContent=e,t.className="mermaid-control-button",t.addEventListener("click",r),window.addCleanup(()=>t.removeEventListener("click",r)),t}onMouseDown(e){e.button===0&&(this.isDragging=!0,this.startPan={x:e.clientX-this.currentPan.x,y:e.clientY-this.currentPan.y},this.container.style.cursor="grabbing")}onMouseMove(e){this.isDragging&&(e.preventDefault(),this.currentPan={x:e.clientX-this.startPan.x,y:e.clientY-this.startPan.y},this.updateTransform())}onMouseUp(){this.isDragging=!1,this.container.style.cursor="grab"}zoom(e){let r=Math.min(Math.max(this.scale+e,this.MIN_SCALE),this.MAX_SCALE),t=this.content.getBoundingClientRect(),o=t.width/2,n=t.height/2,c=r-this.scale;this.currentPan.x-=o*c,this.currentPan.y-=n*c,this.scale=r,this.updateTransform()}updateTransform(){this.content.style.transform=`translate(${this.currentPan.x}px, ${this.currentPan.y}px) scale(${this.scale})`}resetTransform(){this.scale=1;let e=this.content.querySelector("svg");this.currentPan={x:e.getBoundingClientRect().width/2,y:e.getBoundingClientRect().height/2},this.updateTransform()}},C=["--secondary","--tertiary","--gray","--light","--lightgray","--highlight","--dark","--darkgray","--codeFont"],E;document.addEventListener("nav",async()=>{let e=document.querySelector(".center").querySelectorAll("code.mermaid");if(e.length===0)return;E||=await import("https://cdnjs.cloudflare.com/ajax/libs/mermaid/11.4.0/mermaid.esm.min.mjs");let r=E.default,t=new WeakMap;for(let n of e)t.set(n,n.innerText);async function o(){for(let s of e){s.removeAttribute("data-processed");let a=t.get(s);a&&(s.innerHTML=a)}let n=C.reduce((s,a)=>(s[a]=window.getComputedStyle(document.documentElement).getPropertyValue(a),s),{}),c=document.documentElement.getAttribute("saved-theme")==="dark";r.initialize({startOnLoad:!1,securityLevel:"loose",theme:c?"dark":"base",themeVariables:{fontFamily:n["--codeFont"],primaryColor:n["--light"],primaryTextColor:n["--darkgray"],primaryBorderColor:n["--tertiary"],lineColor:n["--darkgray"],secondaryColor:n["--secondary"],tertiaryColor:n["--tertiary"],clusterBkg:n["--light"],edgeLabelBackground:n["--highlight"]}}),await r.run({nodes:e})}await o(),document.addEventListener("themechange",o),window.addCleanup(()=>document.removeEventListener("themechange",o));for(let n=0;n<e.length;n++){let v=function(){let g=l.querySelector("#mermaid-space"),m=l.querySelector(".mermaid-content");if(!m)return;y(m);let w=c.querySelector("svg").cloneNode(!0);m.appendChild(w),l.classList.add("active"),g.style.cursor="grab",u=new h(g,m)},M=function(){l.classList.remove("active"),u?.cleanup(),u=null},c=e[n],s=c.parentElement,a=s.querySelector(".clipboard-button"),d=s.querySelector(".expand-button"),p=window.getComputedStyle(a),L=a.offsetWidth+parseFloat(p.marginLeft||"0")+parseFloat(p.marginRight||"0");d.style.right=`calc(${L}px + 0.3rem)`,s.prepend(d);let l=s.querySelector("#mermaid-container");if(!l)return;let u=null;d.addEventListener("click",v),f(l,M),window.addCleanup(()=>{u?.cleanup(),d.removeEventListener("click",v)})}});
+</script><script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/copy-tex.min.js" type="application/javascript"></script><script src="../../postscript.js" type="module"></script></html>

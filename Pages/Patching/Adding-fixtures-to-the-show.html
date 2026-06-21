@@ -1,0 +1,408 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr"><head><title>Adding fixtures to the show</title><meta charset="utf-8"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com"/><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Schibsted Grotesk:wght@400;700&amp;family=Source Sans Pro:ital,wght@0,400;0,600;1,400;1,600&amp;family=IBM Plex Mono:wght@400;600&amp;display=swap"/><link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin="anonymous"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta name="og:site_name" content="grandMA2 Manual Vault"/><meta property="og:title" content="Adding fixtures to the show"/><meta property="og:type" content="website"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="Adding fixtures to the show"/><meta name="twitter:description" content="Adding fixtures to the show Source MA Lighting Help – Adding fixtures to the show Version 3.9 Adding fixtures to the show Quick steps: Press Setup and Patch &amp; Fixture Schedule to enter the EditSetup menu."/><meta property="og:description" content="Adding fixtures to the show Source MA Lighting Help – Adding fixtures to the show Version 3.9 Adding fixtures to the show Quick steps: Press Setup and Patch &amp; Fixture Schedule to enter the EditSetup menu."/><meta property="og:image:alt" content="Adding fixtures to the show Source MA Lighting Help – Adding fixtures to the show Version 3.9 Adding fixtures to the show Quick steps: Press Setup and Patch &amp; Fixture Schedule to enter the EditSetup menu."/><meta property="twitter:domain" content="quartz.jzhao.xyz"/><meta property="og:url" content="https://quartz.jzhao.xyz/Pages/Patching/Adding-fixtures-to-the-show"/><meta property="twitter:url" content="https://quartz.jzhao.xyz/Pages/Patching/Adding-fixtures-to-the-show"/><link rel="icon" href="../../static/icon.png"/><meta name="description" content="Adding fixtures to the show Source MA Lighting Help – Adding fixtures to the show Version 3.9 Adding fixtures to the show Quick steps: Press Setup and Patch &amp; Fixture Schedule to enter the EditSetup menu."/><meta name="generator" content="Quartz"/><link href="../../index.css" rel="stylesheet" type="text/css" spa-preserve/><style>.expand-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  right: 0;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.expand-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.expand-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.expand-button:focus {
+  outline: 0;
+}
+
+pre:hover > .expand-button {
+  opacity: 1;
+  transition: 0.2s;
+}
+
+#mermaid-container {
+  position: fixed;
+  contain: layout;
+  z-index: 999;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  display: none;
+  backdrop-filter: blur(4px);
+  background: rgba(0, 0, 0, 0.5);
+}
+#mermaid-container.active {
+  display: inline-block;
+}
+#mermaid-container > #mermaid-space {
+  border: 1px solid var(--lightgray);
+  background-color: var(--light);
+  border-radius: 5px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 80vh;
+  width: 80vw;
+  overflow: hidden;
+}
+#mermaid-container > #mermaid-space > .mermaid-content {
+  padding: 2rem;
+  position: relative;
+  transform-origin: 0 0;
+  transition: transform 0.1s ease;
+  overflow: visible;
+  min-height: 200px;
+  min-width: 200px;
+}
+#mermaid-container > #mermaid-space > .mermaid-content pre {
+  margin: 0;
+  border: none;
+}
+#mermaid-container > #mermaid-space > .mermaid-content svg {
+  max-width: none;
+  height: auto;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  display: flex;
+  gap: 8px;
+  padding: 8px;
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  z-index: 2;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  border: 1px solid var(--lightgray);
+  background: var(--light);
+  color: var(--dark);
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  font-family: var(--bodyFont);
+  transition: all 0.2s ease;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:hover {
+  background: var(--lightgray);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:active {
+  transform: translateY(1px);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:nth-child(2) {
+  width: auto;
+  padding: 0 12px;
+  font-size: 14px;
+}
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VSb290IjoiL2hvbWUvcnVubmVyL3dvcmsvZ3JhbmRtYTItbWFudWFsLXZhdWx0L2dyYW5kbWEyLW1hbnVhbC12YXVsdC9fcXVhcnR6L3F1YXJ0ei9jb21wb25lbnRzL3N0eWxlcyIsInNvdXJjZXMiOlsibWVybWFpZC5pbmxpbmUuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNFO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7RUFDQTs7QUFHRjtFQUNFO0VBQ0E7O0FBR0Y7RUFDRTs7O0FBS0Y7RUFDRTtFQUNBOzs7QUFJSjtFQUNFO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7O0FBRUE7RUFDRTs7QUFHRjtFQUNFO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7O0FBRUE7RUFDRTtFQUNBOztBQUdGO0VBQ0U7RUFDQTs7QUFJSjtFQUNFO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7O0FBRUE7RUFDRTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7O0FBR0Y7RUFDRTs7QUFJRjtFQUNFO0VBQ0E7RUFDQSIsInNvdXJjZXNDb250ZW50IjpbIi5leHBhbmQtYnV0dG9uIHtcbiAgcG9zaXRpb246IGFic29sdXRlO1xuICBkaXNwbGF5OiBmbGV4O1xuICBmbG9hdDogcmlnaHQ7XG4gIHBhZGRpbmc6IDAuNHJlbTtcbiAgbWFyZ2luOiAwLjNyZW07XG4gIHJpZ2h0OiAwOyAvLyBOT1RFOiByaWdodCB3aWxsIGJlIHNldCBpbiBtZXJtYWlkLmlubGluZS50c1xuICBjb2xvcjogdmFyKC0tZ3JheSk7XG4gIGJvcmRlci1jb2xvcjogdmFyKC0tZGFyayk7XG4gIGJhY2tncm91bmQtY29sb3I6IHZhcigtLWxpZ2h0KTtcbiAgYm9yZGVyOiAxcHggc29saWQ7XG4gIGJvcmRlci1yYWRpdXM6IDVweDtcbiAgb3BhY2l0eTogMDtcbiAgdHJhbnNpdGlvbjogMC4ycztcblxuICAmID4gc3ZnIHtcbiAgICBmaWxsOiB2YXIoLS1saWdodCk7XG4gICAgZmlsdGVyOiBjb250cmFzdCgwLjMpO1xuICB9XG5cbiAgJjpob3ZlciB7XG4gICAgY3Vyc29yOiBwb2ludGVyO1xuICAgIGJvcmRlci1jb2xvcjogdmFyKC0tc2Vjb25kYXJ5KTtcbiAgfVxuXG4gICY6Zm9jdXMge1xuICAgIG91dGxpbmU6IDA7XG4gIH1cbn1cblxucHJlIHtcbiAgJjpob3ZlciA+IC5leHBhbmQtYnV0dG9uIHtcbiAgICBvcGFjaXR5OiAxO1xuICAgIHRyYW5zaXRpb246IDAuMnM7XG4gIH1cbn1cblxuI21lcm1haWQtY29udGFpbmVyIHtcbiAgcG9zaXRpb246IGZpeGVkO1xuICBjb250YWluOiBsYXlvdXQ7XG4gIHotaW5kZXg6IDk5OTtcbiAgbGVmdDogMDtcbiAgdG9wOiAwO1xuICB3aWR0aDogMTAwdnc7XG4gIGhlaWdodDogMTAwdmg7XG4gIG92ZXJmbG93OiBoaWRkZW47XG4gIGRpc3BsYXk6IG5vbmU7XG4gIGJhY2tkcm9wLWZpbHRlcjogYmx1cig0cHgpO1xuICBiYWNrZ3JvdW5kOiByZ2JhKDAsIDAsIDAsIDAuNSk7XG5cbiAgJi5hY3RpdmUge1xuICAgIGRpc3BsYXk6IGlubGluZS1ibG9jaztcbiAgfVxuXG4gICYgPiAjbWVybWFpZC1zcGFjZSB7XG4gICAgYm9yZGVyOiAxcHggc29saWQgdmFyKC0tbGlnaHRncmF5KTtcbiAgICBiYWNrZ3JvdW5kLWNvbG9yOiB2YXIoLS1saWdodCk7XG4gICAgYm9yZGVyLXJhZGl1czogNXB4O1xuICAgIHBvc2l0aW9uOiBmaXhlZDtcbiAgICB0b3A6IDUwJTtcbiAgICBsZWZ0OiA1MCU7XG4gICAgdHJhbnNmb3JtOiB0cmFuc2xhdGUoLTUwJSwgLTUwJSk7XG4gICAgaGVpZ2h0OiA4MHZoO1xuICAgIHdpZHRoOiA4MHZ3O1xuICAgIG92ZXJmbG93OiBoaWRkZW47XG5cbiAgICAmID4gLm1lcm1haWQtY29udGVudCB7XG4gICAgICBwYWRkaW5nOiAycmVtO1xuICAgICAgcG9zaXRpb246IHJlbGF0aXZlO1xuICAgICAgdHJhbnNmb3JtLW9yaWdpbjogMCAwO1xuICAgICAgdHJhbnNpdGlvbjogdHJhbnNmb3JtIDAuMXMgZWFzZTtcbiAgICAgIG92ZXJmbG93OiB2aXNpYmxlO1xuICAgICAgbWluLWhlaWdodDogMjAwcHg7XG4gICAgICBtaW4td2lkdGg6IDIwMHB4O1xuXG4gICAgICBwcmUge1xuICAgICAgICBtYXJnaW46IDA7XG4gICAgICAgIGJvcmRlcjogbm9uZTtcbiAgICAgIH1cblxuICAgICAgc3ZnIHtcbiAgICAgICAgbWF4LXdpZHRoOiBub25lO1xuICAgICAgICBoZWlnaHQ6IGF1dG87XG4gICAgICB9XG4gICAgfVxuXG4gICAgJiA+IC5tZXJtYWlkLWNvbnRyb2xzIHtcbiAgICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTtcbiAgICAgIGJvdHRvbTogMjBweDtcbiAgICAgIHJpZ2h0OiAyMHB4O1xuICAgICAgZGlzcGxheTogZmxleDtcbiAgICAgIGdhcDogOHB4O1xuICAgICAgcGFkZGluZzogOHB4O1xuICAgICAgYmFja2dyb3VuZDogdmFyKC0tbGlnaHQpO1xuICAgICAgYm9yZGVyOiAxcHggc29saWQgdmFyKC0tbGlnaHRncmF5KTtcbiAgICAgIGJvcmRlci1yYWRpdXM6IDZweDtcbiAgICAgIGJveC1zaGFkb3c6IDAgMnB4IDRweCByZ2JhKDAsIDAsIDAsIDAuMSk7XG4gICAgICB6LWluZGV4OiAyO1xuXG4gICAgICAubWVybWFpZC1jb250cm9sLWJ1dHRvbiB7XG4gICAgICAgIGRpc3BsYXk6IGZsZXg7XG4gICAgICAgIGFsaWduLWl0ZW1zOiBjZW50ZXI7XG4gICAgICAgIGp1c3RpZnktY29udGVudDogY2VudGVyO1xuICAgICAgICB3aWR0aDogMzJweDtcbiAgICAgICAgaGVpZ2h0OiAzMnB4O1xuICAgICAgICBwYWRkaW5nOiAwO1xuICAgICAgICBib3JkZXI6IDFweCBzb2xpZCB2YXIoLS1saWdodGdyYXkpO1xuICAgICAgICBiYWNrZ3JvdW5kOiB2YXIoLS1saWdodCk7XG4gICAgICAgIGNvbG9yOiB2YXIoLS1kYXJrKTtcbiAgICAgICAgYm9yZGVyLXJhZGl1czogNHB4O1xuICAgICAgICBjdXJzb3I6IHBvaW50ZXI7XG4gICAgICAgIGZvbnQtc2l6ZTogMTZweDtcbiAgICAgICAgZm9udC1mYW1pbHk6IHZhcigtLWJvZHlGb250KTtcbiAgICAgICAgdHJhbnNpdGlvbjogYWxsIDAuMnMgZWFzZTtcblxuICAgICAgICAmOmhvdmVyIHtcbiAgICAgICAgICBiYWNrZ3JvdW5kOiB2YXIoLS1saWdodGdyYXkpO1xuICAgICAgICB9XG5cbiAgICAgICAgJjphY3RpdmUge1xuICAgICAgICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlWSgxcHgpO1xuICAgICAgICB9XG5cbiAgICAgICAgLy8gU3R5bGUgdGhlIHJlc2V0IGJ1dHRvbiBkaWZmZXJlbnRseVxuICAgICAgICAmOm50aC1jaGlsZCgyKSB7XG4gICAgICAgICAgd2lkdGg6IGF1dG87XG4gICAgICAgICAgcGFkZGluZzogMCAxMnB4O1xuICAgICAgICAgIGZvbnQtc2l6ZTogMTRweDtcbiAgICAgICAgfVxuICAgICAgfVxuICAgIH1cbiAgfVxufVxuIl19 */</style><link href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" rel="stylesheet" type="text/css" spa-preserve/><script src="../../prescript.js" type="application/javascript" spa-preserve></script><script type="application/javascript" spa-preserve>const fetchData = fetch("../../static/contentIndex.json").then(data => data.json())</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://quartz.jzhao.xyz/index.xml"/><meta property="og:image:width" content="1200"/><meta property="og:image:height" content="630"/><meta property="og:image" content="https://quartz.jzhao.xyz/Pages/Patching/Adding-fixtures-to-the-show-og-image.webp"/><meta property="og:image:url" content="https://quartz.jzhao.xyz/Pages/Patching/Adding-fixtures-to-the-show-og-image.webp"/><meta name="twitter:image" content="https://quartz.jzhao.xyz/Pages/Patching/Adding-fixtures-to-the-show-og-image.webp"/><meta property="og:image:type" content="image/.webp"/></head><body data-slug="Pages/Patching/Adding-fixtures-to-the-show"><div id="quartz-root" class="page"><div id="quartz-body"><div class="left sidebar"><h2 class="page-title"><a href="../..">grandMA2 Manual Vault</a></h2><div class="spacer mobile-only"></div><div class="flex-component" style="flex-direction: row; flex-wrap: nowrap; gap: 1rem;"><div style="flex-grow: 1; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><div class="search"><button class="search-button"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title>Search</title><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"></path><circle cx="8" cy="8" r="7"></circle></g></svg><p>Search</p></button><div class="search-container"><div class="search-space"><input autocomplete="off" class="search-bar" name="search" type="text" aria-label="Search for something" placeholder="Search for something"/><div class="search-layout" data-preview="true"></div></div></div></div></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="darkmode"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="dayIcon" x="0px" y="0px" viewBox="0 0 35 35" style="enable-background:new 0 0 35 35" xml:space="preserve" aria-label="Dark mode"><title>Dark mode</title><path d="M6,17.5C6,16.672,5.328,16,4.5,16h-3C0.672,16,0,16.672,0,17.5    S0.672,19,1.5,19h3C5.328,19,6,18.328,6,17.5z M7.5,26c-0.414,0-0.789,0.168-1.061,0.439l-2,2C4.168,28.711,4,29.086,4,29.5    C4,30.328,4.671,31,5.5,31c0.414,0,0.789-0.168,1.06-0.44l2-2C8.832,28.289,9,27.914,9,27.5C9,26.672,8.329,26,7.5,26z M17.5,6    C18.329,6,19,5.328,19,4.5v-3C19,0.672,18.329,0,17.5,0S16,0.672,16,1.5v3C16,5.328,16.671,6,17.5,6z M27.5,9    c0.414,0,0.789-0.168,1.06-0.439l2-2C30.832,6.289,31,5.914,31,5.5C31,4.672,30.329,4,29.5,4c-0.414,0-0.789,0.168-1.061,0.44    l-2,2C26.168,6.711,26,7.086,26,7.5C26,8.328,26.671,9,27.5,9z M6.439,8.561C6.711,8.832,7.086,9,7.5,9C8.328,9,9,8.328,9,7.5    c0-0.414-0.168-0.789-0.439-1.061l-2-2C6.289,4.168,5.914,4,5.5,4C4.672,4,4,4.672,4,5.5c0,0.414,0.168,0.789,0.439,1.06    L6.439,8.561z M33.5,16h-3c-0.828,0-1.5,0.672-1.5,1.5s0.672,1.5,1.5,1.5h3c0.828,0,1.5-0.672,1.5-1.5S34.328,16,33.5,16z     M28.561,26.439C28.289,26.168,27.914,26,27.5,26c-0.828,0-1.5,0.672-1.5,1.5c0,0.414,0.168,0.789,0.439,1.06l2,2    C28.711,30.832,29.086,31,29.5,31c0.828,0,1.5-0.672,1.5-1.5c0-0.414-0.168-0.789-0.439-1.061L28.561,26.439z M17.5,29    c-0.829,0-1.5,0.672-1.5,1.5v3c0,0.828,0.671,1.5,1.5,1.5s1.5-0.672,1.5-1.5v-3C19,29.672,18.329,29,17.5,29z M17.5,7    C11.71,7,7,11.71,7,17.5S11.71,28,17.5,28S28,23.29,28,17.5S23.29,7,17.5,7z M17.5,25c-4.136,0-7.5-3.364-7.5-7.5    c0-4.136,3.364-7.5,7.5-7.5c4.136,0,7.5,3.364,7.5,7.5C25,21.636,21.636,25,17.5,25z"></path></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="nightIcon" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100" xml:space="preserve" aria-label="Light mode"><title>Light mode</title><path d="M96.76,66.458c-0.853-0.852-2.15-1.064-3.23-0.534c-6.063,2.991-12.858,4.571-19.655,4.571  C62.022,70.495,50.88,65.88,42.5,57.5C29.043,44.043,25.658,23.536,34.076,6.47c0.532-1.08,0.318-2.379-0.534-3.23  c-0.851-0.852-2.15-1.064-3.23-0.534c-4.918,2.427-9.375,5.619-13.246,9.491c-9.447,9.447-14.65,22.008-14.65,35.369  c0,13.36,5.203,25.921,14.65,35.368s22.008,14.65,35.368,14.65c13.361,0,25.921-5.203,35.369-14.65  c3.872-3.871,7.064-8.328,9.491-13.246C97.826,68.608,97.611,67.309,96.76,66.458z"></path></svg></button></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="readermode"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="readerIcon" fill="currentColor" stroke="currentColor" stroke-width="0.2" stroke-linecap="round" stroke-linejoin="round" width="64px" height="64px" viewBox="0 0 24 24" aria-label="Reader mode"><title>Reader mode</title><g transform="translate(-1.8, -1.8) scale(1.15, 1.2)"><path d="M8.9891247,2.5 C10.1384702,2.5 11.2209868,2.96705384 12.0049645,3.76669482 C12.7883914,2.96705384 13.8709081,2.5 15.0202536,2.5 L18.7549359,2.5 C19.1691495,2.5 19.5049359,2.83578644 19.5049359,3.25 L19.5046891,4.004 L21.2546891,4.00457396 C21.6343849,4.00457396 21.9481801,4.28672784 21.9978425,4.6528034 L22.0046891,4.75457396 L22.0046891,20.25 C22.0046891,20.6296958 21.7225353,20.943491 21.3564597,20.9931534 L21.2546891,21 L2.75468914,21 C2.37499337,21 2.06119817,20.7178461 2.01153575,20.3517706 L2.00468914,20.25 L2.00468914,4.75457396 C2.00468914,4.37487819 2.28684302,4.061083 2.65291858,4.01142057 L2.75468914,4.00457396 L4.50368914,4.004 L4.50444233,3.25 C4.50444233,2.87030423 4.78659621,2.55650904 5.15267177,2.50684662 L5.25444233,2.5 L8.9891247,2.5 Z M4.50368914,5.504 L3.50468914,5.504 L3.50468914,19.5 L10.9478955,19.4998273 C10.4513189,18.9207296 9.73864328,18.5588115 8.96709342,18.5065584 L8.77307039,18.5 L5.25444233,18.5 C4.87474657,18.5 4.56095137,18.2178461 4.51128895,17.8517706 L4.50444233,17.75 L4.50368914,5.504 Z M19.5049359,17.75 C19.5049359,18.1642136 19.1691495,18.5 18.7549359,18.5 L15.2363079,18.5 C14.3910149,18.5 13.5994408,18.8724714 13.0614828,19.4998273 L20.5046891,19.5 L20.5046891,5.504 L19.5046891,5.504 L19.5049359,17.75 Z M18.0059359,3.999 L15.0202536,4 L14.8259077,4.00692283 C13.9889509,4.06666544 13.2254227,4.50975805 12.7549359,5.212 L12.7549359,17.777 L12.7782651,17.7601316 C13.4923805,17.2719483 14.3447024,17 15.2363079,17 L18.0059359,16.999 L18.0056891,4.798 L18.0033792,4.75457396 L18.0056891,4.71 L18.0059359,3.999 Z M8.9891247,4 L6.00368914,3.999 L6.00599909,4.75457396 L6.00599909,4.75457396 L6.00368914,4.783 L6.00368914,16.999 L8.77307039,17 C9.57551536,17 10.3461406,17.2202781 11.0128313,17.6202194 L11.2536891,17.776 L11.2536891,5.211 C10.8200889,4.56369974 10.1361548,4.13636104 9.37521067,4.02745763 L9.18347055,4.00692283 L8.9891247,4 Z"></path></g></svg></button></div></div><div class="explorer" data-behavior="link" data-collapsed="collapsed" data-savestate="true" data-data-fns="{&quot;order&quot;:[&quot;filter&quot;,&quot;map&quot;,&quot;sort&quot;],&quot;sortFn&quot;:&quot;(a,b)=>!a.isFolder&amp;&amp;!b.isFolder||a.isFolder&amp;&amp;b.isFolder?a.displayName.localeCompare(b.displayName,void 0,{numeric:!0,sensitivity:\&quot;base\&quot;}):!a.isFolder&amp;&amp;b.isFolder?1:-1&quot;,&quot;filterFn&quot;:&quot;node=>node.slugSegment!==\&quot;tags\&quot;&quot;,&quot;mapFn&quot;:&quot;node=>node&quot;}"><button type="button" class="explorer-toggle mobile-explorer hide-until-loaded" data-mobile="true" aria-controls="explorer-752"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-menu"><line x1="4" x2="20" y1="12" y2="12"></line><line x1="4" x2="20" y1="6" y2="6"></line><line x1="4" x2="20" y1="18" y2="18"></line></svg></button><button type="button" class="title-button explorer-toggle desktop-explorer" data-mobile="false" aria-expanded="true"><h2>Explorer</h2><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><div id="explorer-752" class="explorer-content" aria-expanded="false" role="group"><ul class="explorer-ul overflow" id="list-0"><li class="overflow-end"></li></ul></div><template id="template-file"><li><a href="#"></a></li></template><template id="template-folder"><li><div class="folder-container"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div><button class="folder-button"><span class="folder-title"></span></button></div></div><div class="folder-outer"><ul class="content"></ul></div></li></template></div></div><div class="center"><div class="page-header"><div class="popover-hint"><nav class="breadcrumb-container" aria-label="breadcrumbs"><div class="breadcrumb-element"><a href="../../">Home</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../../Pages/">Pages</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../../Pages/Patching/">Patching</a><p> ❯ </p></div><div class="breadcrumb-element"><a href>Adding fixtures to the show</a></div></nav><h1 class="article-title">Adding fixtures to the show</h1><p show-comma="true" class="content-meta"><time datetime="2026-06-21T03:40:35.091Z">Jun 21, 2026</time><span>23 min read</span></p><ul class="tags"><li><a href="../../tags/type/page" class="internal tag-link">type/page</a></li><li><a href="../../tags/section/patch" class="internal tag-link">section/patch</a></li></ul></div></div><article class="popover-hint gma2-page"><h1 id="adding-fixtures-to-the-show">Adding fixtures to the show<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#adding-fixtures-to-the-show" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<blockquote class="callout source is-collapsible is-collapsed" data-callout="source" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>Source </p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+<div class="callout-content">
+<p><a href="https://help.malighting.com/grandMA2/en/help/key_patch_add_fixtures.html" class="external">MA Lighting Help – Adding fixtures to the show<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+</div>
+</blockquote>
+<p>Version 3.9</p>
+<h1 id="adding-fixtures-to-the-show-1">Adding fixtures to the show<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#adding-fixtures-to-the-show-1" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p><strong>Quick steps:</strong></p>
+<ol>
+<li>Press Setup and Patch &amp; Fixture Schedule to enter the EditSetup menu.</li>
+<li>Add a new or select an existing layer.</li>
+<li>In the layer, Add new fixture.</li>
+<li>Follow the Fixture Wizard.
+<ol>
+<li>Import a fixture from library (internal or from USB) or select already imported fixtures from the list.</li>
+<li>Change the quantity.</li>
+<li>Set a Fixture ID and/or Channel ID.</li>
+<li>Set the start address for the first fixture.</li>
+<li>Tap Apply.</li>
+</ol>
+</li>
+<li>Check that the result is correct.</li>
+<li>Exit the EditSetup menu.</li>
+<li>Tap Yes to confirm the changes.</li>
+</ol>
+<p>This was the quick steps - Keep reading for more details.</p>
+<p>Adding fixtures to the show is done from the <strong>EditSetup menu</strong> - also called Patch &amp; Fixture Schedule. This can be found by pressing the Setup key and then Patch &amp; Fixture Schedule.</p>
+<p>It could look like this:</p>
+<p><img src="../.././../img/menu_editsetup_v3-3.png" alt/></p>
+<p><em>EditSetup menu</em></p>
+<p>This is one of the essential access points for everything that has to do with your entire fixture setup structure. A very important menu.</p>
+<p>It main part is divided into a left and a right side. There is a lot of buttons on the bottom and three important one on the right most side.</p>
+<p>The left side is <strong>Layers</strong> and the right side is the list of fixtures in the selected layer. In the picture above it is the “Dimmer” layer and all the Dimmer fixtures.</p>
+<h2 id="layers">Layers<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#layers" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Read more details about Layers in the <a href="../../Pages/Patching/Working-with-Layers" class="internal alias" data-slug="Pages/Patching/Working-with-Layers">Working with Layers topic</a>.</p>
+<p>The left side of the main window is a list of Layers. Any fixture added to the show needs to be put in a layer.</p>
+<p>You can decide how you want to organize the layers. All fixtures can be put in the same layer or organized in multiple layers - by fixture type or location. It is completely up to you. But you need at least one layer.</p>
+<p>When you have a layer then select it by tapping it. Then you can see all the list of fixtures in the layer on the right side of the menu. At the bottom there is a lot of buttons. We are going to use some of them. Please notice that the text on them changes depending on what side was tapped last - the layer list or the fixture list. The function is the same it is just a matter of affecting layers or fixtures.</p>
+<h2 id="create-a-layer-to-put-fixtures-in-it">Create a Layer to put fixtures in it<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#create-a-layer-to-put-fixtures-in-it" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>You can add a layer by tapping in the layer part of the screen. You could tap where it says “New”.</p>
+<p>Then tap where it says Add Layer. Now opens the Enter Name pop-up where you can give the new layer a name.</p>
+<p>Type a name and finish by pressing Please (Enter).</p>
+<p>When you create an empty layer, then the console will help you to the next logical step - to add fixtures in the layer. So the next thing you are presented with is the Fixture Wizard.</p>
+<h2 id="adding-fixtures-to-an-existing-layer">Adding fixtures to an existing layer<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#adding-fixtures-to-an-existing-layer" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>If you already have layers, then you can add new fixtures in them. Select the layer on the left side and then tap somewhere in the fixture list (the right side).</p>
+<p>Now you can tap the button that says Add Fixtures. If the menu is on screen 1 then you can also press the X1 key.</p>
+<p>This opens the Fixture Wizard.</p>
+<h2 id="using-the-fixture-wizard---part-1">Using the Fixture Wizard - Part 1<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#using-the-fixture-wizard---part-1" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>When you add a fixture to your layers you are guided by the Fixture Wizard.</p>
+<p>If you are not already presented with the wizard then you can get to it by tapping on the layer, tap new in the fixture list and then tap the Add Fixture button.</p>
+<p>The wizard could look like this:</p>
+<p><img src="../.././../img/popup_fixture_wizard_v3-3.png" alt/></p>
+<p><em>Fixture Wizard</em></p>
+<p>This pop-up is also divided into a left and right side.</p>
+<p>The left side is all the fields we need to fill out for the grandMA2 to add and be able to use the fixture.</p>
+<p>The right side is an area that changes depending on what input field you currently have selected on the left side.</p>
+<p>The first thing you need to select is what fixture type you want to add to your show.</p>
+<p>To make sure you are working with the correct input field, please tap where it says Please select fixturetype. The right side now shows you a three structure with minimum two objects: “From Library” and “Dimmer 00 (DMX1)“.</p>
+<p>The general idea is that the console have a large library of fixture types. You then import a fixture type into the show file. That is a copy from the library. It can then be modify this copied fixture type in your show file without it affecting the original fixture type in the library. You can of course export the fixture type from your show file back into library if you think you need the modified fixture type again in a different show file.</p>
+<p>The library does not have to be the one in the console - it can be a library on a USB stick.</p>
+<p>As a default you will always have the standard “Dimmer” fixture type imported when you create a new show. If this is all you need please jump directly to <a href="#fixture_wizard_part_2" class="internal alias">Using the Fixture Wizard - Part 2</a>. Keep reading if you need to add other fixture types.</p>
+<h2 id="importing-a-fixture-type-from-the-library">Importing a fixture type from the library<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#importing-a-fixture-type-from-the-library" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>When you tap the From Library button you get the <strong>Import Fixture Type</strong> pop-up. It looks like this:</p>
+<p><img src="../.././../img/popup_import-fixture-type_v3-3.png" alt/></p>
+<p><em>Import Fixture Type</em></p>
+<p>The library is basically one big long list of fixture types. This list can sorted and it can be filtered by manufacturer and/or fixture name.</p>
+<p>At the top of the list you can select what library you are using - it is the “Select Drive” drop down.</p>
+<p>For the grandMA2 to be able to see the fixture types they need to be in the correct folder. If you insert a USB stick and open the <a href="../../Sections/Backup-Menu" class="internal alias" data-slug="Sections/Backup-Menu">Backup menu,</a> then it automatically create the folder structure needed.</p>
+<p>Fixture types need to be in the folder called “library”. This folder need to be inside a folder called “gma2”.</p>
+<p><img src="../.././../img/img_usb-file-structure_library_v3_2.png" alt/></p>
+<p><em>USB file structure</em></p>
+<p>When you have selected the drive then you will see all the fixture types in one list.</p>
+<p>The two green input fields are the two filters that you can apply. These can be used to filter on a manufacturer name and/or the name of the fixture.</p>
+<p>It is a good idea that you might type (some part of) the manufacturer name. You do not need to write the entire name, just a unique part of it. If for instance you want to find a fixture from Clay Paky, you only need to write “clay” or “paky”. Now the list only shows Clay Paky fixtures. The filter will show all manufacturers with the letters you write, in any part of their name. So if you write “ma” then you get a long list. The first manufacturer might be “Altman” - the letters “ma” are in it. Uppercase letters are not distinguished.</p>
+<p>Same goes for the fixture filter. This filters on the fixture name. Try not to be more specific then you need to be. If you are looking for a Clay Paky Alpha Spot QWO 800, they you just need a manufacturer filter “clay” and a fixture filter “qwo”. Since no one else currently have a fixture with “qwo” in the fixture name, we do not really need the manufacturer filter.</p>
+<p>On the right side of the two filters you will find a Clear Filter button. This will remove any input you have typed in your filters.</p>
+<p>Below the filters you have the list of fixtures.</p>
+<p>There are several columns in this list:</p>
+<ul>
+<li><strong>Manufacturer:</strong><br/>
+This is the name of the manufacturer of the fixture.</li>
+<li><strong>Fixture Name:</strong><br/>
+This is the name of the fixture.</li>
+<li><strong>Mode:</strong><br/>
+Many fixtures have several different modes. This can be a way a LED bar might be separated into different sections or different operational modes in a moving head. If a fixture types doesn’t have a mode then it often have a “00” mode. The default Dimmer fixture type is an example of this.</li>
+<li><strong>DMX Footprint:</strong><br/>
+Close connected to the Mode is the amount of DMX channels a fixture uses.</li>
+<li><strong>Instances:</strong><br/>
+Some fixtures might be separated into different sections called Instances. This could be a LED bar with six individually controllable sections. It can also be a fixture like the Martin Aura where the fixture have two different color systems in the same moving head.</li>
+<li><strong>Info:</strong><br/>
+Here you can see any relevant info text.</li>
+<li><strong>Filename:</strong><br/>
+This is the actual name of the fixture type file.</li>
+<li><strong>Filedate:</strong><br/>
+This is the date the file was saved.</li>
+<li><strong>FileSize:</strong><br/>
+This is the size of the fixture type file.</li>
+</ul>
+<p>You can choose the display information about the DMX channels below the list. If you tap the <img src="../.././../img/icon_info_v3-2.png" alt/> in the title bar then you will see the list of DMX channels and what function they have.</p>
+<p>When you have found the fixture you need to tap it in the list and the tap the Import button in the lower right corner.</p>
+<p>If you do not want to import any fixture type anyway, then you can close the pop-up by tapping the X in the upper right corner.</p>
+<h2 id="using-the-fixture-wizard---part-2">Using the Fixture wizard - Part 2<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#using-the-fixture-wizard---part-2" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>If you have just imported a fixture type then this is automatically selected. If you have not, then you need to tap the, already imported, fixture type you want to add.</p>
+<p>Now the cursor jumps to the <strong>Quantity</strong> input field. This is where you set the amount of fixtures you want to add.</p>
+<p>You can see the top two input fields are the fixture type you selected and the second is the <strong>Name</strong> of the fixture. The suggested name comes from the fixture type definition. And it adds a space and a number (1) to the name. The result of this added space and number is that all the fixtures added will be enumerated from this number. You can of course change the name.</p>
+<p>After you have typed the quantity. You need to type the ID numbers.</p>
+<p>There are two types of ID number: The <strong>Fixture ID</strong> and the <strong>Channel ID</strong>.</p>
+<p>To use the fixture you need to give it at least one of the ID numbers. You can give it both a Fixture ID and Channel ID. It can be the same number but it does not have to be the same.</p>
+<p>The difference between the two are whether or not the fixture is visible in the Channel Sheet and the Fixture Sheet.</p>
+<p>A fixture with a Fixture ID is visible in the Fixture Sheet (This sheet displays all attributes for the fixture).</p>
+<p>A fixture with a Channel ID is visible in the Channel Sheet (This sheet only shows the Dimmer attributes for the fixture).</p>
+<p>The console also have a default beginning keyword. This is usually “Fixture” or “Channel”. This is what the console assume you are addressing if you do not specify something else.</p>
+<p>You can see it in your command line. It could look like these two examples:</p>
+<p>[Channel]></p>
+<p>[Fixture]></p>
+<p><strong>Hint:</strong><br/>
+If you want to change what the default keyword is, then you can press the key followed by Please.</p>
+<p>If you do not want to give the fixtures an ID number then you need to type “0” in the input field. But remember that you need to give them at least one ID number to be able to select and control them.</p>
+<p>Depending on what fixture type you have selected, you might have up to 8 different <a href="../../Pages/Patching/What-are-DMX-breaks" class="internal alias" data-slug="Pages/Patching/What-are-DMX-breaks">Patch Breaks</a>. Most fixture only need one, but some multi instance fixtures needs several DMX start addresses.</p>
+<p>You can type in the DMX address using the following pattern [Universe].[DMX address] - so if you need the fixture to have start address 1 in universe 2, then you need to write 2.1</p>
+<p>You can also choose to type the absolute DMX address. In the same example as above you could also type 513 - this is because there are 512 possible DMX addresses in one universe, so the first number in the second universe will be 513.</p>
+<p>If you do not want to give the fixtures a DMX address now, then you can type “0” (zero) in the Patch Break.</p>
+<p>When you are happy with your input then you can tap the Apply button. This takes you back to the EditSetup menu.</p>
+<h2 id="a-closer-look-at-the-fixture-list">A closer look at the fixture list<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#a-closer-look-at-the-fixture-list" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>When you have added fixtures using the Fixture Wizard and tapped Apply, then you are back in the EditSetup. Here you can see the fixture you have added in the fixture list (right side of the screen).</p>
+<p>The fixture list shows us a lot of information and we can edit almost all of it. The following is a short description of the columns in the list.</p>
+<p><strong>FixID:</strong><br/>
+This is the Fixture ID number. If the fixture does not have an ID the there is a ”-” instead of the number.</p>
+<p><strong>ChaID:</strong><br/>
+This is the Channel ID number. If the fixture does not have an ID the there is a ”-” instead of the number.</p>
+<p><strong>Name:</strong><br/>
+This is the name if the fixture. Remember that if you are naming multiple fixtures at once, then you can add a space and a number to automatically enumerate the fixtures from that number.</p>
+<p><strong>Fixture Type:</strong><br/>
+This is the fixture type. If you edit this then you will get the Select Fixture type pop-up. It could look like this:</p>
+<p><img src="../.././../img/popup_select-fixture-type_v3-2.png" alt/></p>
+<p><em>Select Fixture Type</em></p>
+<p>Here you can select an existing fixture type or you can import a new one (From Library).</p>
+<p>If you change the Fixture Type for an already used fixture then you are asked how colors should be transformed:</p>
+<p><img src="../.././../img/popup__color-transform-options_v3-3.png" alt/></p>
+<p><em>Color Transform Options</em></p>
+<p>Here are three buttons that selects how the colors should be transformed from one fixture to the other.</p>
+<p>The three options are:</p>
+<ul>
+<li><strong>Prefer MIXColor:</strong><br/>
+This will prefer MIXColor and set all color wheels to open white.</li>
+<li><strong>Prefer Color Wheel:</strong><br/>
+This will prefer the color wheels and set all MIXColors to open white.</li>
+<li><strong>MIXColor + Col.Wheel:</strong><br/>
+This will do a combination of both MIXColors and color wheels.</li>
+</ul>
+<p>When you have selected the options you like then you can tap the Transform button or you can choose to not transform the colors by tapping the Do not transform button.</p>
+<p><strong>Patch:</strong></p>
+<p>This is the patch address of the fixture. If a fixture is unpatched then there is a ”(-)” here.</p>
+<p>Editing the patch cell opens the DMX Patch window. <a href="#dmx_patch_window" class="internal alias">Read below for more info on this</a>.</p>
+<p>There are two ways you can have the patch address displayed. Below the list is a button called “Patch Readout”. This button has two different modes: “Univ.Address” or “Abs. Address”.</p>
+<p>The first one (Universe) will separate the DMX address into universes. First number is the universe, second number is the DMX address. They are separated by a dot.</p>
+<p>The other option (Absolute) will add the address and only display one number. So the first DMX address in the second universe will be displayed as “513”. This can be useful with equipment that are subsequently patched. For instance some network dimmer systems are patched using a single absolute DMX number for the address.</p>
+<p>The readout is a User setting and can also be changed in Setup <span>→</span> User <span>→</span> Settings. Here it is called “Patch Column Readout is absolute DMX address” and it is an On/Off setting.</p>
+<p><strong>React to Master:</strong></p>
+<p>This is “On” as a default. When it is on then the dimmer attribute of the fixture will be affected by the Grand Master, Group Masters and Solo. Turning this off makes sure the intensity is not affect by any such masters. This is great for power relays, blue lights and other stuff you do not want to accidently turn down.</p>
+<p><strong>Pan DMX Invert:</strong></p>
+<p>When this is “On”, then the console inverts the DMX values on the Pan attribute.</p>
+<p><strong>Tilt DMX Invert:</strong></p>
+<p>When this is “On”, then the console inverts the DMX values on the Tilt attribute.</p>
+<p><strong>Pan Enc. (Encoder) Invert:</strong></p>
+<p>This will invert the direction of the Pan movement when using the encoders. This will make it easier to match the 3D and real world pan movement with the encoder rotation.</p>
+<p><strong>Tilt Enc. (Encoder) Invert:</strong></p>
+<p>This will invert the direction of the Tilt movement when using the encoders. This will make it easier to match the 3D and real world tilt movement with the encoder rotation.</p>
+<p><strong>Pan Offset:</strong></p>
+<p>This can be used to offset the programmed Pan values. This can be very useful if the show has been preprogrammed or it is a touring show, and the fixtures are not hung the way they were planned to be. The offset value is not visible in the Fixture Sheet, but it can be seen in the DMX Sheet. It is a nice function as long the fixtures do not come all the way out to their endpoints in the programming. The number entered here is a degree number and can be a negative value.</p>
+<p><strong>Important:</strong><br/>
+The Pan and Tilt Offset values can also be edited with live output to the fixtures. This can be done in the <a href="../../Pages/Patching/Live-patching" class="internal alias" data-slug="Pages/Patching/Live-patching">Live patching</a>, when editing fixtures, or via command line. When this is done for several hundred fixtures at the same time, then this information is distributed live to all stations and NPUs in the session and this is distributed with a small delay in the system. A progress bar is displayed. Please wait until the distribution is done before continuing working. If this is done live for a small group of fixtures, then there should be no delay. If the value is changed in the EditSetup then the values are updated with the show upload.</p>
+<p><strong>Tilt Offset:</strong></p>
+<p>This can be used to offset the programmed Tilt values. This can be very useful if the show has been preprogrammed or it is a touring show, and the fixtures are not hung the way they were planned to be. The offset value is not visible in the Fixture Sheet, but it can be seen in the DMX Sheet. It is a nice function as long the fixtures do not come all the way out to their endpoints in the programming. The number entered here is a degree number and can be a negative value.</p>
+<p><strong>Swap:</strong></p>
+<p>This will swap the Pan and Tilt DMX output.</p>
+<p><strong>Bitmap Disable:</strong></p>
+<p>Turning this “On” will exclude this fixture from being affected by any Bitmap Fixtures.</p>
+<p><strong>Color:</strong></p>
+<p>Here you can add a color to the light from your fixture. This is nice for dimmers, but does not make sense for any fixture with a color mixing system. It is like placing a color gel in front of the fixture. This color is visible in the Stage view, Layout view, the MA 3D and can be visible in Fixture and Channel Sheets. Editing this cell opens the Select Color pop-up:</p>
+<p><img src="../.././../img/popup_select-color_v3-2.png" alt/></p>
+<p><em>Select color</em></p>
+<p>Here you can use what ever method you like to select the color and tap Please when you are happy or you could tap Reset to White if you do not want any color.</p>
+<p><strong>Pos X, Pos Y, Pos Z:</strong></p>
+<p>This the XYZ position of the fixture in the 3D space. Read more about positioning fixtures in the <a href="../../Pages/Patching/Position-fixtures-in-the-virtual-3D-stage" class="internal alias" data-slug="Pages/Patching/Position-fixtures-in-the-virtual-3D-stage">Position fixtures in the 3D stage topic</a>.</p>
+<p><strong>Rot X, Rot Y, Rot Z:</strong></p>
+<p>This the XYZ rotation of the fixture in the 3D space. Read more about positioning fixtures in the <a href="../../Pages/Patching/Position-fixtures-in-the-virtual-3D-stage" class="internal alias" data-slug="Pages/Patching/Position-fixtures-in-the-virtual-3D-stage">Position fixtures in the 3D stage topic</a>.</p>
+<p><strong>No Parameter:</strong></p>
+<p>This is for use with MA VPU (= video processing unit) pixel mapping. If this column is set to “Yes”, all the programming for this fixture <strong>is lost</strong>, it does not consume any parameters any more in the grandMA2 and the MA VPU will send out the default values defined in the fixture profile additional to the Color RGB 1-3 values. <strong>The idea:</strong> if this flag has been set (No Parameter), the fixtures can still be selected, but only controlled by the MA VPU, not the console. Additionally the set default values for this fixture are transmitted. These values can be changed (for example Dimmer to 100%) in the grandMA2 / Patch &amp; Fixture Schedule / Fixture Types.</p>
+<p><strong>RDM ID:</strong></p>
+<p>This will display the RDM ID of the fixture when it matched in the <a href="../../Pages/RDM/Match-RDM-devices" class="internal alias" data-slug="Pages/RDM/Match-RDM-devices">RDM Devices</a>.</p>
+<p>This was all the different columns in the Fixture list.</p>
+<h2 id="the-dmx-patch-pop-up">The DMX Patch pop-up<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#the-dmx-patch-pop-up" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>When you edit one or several patch address in the fixture list, then the DMX Patch pop-up. It could look like this:</p>
+<p><img src="../.././../img/popup_dmx-patch_v3-3.png" alt/></p>
+<p><em>DMX Patch</em></p>
+<p>Again a window that is divided into two sides.</p>
+<p>The left side is the fixture you chose to edit. In the picture above it is four spots that was selected and the patch fields where edited.</p>
+<p>The right side displays the DMX universe and the DMX addresses.</p>
+<p>The Encoder Toolbar have changed to allow you to select a DMX address and actually text the DMX channel.</p>
+<p>At the bottom there is several buttons.</p>
+<h3 id="the-left-side">The left side<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#the-left-side" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>The left side shows you the fixtures. You can see the ID numbers, Fixture Type, Name and current DMX Address. If it is unpatched then there is a ”-” instead of a number.</p>
+<p>Below the fixtures you have a button to change if you want the DMX address to be written in Universe or Absolute readout (<a href="#readout_mode" class="internal alias">follow this link to read details further up on this page</a>).</p>
+<p>The fixtures here are the ones you selected before editing the patch. The only thing we can change here is the DMX address. The pop-up might close when you have given all your fixtures a DMX address.</p>
+<p>The workflow is that you select the”DMX Address” cell for the fixtures you want to give a new patch so the field is blue. Then you can use the right side to find the DMX address.</p>
+<h3 id="the-right-side">The right side<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#the-right-side" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>The right side shows you the DMX addresses in the selected universe. On the top right side (just below the yellow “X”) you will find a green input field. This shows you the currently selected universe. If you tap it then you can use the calculator to change the universe.</p>
+<p>Any DMX addresses that have something patched will have a frame around them. Inside the frame you will see the Fixture ID and Channel ID and maybe the fixture name (if the space allows it).</p>
+<p>Below the list of DMX addresses you have a button called <strong>Skip Patched</strong>. If this is active then you cannot select already patched DMX addresses. You are only allowed to select empty one. You can scroll the list using the vertical scroll bar or the encoder (read more about that below).</p>
+<p>When you have found the address you want, then you can tap it and this will assign it to the selected fixture (on the left side).</p>
+<p>If you have more than one fixture selected, then you will automatically patch all the fixtures starting from the address you selected - There might be a gap between them (see “Offset” below).</p>
+<p>There are three other buttons below the right side:</p>
+<ul>
+<li><strong>Unpatch:</strong><br/>
+Tapping this button will remove any patch information from the selected fixtures.</li>
+<li><strong>Patch to…:</strong><br/>
+You can tap this button if you know what DMX address your fixture should have.</li>
+<li><strong>Offset:</strong><br/>
+This button can be used to set an offset. Offsets are used when you patch more than one fixture at a time and you want to add a gap between the fixtures. The number you define by tapping the button needs to be bigger, than the amount of DMX channels the fixture uses. If the number is lower than the amount of channels used, then the fixtures will be patched as close as possible. For example if you patch some fixtures that uses 12 DMX channel and you patch then from address 1 with the Offset at 20, then the fixtures will be patched at address 1, 21, 41, 61, and so on.</li>
+</ul>
+<h3 id="the-encoders">The encoders<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#the-encoders" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>The Encoder Toolbar have changed when you enter the DMX Patch window. It could look like this:</p>
+<p><img src="../.././../img/img_encoder-toolbar_dmx-patch_v3-3.png" alt/></p>
+<p><em>The DMX Patch Encoder Toolbar</em></p>
+<p>The four encoders can be used to help you patch fixtures.</p>
+<p>The left encoder is used to select the fixtures - if you have selected more than one fixture going into the DMX patch window.</p>
+<p>The left center encoder is used to select the Universe.</p>
+<p>The right center encoder is used to select or scroll through the DMX addresses.</p>
+<p>The right encoder is a DMX tester. It can be used to test the DMX address. You can turn it to output a DMX value on the selected address. There is a button used to toggle between percent (0-100) or decimal (0-255) scale. This function is especially nice with dimmers and fixtures where the first channel is the dimmer.</p>
+<hr/>
+<h2 id="the-diagnostics">The Diagnostics<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#the-diagnostics" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>At the bottom of the EditSetup menu, you will find a button called “Diagnostic”. You will find this button on other menus and windows as well.</p>
+<p>This opens the Diagnostic pop-up. It could look like this:</p>
+<p><img src="../.././../img/popup_diagnosic_v3-2.png" alt/></p>
+<p><em>Diagnostic</em></p>
+<p>There are two types of messages: Errors and Warnings. Errors are more severe than warnings, but none of them prevents you from leaving the setup.</p>
+<p>The warnings and errors explain the problem.</p>
+<p>The warning might not be a problem at all. Often a narrow beam fixture, might be reported as a warning even though it is not a problem (The beam angle is very small).</p>
+<p>There is only one button for this pop-up. The “Update” button runs the diagnostics again and check if there are still warnings and errors.</p>
+<hr/>
+<h3 id="leaving-the-setup-and-save-your-changes">Leaving the Setup and save your changes<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#leaving-the-setup-and-save-your-changes" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>When you are happy with your added fixtures, then you can leave the setup and save the changes. You do this by closing the EditSetup menu by tapping the yellow “X” in the upper right corner.</p>
+<p>This gives you a pop-up warning asking you what to do.</p>
+<p>There are always three options and if the Diagnostics got warnings or error then you have four options. It could look like this:</p>
+<p><img src="../.././../img/menu_editsetup-warning_v3-2.png" alt/></p>
+<p><em>Leaving Setup warning</em></p>
+<ul>
+<li><strong>Yes:</strong><br/>
+This will close the EditSetup and save your changes.</li>
+<li><strong>No:</strong><br/>
+This will trough away what you have changed and keep the old settings.</li>
+<li><strong>Cancel:</strong><br/>
+This will cancel the exit and you are returned to the EditSetup.</li>
+<li><strong>Open Diagnostic and Cancel:</strong><br/>
+This will cancel the exit and return you to the Diagnostics pop-up.</li>
+</ul>
+<p>If you tap yes and you have made changes, then your console will upload the changes to the system. This is called a “show upload”.</p>
+<p><strong>Important:</strong><br/>
+The system will stop all DMX output while the show upload is running.</p>
+<h2 id="further-readings">Further readings<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#further-readings" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p><a href="../../Sections/Basic-Fixture-Types" class="internal alias" data-slug="Sections/Basic-Fixture-Types">Fixture types</a></p>
+<p><a href="../../Pages/Patching/Position-fixtures-in-the-virtual-3D-stage" class="internal alias" data-slug="Pages/Patching/Position-fixtures-in-the-virtual-3D-stage">Fixture position</a></p>
+<p><a href="../../Sections/DMX-Profiles" class="internal alias" data-slug="Sections/DMX-Profiles">DMX profiles</a></p>
+<p><a href="../../Pages/Patching/DMX-and-Parameter-lists" class="internal alias" data-slug="Pages/Patching/DMX-and-Parameter-lists">DMX List</a></p>
+<p><a href="../../Pages/Patching/Live-patching" class="internal alias" data-slug="Pages/Patching/Live-patching">Live patching</a></p>
+<p><a href="../../Pages/Patching/Multipatching" class="internal alias" data-slug="Pages/Patching/Multipatching">Multipatch</a></p>
+<p><a href="../../Sections/Export-and-Import" class="internal alias" data-slug="Sections/Export-and-Import">Import</a></p>
+<p><a href="../../Pages/Patching/Working-with-Layers" class="internal alias" data-slug="Pages/Patching/Working-with-Layers">Layers</a></p>
+<p><a href="../../Sections/RDM" class="internal alias" data-slug="Sections/RDM">RDM devices</a></p>
+<p>← <a href="../../Pages/Patching/What-is-3D-and-Stage-setup" class="internal alias" data-slug="Pages/Patching/What-is-3D-and-Stage-setup">What is 3D and Stage setup</a> | <a href="../../Pages/Patching/Delete-fixtures-from-the-show" class="internal alias" data-slug="Pages/Patching/Delete-fixtures-from-the-show">Delete fixtures from the show</a> →</p>
+<p>Part of <a href="../../Sections/Patching" class="internal alias" data-slug="Sections/Patching">Patching</a> · <a href="../../000-Map-of-Content" class="internal alias" data-slug="000-Map-of-Content">000 Map of Content</a></p></article><hr/><div class="page-footer"></div></div><div class="right sidebar"><div class="graph"><h3>Graph View</h3><div class="graph-outer"><div class="graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:1,&quot;scale&quot;:1.1,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.3,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:false,&quot;enableRadial&quot;:false}"></div><button class="global-graph-icon" aria-label="Global Graph"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 55 55" fill="currentColor" xml:space="preserve"><path d="M49,0c-3.309,0-6,2.691-6,6c0,1.035,0.263,2.009,0.726,2.86l-9.829,9.829C32.542,17.634,30.846,17,29,17
+                s-3.542,0.634-4.898,1.688l-7.669-7.669C16.785,10.424,17,9.74,17,9c0-2.206-1.794-4-4-4S9,6.794,9,9s1.794,4,4,4
+                c0.74,0,1.424-0.215,2.019-0.567l7.669,7.669C21.634,21.458,21,23.154,21,25s0.634,3.542,1.688,4.897L10.024,42.562
+                C8.958,41.595,7.549,41,6,41c-3.309,0-6,2.691-6,6s2.691,6,6,6s6-2.691,6-6c0-1.035-0.263-2.009-0.726-2.86l12.829-12.829
+                c1.106,0.86,2.44,1.436,3.898,1.619v10.16c-2.833,0.478-5,2.942-5,5.91c0,3.309,2.691,6,6,6s6-2.691,6-6c0-2.967-2.167-5.431-5-5.91
+                v-10.16c1.458-0.183,2.792-0.759,3.898-1.619l7.669,7.669C41.215,39.576,41,40.26,41,41c0,2.206,1.794,4,4,4s4-1.794,4-4
+                s-1.794-4-4-4c-0.74,0-1.424,0.215-2.019,0.567l-7.669-7.669C36.366,28.542,37,26.846,37,25s-0.634-3.542-1.688-4.897l9.665-9.665
+                C46.042,11.405,47.451,12,49,12c3.309,0,6-2.691,6-6S52.309,0,49,0z M11,9c0-1.103,0.897-2,2-2s2,0.897,2,2s-0.897,2-2,2
+                S11,10.103,11,9z M6,51c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S8.206,51,6,51z M33,49c0,2.206-1.794,4-4,4s-4-1.794-4-4
+                s1.794-4,4-4S33,46.794,33,49z M29,31c-3.309,0-6-2.691-6-6s2.691-6,6-6s6,2.691,6,6S32.309,31,29,31z M47,41c0,1.103-0.897,2-2,2
+                s-2-0.897-2-2s0.897-2,2-2S47,39.897,47,41z M49,10c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S51.206,10,49,10z"></path></svg></button></div><div class="global-graph-outer"><div class="global-graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:-1,&quot;scale&quot;:0.9,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.2,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:true,&quot;enableRadial&quot;:true}"></div></div></div><div class="toc desktop-only"><button type="button" class="toc-header" aria-controls="toc-639" aria-expanded="true"><h3>Table of Contents</h3><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><ul id="list-1" class="toc-content overflow"><li class="depth-0"><a href="#adding-fixtures-to-the-show" data-for="adding-fixtures-to-the-show">Adding fixtures to the show</a></li><li class="depth-0"><a href="#adding-fixtures-to-the-show-1" data-for="adding-fixtures-to-the-show-1">Adding fixtures to the show</a></li><li class="depth-1"><a href="#layers" data-for="layers">Layers</a></li><li class="depth-1"><a href="#create-a-layer-to-put-fixtures-in-it" data-for="create-a-layer-to-put-fixtures-in-it">Create a Layer to put fixtures in it</a></li><li class="depth-1"><a href="#adding-fixtures-to-an-existing-layer" data-for="adding-fixtures-to-an-existing-layer">Adding fixtures to an existing layer</a></li><li class="depth-1"><a href="#using-the-fixture-wizard---part-1" data-for="using-the-fixture-wizard---part-1">Using the Fixture Wizard - Part 1</a></li><li class="depth-1"><a href="#importing-a-fixture-type-from-the-library" data-for="importing-a-fixture-type-from-the-library">Importing a fixture type from the library</a></li><li class="depth-1"><a href="#using-the-fixture-wizard---part-2" data-for="using-the-fixture-wizard---part-2">Using the Fixture wizard - Part 2</a></li><li class="depth-1"><a href="#a-closer-look-at-the-fixture-list" data-for="a-closer-look-at-the-fixture-list">A closer look at the fixture list</a></li><li class="depth-1"><a href="#the-dmx-patch-pop-up" data-for="the-dmx-patch-pop-up">The DMX Patch pop-up</a></li><li class="depth-2"><a href="#the-left-side" data-for="the-left-side">The left side</a></li><li class="depth-2"><a href="#the-right-side" data-for="the-right-side">The right side</a></li><li class="depth-2"><a href="#the-encoders" data-for="the-encoders">The encoders</a></li><li class="depth-1"><a href="#the-diagnostics" data-for="the-diagnostics">The Diagnostics</a></li><li class="depth-2"><a href="#leaving-the-setup-and-save-your-changes" data-for="leaving-the-setup-and-save-your-changes">Leaving the Setup and save your changes</a></li><li class="depth-1"><a href="#further-readings" data-for="further-readings">Further readings</a></li><li class="overflow-end"></li></ul></div><div class="backlinks"><h3>Backlinks</h3><ul id="list-2" class="overflow"><li><a href="../../Pages/Advanced-Fixture-Types/Anatomy-of-a-Fixture-Type" class="internal">Anatomy of a Fixture Type</a></li><li><a href="../../Pages/Effects/Create-an-effect-in-the-programmer" class="internal">Create an effect in the programmer</a></li><li><a href="../../Pages/Effects/Use-Predefined-Effects" class="internal">Use Predefined Effects</a></li><li><a href="../../Pages/Operate-Fixtures/Channel-Sheet" class="internal">Channel Sheet</a></li><li><a href="../../Pages/Operate-Fixtures/Edit-a-Channel-or-a-Fixture" class="internal">Edit a Channel or a Fixture</a></li><li><a href="../../Pages/Operate-Fixtures/Fixture-Sheet" class="internal">Fixture Sheet</a></li><li><a href="../../Pages/Operate-Fixtures/Using-The-Color-Picker" class="internal">Using The Color Picker</a></li><li><a href="../../Pages/Patching/Delete-fixtures-from-the-show" class="internal">Delete fixtures from the show</a></li><li><a href="../../Pages/Patching/Live-patching" class="internal">Live patching</a></li><li><a href="../../Pages/Patching/Position-fixtures-in-the-virtual-3D-stage" class="internal">Position fixtures in the virtual 3D stage</a></li><li><a href="../../Pages/Patching/Virtual-3D-Cameras" class="internal">Virtual 3D Cameras</a></li><li><a href="../../Pages/Patching/What-is-3D-and-Stage-setup" class="internal">What is 3D and Stage setup</a></li><li><a href="../../Pages/Presets/Create-Presets" class="internal">Create Presets</a></li><li><a href="../../Pages/Worlds-Filters-and-Masks/Create-masks" class="internal">Create masks</a></li><li><a href="../../Pages/XYZ/Use-Stage-Markers" class="internal">Use Stage Markers</a></li><li><a href="../../Sections/DMX-Profiles" class="internal">DMX Profiles</a></li><li><a href="../../Sections/Glossary" class="internal">Glossary</a></li><li><a href="../../Sections/Operate-Fixtures" class="internal">Operate Fixtures</a></li><li><a href="../../Sections/Patching" class="internal">Patching</a></li><li><a href="../../Sections/XYZ" class="internal">XYZ</a></li><li class="overflow-end"></li></ul></div></div><footer class><p>Created with <a href="https://quartz.jzhao.xyz/">Quartz v4.5.2</a> © 2026</p><ul><li><a href="https://github.com/jackyzha0/quartz">GitHub</a></li><li><a href="https://discord.gg/cRFFHYye7t">Discord Community</a></li></ul></footer></div></div></body><script type="application/javascript">function n(){let t=this.parentElement;t.classList.toggle("is-collapsed");let e=t.getElementsByClassName("callout-content")[0];if(!e)return;let l=t.classList.contains("is-collapsed");e.style.gridTemplateRows=l?"0fr":"1fr"}function c(){let t=document.getElementsByClassName("callout is-collapsible");for(let e of t){let l=e.getElementsByClassName("callout-title")[0],s=e.getElementsByClassName("callout-content")[0];if(!l||!s)continue;l.addEventListener("click",n),window.addCleanup(()=>l.removeEventListener("click",n));let o=e.classList.contains("is-collapsed");s.style.gridTemplateRows=o?"0fr":"1fr"}}document.addEventListener("nav",c);
+</script><script type="module">function f(i,e){if(!i)return;function r(o){o.target===this&&(o.preventDefault(),o.stopPropagation(),e())}function t(o){o.key.startsWith("Esc")&&(o.preventDefault(),e())}i?.addEventListener("click",r),window.addCleanup(()=>i?.removeEventListener("click",r)),document.addEventListener("keydown",t),window.addCleanup(()=>document.removeEventListener("keydown",t))}function y(i){for(;i.firstChild;)i.removeChild(i.firstChild)}var h=class{constructor(e,r){this.container=e;this.content=r;this.setupEventListeners(),this.setupNavigationControls(),this.resetTransform()}isDragging=!1;startPan={x:0,y:0};currentPan={x:0,y:0};scale=1;MIN_SCALE=.5;MAX_SCALE=3;cleanups=[];setupEventListeners(){let e=this.onMouseDown.bind(this),r=this.onMouseMove.bind(this),t=this.onMouseUp.bind(this),o=this.resetTransform.bind(this);this.container.addEventListener("mousedown",e),document.addEventListener("mousemove",r),document.addEventListener("mouseup",t),window.addEventListener("resize",o),this.cleanups.push(()=>this.container.removeEventListener("mousedown",e),()=>document.removeEventListener("mousemove",r),()=>document.removeEventListener("mouseup",t),()=>window.removeEventListener("resize",o))}cleanup(){for(let e of this.cleanups)e()}setupNavigationControls(){let e=document.createElement("div");e.className="mermaid-controls";let r=this.createButton("+",()=>this.zoom(.1)),t=this.createButton("-",()=>this.zoom(-.1)),o=this.createButton("Reset",()=>this.resetTransform());e.appendChild(t),e.appendChild(o),e.appendChild(r),this.container.appendChild(e)}createButton(e,r){let t=document.createElement("button");return t.textContent=e,t.className="mermaid-control-button",t.addEventListener("click",r),window.addCleanup(()=>t.removeEventListener("click",r)),t}onMouseDown(e){e.button===0&&(this.isDragging=!0,this.startPan={x:e.clientX-this.currentPan.x,y:e.clientY-this.currentPan.y},this.container.style.cursor="grabbing")}onMouseMove(e){this.isDragging&&(e.preventDefault(),this.currentPan={x:e.clientX-this.startPan.x,y:e.clientY-this.startPan.y},this.updateTransform())}onMouseUp(){this.isDragging=!1,this.container.style.cursor="grab"}zoom(e){let r=Math.min(Math.max(this.scale+e,this.MIN_SCALE),this.MAX_SCALE),t=this.content.getBoundingClientRect(),o=t.width/2,n=t.height/2,c=r-this.scale;this.currentPan.x-=o*c,this.currentPan.y-=n*c,this.scale=r,this.updateTransform()}updateTransform(){this.content.style.transform=`translate(${this.currentPan.x}px, ${this.currentPan.y}px) scale(${this.scale})`}resetTransform(){this.scale=1;let e=this.content.querySelector("svg");this.currentPan={x:e.getBoundingClientRect().width/2,y:e.getBoundingClientRect().height/2},this.updateTransform()}},C=["--secondary","--tertiary","--gray","--light","--lightgray","--highlight","--dark","--darkgray","--codeFont"],E;document.addEventListener("nav",async()=>{let e=document.querySelector(".center").querySelectorAll("code.mermaid");if(e.length===0)return;E||=await import("https://cdnjs.cloudflare.com/ajax/libs/mermaid/11.4.0/mermaid.esm.min.mjs");let r=E.default,t=new WeakMap;for(let n of e)t.set(n,n.innerText);async function o(){for(let s of e){s.removeAttribute("data-processed");let a=t.get(s);a&&(s.innerHTML=a)}let n=C.reduce((s,a)=>(s[a]=window.getComputedStyle(document.documentElement).getPropertyValue(a),s),{}),c=document.documentElement.getAttribute("saved-theme")==="dark";r.initialize({startOnLoad:!1,securityLevel:"loose",theme:c?"dark":"base",themeVariables:{fontFamily:n["--codeFont"],primaryColor:n["--light"],primaryTextColor:n["--darkgray"],primaryBorderColor:n["--tertiary"],lineColor:n["--darkgray"],secondaryColor:n["--secondary"],tertiaryColor:n["--tertiary"],clusterBkg:n["--light"],edgeLabelBackground:n["--highlight"]}}),await r.run({nodes:e})}await o(),document.addEventListener("themechange",o),window.addCleanup(()=>document.removeEventListener("themechange",o));for(let n=0;n<e.length;n++){let v=function(){let g=l.querySelector("#mermaid-space"),m=l.querySelector(".mermaid-content");if(!m)return;y(m);let w=c.querySelector("svg").cloneNode(!0);m.appendChild(w),l.classList.add("active"),g.style.cursor="grab",u=new h(g,m)},M=function(){l.classList.remove("active"),u?.cleanup(),u=null},c=e[n],s=c.parentElement,a=s.querySelector(".clipboard-button"),d=s.querySelector(".expand-button"),p=window.getComputedStyle(a),L=a.offsetWidth+parseFloat(p.marginLeft||"0")+parseFloat(p.marginRight||"0");d.style.right=`calc(${L}px + 0.3rem)`,s.prepend(d);let l=s.querySelector("#mermaid-container");if(!l)return;let u=null;d.addEventListener("click",v),f(l,M),window.addCleanup(()=>{u?.cleanup(),d.removeEventListener("click",v)})}});
+</script><script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/copy-tex.min.js" type="application/javascript"></script><script src="../../postscript.js" type="module"></script></html>

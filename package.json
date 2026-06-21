@@ -1,0 +1,40 @@
+{
+  "name": "grandma2-manual-vault",
+  "version": "1.0.0",
+  "description": "Obsidian knowledge vault — grandMA2 User Manual",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "obsidian": "cd scripts && npm ci && node extract.js",
+    "extract": "cd scripts && npm ci && node extract.js",
+    "links": "cd scripts && node convert-links.js ..",
+    "audit": "cd scripts && node audit.js ..",
+    "stats": "cd scripts && node stats.js",
+    "moc": "cd scripts && node generate-moc.js",
+    "migrate:links": "cd scripts && node migrate-internal-links.js ..",
+    "summaries": "cd scripts && node derive-summaries.js ..",
+    "test": "cd scripts && node --test",
+    "lint": "eslint scripts eslint.config.js",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "prepare": "husky"
+  },
+  "keywords": [
+    "obsidian",
+    "grandma2",
+    "lighting-console",
+    "knowledge-graph",
+    "ma2"
+  ],
+  "license": "CC-BY-4.0",
+  "devDependencies": {
+    "@commitlint/cli": "^21.0.2",
+    "@commitlint/config-conventional": "^21.0.2",
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.5.0",
+    "globals": "^17.6.0",
+    "husky": "^9.1.7",
+    "lint-staged": "^17.0.7",
+    "prettier": "^3.8.4"
+  }
+}
