@@ -34,6 +34,11 @@ jobs:
       - name: Convert wikilinks
         run: node scripts/convert-links.js .
 
+      - name: Swap in the github-browse README
+        # convert-links.js skips README.md, so replace it with the branch-specific
+        # version (relative links, "auto-generated mirror" context) for this surface.
+        run: cp .github/readme/README.github-browse.md README.md
+
       - name: Push to github-browse
         run: |
           git config user.name  "github-actions[bot]"
@@ -85,6 +90,29 @@ jobs:
             --exclude='_quartz' \
             --exclude='.obsidian' \
             . _quartz/content/
+
+      - name: Generate Quartz landing page
+        # The vault has no root index.md; provide the website's home page with
+        # site-specific context (search + graph) so gh-pages doesn't land on a
+        # bare file listing. Quartz (Obsidian-flavored) resolves [[wikilinks]].
+        run: |
+          cat > _quartz/content/index.md <<'EOF'
+          ---
+          title: grandMA2 Manual Vault
+          ---
+
+          The complete [grandMA2 User Manual](https://help.malighting.com/grandMA2/en/help/) as an
+          interlinked knowledge vault — with full-text search (press **/**) and an interactive graph.
+
+          ## Start here
+
+          - [[000 Map of Content]] — top-level index
+          - [[000 Keyword Index]] — all CLI keywords
+          - [[000 Key Index]] — console keys and buttons
+
+          Source and other ways to read on
+          [GitHub](https://github.com/thisis-romar/grandma2-manual-vault).
+          EOF
 
       - name: Configure Quartz (title + base URL)
         run: |
