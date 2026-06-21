@@ -1,10 +1,20 @@
-> [View this note on GitHub](https://github.com/thisis-romar/grandma2-manual-vault/blob/github-browse/README.md)
+> [View this vault on the web](https://thisis-romar.github.io/grandma2-manual-vault) ·
+> [Browse on GitHub](../../tree/github-browse)
 
 # grandMA2 Manual Vault
 
-Obsidian knowledge vault — grandMA2 User Manual as interlinked notes.
+A standalone, self-contained Obsidian knowledge vault: the complete
+[grandMA2 User Manual](https://help.malighting.com/grandMA2/en/help/) as interlinked notes —
+browsable on GitHub and publishable as a static site. The scripts only build, link, and validate
+the notes; the repository has no analytics or retrieval layer of its own.
 
-| | Count |
+**You are on `main` — the source of truth.** Links here are Obsidian `[[wikilinks]]`, meant to be
+opened in Obsidian. To read with clickable links, use the
+[github-browse](../../tree/github-browse) branch or the
+[web edition](https://thisis-romar.github.io/grandma2-manual-vault) (see
+[Branches](#branches-respective-context) below).
+
+| Node type | Count |
 |---|---|
 | Sections | 55 |
 | Pages | 374 |
@@ -12,88 +22,90 @@ Obsidian knowledge vault — grandMA2 User Manual as interlinked notes.
 | Keys | 79 |
 | Quick Start | 16 |
 
-*Counts populated after `npm run obsidian`.*
+<sub>Counts are written automatically by `npm run stats`.</sub>
 
 ---
 
 ## How to Access
 
-### Browse on GitHub (clickable links)
-Switch to the **[github-browse](../../tree/github-browse)** branch — `[[wikilinks]]` auto-converted to markdown links.
+### Open in Obsidian (recommended for this branch)
 
-### Browse on the web
-Visit **[thisis-romar.github.io/grandma2-manual-vault](https://thisis-romar.github.io/grandma2-manual-vault)** — Quartz-powered, full-text search, graph view.
-
-### Open in Obsidian (recommended)
-```
+```bash
 git clone https://github.com/thisis-romar/grandma2-manual-vault.git
 ```
-Open Obsidian → "Open folder as vault" → select the cloned folder.
+
+Open Obsidian → **Open folder as vault** → select the cloned folder. `[[wikilinks]]`, graph view,
+and backlinks all work natively.
+
+### Browse on GitHub
+
+Switch to the **[github-browse](../../tree/github-browse)** branch — `[[wikilinks]]` are
+auto-converted to relative markdown links so they resolve when clicked on GitHub.
+
+### Browse on the web
+
+**[thisis-romar.github.io/grandma2-manual-vault](https://thisis-romar.github.io/grandma2-manual-vault)**
+— Quartz-powered, with full-text search and an interactive graph.
 
 ---
 
-## Generate / Update
+## Branches (respective context)
+
+This repo serves the same vault through three surfaces. **You only ever edit `main`;** the other
+two are regenerated automatically on every push by
+[`.github/workflows/sync.yml`](.github/workflows/sync.yml).
+
+| Branch | Audience & context | Link format | Edit here? |
+|---|---|---|---|
+| **`main`** | Source of truth — clone & open in **Obsidian** | `[[wikilinks]]` | ✅ yes |
+| **`github-browse`** | Read clickable on **GitHub** (auto-generated mirror) | relative `.md` links | ❌ no — overwritten each sync |
+| **`gh-pages`** | The published **Quartz website** (search + graph) | rendered HTML | ❌ no — built from `main` |
+
+---
+
+## Scripts
+
+Requires **Node 22** (the `ci.yml` quality gate and the `github-browse` / `gh-pages` workflows all
+run on Node 22).
+
+**Build**
 
 ```bash
-npm run obsidian      # full extract (scrapes MA help, generates all notes)
-npm run stats         # recount notes + write the README/MOC stats tables
-npm run moc           # rebuild 000 Map of Content (+ keyword/key indexes, stats)
-npm run audit         # read-only conformance check (links, structure, frontmatter)
-npm test              # unit tests for the link/slug/audit logic (node --test)
+npm run obsidian        # scrape the MA help site and (re)generate the entire vault
 ```
 
-Extractor requires Node 18+. The `sync.yml` workflow (github-browse + Quartz gh-pages site)
-and the `ci.yml` quality gate (lint + format + tests + audit) run on Node 22; Quartz is pinned
-to v4.5.2 — see `CLAUDE.md` → Branch structure.
-
----
-
-## Maintain
-
-The scripts only build, link, and validate the notes — this repository is a
-self-contained knowledge resource with no analytics or retrieval layer of its own.
+**Maintain & validate**
 
 ```bash
-npm run obsidian        # scrape the manual and (re)generate the vault
-npm run moc             # regenerate the Map of Content / indexes
-npm run stats           # write live note counts into README.md
-npm run links           # rewrite wikilinks → relative markdown (github-browse branch)
-npm run migrate:links   # one-shot: rewrite raw key_*.html body links → wikilinks
+npm run moc             # rebuild 000 Map of Content + keyword/key indexes (and stats)
+npm run stats           # recount notes and write the stats tables (README + MOC)
 npm run audit           # read-only conformance check (links, structure, frontmatter)
+npm test                # unit tests (node --test)
 ```
 
-## Develop
+**One-shot migrations** (idempotent; kept for reproducibility)
+
+```bash
+npm run links           # rewrite [[wikilinks]] → relative markdown (used for github-browse)
+npm run migrate:links   # repair any raw key_*.html body links → [[wikilinks]]
+npm run alias:sublinks  # add display aliases to path-qualified body wikilinks
+```
+
+**Develop**
 
 ```bash
 npm run lint            # eslint (scripts)
 npm run format          # prettier --write (scripts/config; vault markdown is excluded)
-npm test                # node --test
 ```
 
 Husky hooks: **pre-commit** runs lint-staged, **commit-msg** enforces
 [Conventional Commits](https://www.conventionalcommits.org/), **pre-push** runs tests + audit.
-
----
-
-## Branch Structure
-
-| Branch | Purpose |
-|---|---|
-| `main` | Source of truth — Obsidian `[[wikilinks]]` |
-| `github-browse` | Auto-generated — relative markdown links |
-| `gh-pages` | Auto-generated — Quartz static site |
-
-Both `github-browse` and `gh-pages` update automatically on push to `main`.
-
----
-
-## Purpose
-
-A standalone, self-contained reference: the complete grandMA2 User Manual as an
-interlinked Obsidian vault — browsable on GitHub and publishable as a static site.
+Quartz is pinned to **v4.5.2** — see [`CLAUDE.md`](CLAUDE.md) → Branch structure for build notes.
 
 ---
 
 ## Generated By
 
-Extracted from [help.malighting.com/grandMA2](https://help.malighting.com/grandMA2/en/help/) by `scripts/extract.js`.
+Extracted from [help.malighting.com/grandMA2](https://help.malighting.com/grandMA2/en/help/) by
+`scripts/extract.js`. See [`CLAUDE.md`](CLAUDE.md) for the full structure, conventions, frontmatter
+schema, and tooling reference.
