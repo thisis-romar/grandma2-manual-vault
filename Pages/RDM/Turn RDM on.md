@@ -105,6 +105,6 @@ Way B:
 
 RDM is turned on for the selected universe. A **green RDM icon** ![](../../img/icon_rdm-green_v3-2.png) is displayed for this universe in the universe pool.
 
-[[Pages/RDM/Match RDM devices]] →
+[[Pages/RDM/Match RDM devices|Match RDM devices]] →
 
-Part of [[Sections/RDM]] · [[000 Map of Content]]
+Part of [[Sections/RDM|RDM]] · [[000 Map of Content]]

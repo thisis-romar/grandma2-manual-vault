@@ -81,6 +81,6 @@ Displays the amount of devices that are currently logged in. It will also tell h
 
 Displays the current status of the graphic card on the device.
 
-← [[Pages/Other System Tools/Network Dimmer]] | [[Pages/Other System Tools/Performance window]] →
+← [[Pages/Other System Tools/Network Dimmer|Network Dimmer]] | [[Pages/Other System Tools/Performance window|Performance window]] →
 
-Part of [[Sections/Other System Tools]] · [[000 Map of Content]]
+Part of [[Sections/Other System Tools|Other System Tools]] · [[000 Map of Content]]

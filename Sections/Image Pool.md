@@ -83,14 +83,14 @@ The options of the image pool generally behave the same as in the most pools. He
 
 *   [[Pages/Image Pool/Import Images and Videos|Import images and videos]]
 *   [[Pages/Image Pool/Image Limitations and Guidelines for Symbols|Image limitations & guidelines for symbols]]
-*   [[Pages/Image Pool/Supported file formats]]
+*   [[Pages/Image Pool/Supported file formats|Supported file formats]]
 *   [[Pages/Image Pool/Delete Images and Videos|Delete images and videos]]
 
 ## Pages in This Section
 
-- [[Pages/Image Pool/Import Images and Videos]]
-- [[Pages/Image Pool/Image Limitations and Guidelines for Symbols]]
-- [[Pages/Image Pool/Supported file formats]]
-- [[Pages/Image Pool/Delete Images and Videos]]
+- [[Pages/Image Pool/Import Images and Videos|Import Images and Videos]]
+- [[Pages/Image Pool/Image Limitations and Guidelines for Symbols|Image Limitations and Guidelines for Symbols]]
+- [[Pages/Image Pool/Supported file formats|Supported file formats]]
+- [[Pages/Image Pool/Delete Images and Videos|Delete Images and Videos]]
 
 Part of [[000 Map of Content]]

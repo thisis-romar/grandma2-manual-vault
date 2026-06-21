@@ -26,7 +26,7 @@ The key Assign is located in the command area on the right of the key Prvw.
 
 _Location k__ey_ _Assign_ 
 
-*   Pressing Assign enters [[Keywords/Assign keyword]] into the command line.
+*   Pressing Assign enters [[Keywords/Assign keyword|Assign keyword]] into the command line.
 
 \[Channel\]> Assign
 
@@ -34,7 +34,7 @@ _Location k__ey_ _Assign_ 
 
 \[Channel\]> Label
 
-*   Pressing Assign Assign Assign enters [[Keywords/Appearance keyword]] into the command line.
+*   Pressing Assign Assign Assign enters [[Keywords/Appearance keyword|Appearance keyword]] into the command line.
 
 \[Channel\]> Appearance
 

@@ -159,11 +159,11 @@ Running record for macro pool object. For more information, see [[Keywords/Recor
 
 ![](../../img/icon_rdm-green_v3-2.png)
 
-Universe pool object with running RDM. For more information, see [[Sections/RDM]].
+Universe pool object with running RDM. For more information, see [[Sections/RDM|RDM]].
 
 ![](../../img/icon_rdm-red_v3-2.png)
 
-Universe pool object with RDM on for this universe and global RDM off. For more information, see [[Sections/RDM]].
+Universe pool object with RDM on for this universe and global RDM off. For more information, see [[Sections/RDM|RDM]].
 
 ## Command Line and Message Center Icons
 
@@ -233,7 +233,7 @@ A timecode record is active. For more information, see [[Keywords/Timecode|Timec
 
 ![](../../img/icon_unpached-fixtures_v3-2.png)
 
-There are fixtures or channels in the Patch & Fixture Schedule without a patch address. For more information, see [[Sections/Patching]].
+There are fixtures or channels in the Patch & Fixture Schedule without a patch address. For more information, see [[Sections/Patching|Patching]].
 
 ![](../../img/icon_unassigned-ports_v3-2.png)
 
@@ -269,7 +269,7 @@ Blind mode or blind edit mode is on. For more information, see [[Keywords/Blind 
 
  ![](../../img/icon_macro-record_v3-2.png)
 
-A macro record is active. For more information, see [[Keywords/Record|Record Keyword]] or [[Sections/Macros]].
+A macro record is active. For more information, see [[Keywords/Record|Record Keyword]] or [[Sections/Macros|Macros]].
 
 ![](../../img/icon_group-grand-master_v3-2.png)
 
@@ -293,15 +293,15 @@ A previous available station is missing or the IP address of a station changed. 
 
 ![](../../img/icon_ip-conflict_v3-2.png)
 
-At least two devices with the same IP address are in the network. Double-check the IP addresses. For more information, see [[Sections/Networking]].
+At least two devices with the same IP address are in the network. Double-check the IP addresses. For more information, see [[Sections/Networking|Networking]].
 
 ![](../../img/icon_rdm-red_v3-2.png)
 
-A RDM device sends an alert. For more information, see [[Sections/RDM]].
+A RDM device sends an alert. For more information, see [[Sections/RDM|RDM]].
 
 ![](../../img/icon_rdm-yellow_v3-2.png)
 
-A RDM device sends a warning. For more information, see [[Sections/RDM]].
+A RDM device sends a warning. For more information, see [[Sections/RDM|RDM]].
 
 ## Encoder Toolbar Icons
 
@@ -343,6 +343,6 @@ Select to draw rectangles in the [[Sections/Layouts|Layout View]].
 
 Select to create text boxes in the [[Sections/Layouts|Layout View]].
 
-← [[Pages/Workspace/Text indicators and symbols]] | [[Pages/Workspace/Keyboard shortcuts]] →
+← [[Pages/Workspace/Text indicators and symbols|Text indicators and symbols]] | [[Pages/Workspace/Keyboard shortcuts|Keyboard shortcuts]] →
 
-Part of [[Sections/Workspace]] · [[000 Map of Content]]
+Part of [[Sections/Workspace|Workspace]] · [[000 Map of Content]]

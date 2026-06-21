@@ -65,6 +65,6 @@ _Mirror ports_
 **Hint:**  
 A port is never destination and source at the same time.
 
-← [[Pages/Control MA Network Switch/Edit Link Aggregation Groups of the MA Network Switch]] | [[Pages/Control MA Network Switch/Work with the switch configuration]] →
+← [[Pages/Control MA Network Switch/Edit Link Aggregation Groups of the MA Network Switch|Edit Link Aggregation Groups of the MA Network Switch]] | [[Pages/Control MA Network Switch/Work with the switch configuration|Work with the switch configuration]] →
 
-Part of [[Sections/Control MA Network Switch]] · [[000 Map of Content]]
+Part of [[Sections/Control MA Network Switch|Control MA Network Switch]] · [[000 Map of Content]]

@@ -37,6 +37,6 @@ This is a debug screen. It displays the inner working of the desk.
 
 There is not much to see for the common user in this window. If the desk does not behave right, this might provide some hint to trouble shooting.
 
-← [[Pages/Other System Tools/Performance window]]
+← [[Pages/Other System Tools/Performance window|Performance window]]
 
-Part of [[Sections/Other System Tools]] · [[000 Map of Content]]
+Part of [[Sections/Other System Tools|Other System Tools]] · [[000 Map of Content]]

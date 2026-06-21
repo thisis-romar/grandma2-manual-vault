@@ -48,6 +48,6 @@ You will need to have a [[Pages/Networking/Session control|session running]] on 
 
 The main idea behind the MA 3D is for pre-programming a show. It allows you to visualize and program your entire show without the need for all the MA hardware you might need onsite. You can download both grandMA2 onPC and MA 3D for free and start programming a show with the maximum amount of parameters. It is first when you need to output all these parameters to real world fixtures, that you need real MA hardware.
 
-← [[Pages/Patching/What Are Channels & Fixtures]] | [[Pages/Patching/Adding fixtures to the show]] →
+← [[Pages/Patching/What Are Channels & Fixtures|What Are Channels & Fixtures]] | [[Pages/Patching/Adding fixtures to the show|Adding fixtures to the show]] →
 
-Part of [[Sections/Patching]] · [[000 Map of Content]]
+Part of [[Sections/Patching|Patching]] · [[000 Map of Content]]

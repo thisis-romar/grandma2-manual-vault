@@ -43,7 +43,7 @@ To assign an effect to an executor:
 
 _Selective effect assigned to an executor_
 
-Much the same as other mini executors, the effect mini executor is divided into different sections. For more information on the general sections see [[Pages/Command Syntax and Keywords/Sequence mini executor]]. 
+Much the same as other mini executors, the effect mini executor is divided into different sections. For more information on the general sections see [[Pages/Command Syntax and Keywords/Sequence mini executor|Sequence mini executor]]. 
 
 * * *
 
@@ -61,7 +61,7 @@ Speed master in an effect assigned to an executor
 If you tap the upper area of the mini executor, the [[Pages/Executors/Assign a function|assign menu]] opens.  
 Tapping the lower area of the mini executor opens the [[Pages/Effects/Use Predefined Effects|effect editor]].
 
-Generally speaking, the speed of an executor influences the speed of an effect. For more information on the speed master in an executor see [[Pages/Advanced Executor Functionality/Speed Masters]]. 
+Generally speaking, the speed of an executor influences the speed of an effect. For more information on the speed master in an executor see [[Pages/Advanced Executor Functionality/Speed Masters|Speed Masters]]. 
 
 **Important:**  
 The master of an effect executor affects the size of an effect. 
@@ -71,6 +71,6 @@ The master of an effect executor affects the size of an effect. 
 **Important:**  
 Speed groups only work if they were assigned to the executor and not the effect itself.
 
-← [[Pages/Effects/Effects in a Cue]] | [[Pages/Effects/Live Edit an Effect]] →
+← [[Pages/Effects/Effects in a Cue|Effects in a Cue]] | [[Pages/Effects/Live Edit an Effect|Live Edit an Effect]] →
 
-Part of [[Sections/Effects]] · [[000 Map of Content]]
+Part of [[Sections/Effects|Effects]] · [[000 Map of Content]]

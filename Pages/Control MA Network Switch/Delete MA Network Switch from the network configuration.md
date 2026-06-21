@@ -40,6 +40,6 @@ Use these steps to delete the MA Network Switch from the network configuration.
 
 The MA Network Switch is deleted from the network configuration.
 
-← [[Pages/Control MA Network Switch/Reset the MA Network Switch to its factory defaults]]
+← [[Pages/Control MA Network Switch/Reset the MA Network Switch to its factory defaults|Reset the MA Network Switch to its factory defaults]]
 
-Part of [[Sections/Control MA Network Switch]] · [[000 Map of Content]]
+Part of [[Sections/Control MA Network Switch|Control MA Network Switch]] · [[000 Map of Content]]

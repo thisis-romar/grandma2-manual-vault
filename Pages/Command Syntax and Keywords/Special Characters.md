@@ -48,4 +48,4 @@ For more information see the corresponding characters.
 
 [[Keywords/Square Brackets [ ] Character]]
 
-Part of [[Sections/Command Syntax and Keywords]] · [[000 Map of Content]]
+Part of [[Sections/Command Syntax and Keywords|Command Syntax and Keywords]] · [[000 Map of Content]]

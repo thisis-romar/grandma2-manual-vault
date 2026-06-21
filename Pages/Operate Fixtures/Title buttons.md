@@ -26,7 +26,7 @@ Version 3.9
 
 # Title buttons
 
-Many of the options described in [[Pages/Operate Fixtures/Tools]], [[Pages/Operate Fixtures/Layer mask|Layer Mask]], and [[Pages/Operate Fixtures/Display]] can be assigned as a quick access button in the title bars of the relevant sheets. Some are unique - meaning they do not appear as an option, but more as a quick access to a relevant function for the sheet.
+Many of the options described in [[Pages/Operate Fixtures/Tools|Tools]], [[Pages/Operate Fixtures/Layer mask|Layer Mask]], and [[Pages/Operate Fixtures/Display|Display]] can be assigned as a quick access button in the title bars of the relevant sheets. Some are unique - meaning they do not appear as an option, but more as a quick access to a relevant function for the sheet.
 
 The title buttons that are described in the previous topics are mentioned here and there is a link to the topic with the description.
 
@@ -332,6 +332,6 @@ The RDM sheet do not have any options, but it does have two title buttons.
 
 They are described in the [[Pages/RDM/Use the RDM sheet|Use the RDM sheet topic]].
 
-← [[Pages/Operate Fixtures/Display]] | [[Pages/Operate Fixtures/Assign executor]] →
+← [[Pages/Operate Fixtures/Display|Display]] | [[Pages/Operate Fixtures/Assign executor|Assign executor]] →
 
-Part of [[Sections/Operate Fixtures]] · [[000 Map of Content]]
+Part of [[Sections/Operate Fixtures|Operate Fixtures]] · [[000 Map of Content]]

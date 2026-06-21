@@ -124,6 +124,6 @@ Using the Setup Only and Data Only buttons also allows you to import the separat
 
 Importing from the show file will create different log files. These files can be seen in the three remaining tabs. The log files also exists in the "temp" folder in the consoles structure. To get to them a FTP connection is needed. Read about it in the [[Pages/Networking/FTP connection to console and NPU|FTP Connection to Console and NPU topic]].
 
-← [[Pages/Backup Menu/Partial Show Read]] | [[Pages/Backup Menu/grandMA2 to grandMA3 Show File Converter]] →
+← [[Pages/Backup Menu/Partial Show Read|Partial Show Read]] | [[Pages/Backup Menu/grandMA2 to grandMA3 Show File Converter|grandMA2 to grandMA3 Show File Converter]] →
 
-Part of [[Sections/Backup Menu]] · [[000 Map of Content]]
+Part of [[Sections/Backup Menu|Backup Menu]] · [[000 Map of Content]]

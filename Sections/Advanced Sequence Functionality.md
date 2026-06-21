@@ -36,22 +36,22 @@ The following sub topics describes some of the more advanced functions regarding
 
 #### Sub topics
 
-*   [[Pages/Advanced Sequence Functionality/Using different view sets in the sheets]]
-*   [[Pages/Advanced Sequence Functionality/Working with MIB]]
+*   [[Pages/Advanced Sequence Functionality/Using different view sets in the sheets|Using different view sets in the sheets]]
+*   [[Pages/Advanced Sequence Functionality/Working with MIB|Working with MIB]]
 *   [[Pages/Advanced Sequence Functionality/Using Cue Modes|Using cue modes]]
 *   [[Pages/Advanced Sequence Functionality/Cue Zero|Cue zero]]
-*   [[Pages/Advanced Sequence Functionality/Sequence info window]]
-*   [[Pages/Advanced Sequence Functionality/Looping cues]]
-*   [[Pages/Advanced Sequence Functionality/Cue path]]
+*   [[Pages/Advanced Sequence Functionality/Sequence info window|Sequence info window]]
+*   [[Pages/Advanced Sequence Functionality/Looping cues|Looping cues]]
+*   [[Pages/Advanced Sequence Functionality/Cue path|Cue path]]
 
 ## Pages in This Section
 
-- [[Pages/Advanced Sequence Functionality/Using different view sets in the sheets]]
-- [[Pages/Advanced Sequence Functionality/Working with MIB]]
-- [[Pages/Advanced Sequence Functionality/Using Cue Modes]]
-- [[Pages/Advanced Sequence Functionality/Cue Zero]]
-- [[Pages/Advanced Sequence Functionality/Sequence info window]]
-- [[Pages/Advanced Sequence Functionality/Looping cues]]
-- [[Pages/Advanced Sequence Functionality/Cue path]]
+- [[Pages/Advanced Sequence Functionality/Using different view sets in the sheets|Using different view sets in the sheets]]
+- [[Pages/Advanced Sequence Functionality/Working with MIB|Working with MIB]]
+- [[Pages/Advanced Sequence Functionality/Using Cue Modes|Using Cue Modes]]
+- [[Pages/Advanced Sequence Functionality/Cue Zero|Cue Zero]]
+- [[Pages/Advanced Sequence Functionality/Sequence info window|Sequence info window]]
+- [[Pages/Advanced Sequence Functionality/Looping cues|Looping cues]]
+- [[Pages/Advanced Sequence Functionality/Cue path|Cue path]]
 
 Part of [[000 Map of Content]]

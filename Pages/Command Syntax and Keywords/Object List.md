@@ -83,6 +83,6 @@ Selects channel 1 and 5.
   
 Selects all fixtures with a name starting with mac.
 
-[[Pages/Command Syntax and Keywords/Selection List]] →
+[[Pages/Command Syntax and Keywords/Selection List|Selection List]] →
 
-Part of [[Sections/Command Syntax and Keywords]] · [[000 Map of Content]]
+Part of [[Sections/Command Syntax and Keywords|Command Syntax and Keywords]] · [[000 Map of Content]]

@@ -52,6 +52,6 @@ You can also open the **MA Network Control** (in Setup) and tap the End Session 
 
 Ending a session will dismiss all stations and the session is no longer running.
 
-← [[Pages/Networking/Adding devices to the session]] | [[Pages/Networking/Session Collision]] →
+← [[Pages/Networking/Adding devices to the session|Adding devices to the session]] | [[Pages/Networking/Session Collision|Session Collision]] →
 
-Part of [[Sections/Networking]] · [[000 Map of Content]]
+Part of [[Sections/Networking|Networking]] · [[000 Map of Content]]

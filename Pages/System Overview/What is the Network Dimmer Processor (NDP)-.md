@@ -36,6 +36,6 @@ It can receive Art-Net and sACN data as well.
 
 It is a device from the grandMA1 system and it has a 100Mbit/s network adaptor.
 
-← [[Pages/System Overview/What is the MA Video Processing Unit (VPU)-]] | [[Pages/System Overview/What is MA 3D-]] →
+← [[Pages/System Overview/What is the MA Video Processing Unit (VPU)-|What is the MA Video Processing Unit (VPU)-]] | [[Pages/System Overview/What is MA 3D-|What is MA 3D-]] →
 
-Part of [[Sections/System Overview]] · [[000 Map of Content]]
+Part of [[Sections/System Overview|System Overview]] · [[000 Map of Content]]

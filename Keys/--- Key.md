@@ -28,7 +28,7 @@ _Location <<< \[[Keywords/--- [GoFastBack] keyword]] into the command line.
 
 \[Channel\]> <<<
 
-*   Pressing <<< <<< enters [[Keywords/Black keyword]] into the command line.
+*   Pressing <<< <<< enters [[Keywords/Black keyword|Black keyword]] into the command line.
 
 \[Channel\]> Black
 

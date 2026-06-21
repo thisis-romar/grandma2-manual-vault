@@ -54,8 +54,8 @@ If you type the command by using the command keys, the At key will interrupt the
 
 ## Related Links
 
-*   [[Sections/Search and Replace]]
+*   [[Sections/Search and Replace|Search and Replace]]
 *   [[Keywords/Replace|Replace Keyword]]
-*   [[Keys/Move Key]]
+*   [[Keys/Move Key|Move Key]]
 
 Part of [[000 Keyword Index]] · [[000 Map of Content]]

@@ -39,8 +39,8 @@ It is possible to import Macros, Effects, Masks, MAtricks, Gobo Bitmaps, User 
 It is not possible to import a show, or a part of a show from any other console manufactures or from ASCII files. 
 
 Hint:  
-To import a bigger part of an other showfile, see the [[Sections/Partial Show Read]] topic.
+To import a bigger part of an other showfile, see the [[Sections/Partial Show Read|Partial Show Read]] topic.
 
-← [[Pages/Export and Import/Export by using user interface]] | [[Pages/Export and Import/Import by using user interface]] →
+← [[Pages/Export and Import/Export by using user interface|Export by using user interface]] | [[Pages/Export and Import/Import by using user interface|Import by using user interface]] →
 
-Part of [[Sections/Export and Import]] · [[000 Map of Content]]
+Part of [[Sections/Export and Import|Export and Import]] · [[000 Map of Content]]

@@ -44,7 +44,7 @@ There are 6 different tabs that consist of several windows. For more information
     *   [[Pages/Effects/Use Predefined Effects|Effects]]
     *   [[Pages/Worlds Filters and Masks/What are filters|Filters]]
     *   [[Pages/Effects/Create Effect Forms|Forms]] 
-    *   [[Sections/Groups]] 
+    *   [[Sections/Groups|Groups]] 
     *   [[Sections/Image Pool|Images]]
     *   [[Pages/Layouts/Create a Layout|Layout]] 
     *   [[Pages/Macros/What are macros|Macros]]
@@ -70,30 +70,30 @@ There are 6 different tabs that consist of several windows. For more information
 *   **Other**
     *   [[Pages/Agenda/What is agenda|Agenda]]
     *   [[Pages/Networking/Streaming CITP video|CITP video viewer]]
-    *   [[Pages/Other System Tools/Clock]]
+    *   [[Pages/Other System Tools/Clock|Clock]]
     *   [[Pages/Operate Fixtures/Using The Color Picker|Color picker]]
     *   [[Pages/Worlds Filters and Masks/What are filters|Command filter]]
     *   [[Pages/Workspace/Master Section|Command section]]
-    *   [[Pages/Workspace/Command wing bar]]
+    *   [[Pages/Workspace/Command wing bar|Command wing bar]]
     *   [[Pages/Workspace/Encoder Bar|Encoder bar]]
-    *   [[Pages/Workspace/Info]]
+    *   [[Pages/Workspace/Info|Info]]
     *   [[Pages/Layouts/Edit Layout|Layout view]]
     *   [[Pages/Advanced Executor Functionality/Masters Window|Masters]]
     *   [[Pages/Advanced Sequence Functionality/Sequence info window|Sequence info]]
     *   [[Pages/Operate Fixtures/Using The Smart View|Smart]]
     *   [[Pages/Patching/Stage View|Stage]]
     *   [[Pages/Timecode/What is Timecode and Timecode Shows|Timecode view]]
-    *   [[Keywords/VPU pixel mapper view]]
+    *   [[Keywords/VPU pixel mapper view|VPU pixel mapper view]]
 *   **System**
     *   ​[[Pages/Workspace/Command Line|Command line]]
     *   [[Pages/Other System Tools/Desk status|Desk Status]]
-    *   [[Pages/Other System Tools/Help]]
-    *   [[Pages/Other System Tools/Message center]]
+    *   [[Pages/Other System Tools/Help|Help]]
+    *   [[Pages/Other System Tools/Message center|Message center]]
     *   [[Pages/Other System Tools/Network Dimmer|Network dimmer]]
     *   [[Pages/Other System Tools/Performance window|Performance]]
     *   [[Pages/Plugins/Edit Plugins|Plugins]]
     *   [[Pages/Other System Tools/Sound input window|Sound input]]
-    *   [[Pages/Other System Tools/System monitor]]
+    *   [[Pages/Other System Tools/System monitor|System monitor]]
 
   
 
@@ -106,7 +106,7 @@ There are 6 different tabs that consist of several windows. For more information
 
 ## Pages in This Section
 
-- [[Pages/Windows/Create and Manage Basic Windows]]
-- [[Pages/Windows/Clear the Screen or Delete Windows]]
+- [[Pages/Windows/Create and Manage Basic Windows|Create and Manage Basic Windows]]
+- [[Pages/Windows/Clear the Screen or Delete Windows|Clear the Screen or Delete Windows]]
 
 Part of [[000 Map of Content]]

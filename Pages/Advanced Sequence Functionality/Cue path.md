@@ -81,6 +81,6 @@ _Four paths for comparison_
 
 The vertical axis is the fade time. The horizontal axis describes the fade from one value to the next.
 
-← [[Pages/Advanced Sequence Functionality/Looping cues]]
+← [[Pages/Advanced Sequence Functionality/Looping cues|Looping cues]]
 
-Part of [[Sections/Advanced Sequence Functionality]] · [[000 Map of Content]]
+Part of [[Sections/Advanced Sequence Functionality|Advanced Sequence Functionality]] · [[000 Map of Content]]

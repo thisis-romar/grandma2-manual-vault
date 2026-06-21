@@ -29,6 +29,6 @@ Lua is a scripting language designed to support general procedural programming. 
 
 For more information on Lua see www.lua.org
 
-[[Pages/Plugins/Edit Plugins]] →
+[[Pages/Plugins/Edit Plugins|Edit Plugins]] →
 
-Part of [[Sections/Plugins]] · [[000 Map of Content]]
+Part of [[Sections/Plugins|Plugins]] · [[000 Map of Content]]

@@ -34,7 +34,7 @@ Both sheets can be configured using the [[Pages/Operate Fixtures/Sheet options|S
 
 ## Sequence Content Sheet
 
-The Sequence Content Sheets is used to see the fixtures and values stored in cues. It looks a lot like the [[Pages/Operate Fixtures/Fixture Sheet]], but it has a masking function that only displays what is stored in a cue. It is like a combined Sequence Tracking (read below) and Fixture Sheet.
+The Sequence Content Sheets is used to see the fixtures and values stored in cues. It looks a lot like the [[Pages/Operate Fixtures/Fixture Sheet|Fixture Sheet]], but it has a masking function that only displays what is stored in a cue. It is like a combined Sequence Tracking (read below) and Fixture Sheet.
 
 It could look like this:
 
@@ -181,6 +181,6 @@ With a combination of the different parts and the Edit button you can make almos
 
 The pop-up can be closed by tapping the yellow X in the upper right corner of the pop-up. This will cancel any actions.
 
-← [[Pages/Command Syntax and Keywords/Playing back Cues]] | [[Pages/Command Syntax and Keywords/Update cues]] →
+← [[Pages/Command Syntax and Keywords/Playing back Cues|Playing back Cues]] | [[Pages/Command Syntax and Keywords/Update cues|Update cues]] →
 
-Part of [[Sections/Cues and Sequences]] · [[000 Map of Content]]
+Part of [[Sections/Cues and Sequences|Cues and Sequences]] · [[000 Map of Content]]

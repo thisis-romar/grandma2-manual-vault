@@ -51,6 +51,6 @@ Pauses executors on pages 1, 2, and 3.
 
 Deletes executors 10 through 13 of the current page.
 
-← [[Pages/Command Syntax and Keywords/Selection List]] | [[Pages/Command Syntax and Keywords/Attribute List]] →
+← [[Pages/Command Syntax and Keywords/Selection List|Selection List]] | [[Pages/Command Syntax and Keywords/Attribute List|Attribute List]] →
 
-Part of [[Sections/Command Syntax and Keywords]] · [[000 Map of Content]]
+Part of [[Sections/Command Syntax and Keywords|Command Syntax and Keywords]] · [[000 Map of Content]]

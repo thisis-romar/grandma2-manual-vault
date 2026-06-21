@@ -41,6 +41,6 @@ This chapter gives you an understanding of the grandMA2 user interface, the diff
 *   [[Pages/Workspace/Master Section|Master section]]
 *   [[Pages/Workspace/Time Control|Time control]]
 
-[[Pages/Workspace/Encoder Bar]] →
+[[Pages/Workspace/Encoder Bar|Encoder Bar]] →
 
-Part of [[Sections/Workspace]] · [[000 Map of Content]]
+Part of [[Sections/Workspace|Workspace]] · [[000 Map of Content]]

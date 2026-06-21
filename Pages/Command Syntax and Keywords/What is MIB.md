@@ -59,6 +59,6 @@ The actual prepositioning of each attribute will not necessarily take place in t
 *   Dimmer has a value above zero in any of the cues between the current cue and the cue to prepare for
 *   The attribute is included in any of the cues between the current cue and the cue to prepare for
 
-← [[Pages/Command Syntax and Keywords/What is Tracking]] | [[Pages/Command Syntax and Keywords/Sequence mini executor]] →
+← [[Pages/Command Syntax and Keywords/What is Tracking|What is Tracking]] | [[Pages/Command Syntax and Keywords/Sequence mini executor|Sequence mini executor]] →
 
-Part of [[Sections/Cues and Sequences]] · [[000 Map of Content]]
+Part of [[Sections/Cues and Sequences|Cues and Sequences]] · [[000 Map of Content]]

@@ -57,7 +57,7 @@ The Button Executor pages can be changed using the Bt Pg + and Bt Pg - keys. Rea
 
 In **Setup ->  User -> Grand Master & Misc Keys** there is a setting called **Link Fader & Button Page**. If this is active then there is no separation between the Fader and Button page changes. Chaining pages using any the four keys mentioned above will change page for both Faders and Buttons at the same time.
 
-Pages can also be changed using the command line. There are three different relevant commands: [[Keywords/FaderPage]], [[Keywords/ButtonPage keyword|ButtonPage]], and [[Keywords/Page]]. Click them to read the details about the commands.
+Pages can also be changed using the command line. There are three different relevant commands: [[Keywords/FaderPage|FaderPage]], [[Keywords/ButtonPage keyword|ButtonPage]], and [[Keywords/Page|Page]]. Click them to read the details about the commands.
 
 There are three different commands to make it possible to change the Fader Executors and Button Executors independently using each of the two commands. But it is also possible to change both at the same time using the **Page** command.
 
@@ -77,6 +77,6 @@ Change both faders and buttons to a page called **Rainbow**:
 
 \[Channel\]> Page Rainbow
 
-[[Pages/Advanced Executor Functionality/Channel Pages]] →
+[[Pages/Advanced Executor Functionality/Channel Pages|Channel Pages]] →
 
-Part of [[Sections/Advanced Executor Functionality]] · [[000 Map of Content]]
+Part of [[Sections/Advanced Executor Functionality|Advanced Executor Functionality]] · [[000 Map of Content]]

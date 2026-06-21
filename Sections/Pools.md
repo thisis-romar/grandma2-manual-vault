@@ -43,13 +43,13 @@ There are 19 different pools. For information on specific pools click on one of 
 *   [[Pages/Layouts/Create a Layout|Layout Pool]]
 *   [[Pages/Macros/What are macros|Macros Pool]]
 *   [[Pages/Worlds Filters and Masks/What are masks|Masks Pool]]
-*   [[Pages/MAtricks/MAtricks Pool]]
+*   [[Pages/MAtricks/MAtricks Pool|MAtricks Pool]]
 *   [[Pages/Advanced Executor Functionality/Channel Pages|Page Channels Pool]]
 *   [[Pages/Advanced Executor Functionality/Executor Pages|Pages Exec Pool]]
 *   [[Pages/Command Syntax and Keywords/What are cues and sequences|Sequence Pool]]
 *   [[Pages/Timecode/What is Timecode and Timecode Shows|Timecode Pool]]
 *   [[Pages/Timecode/What is Timecode and Timecode Shows|Timecode Slots Pool]]
-*   [[Pages/Timer/Timer Pool]]
+*   [[Pages/Timer/Timer Pool|Timer Pool]]
 *   [[Pages/Workspace/Work with views|Views Pool]]
 *   [[Pages/Patching/Universe Pool|Universes Pool]]
 *   [[Pages/Worlds Filters and Masks/What are Worlds|Worlds Pool]]
@@ -86,14 +86,14 @@ For information about the pool object colors see [[Pages/Workspace/System Colors
 
 #### Sub topics
 
-*   [[Pages/Pools/Manage pool objects]]
-*   [[Pages/Pools/Adjust pool options]]
+*   [[Pages/Pools/Manage pool objects|Manage pool objects]]
+*   [[Pages/Pools/Adjust pool options|Adjust pool options]]
 *   [[Pages/Pools/Call Modes|Call modes]]
 
 ## Pages in This Section
 
-- [[Pages/Pools/Manage pool objects]]
-- [[Pages/Pools/Adjust pool options]]
-- [[Pages/Pools/Call Modes]]
+- [[Pages/Pools/Manage pool objects|Manage pool objects]]
+- [[Pages/Pools/Adjust pool options|Adjust pool options]]
+- [[Pages/Pools/Call Modes|Call Modes]]
 
 Part of [[000 Map of Content]]

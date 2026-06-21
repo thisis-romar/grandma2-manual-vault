@@ -101,12 +101,12 @@ A dimmer holds all the corresponding configuration data. 
 
 #### Sub topics
 
-*   [[Pages/Other System Tools/Views]]
-*   [[Pages/Other System Tools/Errors]]
-*   [[Pages/Other System Tools/Readout]]
+*   [[Pages/Other System Tools/Views|Views]]
+*   [[Pages/Other System Tools/Errors|Errors]]
+*   [[Pages/Other System Tools/Readout|Readout]]
 *   [[Pages/Other System Tools/Edit Properties of a Rack|Edit properties of a rack]]
 *   [[Pages/Other System Tools/Edit a Module|Edit a module]]
 
-← [[Pages/Other System Tools/Sound input window]] | [[Pages/Other System Tools/Desk status]] →
+← [[Pages/Other System Tools/Sound input window|Sound input window]] | [[Pages/Other System Tools/Desk status|Desk status]] →
 
-Part of [[Sections/Other System Tools]] · [[000 Map of Content]]
+Part of [[Sections/Other System Tools|Other System Tools]] · [[000 Map of Content]]

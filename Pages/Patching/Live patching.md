@@ -57,7 +57,7 @@ This includes the DMX address.
 
 ## Live patching using the Command Line
 
-If you are looking for multi patching then please read the [[Pages/Patching/Multipatching]] topic. 
+If you are looking for multi patching then please read the [[Pages/Patching/Multipatching|Multipatching]] topic. 
 
 This is the process using the command line:
 
@@ -115,6 +115,6 @@ A second option for the DMX sheet is to press the Assign key and the Channel or 
 
 This was some different ways of editing the DMX address of a fixture without creating a show upload.
 
-← [[Pages/Patching/Multipatching]] | [[Pages/Patching/DMX Sheet]] →
+← [[Pages/Patching/Multipatching|Multipatching]] | [[Pages/Patching/DMX Sheet|DMX Sheet]] →
 
-Part of [[Sections/Patching]] · [[000 Map of Content]]
+Part of [[Sections/Patching|Patching]] · [[000 Map of Content]]

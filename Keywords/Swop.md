@@ -51,7 +51,7 @@ To get a list of all options of the keyword Swop, type the following into the co
 
 The keyword Swop has the same options as the keyword Goto. 
 
-For further information see keyword [[Keywords/Goto]]. 
+For further information see keyword [[Keywords/Goto|Goto]]. 
 
 ## Examples
 

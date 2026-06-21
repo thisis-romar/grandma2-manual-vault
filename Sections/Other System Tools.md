@@ -33,15 +33,15 @@ This is a collection of system windows, not described anywhere else. This is not
 
 The topics are:
 
-*   [[Pages/Other System Tools/Message center]]
-*   [[Pages/Other System Tools/Help]]
+*   [[Pages/Other System Tools/Message center|Message center]]
+*   [[Pages/Other System Tools/Help|Help]]
 *   [[Pages/Other System Tools/Clock|Clocks]]
-*   [[Pages/Other System Tools/Sound input window]]
-*   [[Keywords/VPU pixel mapper view]]
+*   [[Pages/Other System Tools/Sound input window|Sound input window]]
+*   [[Keywords/VPU pixel mapper view|VPU pixel mapper view]]
 *   [[Pages/Other System Tools/Network Dimmer|Network dimmer]]
-*   [[Pages/Other System Tools/Desk status]]
-*   [[Pages/Other System Tools/Performance window]]
-*   [[Pages/Other System Tools/System monitor]]
+*   [[Pages/Other System Tools/Desk status|Desk status]]
+*   [[Pages/Other System Tools/Performance window|Performance window]]
+*   [[Pages/Other System Tools/System monitor|System monitor]]
 
 To access the windows, tap on an empty part of a screen and tap Other or System
 
@@ -51,25 +51,25 @@ To access the windows, tap on an empty part of a screen and tap Other or Syst
 
 #### Sub topics
 
-*   [[Pages/Other System Tools/Message center]]
-*   [[Pages/Other System Tools/Help]]
-*   [[Pages/Other System Tools/Clock]]
-*   [[Pages/Other System Tools/Sound input window]]
-*   [[Keywords/VPU pixel mapper view]]
+*   [[Pages/Other System Tools/Message center|Message center]]
+*   [[Pages/Other System Tools/Help|Help]]
+*   [[Pages/Other System Tools/Clock|Clock]]
+*   [[Pages/Other System Tools/Sound input window|Sound input window]]
+*   [[Keywords/VPU pixel mapper view|VPU pixel mapper view]]
 *   [[Pages/Other System Tools/Network Dimmer|Network dimmer]]
-*   [[Pages/Other System Tools/Desk status]]
-*   [[Pages/Other System Tools/Performance window]]
-*   [[Pages/Other System Tools/System monitor]]
+*   [[Pages/Other System Tools/Desk status|Desk status]]
+*   [[Pages/Other System Tools/Performance window|Performance window]]
+*   [[Pages/Other System Tools/System monitor|System monitor]]
 
 ## Pages in This Section
 
-- [[Pages/Other System Tools/Message center]]
-- [[Pages/Other System Tools/Help]]
-- [[Pages/Other System Tools/Clock]]
-- [[Pages/Other System Tools/Sound input window]]
-- [[Pages/Other System Tools/Network Dimmer]]
-- [[Pages/Other System Tools/Desk status]]
-- [[Pages/Other System Tools/Performance window]]
-- [[Pages/Other System Tools/System monitor]]
+- [[Pages/Other System Tools/Message center|Message center]]
+- [[Pages/Other System Tools/Help|Help]]
+- [[Pages/Other System Tools/Clock|Clock]]
+- [[Pages/Other System Tools/Sound input window|Sound input window]]
+- [[Pages/Other System Tools/Network Dimmer|Network Dimmer]]
+- [[Pages/Other System Tools/Desk status|Desk status]]
+- [[Pages/Other System Tools/Performance window|Performance window]]
+- [[Pages/Other System Tools/System monitor|System monitor]]
 
 Part of [[000 Map of Content]]

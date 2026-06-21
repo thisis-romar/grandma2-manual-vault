@@ -28,7 +28,7 @@ Version 3.9
 
 This section describes some of the more advanced functions regarding the executors.
 
-If you have not read the [[Sections/Executors]] section, then please have a look at it for the more common uses and details on how to use sequences with executors.
+If you have not read the [[Sections/Executors|Executors]] section, then please have a look at it for the more common uses and details on how to use sequences with executors.
 
   
 
@@ -44,10 +44,10 @@ If you have not read the [[Sections/Executors]] section, then please have a look
 
 ## Pages in This Section
 
-- [[Pages/Advanced Executor Functionality/Executor Pages]]
-- [[Pages/Advanced Executor Functionality/Channel Pages]]
-- [[Pages/Advanced Executor Functionality/Executor Options]]
-- [[Pages/Advanced Executor Functionality/Masters Window]]
-- [[Pages/Advanced Executor Functionality/Special Masters]]
+- [[Pages/Advanced Executor Functionality/Executor Pages|Executor Pages]]
+- [[Pages/Advanced Executor Functionality/Channel Pages|Channel Pages]]
+- [[Pages/Advanced Executor Functionality/Executor Options|Executor Options]]
+- [[Pages/Advanced Executor Functionality/Masters Window|Masters Window]]
+- [[Pages/Advanced Executor Functionality/Special Masters|Special Masters]]
 
 Part of [[000 Map of Content]]

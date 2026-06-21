@@ -157,6 +157,6 @@ When it is active then the intensity will fade from the old intensity to the new
 
 When it is deactivated, the intensity will snap to the new value, then starting the new (higher priority) executor.
 
-← [[Pages/Command Syntax and Keywords/Delete Cues]] | [[Pages/Command Syntax and Keywords/Looking at the cue content]] →
+← [[Pages/Command Syntax and Keywords/Delete Cues|Delete Cues]] | [[Pages/Command Syntax and Keywords/Looking at the cue content|Looking at the cue content]] →
 
-Part of [[Sections/Cues and Sequences]] · [[000 Map of Content]]
+Part of [[Sections/Cues and Sequences|Cues and Sequences]] · [[000 Map of Content]]

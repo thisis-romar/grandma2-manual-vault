@@ -235,6 +235,6 @@ This will turn the sequence into a Chaser. Read more about chaser in the [[Secti
 
 This option is only visible if there is an group master assigned to the executor. This option is explained in the [[Pages/Groups/Group Master on Executors|Group Masters topic]].
 
-← [[Pages/Advanced Executor Functionality/Channel Pages]] | [[Pages/Advanced Executor Functionality/Masters Window]] →
+← [[Pages/Advanced Executor Functionality/Channel Pages|Channel Pages]] | [[Pages/Advanced Executor Functionality/Masters Window|Masters Window]] →
 
-Part of [[Sections/Advanced Executor Functionality]] · [[000 Map of Content]]
+Part of [[Sections/Advanced Executor Functionality|Advanced Executor Functionality]] · [[000 Map of Content]]

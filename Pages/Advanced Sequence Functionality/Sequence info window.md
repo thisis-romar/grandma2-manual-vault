@@ -69,6 +69,6 @@ Here it is possible to write multiple line of information.
 
 Pressing Enter/Please will close the pop-up. To add multiple lines it is necessary to press and hold shift while pressing Enter/Please.
 
-← [[Pages/Advanced Sequence Functionality/Cue Zero]] | [[Pages/Advanced Sequence Functionality/Looping cues]] →
+← [[Pages/Advanced Sequence Functionality/Cue Zero|Cue Zero]] | [[Pages/Advanced Sequence Functionality/Looping cues|Looping cues]] →
 
-Part of [[Sections/Advanced Sequence Functionality]] · [[000 Map of Content]]
+Part of [[Sections/Advanced Sequence Functionality|Advanced Sequence Functionality]] · [[000 Map of Content]]

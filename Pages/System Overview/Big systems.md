@@ -53,6 +53,6 @@ If you are in a situation where you need to build a big system, it is a very goo
 
 It is not recommended to run more than 3 (very) big sessions in one gigabit network. If more than that is needed, please contact our technical support or a **MA System Specialist**.
 
-← [[Pages/System Overview/Parameter expansion]] | [[Pages/System Overview/Media systems and CITP]] →
+← [[Pages/System Overview/Parameter expansion|Parameter expansion]] | [[Pages/System Overview/Media systems and CITP|Media systems and CITP]] →
 
-Part of [[Sections/System Overview]] · [[000 Map of Content]]
+Part of [[Sections/System Overview|System Overview]] · [[000 Map of Content]]

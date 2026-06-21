@@ -43,6 +43,6 @@ _DMX IN_
 
 The console is connected to a DMX device.
 
-← [[Pages/First Steps/Connect USB Mouse and USB Keyboad]] | [[Pages/First Steps/Connect Sound]] →
+← [[Pages/First Steps/Connect USB Mouse and USB Keyboad|Connect USB Mouse and USB Keyboad]] | [[Pages/First Steps/Connect Sound|Connect Sound]] →
 
-Part of [[Sections/First Steps]] · [[000 Map of Content]]
+Part of [[Sections/First Steps|First Steps]] · [[000 Map of Content]]

@@ -109,11 +109,11 @@ Prev + Next execute the All keyword. For more information see the [[Keywords/Al
 
 ## Pages in This Section
 
-- [[Pages/MAtricks/MAtricks Toolbar]]
-- [[Pages/MAtricks/MAtricks Pool]]
-- [[Pages/MAtricks/MAtricks Interleave]]
-- [[Pages/MAtricks/MAtricks Blocks]]
-- [[Pages/MAtricks/MAtricks Wings]]
-- [[Pages/MAtricks/MAtricks Groups]]
+- [[Pages/MAtricks/MAtricks Toolbar|MAtricks Toolbar]]
+- [[Pages/MAtricks/MAtricks Pool|MAtricks Pool]]
+- [[Pages/MAtricks/MAtricks Interleave|MAtricks Interleave]]
+- [[Pages/MAtricks/MAtricks Blocks|MAtricks Blocks]]
+- [[Pages/MAtricks/MAtricks Wings|MAtricks Wings]]
+- [[Pages/MAtricks/MAtricks Groups|MAtricks Groups]]
 
 Part of [[000 Map of Content]]

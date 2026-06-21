@@ -116,6 +116,6 @@ The remote input has a special column called **DMX**. Here a DMX universe and ch
 
 If the DMX value is 128 and above then the input is triggered. If it triggers a **Fader** then the DMX values is used to position the fader.
 
-[[Pages/Remote Control/MIDI Show Control (MSC)]] →
+[[Pages/Remote Control/MIDI Show Control (MSC)|MIDI Show Control (MSC)]] →
 
-Part of [[Sections/Remote Control]] · [[000 Map of Content]]
+Part of [[Sections/Remote Control|Remote Control]] · [[000 Map of Content]]

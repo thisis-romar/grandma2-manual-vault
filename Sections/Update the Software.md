@@ -45,16 +45,16 @@ The download process start. Follow the on screen instructions.
 
 #### Sub topics
 
-*   [[Pages/Update the Software/Update via setup]]
-*   [[Pages/Update the Software/Format a USB stick for Linux]]
-*   [[Pages/Update the Software/Update or factory reset via boot menu]]
-*   [[Pages/Update the Software/Restart from Linux]]
+*   [[Pages/Update the Software/Update via setup|Update via setup]]
+*   [[Pages/Update the Software/Format a USB stick for Linux|Format a USB stick for Linux]]
+*   [[Pages/Update the Software/Update or factory reset via boot menu|Update or factory reset via boot menu]]
+*   [[Pages/Update the Software/Restart from Linux|Restart from Linux]]
 
 ## Pages in This Section
 
-- [[Pages/Update the Software/Update via setup]]
-- [[Pages/Update the Software/Format a USB stick for Linux]]
-- [[Pages/Update the Software/Update or factory reset via boot menu]]
-- [[Pages/Update the Software/Restart from Linux]]
+- [[Pages/Update the Software/Update via setup|Update via setup]]
+- [[Pages/Update the Software/Format a USB stick for Linux|Format a USB stick for Linux]]
+- [[Pages/Update the Software/Update or factory reset via boot menu|Update or factory reset via boot menu]]
+- [[Pages/Update the Software/Restart from Linux|Restart from Linux]]
 
 Part of [[000 Map of Content]]

@@ -38,7 +38,7 @@ To get a list of all options of the keyword FlashOn, type the following into the
 
 The keyword FlashOn has the same options as the keyword Goto. 
 
-For further information see the keyword [[Keywords/Goto]]. 
+For further information see the keyword [[Keywords/Goto|Goto]]. 
 
 ## Example
 

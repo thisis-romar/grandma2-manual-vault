@@ -47,15 +47,15 @@ Object keywords are object types which are usually **used with numbers, IDs, nam
 ### List of Object Keywords 
 
 *   [[Keywords/Agenda|Agenda keyword]]
-*   [[Keywords/Attribute keyword]]
+*   [[Keywords/Attribute keyword|Attribute keyword]]
 *   [[Keywords/ButtonPage keyword|ButtonPage Keyword]]
 *   [[Keywords/Camera keyword|Camera Keyword]]
-*   [[Keywords/Channel keyword]]
-*   [[Keywords/ChannelFader keyword]]
-*   [[Keywords/Cue keyword]]
+*   [[Keywords/Channel keyword|Channel keyword]]
+*   [[Keywords/ChannelFader keyword|ChannelFader keyword]]
+*   [[Keywords/Cue keyword|Cue keyword]]
 *   [[Keywords/Default|Default keyword]]
-*   [[Keywords/Dmx keyword]]
-*   [[Keywords/Effect keyword]]
+*   [[Keywords/Dmx keyword|Dmx keyword]]
+*   [[Keywords/Effect keyword|Effect keyword]]
 *   [[Keywords/ExecButton1|ExecButton1 keyword]]
 *   [[Keywords/ExecButton2|ExecButton2 keyword]]
 *   [[Keywords/ExecButton3|ExecButoon3 keyword]]
@@ -95,6 +95,6 @@ Object keywords are object types which are usually **used with numbers, IDs, nam
 *   [[Keywords/World|World keyword]]
 *   [[Keywords/Zero|Zero keyword]]
 
-← [[Pages/Command Syntax and Keywords/Helping Keywords]] | [[Pages/Command Syntax and Keywords/Function Keywords]] →
+← [[Pages/Command Syntax and Keywords/Helping Keywords|Helping Keywords]] | [[Pages/Command Syntax and Keywords/Function Keywords|Function Keywords]] →
 
-Part of [[Sections/Command Syntax and Keywords]] · [[000 Map of Content]]
+Part of [[Sections/Command Syntax and Keywords|Command Syntax and Keywords]] · [[000 Map of Content]]

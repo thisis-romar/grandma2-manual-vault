@@ -32,10 +32,10 @@ This group of masters also include the BMP Master. This master is controlled by 
 
 The Speed Masters can be assigned to Sequence executors, chasers or effects. This makes it possible to sync multiple elements to the same speed.
 
-Read more about assigning masters to executors in the [[Pages/Advanced Executor Functionality/Executor Options]] topic. Read about assigning a Speed Master to an effect in the [[Pages/Effects/Assign effect to executor|Assign Effect to Executor topic]]. 
+Read more about assigning masters to executors in the [[Pages/Advanced Executor Functionality/Executor Options|Executor Options]] topic. Read about assigning a Speed Master to an effect in the [[Pages/Effects/Assign effect to executor|Assign Effect to Executor topic]]. 
 
 All the Speed Masters can be seen and adjusted in the [[Pages/Advanced Executor Functionality/Masters Window|Masters window]].
 
-← [[Pages/Advanced Executor Functionality/Grand Masters]] | [[Pages/Advanced Executor Functionality/Rate Masters]] →
+← [[Pages/Advanced Executor Functionality/Grand Masters|Grand Masters]] | [[Pages/Advanced Executor Functionality/Rate Masters|Rate Masters]] →
 
-Part of [[Sections/Advanced Executor Functionality]] · [[000 Map of Content]]
+Part of [[Sections/Advanced Executor Functionality|Advanced Executor Functionality]] · [[000 Map of Content]]

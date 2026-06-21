@@ -65,6 +65,6 @@ To apply a selective effect:
 
 The effect is executed.
 
-← [[Pages/Effects/Use Predefined Effects]] | [[Pages/Effects/Create an effect in the programmer]] →
+← [[Pages/Effects/Use Predefined Effects|Use Predefined Effects]] | [[Pages/Effects/Create an effect in the programmer|Create an effect in the programmer]] →
 
-Part of [[Sections/Effects]] · [[000 Map of Content]]
+Part of [[Sections/Effects|Effects]] · [[000 Map of Content]]

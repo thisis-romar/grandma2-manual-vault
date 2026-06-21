@@ -44,22 +44,22 @@ It is also possible to record key presses into a macro. Read the [[Pages/Macros/
 
 #### Sub topics
 
-*   [[Pages/Macros/What are macros]]
-*   [[Pages/Macros/Manually create a macro]]
-*   [[Pages/Macros/Record a macro]]
-*   [[Pages/Macros/Edit a macro]]
-*   [[Pages/Macros/Command line interaction]]
-*   [[Pages/Macros/Assign a macro to a key]]
-*   [[Pages/Macros/Example macros]]
+*   [[Pages/Macros/What are macros|What are macros]]
+*   [[Pages/Macros/Manually create a macro|Manually create a macro]]
+*   [[Pages/Macros/Record a macro|Record a macro]]
+*   [[Pages/Macros/Edit a macro|Edit a macro]]
+*   [[Pages/Macros/Command line interaction|Command line interaction]]
+*   [[Pages/Macros/Assign a macro to a key|Assign a macro to a key]]
+*   [[Pages/Macros/Example macros|Example macros]]
 
 ## Pages in This Section
 
-- [[Pages/Macros/What are macros]]
-- [[Pages/Macros/Manually create a macro]]
-- [[Pages/Macros/Record a macro]]
-- [[Pages/Macros/Edit a macro]]
-- [[Pages/Macros/Command line interaction]]
-- [[Pages/Macros/Assign a macro to a key]]
-- [[Pages/Macros/Example macros]]
+- [[Pages/Macros/What are macros|What are macros]]
+- [[Pages/Macros/Manually create a macro|Manually create a macro]]
+- [[Pages/Macros/Record a macro|Record a macro]]
+- [[Pages/Macros/Edit a macro|Edit a macro]]
+- [[Pages/Macros/Command line interaction|Command line interaction]]
+- [[Pages/Macros/Assign a macro to a key|Assign a macro to a key]]
+- [[Pages/Macros/Example macros|Example macros]]
 
 Part of [[000 Map of Content]]

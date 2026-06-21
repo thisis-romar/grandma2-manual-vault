@@ -174,6 +174,6 @@ Triangle (white and pointing downward)
 
 Priority Low in mini executor of a sequence. For more information see [[Pages/Command Syntax and Keywords/Sequence mini executor|sequence mini executor]].
 
-← [[Pages/Workspace/Colors]] | [[Pages/Workspace/Icons]] →
+← [[Pages/Workspace/Colors|Colors]] | [[Pages/Workspace/Icons|Icons]] →
 
-Part of [[Sections/Workspace]] · [[000 Map of Content]]
+Part of [[Sections/Workspace|Workspace]] · [[000 Map of Content]]

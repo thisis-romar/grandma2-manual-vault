@@ -73,13 +73,13 @@ For more information on how to use the command line in detail see [[Pages/Worksp
 #### Sub topics
 
 *   [[Pages/Command Syntax and Keywords/General Syntax Rules|General syntax rules]]
-*   [[Pages/Command Syntax and Keywords/All keywords]]
+*   [[Pages/Command Syntax and Keywords/All keywords|All keywords]]
 *   [[Pages/Command Syntax and Keywords/Work with Lists|Work with lists]]
 
 ## Pages in This Section
 
-- [[Pages/Command Syntax and Keywords/General Syntax Rules]]
-- [[Pages/Command Syntax and Keywords/All keywords]]
-- [[Pages/Command Syntax and Keywords/Work with Lists]]
+- [[Pages/Command Syntax and Keywords/General Syntax Rules|General Syntax Rules]]
+- [[Pages/Command Syntax and Keywords/All keywords|All keywords]]
+- [[Pages/Command Syntax and Keywords/Work with Lists|Work with Lists]]
 
 Part of [[000 Map of Content]]

@@ -31,7 +31,7 @@ Version 3.9
 *   Copy a group object in the group pool
 *   Target group object has to be occupied
 
-For more information how to copy pool objects see [[Pages/Pools/Manage pool objects]].
+For more information how to copy pool objects see [[Pages/Pools/Manage pool objects|Manage pool objects]].
 
 When you copy a group to a location where there's already a group then a pop-up opens. This pop-up shows three options:
 
@@ -41,6 +41,6 @@ When you copy a group to a location where there's already a group then a pop-up 
 
 **Cancel -** This will cancel the copy operation. You can also cancel copy by closing the pop-up by tapping the X in the upper right corner.
 
-← [[Pages/Groups/Using groups when programming]] | [[Pages/Groups/Change colors in group options for all in order and all out of order]] →
+← [[Pages/Groups/Using groups when programming|Using groups when programming]] | [[Pages/Groups/Change colors in group options for all in order and all out of order|Change colors in group options for all in order and all out of order]] →
 
-Part of [[Sections/Groups]] · [[000 Map of Content]]
+Part of [[Sections/Groups|Groups]] · [[000 Map of Content]]

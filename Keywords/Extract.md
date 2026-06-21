@@ -26,7 +26,7 @@ To get the extract keyword in the command line type **Extract** or the shortcut 
 
 Extract is a function that applies hard values in the programmer and breaks any referenced links.
 
-The Extract function used the same syntax as the At keyword. For more information see [[Keywords/At keyword]].
+The Extract function used the same syntax as the At keyword. For more information see [[Keywords/At keyword|At keyword]].
 
 Extract works recursively and breaks references also in subobjects, for example, a preset in a cue in an extracted sequence.
 

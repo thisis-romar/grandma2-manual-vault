@@ -46,6 +46,6 @@ Empties all pools completely. 
 **Important:**  
 If you store a preset in a sequence and then delete the preset, the link to the preset pool will be removed from the sequence. Instead, the actual values will be displayed in the sequence. Oopsing the action will recover the preset but not the link.
 
-← [[Pages/Presets/Update Presets]]
+← [[Pages/Presets/Update Presets|Update Presets]]
 
-Part of [[Sections/Presets]] · [[000 Map of Content]]
+Part of [[Sections/Presets|Presets]] · [[000 Map of Content]]

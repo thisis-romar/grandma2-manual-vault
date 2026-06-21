@@ -35,6 +35,6 @@ Please read the [[Pages/Worlds Filters and Masks/What are masks|What are Masks t
 
 The [[Pages/Worlds Filters and Masks/Create masks|Create Masks topic]] describes how to make masks and it describes the different buttons seen in this tab.
 
-← [[Pages/Operate Fixtures/Assign executor]]
+← [[Pages/Operate Fixtures/Assign executor|Assign executor]]
 
-Part of [[Sections/Operate Fixtures]] · [[000 Map of Content]]
+Part of [[Sections/Operate Fixtures|Operate Fixtures]] · [[000 Map of Content]]

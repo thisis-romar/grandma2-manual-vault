@@ -34,6 +34,6 @@ It got 8 female DMX ports and 1 female etherCON connector for network.
 
 It cannot function as a standalone unit. It has to be connected to a session to do anything.
 
-← [[Pages/System Overview/What is the Replay Unit (RPU)]] | [[Pages/System Overview/What is the MA Video Processing Unit (VPU)-]] →
+← [[Pages/System Overview/What is the Replay Unit (RPU)|What is the Replay Unit (RPU)]] | [[Pages/System Overview/What is the MA Video Processing Unit (VPU)-|What is the MA Video Processing Unit (VPU)-]] →
 
-Part of [[Sections/System Overview]] · [[000 Map of Content]]
+Part of [[Sections/System Overview|System Overview]] · [[000 Map of Content]]

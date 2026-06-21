@@ -26,7 +26,7 @@ The key Cue is located in the command area on the right of the key Sequ.
 
 _Location k__ey_ _Cue_ 
 
-*   Pressing Cue enters the [[Keywords/Cue keyword]] into the command line.
+*   Pressing Cue enters the [[Keywords/Cue keyword|Cue keyword]] into the command line.
 
 \[Channel\]> Cue
 

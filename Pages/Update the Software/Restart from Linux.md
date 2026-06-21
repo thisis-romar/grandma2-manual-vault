@@ -53,6 +53,6 @@ If the grandMA2 console crashes immediately again after a restart with show load
 
 The grandMA2 restart with an empty show file.
 
-← [[Pages/Update the Software/Update or factory reset via boot menu]]
+← [[Pages/Update the Software/Update or factory reset via boot menu|Update or factory reset via boot menu]]
 
-Part of [[Sections/Update the Software]] · [[000 Map of Content]]
+Part of [[Sections/Update the Software|Update the Software]] · [[000 Map of Content]]

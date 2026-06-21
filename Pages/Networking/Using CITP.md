@@ -77,8 +77,8 @@ The MA VPU reduces CITP video streams frame rate if the CITP network traffic of 
 #### Sub topics
 
 *   [[Pages/Networking/Streaming CITP video|Streaming CITP]]
-*   [[Pages/Networking/Thumbnail exchange]]
+*   [[Pages/Networking/Thumbnail exchange|Thumbnail exchange]]
 
-← [[Pages/Networking/Getting DMX in and out of the system]] | [[Pages/Networking/PosiStageNet (PSN)]] →
+← [[Pages/Networking/Getting DMX in and out of the system|Getting DMX in and out of the system]] | [[Pages/Networking/PosiStageNet (PSN)|PosiStageNet (PSN)]] →
 
-Part of [[Sections/Networking]] · [[000 Map of Content]]
+Part of [[Sections/Networking|Networking]] · [[000 Map of Content]]

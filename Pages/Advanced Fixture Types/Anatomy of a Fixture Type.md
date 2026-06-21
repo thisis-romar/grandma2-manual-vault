@@ -31,9 +31,9 @@ A fixture has at least one **Module** and one **Instance** of this module. There
 
 There might be different modules in the same fixture, for instance a LED moving head might have a "main" module with pan/tilt, zoom, master intensity, and then several RGB modules for different sections of the head.
 
-The modules contains a list of different **Attributes** that are mapped to DMX channels. The modules are added and defined in the [[Pages/Advanced Fixture Types/Module Manager]]. The module amount and possible physical relationship between the modules is defined in the [[Pages/Advanced Fixture Types/Instance Manager]].
+The modules contains a list of different **Attributes** that are mapped to DMX channels. The modules are added and defined in the [[Pages/Advanced Fixture Types/Module Manager|Module Manager]]. The module amount and possible physical relationship between the modules is defined in the [[Pages/Advanced Fixture Types/Instance Manager|Instance Manager]].
 
-Inside a module there might be different **Wheels**. A wheel can be color wheels, gobo wheels, animation wheels, or other types of wheels. A color scroller is also often defined as a wheel even though it technically is a roll. All the wheels are defined in the [[Pages/Advanced Fixture Types/Wheel Manager]].
+Inside a module there might be different **Wheels**. A wheel can be color wheels, gobo wheels, animation wheels, or other types of wheels. A color scroller is also often defined as a wheel even though it technically is a roll. All the wheels are defined in the [[Pages/Advanced Fixture Types/Wheel Manager|Wheel Manager]].
 
 Fixtures can be build or modified in the grandMA2 software. It is possible to import downloaded fixture types. Please read the [[Pages/Patching/Adding fixtures to the show|Adding fixtures to the show topic]] for information about this.
 
@@ -67,7 +67,7 @@ There are several columns in this part of the editor. This is a short descriptio
     _Select an attribute for the module_
     
       
-    This is a long list of all the existing attributes in the show. The list can be edited in the [[Pages/Advanced Fixture Types/Attribute & Encoder Grouping]].
+    This is a long list of all the existing attributes in the show. The list can be edited in the [[Pages/Advanced Fixture Types/Attribute & Encoder Grouping|Attribute & Encoder Grouping]].
 *   **Break**:  
     Breaks are used if a fixture needs more than one start address.  
     This could be a LED bar with four individually LED instances build in one fixture. Each instance can be address on the back of the fixture, thus there need to be four different DMX start addresses for the fixture. This would be four different DMX breaks.  
@@ -116,7 +116,7 @@ There are several columns in this part of the editor. This is a short descriptio
     This can be turned On. It completely changes the function of the attribute. It will make the value count up each time a cue is triggered in a sequence. This function can be used by some media servers to detect a cue change.
 
 **Hint:**  
-More modules can be added in the [[Pages/Advanced Fixture Types/Module Manager]].
+More modules can be added in the [[Pages/Advanced Fixture Types/Module Manager|Module Manager]].
 
 Editing one of the row will move "into" the channel and the editor changes to match. Keep reading for details on the editor for channels.
 
@@ -135,11 +135,11 @@ _Edit channels of modules_
 *   **No.**:  
     This is an internal row number. It cannot be changed.
 *   **SubAttrib**:  
-    Here the subattribute is defined. Editing this cell will open a pop-up much like the **Select Attribute** shown above, but instead it is **Select Subattribute**. Subattributes are defined in the [[Pages/Advanced Fixture Types/Attribute & Encoder Grouping]].
+    Here the subattribute is defined. Editing this cell will open a pop-up much like the **Select Attribute** shown above, but instead it is **Select Subattribute**. Subattributes are defined in the [[Pages/Advanced Fixture Types/Attribute & Encoder Grouping|Attribute & Encoder Grouping]].
 *   **Name**:  
     This is the name that will be displayed as a tap in the calculator pop-up when editing the value of the attribute.
 *   **Wheel**:  
-    Here it is possible to attach a wheel to the subattribute. Editing this cell will open the **Select Wheel** pop-up that lists the different defined wheels. Wheels can be defined in the [[Pages/Advanced Fixture Types/Wheel Manager]].
+    Here it is possible to attach a wheel to the subattribute. Editing this cell will open the **Select Wheel** pop-up that lists the different defined wheels. Wheels can be defined in the [[Pages/Advanced Fixture Types/Wheel Manager|Wheel Manager]].
 *   **From**:  
     This value is being shown on the encoders if the sheet readout is "Natural". This is the first or lowest values. This is often "0" or the minimum value for the attribute. It can make sense to defined this values as a negative values for pan and tilt attributes - often half of the complete rotation for instance "-270". 
 *   **To**:  
@@ -192,7 +192,7 @@ Each row here is a channel set whit a defined values range. The columns have cha
 *   **To DMX**:  
     This is the last (highest) DMX value of the channel set. It can be the same number in the **From DMX**, then it only this specific value that represents the channel set. This is relevant for many sets like the maximum value for an attribute.
 *   **Slot No**:  
-    If the subattribute has a wheel attached, then the slot number in the wheel can be typed here. Read more about wheels in the [[Pages/Advanced Fixture Types/Wheel Manager]].
+    If the subattribute has a wheel attached, then the slot number in the wheel can be typed here. Read more about wheels in the [[Pages/Advanced Fixture Types/Wheel Manager|Wheel Manager]].
 *   **From Phys**:  
     For some attributes it makes sense to also add physical values. It can be the a specific strobe frequency, a revolution value, or as the example above a way to set a rotation range for a wheel. This is the lowest physical value.
 *   **To Phys**:  
@@ -240,6 +240,6 @@ Virtual attributes are often dimmer attributes that acts as virtual master inten
 *   [[Pages/Advanced Fixture Types/Instance Manager|Instance manager]]
 *   [[Pages/Advanced Fixture Types/Wheel Manager|Wheel manager]]
 
-[[Pages/Advanced Fixture Types/Attribute & Encoder Grouping]] →
+[[Pages/Advanced Fixture Types/Attribute & Encoder Grouping|Attribute & Encoder Grouping]] →
 
-Part of [[Sections/Advanced Fixture Types]] · [[000 Map of Content]]
+Part of [[Sections/Advanced Fixture Types|Advanced Fixture Types]] · [[000 Map of Content]]

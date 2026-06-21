@@ -121,6 +121,6 @@ The view is deleted from the view button but still stored in the [view pool](<#V
 
 The view is deleted from the view pool and from all assigned [[Pages/Workspace/View Buttons|view buttons]].
 
-← [[Pages/Workspace/Mini executor bar]] | [[Pages/Workspace/Touch gestures]] →
+← [[Pages/Workspace/Mini executor bar|Mini executor bar]] | [[Pages/Workspace/Touch gestures|Touch gestures]] →
 
-Part of [[Sections/Workspace]] · [[000 Map of Content]]
+Part of [[Sections/Workspace|Workspace]] · [[000 Map of Content]]

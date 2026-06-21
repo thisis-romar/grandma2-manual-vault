@@ -46,6 +46,6 @@ To select several MA NDPs, use the "lasso" selection in the column **Session Mem
 
 The MA NDPs have been deleted in the network configuration.
 
-← [[Pages/Control MA NDPs/Configure the MA NDPs]]
+← [[Pages/Control MA NDPs/Configure the MA NDPs|Configure the MA NDPs]]
 
-Part of [[Sections/Control MA NDPs]] · [[000 Map of Content]]
+Part of [[Sections/Control MA NDPs|Control MA NDPs]] · [[000 Map of Content]]

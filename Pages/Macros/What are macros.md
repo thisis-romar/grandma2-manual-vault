@@ -105,6 +105,6 @@ If it comes from a macro in the macro pool, then it also writes the macro number
 
 If the commands come from a command in a cue, then it displays the sequence and cue number. This makes it easy to identify where the command comes from.
 
-[[Pages/Macros/Manually create a macro]] →
+[[Pages/Macros/Manually create a macro|Manually create a macro]] →
 
-Part of [[Sections/Macros]] · [[000 Map of Content]]
+Part of [[Sections/Macros|Macros]] · [[000 Map of Content]]

@@ -171,6 +171,6 @@ They provide an overview off all the group masters in the show.
 
 They are described in the [[Pages/Advanced Executor Functionality/Masters Window|Masters Window topic]].
 
-← [[Pages/Groups/Change colors in group options for all in order and all out of order]]
+← [[Pages/Groups/Change colors in group options for all in order and all out of order|Change colors in group options for all in order and all out of order]]
 
-Part of [[Sections/Groups]] · [[000 Map of Content]]
+Part of [[Sections/Groups|Groups]] · [[000 Map of Content]]

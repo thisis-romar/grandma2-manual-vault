@@ -97,12 +97,12 @@ Please read the following pages to learn about creating sessions and adding more
 
 #### Sub topics
 
-*   [[Pages/Networking/How to create a session]]
-*   [[Pages/Networking/Protecting the session and station]]
-*   [[Pages/Networking/Adding devices to the session]]
-*   [[Pages/Networking/How to end or leave a session]]
+*   [[Pages/Networking/How to create a session|How to create a session]]
+*   [[Pages/Networking/Protecting the session and station|Protecting the session and station]]
+*   [[Pages/Networking/Adding devices to the session|Adding devices to the session]]
+*   [[Pages/Networking/How to end or leave a session|How to end or leave a session]]
 *   [[Pages/Networking/Session Collision|Session collision]]
 
-← [[Pages/Networking/Using DHCP in MA devices]] | [[Pages/Networking/Getting DMX in and out of the system]] →
+← [[Pages/Networking/Using DHCP in MA devices|Using DHCP in MA devices]] | [[Pages/Networking/Getting DMX in and out of the system|Getting DMX in and out of the system]] →
 
-Part of [[Sections/Networking]] · [[000 Map of Content]]
+Part of [[Sections/Networking|Networking]] · [[000 Map of Content]]

@@ -30,14 +30,14 @@ You can add or delete RDM notifications to or from the fixture types. RDM notif
 
 Depending on the settings in the windows, the RDM notifications icons are displayed in the:
 
-*   [[Pages/Operate Fixtures/Fixture Sheet]]
+*   [[Pages/Operate Fixtures/Fixture Sheet|Fixture Sheet]]
 *   [[Sections/Layouts|Layout View]]
 *   [[Pages/Workspace/Command Line|Command line]]
 
 The RDM notifications themselves are displayed in the:
 
 *   [[Pages/Other System Tools/Message center|Message Center]]
-*   RDM Messages, go to **Setup -> Patch & Fixture Schedule -> RDM Devices -> RDM Info -> Messages** or type [[Keywords/RdmInfo]] in the command line and tap **Messages**.
+*   RDM Messages, go to **Setup -> Patch & Fixture Schedule -> RDM Devices -> RDM Info -> Messages** or type [[Keywords/RdmInfo|RdmInfo]] in the command line and tap **Messages**.
 
 * * *
 
@@ -133,6 +133,6 @@ The following example will explain how to delete an RDM notification.
 
 The RDM notification is deleted.
 
-← [[Pages/RDM/Work with RDM sensors]] | [[Pages/RDM/Use the RDM sheet]] →
+← [[Pages/RDM/Work with RDM sensors|Work with RDM sensors]] | [[Pages/RDM/Use the RDM sheet|Use the RDM sheet]] →
 
-Part of [[Sections/RDM]] · [[000 Map of Content]]
+Part of [[Sections/RDM|RDM]] · [[000 Map of Content]]

@@ -217,6 +217,6 @@ If the target data is to be universal, then clone to fixture type 1.1. 
 
 \[Channel\]> Clone Fixture 1 At FixtureType 1.1 If Preset 2.4
 
-← [[Pages/Clone/Examples]]
+← [[Pages/Clone/Examples|Examples]]
 
-Part of [[Sections/Clone]] · [[000 Map of Content]]
+Part of [[Sections/Clone|Clone]] · [[000 Map of Content]]

@@ -83,7 +83,7 @@ _Node Configuration_
      \-Enter the name of the node, the two IP addresses and the ID of the session in the corresponding input fields.  
      \-Select the mode and light mode in the corresponding drop-down menus.  
      \-Check the checkbox **DHCP**.  
-     For more information on DHCP see [[Pages/Networking/Using DHCP in MA devices]].
+     For more information on DHCP see [[Pages/Networking/Using DHCP in MA devices|Using DHCP in MA devices]].
 11.   Adjust the ports in **XLR A**, **XLR B**, **XLR C**, and **XLR D**:  
      \-Select the port in the drop-down menu **Port Dir.**  
      For more information on the port and merge modes see [[Pages/Networking/Setting up DMX ports on MA devices|Configure the DMX ports on MA devices – Port Mode]] and [[Pages/Networking/Setting up DMX ports on MA devices|Configure the DMX ports on MA devices – Merge Mode]].  
@@ -100,6 +100,6 @@ _Node Configuration_
 
 You have successfully logged out.
 
-← [[Pages/Control MA xPort Nodes/Configure the MA xPort Nodes in the Console]] | [[Pages/Control MA xPort Nodes/Configure the MA xPort Nodes as Splitters or Mergers]] →
+← [[Pages/Control MA xPort Nodes/Configure the MA xPort Nodes in the Console|Configure the MA xPort Nodes in the Console]] | [[Pages/Control MA xPort Nodes/Configure the MA xPort Nodes as Splitters or Mergers|Configure the MA xPort Nodes as Splitters or Mergers]] →
 
-Part of [[Sections/Control MA xPort Nodes]] · [[000 Map of Content]]
+Part of [[Sections/Control MA xPort Nodes|Control MA xPort Nodes]] · [[000 Map of Content]]

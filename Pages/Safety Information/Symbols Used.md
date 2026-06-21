@@ -39,6 +39,6 @@ The important sign displays important information during the usage of the consol
 **Hint:**  
 The hint sign displays additional hints when using the console.
 
-[[Pages/Safety Information/Intended Use]] →
+[[Pages/Safety Information/Intended Use|Intended Use]] →
 
-Part of [[Sections/Safety Information]] · [[000 Map of Content]]
+Part of [[Sections/Safety Information|Safety Information]] · [[000 Map of Content]]

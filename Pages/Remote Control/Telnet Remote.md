@@ -59,6 +59,6 @@ After the login, any commands can be written to the system.
 **Restriction:**  
 Pay close attention when accessing the fixture setup and schedule from the telnet connection. It lock access for other users and there is no explaining warning.
 
-← [[Pages/Remote Control/Web Remote]] | [[Pages/Remote Control/Decimal – Hex Table]] →
+← [[Pages/Remote Control/Web Remote|Web Remote]] | [[Pages/Remote Control/Decimal – Hex Table|Decimal – Hex Table]] →
 
-Part of [[Sections/Remote Control]] · [[000 Map of Content]]
+Part of [[Sections/Remote Control|Remote Control]] · [[000 Map of Content]]

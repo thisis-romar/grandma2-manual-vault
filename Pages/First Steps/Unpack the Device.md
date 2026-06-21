@@ -31,6 +31,6 @@ Version 3.9
 **Information:**  
 The device was tested for proper function at the factory.
 
-[[Pages/First Steps/Check Scope of Delivery]] →
+[[Pages/First Steps/Check Scope of Delivery|Check Scope of Delivery]] →
 
-Part of [[Sections/First Steps]] · [[000 Map of Content]]
+Part of [[Sections/First Steps|First Steps]] · [[000 Map of Content]]

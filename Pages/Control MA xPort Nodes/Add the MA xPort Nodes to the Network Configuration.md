@@ -49,6 +49,6 @@ _MA Network Configuration – DMX Node_
 
 The MA xPort Nodes have been added to the network configuration and can now be configured.
 
-[[Pages/Control MA xPort Nodes/Configure the MA xPort Nodes in the Console]] →
+[[Pages/Control MA xPort Nodes/Configure the MA xPort Nodes in the Console|Configure the MA xPort Nodes in the Console]] →
 
-Part of [[Sections/Control MA xPort Nodes]] · [[000 Map of Content]]
+Part of [[Sections/Control MA xPort Nodes|Control MA xPort Nodes]] · [[000 Map of Content]]

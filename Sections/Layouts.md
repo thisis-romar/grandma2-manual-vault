@@ -42,9 +42,9 @@ Layouts are created in the layout pool and are displayed and edited in the layou
 
 ## Pages in This Section
 
-- [[Pages/Layouts/Create a Layout]]
-- [[Pages/Layouts/Layout Pool Options]]
-- [[Pages/Layouts/Edit Layout]]
-- [[Pages/Layouts/Layout View Options]]
+- [[Pages/Layouts/Create a Layout|Create a Layout]]
+- [[Pages/Layouts/Layout Pool Options|Layout Pool Options]]
+- [[Pages/Layouts/Edit Layout|Edit Layout]]
+- [[Pages/Layouts/Layout View Options|Layout View Options]]
 
 Part of [[000 Map of Content]]

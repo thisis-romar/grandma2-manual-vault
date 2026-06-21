@@ -47,6 +47,6 @@ For more information see the the single topics on the existing lists. 
 *   [[Pages/Command Syntax and Keywords/Attribute List|Attribute list]]
 *   [[Pages/Command Syntax and Keywords/Station List|Station list]]
 
-← [[Pages/Command Syntax and Keywords/All keywords]]
+← [[Pages/Command Syntax and Keywords/All keywords|All keywords]]
 
-Part of [[Sections/Command Syntax and Keywords]] · [[000 Map of Content]]
+Part of [[Sections/Command Syntax and Keywords|Command Syntax and Keywords]] · [[000 Map of Content]]

@@ -53,7 +53,7 @@ For more information on how to patch fixtures see [[Pages/Patching/Adding fixtur
 
 *   [[Pages/Operate Fixtures/Channel Sheet|Channel sheet]]
 *   [[Pages/Operate Fixtures/Fixture Sheet|Fixture sheet]]
-*   [[Pages/Operate Fixtures/Sheet options]]
+*   [[Pages/Operate Fixtures/Sheet options|Sheet options]]
 *   [[Pages/Operate Fixtures/Layer in Sheets|Layers in sheets]]
 *   [[Pages/Operate Fixtures/What is the Programmer|What is the programmer]]
 *   [[Pages/Operate Fixtures/Encoder Grouping|Encoder grouping]]
@@ -64,15 +64,15 @@ For more information on how to patch fixtures see [[Pages/Patching/Adding fixtur
 
 ## Pages in This Section
 
-- [[Pages/Operate Fixtures/Channel Sheet]]
-- [[Pages/Operate Fixtures/Fixture Sheet]]
-- [[Pages/Operate Fixtures/Sheet options]]
-- [[Pages/Operate Fixtures/Layer in Sheets]]
-- [[Pages/Operate Fixtures/What is the Programmer]]
-- [[Pages/Operate Fixtures/Encoder Grouping]]
-- [[Pages/Operate Fixtures/Using The Color Picker]]
-- [[Pages/Operate Fixtures/Using The Shaper Dialog]]
-- [[Pages/Operate Fixtures/Using The Smart View]]
-- [[Pages/Operate Fixtures/Edit a Channel or a Fixture]]
+- [[Pages/Operate Fixtures/Channel Sheet|Channel Sheet]]
+- [[Pages/Operate Fixtures/Fixture Sheet|Fixture Sheet]]
+- [[Pages/Operate Fixtures/Sheet options|Sheet options]]
+- [[Pages/Operate Fixtures/Layer in Sheets|Layer in Sheets]]
+- [[Pages/Operate Fixtures/What is the Programmer|What is the Programmer]]
+- [[Pages/Operate Fixtures/Encoder Grouping|Encoder Grouping]]
+- [[Pages/Operate Fixtures/Using The Color Picker|Using The Color Picker]]
+- [[Pages/Operate Fixtures/Using The Shaper Dialog|Using The Shaper Dialog]]
+- [[Pages/Operate Fixtures/Using The Smart View|Using The Smart View]]
+- [[Pages/Operate Fixtures/Edit a Channel or a Fixture|Edit a Channel or a Fixture]]
 
 Part of [[000 Map of Content]]

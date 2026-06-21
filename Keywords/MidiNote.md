@@ -24,7 +24,7 @@ To use to the MidiNote keyword, type **MidiNote** or the shortcut **Mn** in the
 
 ## Description
 
-With the MidiNote command, you send MIDI Note messages via the Midi Out port at the back of the console. For more information, see [[Sections/Device Overview]].
+With the MidiNote command, you send MIDI Note messages via the Midi Out port at the back of the console. For more information, see [[Sections/Device Overview|Device Overview]].
 
 If a MIDI channel is entered in the command, the entered MIDI channel will be used.  
 If no MIDI channel is entered, the MIDI channel in the **Setup -> Midi Show Control** is used.

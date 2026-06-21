@@ -25,7 +25,7 @@ Version 3.9
 
 # Module Manager
 
-If you have arrived at this topic from a link without reading the previous topic, then please read [[Pages/Advanced Fixture Types/Anatomy of a Fixture Type]] first.
+If you have arrived at this topic from a link without reading the previous topic, then please read [[Pages/Advanced Fixture Types/Anatomy of a Fixture Type|Anatomy of a Fixture Type]] first.
 
 All fixtures needs a minimum of one **Module**. Some fixtures have more than one. For instance a fixture that has one pan attribute but several tilt attributes (several small heads mounted on same yoke). Or more commonly one module with pan, tilt, zoom, master intensity, and other common functions and then another module for each LED pixel in a wash moving head.
 
@@ -110,6 +110,6 @@ This is a show description of the different classes:
 *   **Preset**:  
     This class is used by the auto generated "Fixture Type" fixtures that appear in the Fixture Sheet and Channel Sheet. It should not be used by other fixtures.
 
-[[Pages/Advanced Fixture Types/Instance Manager]] →
+[[Pages/Advanced Fixture Types/Instance Manager|Instance Manager]] →
 
-Part of [[Sections/Advanced Fixture Types]] · [[000 Map of Content]]
+Part of [[Sections/Advanced Fixture Types|Advanced Fixture Types]] · [[000 Map of Content]]

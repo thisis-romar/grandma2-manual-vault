@@ -42,7 +42,7 @@ timecode shows.
 
 The Timecode keyword, is an object keyword.
 
-For more information, see [[Sections/Timecode]].
+For more information, see [[Sections/Timecode|Timecode]].
 
 ## Syntax
 
@@ -52,7 +52,7 @@ Assign Timecode \[ID\] / \[Parameter\] = \[Parameter Value\]
 
 ## Parameter
 
-The following table displays the assignable parameters by using the [[Keywords/Assign keyword]].
+The following table displays the assignable parameters by using the [[Keywords/Assign keyword|Assign keyword]].
 
 Parameter
 

@@ -30,7 +30,7 @@ _Location k__ey_ _Page_ 
 
 \[Channel\]> Page
 
-*   Pressing Page Page enters the [[Keywords/ChannelPage keyword]] into the command line.
+*   Pressing Page Page enters the [[Keywords/ChannelPage keyword|ChannelPage keyword]] into the command line.
 
 \[Channel\]>ChannelPage
 
@@ -38,7 +38,7 @@ _Location k__ey_ _Page_ 
 
 \[Channel\]>FaderPage
 
-*   Pressing Page Page Page Page enters the [[Keywords/ButtonPage keyword]] into the command line.
+*   Pressing Page Page Page Page enters the [[Keywords/ButtonPage keyword|ButtonPage keyword]] into the command line.
 
 \[Channel\]>ButtonPage
 

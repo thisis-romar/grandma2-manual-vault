@@ -61,6 +61,6 @@ _Import macro pop-up_
 
 The selected macros are imported to the selected location in the macro pool.
 
-← [[Pages/Export and Import/Import by using command line]] | [[Pages/Export and Import/Import predefined objects]] →
+← [[Pages/Export and Import/Import by using command line|Import by using command line]] | [[Pages/Export and Import/Import predefined objects|Import predefined objects]] →
 
-Part of [[Sections/Export and Import]] · [[000 Map of Content]]
+Part of [[Sections/Export and Import|Export and Import]] · [[000 Map of Content]]

@@ -54,6 +54,6 @@ For more information on the keys and their commands see [[Pages/Keys and Buttons
 *   Pressing Store Executor 5 Cue 3 enters the command into the command line. 
 *   Pressing Please consequently stores cue 3 on the executor 5.
 
-← [[Pages/Workspace/Command wing bar]] | [[Pages/Workspace/Mini executor bar]] →
+← [[Pages/Workspace/Command wing bar|Command wing bar]] | [[Pages/Workspace/Mini executor bar|Mini executor bar]] →
 
-Part of [[Sections/Workspace]] · [[000 Map of Content]]
+Part of [[Sections/Workspace|Workspace]] · [[000 Map of Content]]

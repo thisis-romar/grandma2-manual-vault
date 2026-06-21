@@ -45,6 +45,6 @@ The 11 masters are:
 *   **SpecialMaster 1.10 'IFad'** - this is also called StepInFade
 *   **SpecialMaster 1.11 'OFad'** - this is also called StepOutFade
 
-[[Pages/Advanced Executor Functionality/Grand Masters]] →
+[[Pages/Advanced Executor Functionality/Grand Masters|Grand Masters]] →
 
-Part of [[Sections/Advanced Executor Functionality]] · [[000 Map of Content]]
+Part of [[Sections/Advanced Executor Functionality|Advanced Executor Functionality]] · [[000 Map of Content]]

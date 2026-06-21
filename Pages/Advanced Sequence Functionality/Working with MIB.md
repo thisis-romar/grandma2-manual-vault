@@ -128,6 +128,6 @@ Last time we played back the sequence, fixture 1 was red because it had preposit
 
 These issues may be minimized by not prepositioning too early, or by activating "MIB Never" in the Executor options, if you are to make major changes to your cues - Executor Options are described in the [[Pages/Advanced Executor Functionality/Executor Options|Executor Options topic]].
 
-← [[Pages/Advanced Sequence Functionality/Using different view sets in the sheets]] | [[Pages/Advanced Sequence Functionality/Using Cue Modes]] →
+← [[Pages/Advanced Sequence Functionality/Using different view sets in the sheets|Using different view sets in the sheets]] | [[Pages/Advanced Sequence Functionality/Using Cue Modes|Using Cue Modes]] →
 
-Part of [[Sections/Advanced Sequence Functionality]] · [[000 Map of Content]]
+Part of [[Sections/Advanced Sequence Functionality|Advanced Sequence Functionality]] · [[000 Map of Content]]

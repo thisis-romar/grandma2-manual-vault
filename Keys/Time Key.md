@@ -51,7 +51,7 @@ _Location_ _Key_ _Time_ 
 
 * * *
 
-*   Pressing Time Time enters the [[Keywords/Delay keyword]] into the command line and changes the encoder bar to **Delay**.  
+*   Pressing Time Time enters the [[Keywords/Delay keyword|Delay keyword]] into the command line and changes the encoder bar to **Delay**.  
      
     
     ![](../../img/img_encoder-bar-delay_v3_2.png)
@@ -92,7 +92,7 @@ _Location_ _Key_ _Time_ 
 
 * * *
 
-If you enter [[Keywords/Store]] or [[Keywords/Assign keyword|Assign]] keyword into the command line,
+If you enter [[Keywords/Store|Store]] or [[Keywords/Assign keyword|Assign]] keyword into the command line,
 
 *   pressing then Time enters the [[Keywords/Fade|Fade keyword]] into the command line.
 
@@ -102,7 +102,7 @@ If you enter [[Keywords/Store]] or [[Keywords/Assign keyword|Assign]] keyword i
 
 \[Channel\]> Store OutFade
 
-*   pressing then Time Time Time enters the [[Keywords/Delay keyword]] into the command line.
+*   pressing then Time Time Time enters the [[Keywords/Delay keyword|Delay keyword]] into the command line.
 
 \[Channel\]> Store Delay
 
@@ -114,7 +114,7 @@ If you enter [[Keywords/Store]] or [[Keywords/Assign keyword|Assign]] keyword i
 
 \[Channel\]> Store SnapPercent
 
-*   pressing then Time Time Time Time Time Time enters the [[Keywords/CmdDelay keyword]] into the command line.
+*   pressing then Time Time Time Time Time Time enters the [[Keywords/CmdDelay keyword|CmdDelay keyword]] into the command line.
 
 \[Channel\]> Store CmdDelay
 

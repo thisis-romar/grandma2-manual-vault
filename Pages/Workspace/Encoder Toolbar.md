@@ -82,6 +82,6 @@ Choose the encoder link option you like to have.
 
 The encoder link option is saved in the user settings.
 
-← [[Pages/Workspace/Preset Control Bar]]
+← [[Pages/Workspace/Preset Control Bar|Preset Control Bar]]
 
-Part of [[Sections/Workspace]] · [[000 Map of Content]]
+Part of [[Sections/Workspace|Workspace]] · [[000 Map of Content]]

@@ -54,6 +54,6 @@ The second IP address should always be an Art-Net address. The Art-Net addresses
 
 There is a column for activating DHCP. Read more about DHCP in the [[Pages/Networking/Using DHCP in MA devices|Using DHCP in MA devices topic]].
 
-← [[Pages/Networking/What is networking]] | [[Pages/Networking/Set the IP address in the onPC]] →
+← [[Pages/Networking/What is networking|What is networking]] | [[Pages/Networking/Set the IP address in the onPC|Set the IP address in the onPC]] →
 
-Part of [[Sections/Networking]] · [[000 Map of Content]]
+Part of [[Sections/Networking|Networking]] · [[000 Map of Content]]

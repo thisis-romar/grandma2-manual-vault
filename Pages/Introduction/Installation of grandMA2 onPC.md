@@ -42,6 +42,6 @@ The installation directory is not modifiable in the grandMA2 onPC.
 
 After confirmation, the program files will be copied into the selected directory.
 
-← [[Pages/Introduction/System Requirements grandMA2 onPC]] | [[Pages/Introduction/Help from MA Technical Support]] →
+← [[Pages/Introduction/System Requirements grandMA2 onPC|System Requirements grandMA2 onPC]] | [[Pages/Introduction/Help from MA Technical Support|Help from MA Technical Support]] →
 
-Part of [[Sections/Introduction]] · [[000 Map of Content]]
+Part of [[Sections/Introduction|Introduction]] · [[000 Map of Content]]

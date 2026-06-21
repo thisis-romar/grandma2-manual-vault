@@ -33,7 +33,7 @@ With the Preset keyword you can:
 *   At a preset to the fixture or channel selection.
 
 If no fixtures or channels are selected in the programmer, the default function is **SelFix**. For more information, see [[Keywords/SelFix|SelFix keyword]].  
-If fixtures or channels are selected in the programmer, the default function is **At**. For more information, see [[Keywords/At keyword]].
+If fixtures or channels are selected in the programmer, the default function is **At**. For more information, see [[Keywords/At keyword|At keyword]].
 
 ## Syntax
 

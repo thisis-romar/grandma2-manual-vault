@@ -32,7 +32,7 @@ Follow these guidelines to add the MA NDPs to the network configuration. 
 *   Connect the MA NDPs with the console or the onPC via a network cable.
 *   Make sure that the session ID corresponds to the session ID of the NDPs. 
 
-For more information on sessions see [[Pages/Networking/How to create a session|Session control – How to create a session]] or [[Pages/Networking/How to end or leave a session]].
+For more information on sessions see [[Pages/Networking/How to create a session|Session control – How to create a session]] or [[Pages/Networking/How to end or leave a session|How to end or leave a session]].
 
 1.  Open the **MA Network Configuration**.  
     \-Press Setup and tap MA Network Configuration. 
@@ -54,8 +54,8 @@ _MA Network Configuration – NDP Dimmer_
 
 The MA NDPs have been added to the network configuration and can now be edited. 
 
-For more information on how to edit the MA NDPs see [[Pages/Control MA NDPs/Configure the MA NDPs]].
+For more information on how to edit the MA NDPs see [[Pages/Control MA NDPs/Configure the MA NDPs|Configure the MA NDPs]].
 
-[[Pages/Control MA NDPs/Configure the MA NDPs]] →
+[[Pages/Control MA NDPs/Configure the MA NDPs|Configure the MA NDPs]] →
 
-Part of [[Sections/Control MA NDPs]] · [[000 Map of Content]]
+Part of [[Sections/Control MA NDPs|Control MA NDPs]] · [[000 Map of Content]]

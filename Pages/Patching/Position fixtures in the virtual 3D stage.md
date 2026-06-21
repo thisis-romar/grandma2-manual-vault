@@ -171,7 +171,7 @@ It could look like this:
 
 _Fixture Positions pop-up_
 
-The top half works a lot like the [[Pages/Patching/Stage View]]. Although there is an extra swipe button in the title bar.
+The top half works a lot like the [[Pages/Patching/Stage View|Stage View]]. Although there is an extra swipe button in the title bar.
 
 This is a layer selection. Swiping this will show you all the layers in your setup, but it will also include a layer with all the "3D objects".
 
@@ -245,6 +245,6 @@ When the Fixture Positions pop-up is visible then you also have the same Encoder
 
 Editing a fixture gives you the same position and rotation XYZ options as the using the EditSetup and LiveSetup layer view (read above).
 
-← [[Pages/Patching/Virtual 3D Cameras]] | [[Pages/Patching/Auto-calibrate fixture positions]] →
+← [[Pages/Patching/Virtual 3D Cameras|Virtual 3D Cameras]] | [[Pages/Patching/Auto-calibrate fixture positions|Auto-calibrate fixture positions]] →
 
-Part of [[Sections/Patching]] · [[000 Map of Content]]
+Part of [[Sections/Patching|Patching]] · [[000 Map of Content]]

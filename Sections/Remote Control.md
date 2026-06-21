@@ -34,7 +34,7 @@ There is a [[Pages/Remote Control/Remote Inputs|Remote Input]] part in the setup
 
 A more complex method is to use [[Pages/Remote Control/MIDI Show Control (MSC)|MIDI Show Control - MSC]]. This can be used to trigger cues, macros, control faders, and turn off executors.
 
-There is a description of the [[Pages/Remote Control/Web Remote]] - a browser interface that allows control and visualization of information - fixture and cue feedback.
+There is a description of the [[Pages/Remote Control/Web Remote|Web Remote]] - a browser interface that allows control and visualization of information - fixture and cue feedback.
 
 The [[Pages/Remote Control/Telnet Remote|Telnet]] connection allows the execution of any command in grandMA2. This can be very useful with 3rd party controllers - for instance a house control system.
 
@@ -54,10 +54,10 @@ Finally this section also has a very useful [[Pages/Remote Control/Decimal – H
 
 ## Pages in This Section
 
-- [[Pages/Remote Control/Remote Inputs]]
-- [[Pages/Remote Control/MIDI Show Control (MSC)]]
-- [[Pages/Remote Control/Web Remote]]
-- [[Pages/Remote Control/Telnet Remote]]
-- [[Pages/Remote Control/Decimal – Hex Table]]
+- [[Pages/Remote Control/Remote Inputs|Remote Inputs]]
+- [[Pages/Remote Control/MIDI Show Control (MSC)|MIDI Show Control (MSC)]]
+- [[Pages/Remote Control/Web Remote|Web Remote]]
+- [[Pages/Remote Control/Telnet Remote|Telnet Remote]]
+- [[Pages/Remote Control/Decimal – Hex Table|Decimal – Hex Table]]
 
 Part of [[000 Map of Content]]

@@ -39,12 +39,12 @@ There are some nice predefined macros for many of the search and replace functio
 
 #### Sub topics
 
-*   [[Pages/Search and Replace/Search]]
-*   [[Pages/Search and Replace/Replace]]
+*   [[Pages/Search and Replace/Search|Search]]
+*   [[Pages/Search and Replace/Replace|Replace]]
 
 ## Pages in This Section
 
-- [[Pages/Search and Replace/Search]]
-- [[Pages/Search and Replace/Replace]]
+- [[Pages/Search and Replace/Search|Search]]
+- [[Pages/Search and Replace/Replace|Replace]]
 
 Part of [[000 Map of Content]]

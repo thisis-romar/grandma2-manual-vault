@@ -30,6 +30,6 @@ The Mirror fixture type defines a type of fixtures with typically a discharge li
 
 The default model used in MA 3D is a classic Scanner type.
 
-← [[Pages/Basic Fixture Types/LED]] | [[Pages/Basic Fixture Types/Moving Lights]] →
+← [[Pages/Basic Fixture Types/LED|LED]] | [[Pages/Basic Fixture Types/Moving Lights|Moving Lights]] →
 
-Part of [[Sections/Basic Fixture Types]] · [[000 Map of Content]]
+Part of [[Sections/Basic Fixture Types|Basic Fixture Types]] · [[000 Map of Content]]

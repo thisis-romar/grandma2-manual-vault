@@ -111,6 +111,6 @@ _Matched RDM devices_
 **Hint:**  
 You can also use the [[Keywords/RdmAutomatch|keyword RdmAutomatch]] to auto-match RDM devices by using the command line.
 
-← [[Pages/RDM/Turn RDM on]] | [[Pages/RDM/Auto Patch RDM Devices]] →
+← [[Pages/RDM/Turn RDM on|Turn RDM on]] | [[Pages/RDM/Auto Patch RDM Devices|Auto Patch RDM Devices]] →
 
-Part of [[Sections/RDM]] · [[000 Map of Content]]
+Part of [[Sections/RDM|RDM]] · [[000 Map of Content]]

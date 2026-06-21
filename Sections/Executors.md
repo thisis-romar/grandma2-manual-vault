@@ -26,7 +26,7 @@ Version 3.9
 
 # Executors
 
-This section explains some of the most common executor concepts and functions. The section called [[Sections/Advanced Executor Functionality]] explains the rest.
+This section explains some of the most common executor concepts and functions. The section called [[Sections/Advanced Executor Functionality|Advanced Executor Functionality]] explains the rest.
 
 Executors are handles used to control and execute stored content.
 
@@ -55,18 +55,18 @@ Finally some of the common options that are not already covered in this section 
 
 #### Sub topics
 
-*   [[Pages/Executors/What are executors]]
-*   [[Pages/Executors/Executors on the screens]]
-*   [[Pages/Executors/Assign a function]]
-*   [[Pages/Executors/Looking at the active executors]]
-*   [[Pages/Executors/Common executor options]]
+*   [[Pages/Executors/What are executors|What are executors]]
+*   [[Pages/Executors/Executors on the screens|Executors on the screens]]
+*   [[Pages/Executors/Assign a function|Assign a function]]
+*   [[Pages/Executors/Looking at the active executors|Looking at the active executors]]
+*   [[Pages/Executors/Common executor options|Common executor options]]
 
 ## Pages in This Section
 
-- [[Pages/Executors/What are executors]]
-- [[Pages/Executors/Executors on the screens]]
-- [[Pages/Executors/Assign a function]]
-- [[Pages/Executors/Looking at the active executors]]
-- [[Pages/Executors/Common executor options]]
+- [[Pages/Executors/What are executors|What are executors]]
+- [[Pages/Executors/Executors on the screens|Executors on the screens]]
+- [[Pages/Executors/Assign a function|Assign a function]]
+- [[Pages/Executors/Looking at the active executors|Looking at the active executors]]
+- [[Pages/Executors/Common executor options|Common executor options]]
 
 Part of [[000 Map of Content]]

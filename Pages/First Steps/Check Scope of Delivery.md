@@ -69,6 +69,6 @@ The list below shows the scope of delivery. If anything is missing, contact your
 *   Power Cord 1.9 m IECC plug (lockable) open end
 *   1 x Quick Start Manual
 
-← [[Pages/First Steps/Unpack the Device]] | [[Pages/First Steps/Position the Device]] →
+← [[Pages/First Steps/Unpack the Device|Unpack the Device]] | [[Pages/First Steps/Position the Device|Position the Device]] →
 
-Part of [[Sections/First Steps]] · [[000 Map of Content]]
+Part of [[Sections/First Steps|First Steps]] · [[000 Map of Content]]

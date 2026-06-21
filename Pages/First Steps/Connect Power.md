@@ -39,6 +39,6 @@ The console is connected to power.
 
 _grandMA2 full-size power connector_
 
-← [[Pages/First Steps/Position the Device]] | [[Pages/First Steps/Connect Desk Lamps]] →
+← [[Pages/First Steps/Position the Device|Position the Device]] | [[Pages/First Steps/Connect Desk Lamps|Connect Desk Lamps]] →
 
-Part of [[Sections/First Steps]] · [[000 Map of Content]]
+Part of [[Sections/First Steps|First Steps]] · [[000 Map of Content]]

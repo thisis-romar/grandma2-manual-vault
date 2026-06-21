@@ -141,7 +141,7 @@ We do not want to use the move in black function but we want the fixture to alre
 
 4.  Press Store.
 5.  Press If and then \-. Now the filtering is active and we have already selected that we want to exclude something.
-6.  We want to exclude the dimmer so now you can tap the Dimmer button in the [[Pages/Workspace/Preset Control Bar]].
+6.  We want to exclude the dimmer so now you can tap the Dimmer button in the [[Pages/Workspace/Preset Control Bar|Preset Control Bar]].
 7.  Finish the temporary filter by pressing the If key again. Now the command line should read: Store If - PresetType "DIMMER" EndIf.
 8.  Press an empty executor button - creating a new cue 1 in a new sequence and executor.
 
@@ -169,6 +169,6 @@ Now we would like to grab the color values only from the first fixture. We do no
 
 Now both fixtures have the same color values.
 
-← [[Pages/Worlds Filters and Masks/Use filters when you Store and use At]] | [[Pages/Worlds Filters and Masks/What are masks]] →
+← [[Pages/Worlds Filters and Masks/Use filters when you Store and use At|Use filters when you Store and use At]] | [[Pages/Worlds Filters and Masks/What are masks|What are masks]] →
 
-Part of [[Sections/Worlds Filters and Masks]] · [[000 Map of Content]]
+Part of [[Sections/Worlds Filters and Masks|Worlds Filters and Masks]] · [[000 Map of Content]]

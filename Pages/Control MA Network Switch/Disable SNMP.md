@@ -56,6 +56,6 @@ _Disable SNMP_
 
 The SNMP is disabled. The settings are saved in the startup configuration.
 
-← [[Pages/Control MA Network Switch/Work with the switch configuration]] | [[Pages/Control MA Network Switch/Change password of the MA Network Switch]] →
+← [[Pages/Control MA Network Switch/Work with the switch configuration|Work with the switch configuration]] | [[Pages/Control MA Network Switch/Change password of the MA Network Switch|Change password of the MA Network Switch]] →
 
-Part of [[Sections/Control MA Network Switch]] · [[000 Map of Content]]
+Part of [[Sections/Control MA Network Switch|Control MA Network Switch]] · [[000 Map of Content]]

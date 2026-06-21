@@ -36,22 +36,22 @@ Helping keywords are the prepositions and conjunctions of the console, so to spe
 
 \[[Keywords/+ [Plus] keyword]]
 *   [[Keywords/- [Minus] keyword]]
-*   [[Keywords/And keyword]]
-*   [[Keywords/At keyword]]
-*   [[Keywords/CmdDelay keyword]]
-*   [[Keywords/Delay keyword]]
+*   [[Keywords/And keyword|And keyword]]
+*   [[Keywords/At keyword|At keyword]]
+*   [[Keywords/CmdDelay keyword|CmdDelay keyword]]
+*   [[Keywords/Delay keyword|Delay keyword]]
 *   [[Keywords/EndIf|EndIf keyword]]
 *   [[Keywords/Fade|Fade keyword]]
 *   [[Keywords/If|If keyword]]
 *   [[Keywords/Off|Off keyword]]
 *   [[Keywords/On|On keyword]]
-*   [[Keywords/Or keyword]]
+*   [[Keywords/Or keyword|Or keyword]]
 *   [[Keywords/OutFade|OutFade keyword]]
 *   [[Keywords/OutDelay|OutDelay keyword]]
 *   ​[[Keywords/SnapPercent|SnapPercent keyword]]
 *   [[Keywords/Thru|Thru keyword]]
 *   [[Keywords/Toggle|Toggle keyword]]
 
-[[Pages/Command Syntax and Keywords/Object Keywords]] →
+[[Pages/Command Syntax and Keywords/Object Keywords|Object Keywords]] →
 
-Part of [[Sections/Command Syntax and Keywords]] · [[000 Map of Content]]
+Part of [[Sections/Command Syntax and Keywords|Command Syntax and Keywords]] · [[000 Map of Content]]

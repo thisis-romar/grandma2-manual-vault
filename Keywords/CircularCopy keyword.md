@@ -32,7 +32,7 @@ CircularCopy moves the attribute values within your currently selected fixtures 
 
 This function obeys the At filter.
 
-For more information on how to use filters see [[Pages/Worlds Filters and Masks/What are filters]].
+For more information on how to use filters see [[Pages/Worlds Filters and Masks/What are filters|What are filters]].
 
 ## Example:
 

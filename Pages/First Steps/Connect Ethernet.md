@@ -83,6 +83,6 @@ To connect Ethernet port 2:
 
 Ethernet is connected to port 2.
 
-← [[Pages/First Steps/Connect SMPTE (LTC)]] | [[Pages/First Steps/Connect Analog Remote Control]] →
+← [[Pages/First Steps/Connect SMPTE (LTC)|Connect SMPTE (LTC)]] | [[Pages/First Steps/Connect Analog Remote Control|Connect Analog Remote Control]] →
 
-Part of [[Sections/First Steps]] · [[000 Map of Content]]
+Part of [[Sections/First Steps|First Steps]] · [[000 Map of Content]]

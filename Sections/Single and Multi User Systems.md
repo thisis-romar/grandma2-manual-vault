@@ -42,15 +42,15 @@ And finally a look at [[Pages/Single and Multi User Systems/Login on a station|d
 #### Sub topics
 
 *   [[Pages/Single and Multi User Systems/What is the difference between a single-user and a multi-user system|The difference between a single user and a multi user system]]
-*   [[Pages/Single and Multi User Systems/Create user profiles and users]]
+*   [[Pages/Single and Multi User Systems/Create user profiles and users|Create user profiles and users]]
 *   [[Pages/Single and Multi User Systems/User specific settings|User settings]]
 *   [[Pages/Single and Multi User Systems/Login on a station|Login]]
 
 ## Pages in This Section
 
-- [[Pages/Single and Multi User Systems/What is the difference between a single-user and a multi-user system]]
-- [[Pages/Single and Multi User Systems/Create user profiles and users]]
-- [[Pages/Single and Multi User Systems/User specific settings]]
-- [[Pages/Single and Multi User Systems/Login on a station]]
+- [[Pages/Single and Multi User Systems/What is the difference between a single-user and a multi-user system|What is the difference between a single-user and a multi-user system]]
+- [[Pages/Single and Multi User Systems/Create user profiles and users|Create user profiles and users]]
+- [[Pages/Single and Multi User Systems/User specific settings|User specific settings]]
+- [[Pages/Single and Multi User Systems/Login on a station|Login on a station]]
 
 Part of [[000 Map of Content]]

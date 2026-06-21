@@ -30,6 +30,6 @@ _Location k__ey_ _Full_ 
      
 *   Pressing Full Full loads the highlight values, for the selected fixtures or channels, into the programmer.  
      
-*   ![ma](../../img/ma_1.png) + Full executes the [[Keywords/FullHighlight keyword]]. The highlight values, for the selected fixtures or channels, will be loaded into the programmer.
+*   ![ma](../../img/ma_1.png) + Full executes the [[Keywords/FullHighlight keyword|FullHighlight keyword]]. The highlight values, for the selected fixtures or channels, will be loaded into the programmer.
 
 Part of [[000 Key Index]] · [[000 Map of Content]]

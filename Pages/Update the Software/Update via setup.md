@@ -65,6 +65,6 @@ For more information, see:
 \- [[Keywords/UpdateSoftware|UpdateSoftware Keyword]]  
 \- [[Keywords/Reboot|Reboot Keyword]]
 
-[[Pages/Update the Software/Format a USB stick for Linux]] →
+[[Pages/Update the Software/Format a USB stick for Linux|Format a USB stick for Linux]] →
 
-Part of [[Sections/Update the Software]] · [[000 Map of Content]]
+Part of [[Sections/Update the Software|Update the Software]] · [[000 Map of Content]]

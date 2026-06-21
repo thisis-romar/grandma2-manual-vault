@@ -61,6 +61,6 @@ The import will label the macro and it may turn off CLI.
 
 This is the fastest way to import single macros from the predefined macros. If you need to import more or all then it is faster to use the normal import methods where you can select multiple macros - links at the top of this topic.
 
-← [[Pages/Export and Import/Import by using user interface]]
+← [[Pages/Export and Import/Import by using user interface|Import by using user interface]]
 
-Part of [[Sections/Export and Import]] · [[000 Map of Content]]
+Part of [[Sections/Export and Import|Export and Import]] · [[000 Map of Content]]

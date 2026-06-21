@@ -92,6 +92,6 @@ Way B:
 
 RDM is global turned off. The **red RDM icon** ![](../../img/icon_rdm-red_v3-2.png) is displayed in the universe pool - pool style, if RDM is on for that universe.
 
-← [[Pages/RDM/Splitters and Mergers that Support RDM]] | [[Pages/RDM/RDM specific keywords]] →
+← [[Pages/RDM/Splitters and Mergers that Support RDM|Splitters and Mergers that Support RDM]] | [[Pages/RDM/RDM specific keywords|RDM specific keywords]] →
 
-Part of [[Sections/RDM]] · [[000 Map of Content]]
+Part of [[Sections/RDM|RDM]] · [[000 Map of Content]]

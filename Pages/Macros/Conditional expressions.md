@@ -62,6 +62,6 @@ Conditional expressions are recognized by Square Brackets, and accept the follow
 **Important:**  
 The two arguments a and b are not compared as numbers, but as text-strings, character by character, e.g. "61" is considered to be greater than "599", as 6 is larger than 5.
 
-← [[Pages/Macros/Create pop-ups in macros]] | [[Pages/Macros/Macro timing]] →
+← [[Pages/Macros/Create pop-ups in macros|Create pop-ups in macros]] | [[Pages/Macros/Macro timing|Macro timing]] →
 
-Part of [[Sections/Macros]] · [[000 Map of Content]]
+Part of [[Sections/Macros|Macros]] · [[000 Map of Content]]

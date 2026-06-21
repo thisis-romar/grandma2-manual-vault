@@ -52,6 +52,6 @@ To export objects to a USB stick, in this example a color,  a USB stick has to 
 5.  Export the color named cyan.
 6.  \[Channel\]> export preset 4 "Cyan"
 
-[[Pages/Export and Import/Export by using user interface]] →
+[[Pages/Export and Import/Export by using user interface|Export by using user interface]] →
 
-Part of [[Sections/Export and Import]] · [[000 Map of Content]]
+Part of [[Sections/Export and Import|Export and Import]] · [[000 Map of Content]]

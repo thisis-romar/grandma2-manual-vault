@@ -44,12 +44,12 @@ _Mini executor bar or command wing bar_
 
 For more information, see:
 
-*   [[Pages/Command Syntax and Keywords/Sequence mini executor]]
-*   [[Pages/Effects/Assign effect to executor]]
+*   [[Pages/Command Syntax and Keywords/Sequence mini executor|Sequence mini executor]]
+*   [[Pages/Effects/Assign effect to executor|Assign effect to executor]]
 *   [[Pages/Macros/Assign a macro to a key|Assign macro to a button]]
-*   [[Pages/Chasers/Chaser mini executor]]
+*   [[Pages/Chasers/Chaser mini executor|Chaser mini executor]]
 *   [[Pages/Groups/Group Master on Executors|Group master mini executor]]
 
-← [[Pages/Workspace/Command Section]] | [[Pages/Workspace/Work with views]] →
+← [[Pages/Workspace/Command Section|Command Section]] | [[Pages/Workspace/Work with views|Work with views]] →
 
-Part of [[Sections/Workspace]] · [[000 Map of Content]]
+Part of [[Sections/Workspace|Workspace]] · [[000 Map of Content]]

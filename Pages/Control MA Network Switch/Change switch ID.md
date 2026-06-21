@@ -49,6 +49,6 @@ The allowed characters are 1...999.
 
 The MA Network Switch has a new ID. The new ID is saved in the startup configuration.
 
-← [[Pages/Control MA Network Switch/Change hostname of the MA Network Switch]] | [[Pages/Control MA Network Switch/Configure ports of the MA Network Switch]] →
+← [[Pages/Control MA Network Switch/Change hostname of the MA Network Switch|Change hostname of the MA Network Switch]] | [[Pages/Control MA Network Switch/Configure ports of the MA Network Switch|Configure ports of the MA Network Switch]] →
 
-Part of [[Sections/Control MA Network Switch]] · [[000 Map of Content]]
+Part of [[Sections/Control MA Network Switch|Control MA Network Switch]] · [[000 Map of Content]]

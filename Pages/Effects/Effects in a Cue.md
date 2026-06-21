@@ -41,6 +41,6 @@ The color effect is now saved on an executor in cue 1. 
 Depending on the mode used in the effect, the color might not be applied correctly.  
 Relative effects add values on top of existing values when creating second cue. Change the mode to "Absolute" in the effect editor. For more information see [[Pages/Effects/Use Predefined Effects|Use predefined effects]].
 
-← [[Pages/Effects/Pool Options]] | [[Pages/Effects/Assign effect to executor]] →
+← [[Pages/Effects/Pool Options|Pool Options]] | [[Pages/Effects/Assign effect to executor|Assign effect to executor]] →
 
-Part of [[Sections/Effects]] · [[000 Map of Content]]
+Part of [[Sections/Effects|Effects]] · [[000 Map of Content]]

@@ -100,6 +100,6 @@ The Sequence Sheet displays each sequence as a row. The columns are the settings
 *   **Used Count:**  
     This is the number that indicates the amount of executors that have the sequence assigned. This is not a setting you can change here - it is for information.
 
-[[Pages/Command Syntax and Keywords/Looking at the Cue Sequence]] →
+[[Pages/Command Syntax and Keywords/Looking at the Cue Sequence|Looking at the Cue Sequence]] →
 
-Part of [[Sections/Cues and Sequences]] · [[000 Map of Content]]
+Part of [[Sections/Cues and Sequences|Cues and Sequences]] · [[000 Map of Content]]

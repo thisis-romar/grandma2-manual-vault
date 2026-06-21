@@ -65,6 +65,6 @@ It can also be macros that selects the timecode slot.
 
 This was some inspiration or thoughts that might help you organizing a show with multiple timecode shows.
 
-← [[Pages/Timecode/Playing Back a Timecode Show]]
+← [[Pages/Timecode/Playing Back a Timecode Show|Playing Back a Timecode Show]]
 
-Part of [[Sections/Timecode]] · [[000 Map of Content]]
+Part of [[Sections/Timecode|Timecode]] · [[000 Map of Content]]

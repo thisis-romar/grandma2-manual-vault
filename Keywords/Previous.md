@@ -31,7 +31,7 @@ The Previous keyword has multiple functions.
 
 *   If no fixture or channel is selected, the fixture or channel with the highest ID will be selected.
 *   If one fixture or channel is selected, the fixture or channel with the previous ID will be selected.
-*   If MAtricks are active, the Previous keyword has special functions depending on the selected MAtricks options. For more information, see [[Sections/MAtricks]].
+*   If MAtricks are active, the Previous keyword has special functions depending on the selected MAtricks options. For more information, see [[Sections/MAtricks|MAtricks]].
 
 ## Syntax
 

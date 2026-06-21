@@ -78,6 +78,6 @@ If manual filters are assigned to a port an assigned preset will delete the prev
 
 The preset is assigned to the port and saved in the startup configuration. The **filter icon** ![](../../img/icon_filter_small_v3-2.png) is visible in the port cell and on the front end display of the MA Network Switch.
 
-← [[Pages/Control MA Network Switch/Edit groups of the MA Network Switch]] | [[Pages/Control MA Network Switch/Edit Link Aggregation Groups of the MA Network Switch]] →
+← [[Pages/Control MA Network Switch/Edit groups of the MA Network Switch|Edit groups of the MA Network Switch]] | [[Pages/Control MA Network Switch/Edit Link Aggregation Groups of the MA Network Switch|Edit Link Aggregation Groups of the MA Network Switch]] →
 
-Part of [[Sections/Control MA Network Switch]] · [[000 Map of Content]]
+Part of [[Sections/Control MA Network Switch|Control MA Network Switch]] · [[000 Map of Content]]

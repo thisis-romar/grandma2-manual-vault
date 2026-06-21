@@ -68,6 +68,6 @@ Here are three examples on how to create backup:
 *   Use the grandMA2 console as master with a second grandMA2 console as connected, and DMX nodes for emission of the signal. 
 *   Use the grandMA2 replay unit (RPU) as master together with the grandMA2 onPC software as connected, and DMX nodes for emission of the signal.
 
-← [[Pages/Networking/Network DMX protocols]]
+← [[Pages/Networking/Network DMX protocols|Network DMX protocols]]
 
-Part of [[Sections/Networking]] · [[000 Map of Content]]
+Part of [[Sections/Networking|Networking]] · [[000 Map of Content]]

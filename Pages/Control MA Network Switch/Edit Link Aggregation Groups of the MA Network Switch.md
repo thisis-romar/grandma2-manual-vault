@@ -62,6 +62,6 @@ Use a maximum of 8 characters. 
 5.  After adjusting the names of the LAGs tap Please.
 6.  The LAGs are now edited.
 
-← [[Pages/Control MA Network Switch/Edit presets of the MA Network Switch]] | [[Pages/Control MA Network Switch/Mirror Ports of the MA Network Switch]] →
+← [[Pages/Control MA Network Switch/Edit presets of the MA Network Switch|Edit presets of the MA Network Switch]] | [[Pages/Control MA Network Switch/Mirror Ports of the MA Network Switch|Mirror Ports of the MA Network Switch]] →
 
-Part of [[Sections/Control MA Network Switch]] · [[000 Map of Content]]
+Part of [[Sections/Control MA Network Switch|Control MA Network Switch]] · [[000 Map of Content]]

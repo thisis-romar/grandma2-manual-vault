@@ -34,18 +34,18 @@ The following chapters provide an overview of the grandMA2 products.
 
 #### Sub topics
 
-*   [[Pages/Device Overview/grandMA2 console]]
-*   [[Pages/Device Overview/grandMA2 replay unit (RPU)]]
-*   [[Pages/Device Overview/grandMA2 fader wing]]
-*   [[Pages/Device Overview/MA onPC command wing]]
-*   [[Pages/Device Overview/MA onPC fader wing]]
+*   [[Pages/Device Overview/grandMA2 console|grandMA2 console]]
+*   [[Pages/Device Overview/grandMA2 replay unit (RPU)|grandMA2 replay unit (RPU)]]
+*   [[Pages/Device Overview/grandMA2 fader wing|grandMA2 fader wing]]
+*   [[Pages/Device Overview/MA onPC command wing|MA onPC command wing]]
+*   [[Pages/Device Overview/MA onPC fader wing|MA onPC fader wing]]
 
 ## Pages in This Section
 
-- [[Pages/Device Overview/grandMA2 console]]
-- [[Pages/Device Overview/grandMA2 replay unit (RPU)]]
-- [[Pages/Device Overview/grandMA2 fader wing]]
-- [[Pages/Device Overview/MA onPC command wing]]
-- [[Pages/Device Overview/MA onPC fader wing]]
+- [[Pages/Device Overview/grandMA2 console|grandMA2 console]]
+- [[Pages/Device Overview/grandMA2 replay unit (RPU)|grandMA2 replay unit (RPU)]]
+- [[Pages/Device Overview/grandMA2 fader wing|grandMA2 fader wing]]
+- [[Pages/Device Overview/MA onPC command wing|MA onPC command wing]]
+- [[Pages/Device Overview/MA onPC fader wing|MA onPC fader wing]]
 
 Part of [[000 Map of Content]]

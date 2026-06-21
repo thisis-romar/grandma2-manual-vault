@@ -33,7 +33,7 @@ To create groups you'll need to select some fixtures first.
 
 When you have a selection of fixtures, then you can store it as a group.
 
-For more information on how to store group objects see [[Pages/Pools/Manage pool objects]]. 
+For more information on how to store group objects see [[Pages/Pools/Manage pool objects|Manage pool objects]]. 
 
 ## Store a group on an existing group
 
@@ -60,14 +60,14 @@ Immediately after you have stored the group, you can start typing on the keyboar
 
 If you wish to name the group later then you can use the [[Keywords/Label|Label command]].
 
-For more information on how to label the groups see [[Pages/Pools/Manage pool objects]]. 
+For more information on how to label the groups see [[Pages/Pools/Manage pool objects|Manage pool objects]]. 
 
 ## Editing groups
 
 When you are in the edit mode, then you get the group content as selected fixtures in your programmer. You can then change this selection. If you want to save the new selection then you press the Update key and confirm that you want to update the group in the small confirmation pop-up.
 
-For more information on how to edit groups see [[Pages/Pools/Manage pool objects]].
+For more information on how to edit groups see [[Pages/Pools/Manage pool objects|Manage pool objects]].
 
-[[Pages/Groups/Auto Create groups]] →
+[[Pages/Groups/Auto Create groups|Auto Create groups]] →
 
-Part of [[Sections/Groups]] · [[000 Map of Content]]
+Part of [[Sections/Groups|Groups]] · [[000 Map of Content]]

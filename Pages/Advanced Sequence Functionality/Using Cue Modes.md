@@ -78,6 +78,6 @@ In other scenarios, you might want to re-establish the state, and assert the seq
 
 The **Release** mode might come in handy in shows where there is a lot of sequences that run through once and then turn off - until it is re-triggered. This could be a flash sequence being triggered by the main sequence. Instead of manually programming the sequence to turn Off, then it can be done automatically.
 
-← [[Pages/Advanced Sequence Functionality/Working with MIB]] | [[Pages/Advanced Sequence Functionality/Cue Zero]] →
+← [[Pages/Advanced Sequence Functionality/Working with MIB|Working with MIB]] | [[Pages/Advanced Sequence Functionality/Cue Zero|Cue Zero]] →
 
-Part of [[Sections/Advanced Sequence Functionality]] · [[000 Map of Content]]
+Part of [[Sections/Advanced Sequence Functionality|Advanced Sequence Functionality]] · [[000 Map of Content]]

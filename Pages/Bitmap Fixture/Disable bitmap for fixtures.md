@@ -43,6 +43,6 @@ To disable the bitmap visualization for specific fixtures, follow the steps belo
 
 The bitmap visualization is disabled for the fixture.
 
-← [[Pages/Bitmap Fixture/Priorities for bitmap effects]]
+← [[Pages/Bitmap Fixture/Priorities for bitmap effects|Priorities for bitmap effects]]
 
-Part of [[Sections/Bitmap Fixture]] · [[000 Map of Content]]
+Part of [[Sections/Bitmap Fixture|Bitmap Fixture]] · [[000 Map of Content]]

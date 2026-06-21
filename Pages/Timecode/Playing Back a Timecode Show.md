@@ -70,7 +70,7 @@ The encoders are primarily used together with the timecode editor.
 
 A timecode show can also be controlled by the command line.
 
-A [[Keywords/Go]] command will set the timecode show in play mode.
+A [[Keywords/Go|Go]] command will set the timecode show in play mode.
 
 For example if you want to play **Timecode Show 2**:
 
@@ -82,7 +82,7 @@ If you want to play **Timecode Show 3** from a certain time and it is the **Inte
 
 The show needs to have a lengths larger than the specified time.
 
-It can also be paused to a specific time by using the command above but with [[Keywords/Pause]] instead of Go.
+It can also be paused to a specific time by using the command above but with [[Keywords/Pause|Pause]] instead of Go.
 
 [[Keywords/--- [GoFastBack] keyword|<<<]] will jump to the time 0 (zero).
 
@@ -90,7 +90,7 @@ It can also be paused to a specific time by using the command above but with [[K
 
 [[Keywords/--- [GoFastForward] keyword|\>>>]] will jump to the end time (length in the options).
 
-[[Keywords/Off]] can be used to stop a timecode show.
+[[Keywords/Off|Off]] can be used to stop a timecode show.
 
 ## Timecode Generator
 
@@ -131,12 +131,12 @@ Three of the encoders can be used with the timecode generator. The left encoder 
 
 The generator can also be controlled using commands.
 
-To play or generate timecode slot 1 use the [[Keywords/Go]] command:
+To play or generate timecode slot 1 use the [[Keywords/Go|Go]] command:
 
 \[Channel\]> Go TimecodeSlot 1
 
-Use [[Keywords/Off]] to stop the generator. [[Keywords/Pause]] will pause the generator.
+Use [[Keywords/Off|Off]] to stop the generator. [[Keywords/Pause|Pause]] will pause the generator.
 
-← [[Pages/Timecode/Edit a Timecode Show]] | [[Pages/Timecode/Organize The Show with Multiple Timecode Shows]] →
+← [[Pages/Timecode/Edit a Timecode Show|Edit a Timecode Show]] | [[Pages/Timecode/Organize The Show with Multiple Timecode Shows|Organize The Show with Multiple Timecode Shows]] →
 
-Part of [[Sections/Timecode]] · [[000 Map of Content]]
+Part of [[Sections/Timecode|Timecode]] · [[000 Map of Content]]

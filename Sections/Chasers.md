@@ -24,7 +24,7 @@ Version 3.9
 
 # Chasers
 
-A chaser is a sequence that runs in a loop. It ignores the timing in the sequence and uses the speed setting to run through all the cues. Cues are referred to as steps. Each cue is a step in the chaser. Read more about cues in the [[Pages/Command Syntax and Keywords/What are cues and sequences]] topic.  
+A chaser is a sequence that runs in a loop. It ignores the timing in the sequence and uses the speed setting to run through all the cues. Cues are referred to as steps. Each cue is a step in the chaser. Read more about cues in the [[Pages/Command Syntax and Keywords/What are cues and sequences|What are cues and sequences]] topic.  
  
 
 **Hint:**  
@@ -36,14 +36,14 @@ Chasers are used whenever you need a loop with more than two steps. If you only 
 
 #### Sub topics
 
-*   [[Pages/Chasers/Create a chaser]]
-*   [[Pages/Chasers/Chaser settings]]
-*   [[Pages/Chasers/Chaser mini executor]]
+*   [[Pages/Chasers/Create a chaser|Create a chaser]]
+*   [[Pages/Chasers/Chaser settings|Chaser settings]]
+*   [[Pages/Chasers/Chaser mini executor|Chaser mini executor]]
 
 ## Pages in This Section
 
-- [[Pages/Chasers/Create a chaser]]
-- [[Pages/Chasers/Chaser settings]]
-- [[Pages/Chasers/Chaser mini executor]]
+- [[Pages/Chasers/Create a chaser|Create a chaser]]
+- [[Pages/Chasers/Chaser settings|Chaser settings]]
+- [[Pages/Chasers/Chaser mini executor|Chaser mini executor]]
 
 Part of [[000 Map of Content]]

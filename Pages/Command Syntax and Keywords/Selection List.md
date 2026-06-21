@@ -73,6 +73,6 @@ Selects fixture 3 and channel 6.
 
 Selects fixtures in group 3 and fixtures in cue 4.
 
-← [[Pages/Command Syntax and Keywords/Object List]] | [[Pages/Command Syntax and Keywords/Executor List]] →
+← [[Pages/Command Syntax and Keywords/Object List|Object List]] | [[Pages/Command Syntax and Keywords/Executor List|Executor List]] →
 
-Part of [[Sections/Command Syntax and Keywords]] · [[000 Map of Content]]
+Part of [[Sections/Command Syntax and Keywords|Command Syntax and Keywords]] · [[000 Map of Content]]

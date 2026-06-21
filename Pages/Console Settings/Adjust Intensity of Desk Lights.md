@@ -49,6 +49,6 @@ To adjust the intensity of the desk lights:
 
 The light of your desk has now been adjusted.
 
-[[Pages/Console Settings/Change Screen Options]] →
+[[Pages/Console Settings/Change Screen Options|Change Screen Options]] →
 
-Part of [[Sections/Console Settings]] · [[000 Map of Content]]
+Part of [[Sections/Console Settings|Console Settings]] · [[000 Map of Content]]

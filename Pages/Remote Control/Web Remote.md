@@ -318,6 +318,6 @@ _Wheels - Phone mode_
 
 _Wheels - Tablet mode_
 
-← [[Pages/Remote Control/MIDI Show Control (MSC)]] | [[Pages/Remote Control/Telnet Remote]] →
+← [[Pages/Remote Control/MIDI Show Control (MSC)|MIDI Show Control (MSC)]] | [[Pages/Remote Control/Telnet Remote|Telnet Remote]] →
 
-Part of [[Sections/Remote Control]] · [[000 Map of Content]]
+Part of [[Sections/Remote Control|Remote Control]] · [[000 Map of Content]]

@@ -63,7 +63,7 @@ The console automatically clones dependencies, e.g. presets and effects by refer
 
 Contrary to clone, replace does not preserve data, i.e. data is overwritten.  
 
-For more information on replace see [[Sections/Search and Replace]]. 
+For more information on replace see [[Sections/Search and Replace|Search and Replace]]. 
 
   
 
@@ -72,13 +72,13 @@ For more information on replace see [[Sections/Search and Replace]]. 
 #### Sub topics
 
 *   [[Pages/Clone/Clone In User Interface|Clone in user interface]]
-*   [[Pages/Clone/Examples]]
+*   [[Pages/Clone/Examples|Examples]]
 *   [[Pages/Clone/Clone Presets|Clone presets]]
 
 ## Pages in This Section
 
-- [[Pages/Clone/Clone In User Interface]]
-- [[Pages/Clone/Examples]]
-- [[Pages/Clone/Clone Presets]]
+- [[Pages/Clone/Clone In User Interface|Clone In User Interface]]
+- [[Pages/Clone/Examples|Examples]]
+- [[Pages/Clone/Clone Presets|Clone Presets]]
 
 Part of [[000 Map of Content]]

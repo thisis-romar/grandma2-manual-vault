@@ -40,14 +40,14 @@ All grandMA2 consoles are optionally available as Silent Version with optimized 
 
 *   [[Pages/Introduction/About this Manual|About this manual]]
 *   [[Pages/Introduction/System Requirements grandMA2 onPC|System requirements grandMA2 onPC]]
-*   [[Pages/Introduction/Installation of grandMA2 onPC]]
+*   [[Pages/Introduction/Installation of grandMA2 onPC|Installation of grandMA2 onPC]]
 *   [[Pages/Introduction/Help from MA Technical Support|Help from MA technical support]]
 
 ## Pages in This Section
 
-- [[Pages/Introduction/About this Manual]]
-- [[Pages/Introduction/System Requirements grandMA2 onPC]]
-- [[Pages/Introduction/Installation of grandMA2 onPC]]
-- [[Pages/Introduction/Help from MA Technical Support]]
+- [[Pages/Introduction/About this Manual|About this Manual]]
+- [[Pages/Introduction/System Requirements grandMA2 onPC|System Requirements grandMA2 onPC]]
+- [[Pages/Introduction/Installation of grandMA2 onPC|Installation of grandMA2 onPC]]
+- [[Pages/Introduction/Help from MA Technical Support|Help from MA Technical Support]]
 
 Part of [[000 Map of Content]]

@@ -221,6 +221,6 @@ There are several options (here is only mentioned the ones that are not mentione
 **Important:**  
 KiNET is a Broadcast protocol, but is transmitted from Ethernet connector 1.
 
-← [[Pages/Networking/Setting up DMX ports on MA devices]] | [[Pages/Networking/What affects my DMX output-]] →
+← [[Pages/Networking/Setting up DMX ports on MA devices|Setting up DMX ports on MA devices]] | [[Pages/Networking/What affects my DMX output-|What affects my DMX output-]] →
 
-Part of [[Sections/Networking]] · [[000 Map of Content]]
+Part of [[Sections/Networking|Networking]] · [[000 Map of Content]]

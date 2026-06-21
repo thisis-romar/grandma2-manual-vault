@@ -51,6 +51,6 @@ They include Art-Net III, sACN, Pathport, ETC-Net2, Shownet, and Kinet.
 
 grandMA2 also supports CITP and PSN. CITP is used for streaming video and image exchange over network. PSN is a 3D position protocol capable of exchanging real world position values from tracking systems.
 
-[[Pages/Networking/Set the IP address in the console]] →
+[[Pages/Networking/Set the IP address in the console|Set the IP address in the console]] →
 
-Part of [[Sections/Networking]] · [[000 Map of Content]]
+Part of [[Sections/Networking|Networking]] · [[000 Map of Content]]

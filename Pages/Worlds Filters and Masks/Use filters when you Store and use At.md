@@ -89,6 +89,6 @@ Now both fixtures have the same color values.
 
 Please also have a look at the [[Pages/Worlds Filters and Masks/Use temporary filters|Use temporary filters topic]] and the [[Pages/Worlds Filters and Masks/Apply worlds or filters to executors and sequences|Apply worlds and filters to executors and sequences topic]].
 
-← [[Pages/Worlds Filters and Masks/Create filters]] | [[Pages/Worlds Filters and Masks/Use temporary filters]] →
+← [[Pages/Worlds Filters and Masks/Create filters|Create filters]] | [[Pages/Worlds Filters and Masks/Use temporary filters|Use temporary filters]] →
 
-Part of [[Sections/Worlds Filters and Masks]] · [[000 Map of Content]]
+Part of [[Sections/Worlds Filters and Masks|Worlds Filters and Masks]] · [[000 Map of Content]]

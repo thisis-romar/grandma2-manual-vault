@@ -36,7 +36,7 @@ All this is described in the [[Pages/Networking/Setting up DMX ports on MA devic
 
 A different way to get DMX in and out of the system is using Ethernet protocols like Art-Net and sACN. Other Ethernet protocols are output only. The grandMA2 system can transmit ETC-Net2, Pathport, Shownet and Kinet1.
 
-Read more about configuring Ethernet protocols on the [[Pages/Networking/Network DMX protocols]] topic.
+Read more about configuring Ethernet protocols on the [[Pages/Networking/Network DMX protocols|Network DMX protocols]] topic.
 
 The [[Pages/Networking/What affects my DMX output-|What affects my DMX output topic]] explains a little bit about the different situations that affects the DMX output in a system.
 
@@ -46,10 +46,10 @@ The [[Pages/Networking/What affects my DMX output-|What affects my DMX output to
 
 #### Sub topics
 
-*   [[Pages/Networking/Setting up DMX ports on MA devices]]
-*   [[Pages/Networking/Network DMX protocols]]
+*   [[Pages/Networking/Setting up DMX ports on MA devices|Setting up DMX ports on MA devices]]
+*   [[Pages/Networking/Network DMX protocols|Network DMX protocols]]
 *   [[Pages/Networking/What affects my DMX output-|What affects my DMX output?]]
 
-← [[Pages/Networking/Session control]] | [[Pages/Networking/Using CITP]] →
+← [[Pages/Networking/Session control|Session control]] | [[Pages/Networking/Using CITP|Using CITP]] →
 
-Part of [[Sections/Networking]] · [[000 Map of Content]]
+Part of [[Sections/Networking|Networking]] · [[000 Map of Content]]

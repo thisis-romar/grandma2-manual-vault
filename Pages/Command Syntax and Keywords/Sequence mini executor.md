@@ -130,6 +130,6 @@ _Two wide executor_
 
 Read about making wider executors in the [[Pages/Executors/Assign a function|Assign a Function topic]].
 
-← [[Pages/Command Syntax and Keywords/What is MIB]] | [[Pages/Command Syntax and Keywords/Commands in cues]] →
+← [[Pages/Command Syntax and Keywords/What is MIB|What is MIB]] | [[Pages/Command Syntax and Keywords/Commands in cues|Commands in cues]] →
 
-Part of [[Sections/Cues and Sequences]] · [[000 Map of Content]]
+Part of [[Sections/Cues and Sequences|Cues and Sequences]] · [[000 Map of Content]]

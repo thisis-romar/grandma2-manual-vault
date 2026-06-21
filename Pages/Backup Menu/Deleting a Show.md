@@ -61,6 +61,6 @@ Tapping the Delete Show(s) button will delete the selected show files. Deleting 
 
 Show files can be deleted using the command line. The command is called DeleteShow. Read more about it [[Keywords/DeleteShow keyword|here]].
 
-← [[Pages/Backup Menu/Saving a show with a new name]] | [[Pages/Backup Menu/Using a USB stick]] →
+← [[Pages/Backup Menu/Saving a show with a new name|Saving a show with a new name]] | [[Pages/Backup Menu/Using a USB stick|Using a USB stick]] →
 
-Part of [[Sections/Backup Menu]] · [[000 Map of Content]]
+Part of [[Sections/Backup Menu|Backup Menu]] · [[000 Map of Content]]

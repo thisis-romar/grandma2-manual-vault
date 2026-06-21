@@ -48,6 +48,6 @@ _Update effect_
 9.  Now, tap Update Effect.
 10.  The effect is now updated.
 
-← [[Pages/Effects/Running Effects]] | [[Pages/Effects/Delete Effects]] →
+← [[Pages/Effects/Running Effects|Running Effects]] | [[Pages/Effects/Delete Effects|Delete Effects]] →
 
-Part of [[Sections/Effects]] · [[000 Map of Content]]
+Part of [[Sections/Effects|Effects]] · [[000 Map of Content]]

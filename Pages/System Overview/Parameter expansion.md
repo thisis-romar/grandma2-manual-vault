@@ -133,8 +133,8 @@ If a MA VPU is used, it will supply its own parameters and does not affect the l
 
 Even though the MA VPU does not count in your parameter limit, it is a good idea to patch the MA VPU on a higher universe than the other fixtures. There is a risk that it will steal the parameters from the other fixtures, if it is on a lower universe than the fixtures.
 
-Please have a look at [[Pages/System Overview/Parameters vs. DMX channels|DMX Channels vs. Parameters topic]] for more about the difference between DMX channels and Parameters.[[Pages/System Overview/Parameters vs. DMX channels]]
+Please have a look at [[Pages/System Overview/Parameters vs. DMX channels|DMX Channels vs. Parameters topic]] for more about the difference between DMX channels and Parameters.[[Pages/System Overview/Parameters vs. DMX channels|Parameters vs. DMX channels]]
 
-← [[Pages/System Overview/Parameters vs. DMX channels]] | [[Pages/System Overview/Big systems]] →
+← [[Pages/System Overview/Parameters vs. DMX channels|Parameters vs. DMX channels]] | [[Pages/System Overview/Big systems|Big systems]] →
 
-Part of [[Sections/System Overview]] · [[000 Map of Content]]
+Part of [[Sections/System Overview|System Overview]] · [[000 Map of Content]]

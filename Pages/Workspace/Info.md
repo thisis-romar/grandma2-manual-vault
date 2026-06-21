@@ -140,6 +140,6 @@ The info window displays the info to the recently started sequence or cue.
 
 The info window displays the info to the next cue of the selected executor.
 
-← [[Pages/Workspace/Calculator]] | [[Pages/Workspace/Oops and undo]] →
+← [[Pages/Workspace/Calculator|Calculator]] | [[Pages/Workspace/Oops and undo|Oops and undo]] →
 
-Part of [[Sections/Workspace]] · [[000 Map of Content]]
+Part of [[Sections/Workspace|Workspace]] · [[000 Map of Content]]

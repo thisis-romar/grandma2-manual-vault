@@ -38,6 +38,6 @@ Lua "Lua code"
 
 "hello world" is displayed in the command line feedback in yellow. 
 
-For more information see [[Sections/Plugins]].
+For more information see [[Sections/Plugins|Plugins]].
 
 Part of [[000 Keyword Index]] · [[000 Map of Content]]

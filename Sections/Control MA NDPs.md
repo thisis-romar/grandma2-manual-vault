@@ -37,13 +37,13 @@ For more information on the NDP see [[Pages/System Overview/What is the Network 
 #### Sub topics
 
 *   [[Pages/Control MA NDPs/Add the MA NDPs to the Network Configuration|Add the MA NDPs]]
-*   [[Pages/Control MA NDPs/Configure the MA NDPs]]
+*   [[Pages/Control MA NDPs/Configure the MA NDPs|Configure the MA NDPs]]
 *   [[Pages/Control MA NDPs/Delete the MA NDPs in the Network Configuration|Delete the MA NDPs]]
 
 ## Pages in This Section
 
-- [[Pages/Control MA NDPs/Add the MA NDPs to the Network Configuration]]
-- [[Pages/Control MA NDPs/Configure the MA NDPs]]
-- [[Pages/Control MA NDPs/Delete the MA NDPs in the Network Configuration]]
+- [[Pages/Control MA NDPs/Add the MA NDPs to the Network Configuration|Add the MA NDPs to the Network Configuration]]
+- [[Pages/Control MA NDPs/Configure the MA NDPs|Configure the MA NDPs]]
+- [[Pages/Control MA NDPs/Delete the MA NDPs in the Network Configuration|Delete the MA NDPs in the Network Configuration]]
 
 Part of [[000 Map of Content]]

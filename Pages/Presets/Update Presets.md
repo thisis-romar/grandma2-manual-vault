@@ -53,6 +53,6 @@ _Update preset_
 **Hint:**  
 For more information on filter, selective, global, universal and default see [[Pages/Presets/Create Presets|Create presets]].
 
-← [[Pages/Presets/Edit Presets]] | [[Pages/Presets/Delete Presets]] →
+← [[Pages/Presets/Edit Presets|Edit Presets]] | [[Pages/Presets/Delete Presets|Delete Presets]] →
 
-Part of [[Sections/Presets]] · [[000 Map of Content]]
+Part of [[Sections/Presets|Presets]] · [[000 Map of Content]]

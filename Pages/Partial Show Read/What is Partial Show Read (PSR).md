@@ -68,6 +68,6 @@ Import single executors or entire executor pages.
 
 The current Partial Show Read cannot be done on a station that is in a session. Please leave the session before doing the Partial Show Read.
 
-[[Pages/Partial Show Read/How to do a Partial Show Read]] →
+[[Pages/Partial Show Read/How to do a Partial Show Read|How to do a Partial Show Read]] →
 
-Part of [[Sections/Partial Show Read]] · [[000 Map of Content]]
+Part of [[Sections/Partial Show Read|Partial Show Read]] · [[000 Map of Content]]

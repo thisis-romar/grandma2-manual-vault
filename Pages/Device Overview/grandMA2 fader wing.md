@@ -47,6 +47,6 @@ _grandMA2 fader wing rear panel_
 1.  Connection to a grandMA2 fader wing.
 2.  Connection to the console or from a grandMA2 fader wing.
 
-← [[Pages/Device Overview/grandMA2 replay unit (RPU)]] | [[Pages/Device Overview/MA onPC command wing]] →
+← [[Pages/Device Overview/grandMA2 replay unit (RPU)|grandMA2 replay unit (RPU)]] | [[Pages/Device Overview/MA onPC command wing|MA onPC command wing]] →
 
-Part of [[Sections/Device Overview]] · [[000 Map of Content]]
+Part of [[Sections/Device Overview|Device Overview]] · [[000 Map of Content]]

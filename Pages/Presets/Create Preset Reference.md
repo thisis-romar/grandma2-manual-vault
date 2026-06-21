@@ -54,6 +54,6 @@ To use preset references in other show files, export the fixture type after crea
 
 10.  To close the menu, tap ![](../../img/icon_close_small_v3-2.png) in the upper right corner of the window.
 
-← [[Pages/Presets/Preset Pool Options]] | [[Pages/Presets/Auto Create Presets]] →
+← [[Pages/Presets/Preset Pool Options|Preset Pool Options]] | [[Pages/Presets/Auto Create Presets|Auto Create Presets]] →
 
-Part of [[Sections/Presets]] · [[000 Map of Content]]
+Part of [[Sections/Presets|Presets]] · [[000 Map of Content]]

@@ -31,7 +31,7 @@ The Default keyword sets the given attributes for the fixture or channel selecti
 If **individual default values** for the fixture or channel are set in the edit menu, the individual default value will be used.  
 If only **general default values** for the fixture or channel are set in the Patch and Fixture Schedule, the general default values will be used.
 
-You can also use the Default Link in the calculator. For more information, see [[Pages/Workspace/Calculator]].
+You can also use the Default Link in the calculator. For more information, see [[Pages/Workspace/Calculator|Calculator]].
 
 Default values are displayed in the fixture or channel sheet in brackets.
 

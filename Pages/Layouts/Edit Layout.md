@@ -199,6 +199,6 @@ It is possible to use the Double tap mode here. For more information see [[Pages
 
 To delete single objects, press Del and then tap the object you would like to delete in the layout view.
 
-← [[Pages/Layouts/Layout Pool Options]] | [[Pages/Layouts/Layout View Options]] →
+← [[Pages/Layouts/Layout Pool Options|Layout Pool Options]] | [[Pages/Layouts/Layout View Options|Layout View Options]] →
 
-Part of [[Sections/Layouts]] · [[000 Map of Content]]
+Part of [[Sections/Layouts|Layouts]] · [[000 Map of Content]]

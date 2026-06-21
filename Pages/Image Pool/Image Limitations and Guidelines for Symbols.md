@@ -43,6 +43,6 @@ There are few limitations regarding the size of images and the pool there. 
 *   Symbols have to be in alpha fill (transparent).
 *   The area around a symbol has to be black.
 
-← [[Pages/Image Pool/Import Images and Videos]] | [[Pages/Image Pool/Supported file formats]] →
+← [[Pages/Image Pool/Import Images and Videos|Import Images and Videos]] | [[Pages/Image Pool/Supported file formats|Supported file formats]] →
 
-Part of [[Sections/Image Pool]] · [[000 Map of Content]]
+Part of [[Sections/Image Pool|Image Pool]] · [[000 Map of Content]]

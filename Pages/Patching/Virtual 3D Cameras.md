@@ -99,6 +99,6 @@ Each cameras settings are displayed as a sheet with columns. The following is a 
 *   **Info**:  
     Here you can write any information you like.
 
-← [[Pages/Patching/Stage View]] | [[Pages/Patching/Position fixtures in the virtual 3D stage]] →
+← [[Pages/Patching/Stage View|Stage View]] | [[Pages/Patching/Position fixtures in the virtual 3D stage|Position fixtures in the virtual 3D stage]] →
 
-Part of [[Sections/Patching]] · [[000 Map of Content]]
+Part of [[Sections/Patching|Patching]] · [[000 Map of Content]]

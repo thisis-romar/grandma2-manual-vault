@@ -29,6 +29,6 @@ Note that a fixture always receives pan and tilt values. 
 
 However, if XYZ is activated, the pan and tilt values are converted to coordinates on stage.
 
-[[Pages/XYZ/XYZ and Pan-Tilt in cues and sequences]] →
+[[Pages/XYZ/XYZ and Pan-Tilt in cues and sequences|XYZ and Pan-Tilt in cues and sequences]] →
 
-Part of [[Sections/XYZ]] · [[000 Map of Content]]
+Part of [[Sections/XYZ|XYZ]] · [[000 Map of Content]]

@@ -3115,6 +3115,6 @@ F : F
 
 FF
 
-← [[Pages/Remote Control/Telnet Remote]]
+← [[Pages/Remote Control/Telnet Remote|Telnet Remote]]
 
-Part of [[Sections/Remote Control]] · [[000 Map of Content]]
+Part of [[Sections/Remote Control|Remote Control]] · [[000 Map of Content]]

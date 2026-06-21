@@ -49,6 +49,6 @@ Activates attributes in feature "GOBO1". 
 
 Knocks out the first 4 shaper attributes out of the programmer.
 
-← [[Pages/Command Syntax and Keywords/Executor List]] | [[Pages/Command Syntax and Keywords/Station List]] →
+← [[Pages/Command Syntax and Keywords/Executor List|Executor List]] | [[Pages/Command Syntax and Keywords/Station List|Station List]] →
 
-Part of [[Sections/Command Syntax and Keywords]] · [[000 Map of Content]]
+Part of [[Sections/Command Syntax and Keywords|Command Syntax and Keywords]] · [[000 Map of Content]]

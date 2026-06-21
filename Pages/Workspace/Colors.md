@@ -42,6 +42,6 @@ There are a lot of different colors and they gives you a lot of useful informati
 *   [[Pages/Workspace/Marker Colors|Marker]]
 *   [[Pages/Workspace/Cue Colors|Cue]]
 
-← [[Pages/Workspace/Oops and undo]] | [[Pages/Workspace/Text indicators and symbols]] →
+← [[Pages/Workspace/Oops and undo|Oops and undo]] | [[Pages/Workspace/Text indicators and symbols|Text indicators and symbols]] →
 
-Part of [[Sections/Workspace]] · [[000 Map of Content]]
+Part of [[Sections/Workspace|Workspace]] · [[000 Map of Content]]

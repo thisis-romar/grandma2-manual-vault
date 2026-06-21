@@ -52,6 +52,6 @@ _Object linked to a stage marker_
 
 For more information on how to control the object via the stage marker see [[Pages/XYZ/Use Stage Markers|Use stage markers]].
 
-← [[Pages/XYZ/Use Stage Markers]]
+← [[Pages/XYZ/Use Stage Markers|Use Stage Markers]]
 
-Part of [[Sections/XYZ]] · [[000 Map of Content]]
+Part of [[Sections/XYZ|XYZ]] · [[000 Map of Content]]

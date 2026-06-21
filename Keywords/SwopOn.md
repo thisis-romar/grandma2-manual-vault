@@ -51,7 +51,7 @@ To get a list of all options of the keyword SwopOn, type the following into the 
 
 The keyword SwopOn has the exact same options as the keyword Goto. 
 
-For further information see keyword [[Keywords/Goto]]. 
+For further information see keyword [[Keywords/Goto|Goto]]. 
 
 ## Example
 

@@ -57,7 +57,7 @@ If the readout is set to **Status Readout**, the display of the racks stays unaf
 
 _Status Readout_ 
 
-For more information on the display of the racks in **Status Readout** of different views see [[Pages/Other System Tools/Views]]. 
+For more information on the display of the racks in **Status Readout** of different views see [[Pages/Other System Tools/Views|Views]]. 
 
 * * *
 
@@ -75,7 +75,7 @@ _Track errors using Error Readout_
 The error message is displayed in red in the rack affected. 
 
 **Hint:**  
-Unlike in the **Status Readout**, confirming errors in the **Error Readout** displays the error message in yellow. For more information on on the confirmation of errors see [[Pages/Other System Tools/Errors]]. 
+Unlike in the **Status Readout**, confirming errors in the **Error Readout** displays the error message in yellow. For more information on on the confirmation of errors see [[Pages/Other System Tools/Errors|Errors]]. 
 
 ![](../../img/window_network-dimmer_confirm_errors_error-readout_v3-3.png)
 
@@ -119,6 +119,6 @@ The view displays the following consumption data:
 **Hint:**  
 To display the consumption of single elements in the hierarchy, navigate down in the hierarchy while in the mode **Consumption Readout**. For more information on the hierarchy see [[Pages/Other System Tools/Network Dimmer|Network dimmer]].
 
-← [[Pages/Other System Tools/Errors]] | [[Pages/Other System Tools/Edit Properties of a Rack]] →
+← [[Pages/Other System Tools/Errors|Errors]] | [[Pages/Other System Tools/Edit Properties of a Rack|Edit Properties of a Rack]] →
 
-Part of [[Sections/Other System Tools]] · [[000 Map of Content]]
+Part of [[Sections/Other System Tools|Other System Tools]] · [[000 Map of Content]]

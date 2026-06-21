@@ -66,6 +66,6 @@ When this is active, then a Go or Goto command will overrule the looping functio
 
 This can be a nice function for rehearsals or situations where you need the loop running until the executor is triggered again.
 
-← [[Pages/Advanced Sequence Functionality/Sequence info window]] | [[Pages/Advanced Sequence Functionality/Cue path]] →
+← [[Pages/Advanced Sequence Functionality/Sequence info window|Sequence info window]] | [[Pages/Advanced Sequence Functionality/Cue path|Cue path]] →
 
-Part of [[Sections/Advanced Sequence Functionality]] · [[000 Map of Content]]
+Part of [[Sections/Advanced Sequence Functionality|Advanced Sequence Functionality]] · [[000 Map of Content]]

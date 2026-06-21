@@ -117,6 +117,6 @@ The current time of the timer can be assigned as the timing of a cue. Use the fo
 **Hint:**  
 You can play back a stopwatch or a countdown saved in the timer pool in the Clock. For more information see [[Pages/Other System Tools/Clock|Other System Tools - Clock]].
 
-[[Pages/Timer/Timer Pool Options]] →
+[[Pages/Timer/Timer Pool Options|Timer Pool Options]] →
 
-Part of [[Sections/Timer]] · [[000 Map of Content]]
+Part of [[Sections/Timer|Timer]] · [[000 Map of Content]]

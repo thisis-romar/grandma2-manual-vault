@@ -32,7 +32,7 @@ Use these steps to add the MA Network Switch to the network configuration.
 *   The default IP address of the switch is a 192.168.100.xxx. It is displayed at the front end display.  
     The default subnet mask of the switch is 255.255.255.0.
     
-    This means your PC or grandMA2 station needs to be set to a compatible IP address. For more information about how to change the IP address see chapter [[Sections/Networking]].
+    This means your PC or grandMA2 station needs to be set to a compatible IP address. For more information about how to change the IP address see chapter [[Sections/Networking|Networking]].
     
 *   Power on (indicates by a green power LED)
 *   Hardware connection between the MA Switch and a computer (indicates by a green or orange blinking link LED)
@@ -76,6 +76,6 @@ The default password admin of the MA Network Switch is not an active password pr
 
 The MA Network Switch is added to the network configuration and ready for further configuration.
 
-[[Pages/Control MA Network Switch/Change IP address of the MA Network Switch]] →
+[[Pages/Control MA Network Switch/Change IP address of the MA Network Switch|Change IP address of the MA Network Switch]] →
 
-Part of [[Sections/Control MA Network Switch]] · [[000 Map of Content]]
+Part of [[Sections/Control MA Network Switch|Control MA Network Switch]] · [[000 Map of Content]]

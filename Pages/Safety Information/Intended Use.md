@@ -33,6 +33,6 @@ Every other use is not intended and could lead to injury and damage to property.
 
 MA Lighting does not cover damages which can result from misuse of the console.
 
-← [[Pages/Safety Information/Symbols Used]] | [[Pages/Safety Information/Dangers Caused by Electric Current]] →
+← [[Pages/Safety Information/Symbols Used|Symbols Used]] | [[Pages/Safety Information/Dangers Caused by Electric Current|Dangers Caused by Electric Current]] →
 
-Part of [[Sections/Safety Information]] · [[000 Map of Content]]
+Part of [[Sections/Safety Information|Safety Information]] · [[000 Map of Content]]

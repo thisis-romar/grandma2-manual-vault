@@ -38,6 +38,6 @@ _grandMA2 full-size desk lamp connectors_
 
 To adjust the intensity of the desk lamp see [[Pages/Console Settings/Adjust Intensity of Desk Lights|adjust desk lights]].
 
-← [[Pages/First Steps/Connect Power]] | [[Pages/First Steps/Connect External Screens]] →
+← [[Pages/First Steps/Connect Power|Connect Power]] | [[Pages/First Steps/Connect External Screens|Connect External Screens]] →
 
-Part of [[Sections/First Steps]] · [[000 Map of Content]]
+Part of [[Sections/First Steps|First Steps]] · [[000 Map of Content]]

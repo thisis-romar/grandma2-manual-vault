@@ -67,7 +67,7 @@ The title bar displays the world name and ![](../../img/icon_world_v3-2.png) if
 
 For general information on worlds see [[Pages/Worlds Filters and Masks/What are Worlds|What are worlds]]. 
 
-For general information on masks see [[Pages/Worlds Filters and Masks/What are masks]].
+For general information on masks see [[Pages/Worlds Filters and Masks/What are masks|What are masks]].
 
 The fixture sheet also consists of different colors, markers and background colors. For more information see [[Pages/Workspace/Marker Colors|Marker]] and [[Pages/Workspace/System Colors|System]]. 
 
@@ -93,12 +93,12 @@ _Fixture Sheet Options_
 
 To learn about the single options of the fixture sheet see:
 
-*   [[Pages/Operate Fixtures/Tools]] 
-*   [[Pages/Operate Fixtures/Layer mask]]
-*   [[Pages/Operate Fixtures/Display]]
-*   [[Pages/Operate Fixtures/Title buttons]]
-*   [[Pages/Operate Fixtures/Assign executor]]
-*   [[Pages/Operate Fixtures/Mask (local)]]
+*   [[Pages/Operate Fixtures/Tools|Tools]] 
+*   [[Pages/Operate Fixtures/Layer mask|Layer mask]]
+*   [[Pages/Operate Fixtures/Display|Display]]
+*   [[Pages/Operate Fixtures/Title buttons|Title buttons]]
+*   [[Pages/Operate Fixtures/Assign executor|Assign executor]]
+*   [[Pages/Operate Fixtures/Mask (local)|Mask (local)]]
 
 To close the options, tap ![](../../img/icon_close_small_v3-2.png) in the upper right corner of the dialog. 
 
@@ -108,6 +108,6 @@ To close the options, tap ![](../../img/icon_close_small_v3-2.png) in the uppe
 
 To close the fixture sheet altogether, tap ![](../../img/icon_yellow-ball_3_2.png) in the upper left corner of the window and tap Delete Window.
 
-← [[Pages/Operate Fixtures/Channel Sheet]] | [[Pages/Operate Fixtures/Sheet options]] →
+← [[Pages/Operate Fixtures/Channel Sheet|Channel Sheet]] | [[Pages/Operate Fixtures/Sheet options|Sheet options]] →
 
-Part of [[Sections/Operate Fixtures]] · [[000 Map of Content]]
+Part of [[Sections/Operate Fixtures|Operate Fixtures]] · [[000 Map of Content]]

@@ -60,12 +60,12 @@ A cue can have a color assigned to the row in the Sequence Executor Sheet.
 
 This can be done using the command line or by tapping the Change Color button in the Edit Cue Numbers pop-up.
 
-The [[Keywords/Appearance keyword]] is used to do this via the command line.
+The [[Keywords/Appearance keyword|Appearance keyword]] is used to do this via the command line.
 
 Unless you use the command line input to specify a color then the **Select Color pop-up** appears.
 
 The sheet options control if this color is visible and how may cells will have the background color. Read more about this in the [[Pages/Operate Fixtures/Display|Sheet Options - Display - Cue Color Columns]].
 
-← [[Pages/Command Syntax and Keywords/Cue timings]] | [[Pages/Command Syntax and Keywords/Delete Cues]] →
+← [[Pages/Command Syntax and Keywords/Cue timings|Cue timings]] | [[Pages/Command Syntax and Keywords/Delete Cues|Delete Cues]] →
 
-Part of [[Sections/Cues and Sequences]] · [[000 Map of Content]]
+Part of [[Sections/Cues and Sequences|Cues and Sequences]] · [[000 Map of Content]]

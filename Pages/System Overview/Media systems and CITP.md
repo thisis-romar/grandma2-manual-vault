@@ -47,6 +47,6 @@ Have a look at the description of the [[Pages/Networking/Streaming CITP video|CI
 
 Some visualizers can also display the CITP video stream from media systems.
 
-← [[Pages/System Overview/Big systems]]
+← [[Pages/System Overview/Big systems|Big systems]]
 
-Part of [[Sections/System Overview]] · [[000 Map of Content]]
+Part of [[Sections/System Overview|System Overview]] · [[000 Map of Content]]

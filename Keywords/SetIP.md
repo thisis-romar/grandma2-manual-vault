@@ -109,8 +109,8 @@ Lists available Ethernet interfaces along with their IP addresses in the command
 **Important:**  
 Do not use DHCP on eth1, unless you are a skilled network operator. 
 
-For more information on what DHCP is see the [[Sections/Glossary]]. 
+For more information on what DHCP is see the [[Sections/Glossary|Glossary]]. 
 
-For more information on how to use DHCP see [[Pages/Networking/Using DHCP in MA devices]].
+For more information on how to use DHCP see [[Pages/Networking/Using DHCP in MA devices|Using DHCP in MA devices]].
 
 Part of [[000 Keyword Index]] · [[000 Map of Content]]

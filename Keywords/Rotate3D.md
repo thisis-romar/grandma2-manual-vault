@@ -24,7 +24,7 @@ To go to the Rotate3D keyword, type **Rotate3D** in the command line or use the 
 
 ## Description
 
-The Rotate3D keyword rotates 3D objects in the [[Pages/Patching/Stage View]].
+The Rotate3D keyword rotates 3D objects in the [[Pages/Patching/Stage View|Stage View]].
 
 If the Rotate3D keyword is used without values, the rotation of the selected fixtures will be reset to zero.
 
@@ -38,7 +38,7 @@ Rotate3D At \[x y z\] /relative
 
 ## Example
 
-Rotate the selected 3D object in the [[Pages/Patching/Stage View]].
+Rotate the selected 3D object in the [[Pages/Patching/Stage View|Stage View]].
 
 \[Channel\]> Rotate3D At 2.5 -5 3.3
 

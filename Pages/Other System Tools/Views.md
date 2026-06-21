@@ -227,10 +227,10 @@ The messages may be displayed in white, yellow, or red. 
 *   Yellow indicates warning messages
 *   Red indicates error messages
 
-For more information on the display of errors see [[Pages/Other System Tools/Errors]]. 
+For more information on the display of errors see [[Pages/Other System Tools/Errors|Errors]]. 
 
 To change to Normal View, tap Log View in the title bar.
 
-[[Pages/Other System Tools/Errors]] →
+[[Pages/Other System Tools/Errors|Errors]] →
 
-Part of [[Sections/Other System Tools]] · [[000 Map of Content]]
+Part of [[Sections/Other System Tools|Other System Tools]] · [[000 Map of Content]]

@@ -33,7 +33,7 @@ The option dialog opens.
 
 _Setting the options of the timer pool_
 
-1.  To adjust the general settings such as the frame color, sheet style, font or the reset of colors, see [[Pages/Pools/Adjust pool options]].
+1.  To adjust the general settings such as the frame color, sheet style, font or the reset of colors, see [[Pages/Pools/Adjust pool options|Adjust pool options]].
 2.  To start or pause the timer directly in the pool, swipe the button Select to Start / Stop.  
     \-To start the timer, tap the pool object once.  
     \-To pause it, tap it once again. 
@@ -41,6 +41,6 @@ _Setting the options of the timer pool_
 **Hint:**  
 If you swipe the button back to Select, tapping the timer in the timer pool selects it.
 
-← [[Pages/Timer/Timer Pool]]
+← [[Pages/Timer/Timer Pool|Timer Pool]]
 
-Part of [[Sections/Timer]] · [[000 Map of Content]]
+Part of [[Sections/Timer|Timer]] · [[000 Map of Content]]

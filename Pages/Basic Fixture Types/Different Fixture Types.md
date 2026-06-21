@@ -44,12 +44,12 @@ The following subtopics explains some of the difference between the types.
 #### Sub topics
 
 *   [[Pages/Basic Fixture Types/Conventional fixture type|Conventional]]
-*   [[Pages/Basic Fixture Types/LED]]
-*   [[Pages/Basic Fixture Types/Mirror]]
+*   [[Pages/Basic Fixture Types/LED|LED]]
+*   [[Pages/Basic Fixture Types/Mirror|Mirror]]
 *   [[Pages/Basic Fixture Types/Moving Lights|Moving lights]]
 *   [[Pages/Basic Fixture Types/Media Server|Media server]]
 *   [[Pages/Basic Fixture Types/Virtual Fixtures|Virtual fixtures]]
 
-← [[Pages/Basic Fixture Types/ColorMix vs. MixColor]]
+← [[Pages/Basic Fixture Types/ColorMix vs. MixColor|ColorMix vs. MixColor]]
 
-Part of [[Sections/Basic Fixture Types]] · [[000 Map of Content]]
+Part of [[Sections/Basic Fixture Types|Basic Fixture Types]] · [[000 Map of Content]]

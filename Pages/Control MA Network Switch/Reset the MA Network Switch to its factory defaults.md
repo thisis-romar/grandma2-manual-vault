@@ -53,6 +53,6 @@ To see the MA Network Switch in the MA Network Configuration window again, it is
 
 For more information to the MA Network Switch factory defaults, see MA Network Switch - Factory Defaults.
 
-← [[Pages/Control MA Network Switch/Update firmware of the MA Network Switch]] | [[Pages/Control MA Network Switch/Delete MA Network Switch from the network configuration]] →
+← [[Pages/Control MA Network Switch/Update firmware of the MA Network Switch|Update firmware of the MA Network Switch]] | [[Pages/Control MA Network Switch/Delete MA Network Switch from the network configuration|Delete MA Network Switch from the network configuration]] →
 
-Part of [[Sections/Control MA Network Switch]] · [[000 Map of Content]]
+Part of [[Sections/Control MA Network Switch|Control MA Network Switch]] · [[000 Map of Content]]

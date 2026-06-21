@@ -26,7 +26,7 @@ The key Del (= Delete) is located in the command area on the right of the key 
 
 _Location key Delete_ 
 
-Pressing Del enters the [[Keywords/Delete keyword]] into the command line.
+Pressing Del enters the [[Keywords/Delete keyword|Delete keyword]] into the command line.
 
 \[Channel\]> Delete
 

@@ -79,6 +79,6 @@ For more information on the different functionalities see [[Pages/Effects/Use Pr
 **Important:**  
 If you accidentally tap anywhere, the encoder toolbar for live edit disappears. To regain it, tap the cell with displaying the name of the effect pool.
 
-← [[Pages/Effects/Assign effect to executor]] | [[Pages/Effects/Running Effects]] →
+← [[Pages/Effects/Assign effect to executor|Assign effect to executor]] | [[Pages/Effects/Running Effects|Running Effects]] →
 
-Part of [[Sections/Effects]] · [[000 Map of Content]]
+Part of [[Sections/Effects|Effects]] · [[000 Map of Content]]

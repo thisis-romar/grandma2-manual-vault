@@ -42,8 +42,8 @@ _Encoder Bar Window_
 
 The encoder bar is structured in two areas:
 
-1.  [[Pages/Workspace/Preset Control Bar]]
-2.  [[Pages/Workspace/Encoder Toolbar]]
+1.  [[Pages/Workspace/Preset Control Bar|Preset Control Bar]]
+2.  [[Pages/Workspace/Encoder Toolbar|Encoder Toolbar]]
 
   
 
@@ -54,6 +54,6 @@ The encoder bar is structured in two areas:
 *   [[Pages/Workspace/Preset Control Bar|Preset control bar]]
 *   [[Pages/Workspace/Encoder Toolbar|Encoder toolbar]]
 
-← [[Pages/Workspace/User Interface]] | [[Pages/Workspace/Encoder Settings]] →
+← [[Pages/Workspace/User Interface|User Interface]] | [[Pages/Workspace/Encoder Settings|Encoder Settings]] →
 
-Part of [[Sections/Workspace]] · [[000 Map of Content]]
+Part of [[Sections/Workspace|Workspace]] · [[000 Map of Content]]

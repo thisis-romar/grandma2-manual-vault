@@ -62,6 +62,6 @@ It is necessary that only one update files for the MA Network Switch is on the U
 
 The switch is updating and reboots. This can take up to 5 minutes.
 
-← [[Pages/Control MA Network Switch/Change password of the MA Network Switch]] | [[Pages/Control MA Network Switch/Reset the MA Network Switch to its factory defaults]] →
+← [[Pages/Control MA Network Switch/Change password of the MA Network Switch|Change password of the MA Network Switch]] | [[Pages/Control MA Network Switch/Reset the MA Network Switch to its factory defaults|Reset the MA Network Switch to its factory defaults]] →
 
-Part of [[Sections/Control MA Network Switch]] · [[000 Map of Content]]
+Part of [[Sections/Control MA Network Switch|Control MA Network Switch]] · [[000 Map of Content]]

@@ -26,7 +26,7 @@ The key Effect is located on the right of the key View.
 
 _Location k__ey_ _Effect_ 
 
-*   Pressing Effect enters the [[Keywords/Effect keyword]] into the command line.
+*   Pressing Effect enters the [[Keywords/Effect keyword|Effect keyword]] into the command line.
 
 \[Channel\]> Effect
 
@@ -43,7 +43,7 @@ _Location k__ey_ _Effect_ 
     
       
      
-*   Pressing ![ma](../../img/ma_1.png) + Effect executes the [[Keywords/SyncEffects]] command.  
+*   Pressing ![ma](../../img/ma_1.png) + Effect executes the [[Keywords/SyncEffects|SyncEffects]] command.  
      
 *   Pressing and holding List + Effect opens the temporary effect pool.  
      

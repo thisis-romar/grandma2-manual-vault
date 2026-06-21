@@ -68,6 +68,6 @@ Tagged Image File Format (.tif, .tiff) 
 
 If you are using a file format that is not listed above, convert your file first before importing it into the grandMA2.
 
-← [[Pages/Image Pool/Image Limitations and Guidelines for Symbols]] | [[Pages/Image Pool/Delete Images and Videos]] →
+← [[Pages/Image Pool/Image Limitations and Guidelines for Symbols|Image Limitations and Guidelines for Symbols]] | [[Pages/Image Pool/Delete Images and Videos|Delete Images and Videos]] →
 
-Part of [[Sections/Image Pool]] · [[000 Map of Content]]
+Part of [[Sections/Image Pool|Image Pool]] · [[000 Map of Content]]

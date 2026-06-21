@@ -233,6 +233,6 @@ Included preset type markers indicate which preset types are stored in the pool 
 
 _White preset type markers indicate included position preset type_
 
-[[Pages/Workspace/Marker Colors]] →
+[[Pages/Workspace/Marker Colors|Marker Colors]] →
 
-Part of [[Sections/Workspace]] · [[000 Map of Content]]
+Part of [[Sections/Workspace|Workspace]] · [[000 Map of Content]]

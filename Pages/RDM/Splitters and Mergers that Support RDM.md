@@ -48,6 +48,6 @@ Luminex
 
 LumiSplit
 
-← [[Pages/RDM/Unmatch RDM devices]] | [[Pages/RDM/Turn RDM off]] →
+← [[Pages/RDM/Unmatch RDM devices|Unmatch RDM devices]] | [[Pages/RDM/Turn RDM off|Turn RDM off]] →
 
-Part of [[Sections/RDM]] · [[000 Map of Content]]
+Part of [[Sections/RDM|RDM]] · [[000 Map of Content]]

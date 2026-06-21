@@ -33,11 +33,11 @@ _Location k__ey_ _Preset_
 
 \[Channel\]> Preset
 
-*   Pressing Preset Preset enters the [[Keywords/Attribute keyword]] into the command line.
+*   Pressing Preset Preset enters the [[Keywords/Attribute keyword|Attribute keyword]] into the command line.
 
 \[Channel\]> Attribute
 
-*   Pressing Preset Preset Preset enters the [[Keywords/Gel keyword]] into the command line.
+*   Pressing Preset Preset Preset enters the [[Keywords/Gel keyword|Gel keyword]] into the command line.
 
 \[Channel\]> Gel
 

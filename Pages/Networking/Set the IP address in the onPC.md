@@ -54,6 +54,6 @@ Here you can only select the IP address when the onPC is **not** connected to a 
 
 When the onPC is standalone, then you can open the drop down box next to "Station IP". Here you can select the IP address set in Windows. Remember that onPC needs to restart before it uses the selected IP address.
 
-← [[Pages/Networking/Set the IP address in the console]] | [[Pages/Networking/Using DHCP in MA devices]] →
+← [[Pages/Networking/Set the IP address in the console|Set the IP address in the console]] | [[Pages/Networking/Using DHCP in MA devices|Using DHCP in MA devices]] →
 
-Part of [[Sections/Networking]] · [[000 Map of Content]]
+Part of [[Sections/Networking|Networking]] · [[000 Map of Content]]

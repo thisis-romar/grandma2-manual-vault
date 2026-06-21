@@ -63,6 +63,6 @@ The password is changed and you are logged in with the new password.
 
 If you have forgotten the password you can reset the password to the default by a [[Pages/Control MA Network Switch/Reset the MA Network Switch to its factory defaults|factory reset]].
 
-← [[Pages/Control MA Network Switch/Disable SNMP]] | [[Pages/Control MA Network Switch/Update firmware of the MA Network Switch]] →
+← [[Pages/Control MA Network Switch/Disable SNMP|Disable SNMP]] | [[Pages/Control MA Network Switch/Update firmware of the MA Network Switch|Update firmware of the MA Network Switch]] →
 
-Part of [[Sections/Control MA Network Switch]] · [[000 Map of Content]]
+Part of [[Sections/Control MA Network Switch|Control MA Network Switch]] · [[000 Map of Content]]

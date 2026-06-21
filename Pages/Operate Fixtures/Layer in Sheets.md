@@ -46,6 +46,6 @@ These are the following sheets:
 *   [[Pages/Operate Fixtures/Channel Sheet and Fixture Sheet|Channel sheet and fixture sheet]]
 *   [[Pages/Operate Fixtures/Sequence Content Sheet And Sequence Tracking Sheet|Sequence content and sequence tracking sheet]]
 
-← [[Pages/Operate Fixtures/Sheet options]] | [[Pages/Operate Fixtures/What is the Programmer]] →
+← [[Pages/Operate Fixtures/Sheet options|Sheet options]] | [[Pages/Operate Fixtures/What is the Programmer|What is the Programmer]] →
 
-Part of [[Sections/Operate Fixtures]] · [[000 Map of Content]]
+Part of [[Sections/Operate Fixtures|Operate Fixtures]] · [[000 Map of Content]]

@@ -159,6 +159,6 @@ It can also be used to create special combinations of attributes. 
 
 Read more about it following the link to the ChannelLink above.
 
-← [[Pages/Advanced Executor Functionality/Executor Pages]] | [[Pages/Advanced Executor Functionality/Executor Options]] →
+← [[Pages/Advanced Executor Functionality/Executor Pages|Executor Pages]] | [[Pages/Advanced Executor Functionality/Executor Options|Executor Options]] →
 
-Part of [[Sections/Advanced Executor Functionality]] · [[000 Map of Content]]
+Part of [[Sections/Advanced Executor Functionality|Advanced Executor Functionality]] · [[000 Map of Content]]

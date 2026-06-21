@@ -114,6 +114,6 @@ Off DMX Thru
 
 Will release all DMX addresses.
 
-← [[Pages/Patching/DMX Sheet]] | [[Pages/Patching/DMX and Parameter lists]] →
+← [[Pages/Patching/DMX Sheet|DMX Sheet]] | [[Pages/Patching/DMX and Parameter lists|DMX and Parameter lists]] →
 
-Part of [[Sections/Patching]] · [[000 Map of Content]]
+Part of [[Sections/Patching|Patching]] · [[000 Map of Content]]

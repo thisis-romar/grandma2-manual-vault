@@ -77,6 +77,6 @@ Tap your finger on the screen and move it from the top left corner to the bottom
 
 Select the fixtures or channels in the layout view, fixture sheet, or channel sheet. It defines the selection order.
 
-← [[Pages/Workspace/Work with views]] | [[Pages/Workspace/Calculator]] →
+← [[Pages/Workspace/Work with views|Work with views]] | [[Pages/Workspace/Calculator|Calculator]] →
 
-Part of [[Sections/Workspace]] · [[000 Map of Content]]
+Part of [[Sections/Workspace|Workspace]] · [[000 Map of Content]]

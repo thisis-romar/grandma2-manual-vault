@@ -63,6 +63,6 @@ Furthermore, it is possible to edit the order within the column in the pop-up. T
 
 To close the edit pop-up, tap ![](../../img/icon_close_small_v3-2.png) in the upper right corner.
 
-← [[Pages/Operate Fixtures/Using The Smart View]]
+← [[Pages/Operate Fixtures/Using The Smart View|Using The Smart View]]
 
-Part of [[Sections/Operate Fixtures]] · [[000 Map of Content]]
+Part of [[Sections/Operate Fixtures|Operate Fixtures]] · [[000 Map of Content]]

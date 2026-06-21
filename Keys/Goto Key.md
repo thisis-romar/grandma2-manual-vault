@@ -38,7 +38,7 @@ _Location k__ey_ _Goto_ 
 
 \[Channel\]> LoadNext
 
-*   Pressing and holding ![ma](../../img/ma_1.png) + Goto Goto enters the [[Keywords/LoadPrev keyword]] into the command line.
+*   Pressing and holding ![ma](../../img/ma_1.png) + Goto Goto enters the [[Keywords/LoadPrev keyword|LoadPrev keyword]] into the command line.
 
 \[Channel\]> LoadPrev
 

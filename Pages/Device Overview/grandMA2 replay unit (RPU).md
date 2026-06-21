@@ -63,6 +63,6 @@ _grandMA2 replay unit (RPU) rear panel_
 16.  6 x DMX Out
 17.  1 x DMX In
 
-← [[Pages/Device Overview/grandMA2 console]] | [[Pages/Device Overview/grandMA2 fader wing]] →
+← [[Pages/Device Overview/grandMA2 console|grandMA2 console]] | [[Pages/Device Overview/grandMA2 fader wing|grandMA2 fader wing]] →
 
-Part of [[Sections/Device Overview]] · [[000 Map of Content]]
+Part of [[Sections/Device Overview|Device Overview]] · [[000 Map of Content]]

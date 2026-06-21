@@ -90,6 +90,7 @@ export async function auditVault(root = VAULT_ROOT) {
     brokenLinks: [], // unresolvable even case-insensitively (target note absent)
     caseLinks: [], // resolve only case-insensitively (broken on case-sensitive FS / github-browse)
     rawLinks: [], // raw internal key_*.html links — dead in Obsidian, 404 on github-browse
+    unaliasedPathLinks: [], // path-qualified BODY links with no display alias — leak the path on github-browse
     structure: [], // missing folder/MOC or type/location mismatch
     frontmatter: [], // missing required fields
     conventions: [], // missing source callout / nav footer
@@ -151,13 +152,25 @@ export async function auditVault(root = VAULT_ROOT) {
     }
 
     // (a) links — resolve every wikilink
+    // Body starts after the frontmatter block; only body links are displayed
+    // (frontmatter typed relations are machine-read and legitimately bare).
+    const bodyStart = parsed.content ? raw.indexOf(parsed.content) : 0;
     let m;
     while ((m = wikiRe.exec(raw)) !== null) {
       linkTotal++;
-      const inner = m[1].split('|')[0].split('#')[0].trim();
+      const full = m[1];
+      const inner = full.split('|')[0].split('#')[0].trim();
       if (!inner) continue;
       const ln = lineOf(raw, m.index);
       const loc = `${f}:${ln}  [[${inner}]]`;
+
+      // (a3) body-only: path-qualified link with no alias leaks its path on
+      // github-browse. Bracketed basenames can't be safely aliased — exempt.
+      if (m.index >= bodyStart && !full.includes('|') && inner.includes('/')) {
+        const base = inner.split('/').pop();
+        if (!/[[\]|]/.test(base)) findings.unaliasedPathLinks.push(loc);
+      }
+
       if (exact.has(inner)) continue;
       const ci = ciMap.get(inner.toLowerCase());
       if (ci && ci.length) {
@@ -203,6 +216,10 @@ export function printReport({ root, files, linkTotal, findings }) {
     `  RAW INTERNAL .html:    ${findings.rawLinks.length}  (must be [[wikilinks]] — dead in Obsidian / 404 on github-browse)`,
   );
   if (findings.rawLinks.length) console.log(show(findings.rawLinks));
+  console.log(
+    `  UNALIASED PATH LINKS:  ${findings.unaliasedPathLinks.length}  (body [[Folder/Note]] with no alias — leaks the path on github-browse)`,
+  );
+  if (findings.unaliasedPathLinks.length) console.log(show(findings.unaliasedPathLinks));
 
   console.log(`\n(b) STRUCTURE — ${findings.structure.length} issue(s)`);
   if (findings.structure.length) console.log(show(findings.structure, 30));
@@ -232,6 +249,7 @@ export function printReport({ root, files, linkTotal, findings }) {
     findings.brokenLinks.length +
     findings.caseLinks.length +
     findings.rawLinks.length +
+    findings.unaliasedPathLinks.length +
     findings.structure.length +
     findings.frontmatter.length;
   console.log(`\n=== ${hardFail ? `FAIL — ${hardFail} hard issue(s)` : 'PASS'} ===\n`);

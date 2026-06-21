@@ -33,7 +33,7 @@ To execute the keyword **\>>> GoFastForward** type **\>>>** or the shortcut **
 
 The time used by this function may be adjusted via the GoFast property found under Setup -> Show -> Playback + MIB Timing.
 
-For more information see [[Pages/Advanced Sequence Functionality/Working with MIB]] and [[Pages/Executors/Looking at the active executors|Running playbacks]]. 
+For more information see [[Pages/Advanced Sequence Functionality/Working with MIB|Working with MIB]] and [[Pages/Executors/Looking at the active executors|Running playbacks]]. 
 
 ## Example
 

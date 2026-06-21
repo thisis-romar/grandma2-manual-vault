@@ -51,8 +51,8 @@ Sets the IP address. 
 
  Shuts down all the devices with the host IDs 1, 2, 3, and 4. 
 
-For more information on how to set the IP address see [[Keywords/SetIP]].
+For more information on how to set the IP address see [[Keywords/SetIP|SetIP]].
 
-← [[Pages/Command Syntax and Keywords/Attribute List]]
+← [[Pages/Command Syntax and Keywords/Attribute List|Attribute List]]
 
-Part of [[Sections/Command Syntax and Keywords]] · [[000 Map of Content]]
+Part of [[Sections/Command Syntax and Keywords|Command Syntax and Keywords]] · [[000 Map of Content]]

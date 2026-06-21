@@ -58,10 +58,10 @@ The front end display of the MA Network Switch displays the new name.
 
 **Hint:**  
 You can change the hostname by using the command line.  
-\- Change the destination of the command line to NetConfig/Network Switch 8. For more information see [[Keywords/ChangeDest keyword]].  
+\- Change the destination of the command line to NetConfig/Network Switch 8. For more information see [[Keywords/ChangeDest keyword|ChangeDest keyword]].  
 \- Type in the command line Assign 1 / Hostname = "Stage Left".  
 The hostname of the NetworkSwitch 1 is changed.
 
-← [[Pages/Control MA Network Switch/Enable DHCP client for the MA Network Switch]] | [[Pages/Control MA Network Switch/Change switch ID]] →
+← [[Pages/Control MA Network Switch/Enable DHCP client for the MA Network Switch|Enable DHCP client for the MA Network Switch]] | [[Pages/Control MA Network Switch/Change switch ID|Change switch ID]] →
 
-Part of [[Sections/Control MA Network Switch]] · [[000 Map of Content]]
+Part of [[Sections/Control MA Network Switch|Control MA Network Switch]] · [[000 Map of Content]]

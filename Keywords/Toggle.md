@@ -29,7 +29,7 @@ You can also type **Toggle** in the command line or use the shortcut **Tog**
 The Toggle keyword acts as an on or off keyword, depending of the on/off-status of the object or function/mode it is applied to.  
 If object or function/mode is on, it turns it off. If object or function/mode is off, it turns it on.
 
-For further information see the keywords [[Keywords/On]] and [[Keywords/Off]].
+For further information see the keywords [[Keywords/On|On]] and [[Keywords/Off|Off]].
 
 Toggle is a function and helping keyword.
 
@@ -47,7 +47,7 @@ To get a list of all options of the keyword Toggle, type the following into the 
 
 The keyword Toggle has the exact same options as the keyword Goto. 
 
-For further information see the keyword [[Keywords/Goto]]. 
+For further information see the keyword [[Keywords/Goto|Goto]]. 
 
 ## Examples
 

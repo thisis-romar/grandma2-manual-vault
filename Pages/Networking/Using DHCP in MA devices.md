@@ -34,6 +34,6 @@ The device will look for a DHCP server in the network during the boot process. I
 
 DHCP can also be used to define a gateway address. This can also be done with static address, but only when using the [[Keywords/SetIP|SetIP keyword]] in the command line.
 
-← [[Pages/Networking/Set the IP address in the onPC]] | [[Pages/Networking/Session control]] →
+← [[Pages/Networking/Set the IP address in the onPC|Set the IP address in the onPC]] | [[Pages/Networking/Session control|Session control]] →
 
-Part of [[Sections/Networking]] · [[000 Map of Content]]
+Part of [[Sections/Networking|Networking]] · [[000 Map of Content]]

@@ -48,6 +48,6 @@ Additionally to the general settings, the effect pool has also the setting of di
 
 For more information see [[Pages/Pools/Call Modes|Pools in General – Call modes]].
 
-← [[Pages/Effects/Create Effect Forms]] | [[Pages/Effects/Effects in a Cue]] →
+← [[Pages/Effects/Create Effect Forms|Create Effect Forms]] | [[Pages/Effects/Effects in a Cue|Effects in a Cue]] →
 
-Part of [[Sections/Effects]] · [[000 Map of Content]]
+Part of [[Sections/Effects|Effects]] · [[000 Map of Content]]

@@ -28,7 +28,7 @@ The Plugin keyword is an object keyword to access Plugins. The default function 
 
 Plugin 1 is a predefined plugin and not editable.
 
-For more information, see [[Sections/Plugins]].
+For more information, see [[Sections/Plugins|Plugins]].
 
 ## Syntax
 

@@ -33,7 +33,7 @@ In MA 3D you can use a CITP stream on a surface, thus mimicking a screen.
 
 For the console or onPC viewer to display a video stream, you need to set it up.
 
-Make sure the CITP is activated in the console/onPC. Have a look at the [[Pages/Networking/Using CITP]] topic.
+Make sure the CITP is activated in the console/onPC. Have a look at the [[Pages/Networking/Using CITP|Using CITP]] topic.
 
 Tap the yellow ball in the upper left corner. This opens the Options pop-up. It could look like this:
 
@@ -62,6 +62,6 @@ There are two buttons in the title bar. The first one show you the frames per se
 
 It has been tested with MA VPU, MSEX Lord, Green Hippo Hippotizer, PRG MBOX, Arkaos MediaMaster, and Coolux Desktop Streamer.
 
-[[Pages/Networking/Thumbnail exchange]] →
+[[Pages/Networking/Thumbnail exchange|Thumbnail exchange]] →
 
-Part of [[Sections/Networking]] · [[000 Map of Content]]
+Part of [[Sections/Networking|Networking]] · [[000 Map of Content]]

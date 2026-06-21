@@ -98,6 +98,6 @@ The programmer is now empty.
 
 _Empty Programmer_
 
-← [[Pages/Operate Fixtures/Layer in Sheets]] | [[Pages/Operate Fixtures/Encoder Grouping]] →
+← [[Pages/Operate Fixtures/Layer in Sheets|Layer in Sheets]] | [[Pages/Operate Fixtures/Encoder Grouping|Encoder Grouping]] →
 
-Part of [[Sections/Operate Fixtures]] · [[000 Map of Content]]
+Part of [[Sections/Operate Fixtures|Operate Fixtures]] · [[000 Map of Content]]

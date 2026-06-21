@@ -183,6 +183,6 @@ Displays which cue the effect comes from stating the number of the sequence and 
 
 Displays the DMX value that comes out of the console. Shows all values independently of masters or profiles.
 
-[[Pages/Operate Fixtures/Sequence Content Sheet And Sequence Tracking Sheet]] →
+[[Pages/Operate Fixtures/Sequence Content Sheet And Sequence Tracking Sheet|Sequence Content Sheet And Sequence Tracking Sheet]] →
 
-Part of [[Sections/Operate Fixtures]] · [[000 Map of Content]]
+Part of [[Sections/Operate Fixtures|Operate Fixtures]] · [[000 Map of Content]]

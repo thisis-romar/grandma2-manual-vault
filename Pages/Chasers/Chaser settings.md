@@ -127,6 +127,6 @@ The two encoders, starting from left:
 1.  On the first encoder, the **In-fade** of the steps is set. If the percent is 0, the chaser snaps between the steps, and if it is set to 100 % it will use the time restricted by the speed encoder. If the percent is over 100, the chaser will start fading down, before the step is at full.
 2.  On the second encoder, the **Out-fade** of the steps is set. If the percent is 0, the chaser will snap the steps to zero, and if it is set to 100 % it will use the time restricted by the speed encoder.
 
-← [[Pages/Chasers/Create a chaser]] | [[Pages/Chasers/Chaser mini executor]] →
+← [[Pages/Chasers/Create a chaser|Create a chaser]] | [[Pages/Chasers/Chaser mini executor|Chaser mini executor]] →
 
-Part of [[Sections/Chasers]] · [[000 Map of Content]]
+Part of [[Sections/Chasers|Chasers]] · [[000 Map of Content]]

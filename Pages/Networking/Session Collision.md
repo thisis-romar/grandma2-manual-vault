@@ -60,6 +60,6 @@ This big window will stay on all screens until someone presses one of the button
 
 If you are working in a multi user environment, it might be good idea to talk about what to do if a session collision should appear - before it happens!
 
-← [[Pages/Networking/How to end or leave a session]]
+← [[Pages/Networking/How to end or leave a session|How to end or leave a session]]
 
-Part of [[Sections/Networking]] · [[000 Map of Content]]
+Part of [[Sections/Networking|Networking]] · [[000 Map of Content]]

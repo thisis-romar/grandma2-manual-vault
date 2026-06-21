@@ -31,7 +31,7 @@ To get the RdmFixtureType ID, go to **Setup -> Patch & Fixture Schedule -> RDM D
 **Hint:**  
 To get the RdmFixtureType ID you can also enter in the command line, CD RDM\_Data.RDM\_Fixture\_Types. Then enter in the command line List, press Please, and open the command line feedback window.
 
-For more information, see [[Sections/RDM]].
+For more information, see [[Sections/RDM|RDM]].
 
 ## Syntax
 

@@ -212,7 +212,7 @@ Filters or enables value times layer.
 
 \[Channel\]> Update Cue 4 /originalcontent /cueonly
 
-3\. Update color preset 2 with global values, keep them active in the programmer, and without confirmation pop-up. For more information, see [[Pages/Presets/Update Presets]].
+3\. Update color preset 2 with global values, keep them active in the programmer, and without confirmation pop-up. For more information, see [[Pages/Presets/Update Presets|Update Presets]].
 
 \[Channel\]> Update Preset 4.2 /global /keepactive=true /noconfirm
 

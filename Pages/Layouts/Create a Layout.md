@@ -68,6 +68,6 @@ To operate the layouts faster and to have all at a glance, arrange the layouts a
 
 _All at a glance – layouts, groups and the layout view_
 
-[[Pages/Layouts/Layout Pool Options]] →
+[[Pages/Layouts/Layout Pool Options|Layout Pool Options]] →
 
-Part of [[Sections/Layouts]] · [[000 Map of Content]]
+Part of [[Sections/Layouts|Layouts]] · [[000 Map of Content]]

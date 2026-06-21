@@ -125,6 +125,6 @@ Every time you saved the show, the previous state of the show file will be saved
 
  The selected backup is reverted.
 
-← [[Pages/Workspace/Info]] | [[Pages/Workspace/Colors]] →
+← [[Pages/Workspace/Info|Info]] | [[Pages/Workspace/Colors|Colors]] →
 
-Part of [[Sections/Workspace]] · [[000 Map of Content]]
+Part of [[Sections/Workspace|Workspace]] · [[000 Map of Content]]

@@ -48,6 +48,6 @@ _Dynamic pool – Gobo_
 
 To close the preset pool, tap ![](../../img/icon_yellow-ball_3_2.png) in the upper left corner of the pool and tap Delete Window.
 
-← [[Pages/Presets/Preset Pools]] | [[Pages/Presets/Create Presets]] →
+← [[Pages/Presets/Preset Pools|Preset Pools]] | [[Pages/Presets/Create Presets|Create Presets]] →
 
-Part of [[Sections/Presets]] · [[000 Map of Content]]
+Part of [[Sections/Presets|Presets]] · [[000 Map of Content]]

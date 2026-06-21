@@ -131,6 +131,6 @@ It is only the bottom row that changes.
 
 Now the encoders control the "SnapPercent", CmdDelay", "Trig", and "TrigTime" values.
 
-← [[Pages/Command Syntax and Keywords/Storing cues]] | [[Pages/Command Syntax and Keywords/Cue timings]] →
+← [[Pages/Command Syntax and Keywords/Storing cues|Storing cues]] | [[Pages/Command Syntax and Keywords/Cue timings|Cue timings]] →
 
-Part of [[Sections/Cues and Sequences]] · [[000 Map of Content]]
+Part of [[Sections/Cues and Sequences|Cues and Sequences]] · [[000 Map of Content]]

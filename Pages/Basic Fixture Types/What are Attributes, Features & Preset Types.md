@@ -51,6 +51,6 @@ Read more about controlling fixture and changing Attribute values in the [[Secti
 
 grandMA2 counts in Attributes and not in DMX channel - read more about that in the [[Pages/System Overview/Parameters vs. DMX channels|Parameters vs. DMX channels topic]].
 
-[[Pages/Basic Fixture Types/ColorMix vs. MixColor]] →
+[[Pages/Basic Fixture Types/ColorMix vs. MixColor|ColorMix vs. MixColor]] →
 
-Part of [[Sections/Basic Fixture Types]] · [[000 Map of Content]]
+Part of [[Sections/Basic Fixture Types|Basic Fixture Types]] · [[000 Map of Content]]

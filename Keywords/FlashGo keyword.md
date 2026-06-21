@@ -26,7 +26,7 @@ To execute the keyword FlashGo, type **FlashGo** or the shortcut **FlashG** into
 
 FlashGo executes the keyword Flash and jumps into the next cue.
 
-For more information see the keyword [[Keywords/Flash]]. 
+For more information see the keyword [[Keywords/Flash|Flash]]. 
 
 Syntax
 
@@ -40,7 +40,7 @@ To get a list of all options of the keyword FlashGo, type the following into the
 
 The keyword FlashGo has the same options as the keyword Goto. 
 
-For further information see the keyword [[Keywords/Goto]]. 
+For further information see the keyword [[Keywords/Goto|Goto]]. 
 
 ## Example
 

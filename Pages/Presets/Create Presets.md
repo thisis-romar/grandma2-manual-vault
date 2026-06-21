@@ -65,6 +65,6 @@ The store option is Preset Type Default by default. This setting falls back on t
 10.  To close the **Temporary Store Options**, tap ![](../../img/icon_close_small_v3-2.png) in the upper right corner of the pop-up. 
 11.  Eventually, tap an empty object you would like to store the preset to.
 
-← [[Pages/Presets/Preset Pool -Dynamic-]] | [[Pages/Presets/Preset Pool Options]] →
+← [[Pages/Presets/Preset Pool -Dynamic-|Preset Pool -Dynamic-]] | [[Pages/Presets/Preset Pool Options|Preset Pool Options]] →
 
-Part of [[Sections/Presets]] · [[000 Map of Content]]
+Part of [[Sections/Presets|Presets]] · [[000 Map of Content]]

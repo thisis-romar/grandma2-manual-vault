@@ -66,6 +66,6 @@ _grandMA2 full-size DC remote control connector_
 
 _MA onPC command wing DC remote control connector_
 
-← [[Pages/First Steps/Connect Ethernet]] | [[Pages/First Steps/Connect grandMA2 fader wing]] →
+← [[Pages/First Steps/Connect Ethernet|Connect Ethernet]] | [[Pages/First Steps/Connect grandMA2 fader wing|Connect grandMA2 fader wing]] →
 
-Part of [[Sections/First Steps]] · [[000 Map of Content]]
+Part of [[Sections/First Steps|First Steps]] · [[000 Map of Content]]

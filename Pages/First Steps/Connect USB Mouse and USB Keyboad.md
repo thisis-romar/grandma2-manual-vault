@@ -48,6 +48,6 @@ _grandMA2 full-size USB connector front panel_
 
 _grandMA2 full-size USB connector rear panel_
 
-← [[Pages/First Steps/Connect External Screens]] | [[Pages/First Steps/Connect DMX]] →
+← [[Pages/First Steps/Connect External Screens|Connect External Screens]] | [[Pages/First Steps/Connect DMX|Connect DMX]] →
 
-Part of [[Sections/First Steps]] · [[000 Map of Content]]
+Part of [[Sections/First Steps|First Steps]] · [[000 Map of Content]]

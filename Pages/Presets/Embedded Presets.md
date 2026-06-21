@@ -66,6 +66,6 @@ _Embedded preset in the pool All_
 
 7.  You have now created an embedded preset marked by a white E within the object.
 
-← [[Pages/Presets/Auto Create Additional Presets]] | [[Pages/Presets/Edit Presets]] →
+← [[Pages/Presets/Auto Create Additional Presets|Auto Create Additional Presets]] | [[Pages/Presets/Edit Presets|Edit Presets]] →
 
-Part of [[Sections/Presets]] · [[000 Map of Content]]
+Part of [[Sections/Presets|Presets]] · [[000 Map of Content]]

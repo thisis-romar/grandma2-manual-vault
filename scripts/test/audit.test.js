@@ -64,3 +64,28 @@ test('an exact path-qualified link is not flagged', async () => {
   // [[Sections/Networking]] appears twice and must resolve exactly both times.
   assert.ok(!findings.brokenLinks.some((l) => /\[\[Sections\/Networking\]\]/.test(l)));
 });
+
+test('flags unaliased path body links; exempts frontmatter, aliased, bracketed and bare-root', async () => {
+  const r = await fs.mkdtemp(path.join(os.tmpdir(), 'ma2-audit-alias-'));
+  await fs.mkdir(path.join(r, 'Sections'), { recursive: true });
+  await fs.mkdir(path.join(r, 'Keywords'), { recursive: true });
+  await fs.mkdir(path.join(r, 'Pages/Networking'), { recursive: true });
+  await fs.writeFile(path.join(r, 'Sections/Networking.md'), '---\ntype: "section"\n---\n# N\n');
+  await fs.writeFile(path.join(r, 'Keywords/Store.md'), '---\ntype: "keyword"\n---\n# Store\n');
+  await fs.writeFile(
+    path.join(r, 'Pages/Networking/P.md'),
+    '---\ntype: "page"\nsection_ref: "[[Sections/Networking]]"\n---\n# P\n> [!source] x\n' +
+      'Bare path link [[Keywords/Store]] here.\n' + // flagged
+      'Aliased [[Keywords/Store|Store]] and bracketed [[Keywords/+ [Plus] keyword]] and root [[000 Map of Content]].\n' + // none flagged
+      'Part of [[Sections/Networking]]\n', // flagged
+  );
+
+  const { findings } = await auditVault(r);
+  const hits = findings.unaliasedPathLinks.filter((l) => /Pages\/Networking\/P\.md/.test(l));
+  assert.equal(hits.length, 2);
+  assert.ok(hits.some((l) => /\[\[Keywords\/Store\]\]/.test(l)));
+  assert.ok(hits.some((l) => /\[\[Sections\/Networking\]\]/.test(l)));
+  // frontmatter section_ref (line 2) must NOT be flagged
+  assert.ok(!findings.unaliasedPathLinks.some((l) => /P\.md:2\b/.test(l)));
+  await fs.rm(r, { recursive: true, force: true });
+});

@@ -64,6 +64,6 @@ _Draw performance window_
 
 This window shows the resources allocated to drawing the screens. Each displays has its own row.
 
-← [[Pages/Other System Tools/Desk status]] | [[Pages/Other System Tools/System monitor]] →
+← [[Pages/Other System Tools/Desk status|Desk status]] | [[Pages/Other System Tools/System monitor|System monitor]] →
 
-Part of [[Sections/Other System Tools]] · [[000 Map of Content]]
+Part of [[Sections/Other System Tools|Other System Tools]] · [[000 Map of Content]]

@@ -101,6 +101,6 @@ It can often be a good idea to treat the user input as text. This, for instance,
 
 See more examples in the [[Pages/Macros/Example macros|Example macros topic]].
 
-← [[Pages/Macros/Use variables in macros]] | [[Pages/Macros/Conditional expressions]] →
+← [[Pages/Macros/Use variables in macros|Use variables in macros]] | [[Pages/Macros/Conditional expressions|Conditional expressions]] →
 
-Part of [[Sections/Macros]] · [[000 Map of Content]]
+Part of [[Sections/Macros|Macros]] · [[000 Map of Content]]

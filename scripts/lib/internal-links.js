@@ -94,3 +94,38 @@ export function rewriteInternalLinks(body, slugIndex, { onUnresolved } = {}) {
   });
   return { text, resolved, unresolved };
 }
+
+// Matches a wikilink; lazy inner so targets containing a single `]` (bracketed
+// special-char note names) are captured, not truncated — mirrors audit.js.
+export const WIKILINK_RE = /\[\[(.+?)\]\]/g;
+
+/**
+ * Add a display alias to every path-qualified body wikilink that lacks one, so
+ * `[[Keywords/Assign keyword]]` renders its clean basename ("Assign keyword")
+ * instead of leaking the full vault path on the github-browse branch.
+ *
+ * Pure (no I/O). Operates on a BODY string only — never pass frontmatter, whose
+ * typed-relation wikilinks must stay bare. Skips:
+ *   - already-aliased links (`[[…|…]]`),
+ *   - bare root links with no `/` (`[[000 Map of Content]]` — render fine),
+ *   - links whose basename contains `[`, `]` or `|` (aliasing would corrupt the
+ *     wikilink; left bare and exempt). Any `#anchor` is preserved on the target.
+ */
+export function aliasPathWikilinks(body) {
+  let aliased = 0;
+  let skipped = 0;
+  const text = body.replace(WIKILINK_RE, (full, inner) => {
+    if (inner.includes('|')) return full; // already aliased
+    const [noteOnly, anchor] = inner.split('#');
+    const note = noteOnly.trim();
+    if (!note.includes('/')) return full; // bare root link — out of scope
+    const baseName = note.split('/').pop();
+    if (/[[\]|]/.test(baseName)) {
+      skipped++; // un-aliasable basename
+      return full;
+    }
+    aliased++;
+    return `[[${note}${anchor !== undefined ? `#${anchor}` : ''}|${baseName}]]`;
+  });
+  return { text, aliased, skipped };
+}

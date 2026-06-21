@@ -294,6 +294,6 @@ This is a short description of the different options:
 
 The options can be closed by tapping the yellow "X" in the upper right corner.
 
-← [[Pages/Timecode/Record a Timecode Show]] | [[Pages/Timecode/Playing Back a Timecode Show]] →
+← [[Pages/Timecode/Record a Timecode Show|Record a Timecode Show]] | [[Pages/Timecode/Playing Back a Timecode Show|Playing Back a Timecode Show]] →
 
-Part of [[Sections/Timecode]] · [[000 Map of Content]]
+Part of [[Sections/Timecode|Timecode]] · [[000 Map of Content]]

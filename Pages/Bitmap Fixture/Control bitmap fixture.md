@@ -140,6 +140,6 @@ _Layout view with bitmap VImg attribute split y tile-_
 
 _Layout view with bitmap VImg attribute split x tile+ split y tile+_
 
-← [[Pages/Bitmap Fixture/Apply bitmap fixture in the layout view]] | [[Pages/Bitmap Fixture/Edit bitmap fixture]] →
+← [[Pages/Bitmap Fixture/Apply bitmap fixture in the layout view|Apply bitmap fixture in the layout view]] | [[Pages/Bitmap Fixture/Edit bitmap fixture|Edit bitmap fixture]] →
 
-Part of [[Sections/Bitmap Fixture]] · [[000 Map of Content]]
+Part of [[Sections/Bitmap Fixture|Bitmap Fixture]] · [[000 Map of Content]]

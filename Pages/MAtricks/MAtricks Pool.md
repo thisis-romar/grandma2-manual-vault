@@ -69,8 +69,8 @@ You can also import predefined MAtricks in Setup – Import Export – Import �
 By default, **Reset** is always displayed in the first pool object of the MAtricks pool. You can set the MAtricks without selecting an object in the MAtricks pool. These settings can also be reset by tapping the pool object **Reset**. 
 
 **Hint:**  
-For information on how to access the MAtricks pool options and how to use them see [[Pages/Pools/Adjust pool options]].
+For information on how to access the MAtricks pool options and how to use them see [[Pages/Pools/Adjust pool options|Adjust pool options]].
 
-← [[Pages/MAtricks/MAtricks Toolbar]] | [[Pages/MAtricks/MAtricks Interleave]] →
+← [[Pages/MAtricks/MAtricks Toolbar|MAtricks Toolbar]] | [[Pages/MAtricks/MAtricks Interleave|MAtricks Interleave]] →
 
-Part of [[Sections/MAtricks]] · [[000 Map of Content]]
+Part of [[Sections/MAtricks|MAtricks]] · [[000 Map of Content]]

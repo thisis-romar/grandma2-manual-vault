@@ -67,8 +67,8 @@ You can assign a world to an executor or a sequence - but it is not linked to th
 
 Worlds can be assigned to User Profiles. Then the users, with this User Profile, will be limited to only the assigned world and cannot select a different world. Read about it in the [[Pages/Single and Multi User Systems/Create user profiles and users|Create User Profiles and Users topic]].
 
-Read the next page for more on how to [[Pages/Worlds Filters and Masks/Create worlds]].
+Read the next page for more on how to [[Pages/Worlds Filters and Masks/Create worlds|Create worlds]].
 
-[[Pages/Worlds Filters and Masks/Create worlds]] →
+[[Pages/Worlds Filters and Masks/Create worlds|Create worlds]] →
 
-Part of [[Sections/Worlds Filters and Masks]] · [[000 Map of Content]]
+Part of [[Sections/Worlds Filters and Masks|Worlds Filters and Masks]] · [[000 Map of Content]]

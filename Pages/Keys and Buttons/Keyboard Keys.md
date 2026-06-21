@@ -63,6 +63,6 @@ Shift + left mouse button
 
 Selects range of cells in sheets.
 
-← [[Pages/Keys and Buttons/Key Overview]]
+← [[Pages/Keys and Buttons/Key Overview|Key Overview]]
 
-Part of [[Sections/Keys and Buttons]] · [[000 Map of Content]]
+Part of [[Sections/Keys and Buttons|Keys and Buttons]] · [[000 Map of Content]]

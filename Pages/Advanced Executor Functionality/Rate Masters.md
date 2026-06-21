@@ -30,10 +30,10 @@ It is possible to a assign 15 different Rate Masters to executors.
 
 The Rate Masters can be assigned to sequences executors or effects. This makes it possible to sync multiple elements to the same rate.
 
-Read more about assigning rate masters to sequences executors in the [[Pages/Advanced Executor Functionality/Executor Options]] topic. Read about assigning a rate master to an effect in the [[Pages/Effects/Use Predefined Effects|Use Predefined Effects topic]]. 
+Read more about assigning rate masters to sequences executors in the [[Pages/Advanced Executor Functionality/Executor Options|Executor Options]] topic. Read about assigning a rate master to an effect in the [[Pages/Effects/Use Predefined Effects|Use Predefined Effects topic]]. 
 
 All the Rate Masters can be seen and adjusted in the [[Pages/Advanced Executor Functionality/Masters Window|Masters window]].
 
-← [[Pages/Advanced Executor Functionality/Speed Masters]] | [[Pages/Advanced Executor Functionality/Playback Masters]] →
+← [[Pages/Advanced Executor Functionality/Speed Masters|Speed Masters]] | [[Pages/Advanced Executor Functionality/Playback Masters|Playback Masters]] →
 
-Part of [[Sections/Advanced Executor Functionality]] · [[000 Map of Content]]
+Part of [[Sections/Advanced Executor Functionality|Advanced Executor Functionality]] · [[000 Map of Content]]

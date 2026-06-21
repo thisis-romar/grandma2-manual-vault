@@ -27,7 +27,7 @@ This section provides detailed information about the fixture types also called f
 
 The first topics are about the **Fixture Type Editor** and it also describes the [[Pages/Advanced Fixture Types/Anatomy of a Fixture Type|Anatomy of Fixture Types]].
 
-A very important part of the structure, not only in fixtures, but in the entire show is the setup and arrangement of the Preset Types, Features, Attributes, and Subattributes. This is all arranged in the [[Pages/Advanced Fixture Types/Attribute & Encoder Grouping]] menu.
+A very important part of the structure, not only in fixtures, but in the entire show is the setup and arrangement of the Preset Types, Features, Attributes, and Subattributes. This is all arranged in the [[Pages/Advanced Fixture Types/Attribute & Encoder Grouping|Attribute & Encoder Grouping]] menu.
 
   
 
@@ -36,11 +36,11 @@ A very important part of the structure, not only in fixtures, but in the entire 
 #### Sub topics
 
 *   [[Pages/Advanced Fixture Types/Anatomy of a Fixture Type|Anatomy of a fixture type]]
-*   [[Pages/Advanced Fixture Types/Attribute & Encoder Grouping]]
+*   [[Pages/Advanced Fixture Types/Attribute & Encoder Grouping|Attribute & Encoder Grouping]]
 
 ## Pages in This Section
 
-- [[Pages/Advanced Fixture Types/Anatomy of a Fixture Type]]
-- [[Pages/Advanced Fixture Types/Attribute & Encoder Grouping]]
+- [[Pages/Advanced Fixture Types/Anatomy of a Fixture Type|Anatomy of a Fixture Type]]
+- [[Pages/Advanced Fixture Types/Attribute & Encoder Grouping|Attribute & Encoder Grouping]]
 
 Part of [[000 Map of Content]]

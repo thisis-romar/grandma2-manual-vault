@@ -71,6 +71,6 @@ Tap Show All in the upper right corner to get a list over all the icons that can
 
 Tap ![](../../img/icon_yellow-ball_3_2.png) in the upper left corner to manage the messages icons on the **Command Line**. Here, it is possible to select which information that must display a status icon and which that must give an information pop-up.
 
-[[Pages/Other System Tools/Help]] →
+[[Pages/Other System Tools/Help|Help]] →
 
-Part of [[Sections/Other System Tools]] · [[000 Map of Content]]
+Part of [[Sections/Other System Tools|Other System Tools]] · [[000 Map of Content]]

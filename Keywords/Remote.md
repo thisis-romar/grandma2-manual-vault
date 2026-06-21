@@ -58,7 +58,7 @@ If you store a remote input type, the IDs needs to be in an order and beginning 
 
 ## Parameter
 
-The following table displays the assignable parameter via the command line, using the [[Keywords/Assign keyword]].
+The following table displays the assignable parameter via the command line, using the [[Keywords/Assign keyword|Assign keyword]].
 
 Parameter
 

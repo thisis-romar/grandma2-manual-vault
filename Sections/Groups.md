@@ -84,20 +84,20 @@ How to [[Pages/Groups/Choose copy method|Delete, Copy and Move Groups]].
 
 #### Sub topics
 
-*   [[Pages/Groups/Create groups]]
+*   [[Pages/Groups/Create groups|Create groups]]
 *   [[Pages/Groups/Auto Create groups|Auto create groups]]
-*   [[Pages/Groups/Using groups when programming]]
-*   [[Pages/Groups/Choose copy method]]
+*   [[Pages/Groups/Using groups when programming|Using groups when programming]]
+*   [[Pages/Groups/Choose copy method|Choose copy method]]
 *   [[Pages/Groups/Change colors in group options for all in order and all out of order|Change specific group colors]]
 *   [[Pages/Groups/Group Master on Executors|Group masters]]
 
 ## Pages in This Section
 
-- [[Pages/Groups/Create groups]]
-- [[Pages/Groups/Auto Create groups]]
-- [[Pages/Groups/Using groups when programming]]
-- [[Pages/Groups/Choose copy method]]
-- [[Pages/Groups/Change colors in group options for all in order and all out of order]]
-- [[Pages/Groups/Group Master on Executors]]
+- [[Pages/Groups/Create groups|Create groups]]
+- [[Pages/Groups/Auto Create groups|Auto Create groups]]
+- [[Pages/Groups/Using groups when programming|Using groups when programming]]
+- [[Pages/Groups/Choose copy method|Choose copy method]]
+- [[Pages/Groups/Change colors in group options for all in order and all out of order|Change colors in group options for all in order and all out of order]]
+- [[Pages/Groups/Group Master on Executors|Group Master on Executors]]
 
 Part of [[000 Map of Content]]

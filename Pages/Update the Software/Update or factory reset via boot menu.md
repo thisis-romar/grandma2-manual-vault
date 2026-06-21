@@ -67,6 +67,6 @@ Before you start to update your grandMA2 software or doing a factory reset, save
 
 The console is updated.
 
-← [[Pages/Update the Software/Format a USB stick for Linux]] | [[Pages/Update the Software/Restart from Linux]] →
+← [[Pages/Update the Software/Format a USB stick for Linux|Format a USB stick for Linux]] | [[Pages/Update the Software/Restart from Linux|Restart from Linux]] →
 
-Part of [[Sections/Update the Software]] · [[000 Map of Content]]
+Part of [[Sections/Update the Software|Update the Software]] · [[000 Map of Content]]

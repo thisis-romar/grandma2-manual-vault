@@ -89,10 +89,10 @@ The columns are:
 *   **IP ETHERCON 2 (ETH1)** - This is the IP address of the number 2 EtherCon connector on the back of the console. This connector is for Art-Net and should have an Art-Net compatible IP address. Changing this number will change the IP address on the console and requires a reboot.
 *   **Hostname** - This is the hostname of the console. This is only for information. It can only be changed in the MA Network Control.
 *   **Type** - This displays the type of console.
-*   **XLR A** to **XLR F** - These are the female DMX connectors on the back of the console. Editing this cell will open a pop-up that allows you to change the settings. It is described in details in the [[Pages/Networking/Getting DMX in and out of the system]] topic.
+*   **XLR A** to **XLR F** - These are the female DMX connectors on the back of the console. Editing this cell will open a pop-up that allows you to change the settings. It is described in details in the [[Pages/Networking/Getting DMX in and out of the system|Getting DMX in and out of the system]] topic.
 *   **XLR In** - This is the male DMX port on the back of the console. Editing, works just as the female connectors - see above.
-*   **MIDI TC** - Choose which Timecode slot the incoming MIDI timecode should be sent to. Please read the [[Sections/Timecode]] topic for more details about Timecode slots.
-*   **SMPTE TC** - Choose which Timecode slot the incoming LTC/SMPTE timecode should be sent to. Please read the [[Sections/Timecode]] topic for more details about Timecode slots.
+*   **MIDI TC** - Choose which Timecode slot the incoming MIDI timecode should be sent to. Please read the [[Sections/Timecode|Timecode]] topic for more details about Timecode slots.
+*   **SMPTE TC** - Choose which Timecode slot the incoming LTC/SMPTE timecode should be sent to. Please read the [[Sections/Timecode|Timecode]] topic for more details about Timecode slots.
 *   **Version** - This is the software version the console is currently running.
 *   **Memory Complete/Free** - This displays the amount of memory (RAM) in the console and how much of that is not used. If the console uses all the available memory then it will stop working. You will also need an extra memory capacity to connect to a file server.
 *   **x64** - Here it is displayed if the console is running the 64 -bit version of Linux or the 32-bit. A "Yes" indicates that it is 64-bit.
@@ -199,7 +199,7 @@ Speaking of modes. There is a **Mode** column. Here it is possible to select dif
 *   **sACN** - This will switch the node to sACN mode.
 *   **None** - This will disable the node.
 
-Adding DMX Nodes to the session is different then all the other elements we have looked at so far. They are not invited to join what ever session you are currently in, they are assigned to listen to a specific session number - this is done in the **Session ID/Network** column. They hold their own configuration - it is not a part of the show file. It can however be [[Sections/Export and Import|imported or exported]]. Please read the [[Pages/Networking/Getting DMX in and out of the system]] topics for more about the DMX configuration.
+Adding DMX Nodes to the session is different then all the other elements we have looked at so far. They are not invited to join what ever session you are currently in, they are assigned to listen to a specific session number - this is done in the **Session ID/Network** column. They hold their own configuration - it is not a part of the show file. It can however be [[Sections/Export and Import|imported or exported]]. Please read the [[Pages/Networking/Getting DMX in and out of the system|Getting DMX in and out of the system]] topics for more about the DMX configuration.
 
 Since it is possible to have up to 8 DMX ports, then there are "XLR A" to "XLR H" columns.
 
@@ -221,6 +221,6 @@ The MA Network Switch has a lot of settings and controlling or configuring it fr
 
 The Bridge is not implemented, so there is nothing to do in this tab.
 
-← [[Pages/Networking/Protecting the session and station]] | [[Pages/Networking/How to end or leave a session]] →
+← [[Pages/Networking/Protecting the session and station|Protecting the session and station]] | [[Pages/Networking/How to end or leave a session|How to end or leave a session]] →
 
-Part of [[Sections/Networking]] · [[000 Map of Content]]
+Part of [[Sections/Networking|Networking]] · [[000 Map of Content]]

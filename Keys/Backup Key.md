@@ -26,7 +26,7 @@ The key Backup is located on the right of the key Setup.
 
 _Location k__ey_ _Backup_ 
 
-Pressing Backup executes [[Keywords/Backup|Backup keyword]] and opens the [[Sections/Backup Menu]].
+Pressing Backup executes [[Keywords/Backup|Backup keyword]] and opens the [[Sections/Backup Menu|Backup Menu]].
 
 Pressing Backup Backup executes [[Keywords/SaveShow|SaveShow keyword]] and saves the show data on the currently selected drive.
 

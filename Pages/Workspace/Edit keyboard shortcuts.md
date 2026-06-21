@@ -54,6 +54,6 @@ You can edit the default keyboard shortcuts and customize them to your needs.
 
 The keyboard shortcut is edited and saved in the show file.
 
-← [[Pages/Workspace/Turn on or turn off the keyboard shortcuts]] | [[Pages/Workspace/Add or delete keyboard shortcuts]] →
+← [[Pages/Workspace/Turn on or turn off the keyboard shortcuts|Turn on or turn off the keyboard shortcuts]] | [[Pages/Workspace/Add or delete keyboard shortcuts|Add or delete keyboard shortcuts]] →
 
-Part of [[Sections/Workspace]] · [[000 Map of Content]]
+Part of [[Sections/Workspace|Workspace]] · [[000 Map of Content]]

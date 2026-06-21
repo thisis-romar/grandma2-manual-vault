@@ -28,8 +28,8 @@ Version 3.9
 
 Markers are color indicators in form of a bar, square, or a thin line. Markers are visible in:
 
-*   [[Pages/Operate Fixtures/Channel Sheet]]
-*   [[Pages/Operate Fixtures/Fixture Sheet]]
+*   [[Pages/Operate Fixtures/Channel Sheet|Channel Sheet]]
+*   [[Pages/Operate Fixtures/Fixture Sheet|Fixture Sheet]]
 *   [[Pages/Command Syntax and Keywords/Looking at the cue content|Sequence Content Sheet]]
 *   [[Pages/Command Syntax and Keywords/Looking at the cue content|Sequence Tracking Sheet]]
 *   [[Sections/Layouts|Layout View]]
@@ -171,7 +171,7 @@ Purple markers indicate attributes that were calculated in the bitmap fixture.
 
 ## Pool Object Marker Colors
 
-The pool object markers are used in pool objects and they indicate which values are stored in the pool object, in the preset pools and in the filter pools. For more information see [[Pages/Worlds Filters and Masks/What are filters|What are Filters?]] and [[Pages/Presets/Preset Pools]].
+The pool object markers are used in pool objects and they indicate which values are stored in the pool object, in the preset pools and in the filter pools. For more information see [[Pages/Worlds Filters and Masks/What are filters|What are Filters?]] and [[Pages/Presets/Preset Pools|Preset Pools]].
 
 **Yellow Pool Object Marker:**
 
@@ -245,7 +245,7 @@ You can enable or disable the markers. By default, the markers are enabled.
 To enable or disable the markers in the:
 
 *   [[Pages/Operate Fixtures/Fixture Sheet|Fixtures Sheet]]
-*   [[Pages/Operate Fixtures/Channel Sheet]]
+*   [[Pages/Operate Fixtures/Channel Sheet|Channel Sheet]]
 *   [[Pages/Command Syntax and Keywords/Looking at the cue content|Sequence Content Sheet]]
 *   [[Pages/Command Syntax and Keywords/Looking at the cue content|Sequence Tracking Sheet]]
 
@@ -255,6 +255,6 @@ To enable or disable the markers in the:
 
 The markers are enabled or disabled. To save the the settings, save the settings as default or save the view.
 
-← [[Pages/Workspace/System Colors]] | [[Pages/Workspace/Cue Colors]] →
+← [[Pages/Workspace/System Colors|System Colors]] | [[Pages/Workspace/Cue Colors|Cue Colors]] →
 
-Part of [[Sections/Workspace]] · [[000 Map of Content]]
+Part of [[Sections/Workspace|Workspace]] · [[000 Map of Content]]

@@ -81,6 +81,6 @@ When the desired selection is made, then tap the Please button in the pop-up. 
 
 It is possible to create a new show using the command line. The command is called NewShow. Read more about it [[Keywords/NewShow|here]].
 
-[[Pages/Backup Menu/Loading a show]] →
+[[Pages/Backup Menu/Loading a show|Loading a show]] →
 
-Part of [[Sections/Backup Menu]] · [[000 Map of Content]]
+Part of [[Sections/Backup Menu|Backup Menu]] · [[000 Map of Content]]

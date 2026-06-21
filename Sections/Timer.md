@@ -38,7 +38,7 @@ Control the timers using the [[Keywords/Timer|Timer keyword]]. 
 
 ## Pages in This Section
 
-- [[Pages/Timer/Timer Pool]]
-- [[Pages/Timer/Timer Pool Options]]
+- [[Pages/Timer/Timer Pool|Timer Pool]]
+- [[Pages/Timer/Timer Pool Options|Timer Pool Options]]
 
 Part of [[000 Map of Content]]

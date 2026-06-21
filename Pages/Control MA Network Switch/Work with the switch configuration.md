@@ -103,6 +103,6 @@ The switch configuration is uploading. The update process can take about 60 seco
 
 The switch configuration is uploaded and saved in the startup configuration.
 
-← [[Pages/Control MA Network Switch/Mirror Ports of the MA Network Switch]] | [[Pages/Control MA Network Switch/Disable SNMP]] →
+← [[Pages/Control MA Network Switch/Mirror Ports of the MA Network Switch|Mirror Ports of the MA Network Switch]] | [[Pages/Control MA Network Switch/Disable SNMP|Disable SNMP]] →
 
-Part of [[Sections/Control MA Network Switch]] · [[000 Map of Content]]
+Part of [[Sections/Control MA Network Switch|Control MA Network Switch]] · [[000 Map of Content]]

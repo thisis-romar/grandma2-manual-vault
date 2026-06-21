@@ -94,6 +94,6 @@ The view button X-Key is structured in four areas.
 
 For more information about views, see [[Pages/Workspace/Work with views|work with views]].
 
-← [[Pages/Workspace/X-Key Labels]] | [[Pages/Workspace/Master Section]] →
+← [[Pages/Workspace/X-Key Labels|X-Key Labels]] | [[Pages/Workspace/Master Section|Master Section]] →
 
-Part of [[Sections/Workspace]] · [[000 Map of Content]]
+Part of [[Sections/Workspace|Workspace]] · [[000 Map of Content]]

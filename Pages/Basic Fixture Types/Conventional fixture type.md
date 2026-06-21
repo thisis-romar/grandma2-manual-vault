@@ -29,6 +29,6 @@ The **Conventional** fixture type is used for fixtures that primarily only conta
 
 Selecting this type will give a 3D model that looks like a traditional parcan.
 
-[[Pages/Basic Fixture Types/LED]] →
+[[Pages/Basic Fixture Types/LED|LED]] →
 
-Part of [[Sections/Basic Fixture Types]] · [[000 Map of Content]]
+Part of [[Sections/Basic Fixture Types|Basic Fixture Types]] · [[000 Map of Content]]

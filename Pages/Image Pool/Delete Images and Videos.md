@@ -40,6 +40,6 @@ Deletes images 14 to 24 in the image pool. 
 **Important:**  
 It is not possible to delete or edit predefined images or videos for that matter.
 
-← [[Pages/Image Pool/Supported file formats]]
+← [[Pages/Image Pool/Supported file formats|Supported file formats]]
 
-Part of [[Sections/Image Pool]] · [[000 Map of Content]]
+Part of [[Sections/Image Pool|Image Pool]] · [[000 Map of Content]]
