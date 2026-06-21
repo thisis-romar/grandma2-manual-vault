@@ -1,0 +1,57 @@
+---
+type: "keyword"
+cssclasses:
+  - "gma2-keyword"
+keyword: "TakeControl"
+slug: "key_keyword_takecontrol"
+url: "https://help.malighting.com/grandMA2/en/help/key_keyword_takecontrol.html"
+keyword_type: "unknown"
+tags:
+  - "type/keyword"
+summary: "TakeControl is a keyword used if multiple users are in a session."
+---
+
+# TakeControl
+
+> [!source]- Source
+> [MA Lighting Help – TakeControl](https://help.malighting.com/grandMA2/en/help/key_keyword_takecontrol.html)
+
+Version 3.9
+
+# TakeControl Keyword
+
+To go to the TakeControl keyword, type **TakeControl** in the command line or use the shortcut **Ta**.
+
+## Description
+
+TakeControl is a keyword used if multiple users are in a session.
+
+The TakeControl keyword, takes the exclusive control of channels or attributes from fixtures, for the current user profile.
+
+All other users can not start these fixtures or channels anymore as playback. The fixtures or channels are still controllable in the programmer.
+
+The user who executes the TakeControl command has only the control about playbacks with the Takecontrol fixtures. The control about all other playbacks is lost.
+
+![](../../img/window_fixture-sheet-takecontrol-cmd_v3-2.png)
+
+_Fixture Sheet with controllable (gray font) and not controllable (dark blue font) attributes from playbacks_
+
+For more information about the system colors, see [Colors](../Pages/Workspace/Colors.md).
+
+To drop the control of the fixtures or channels back, use the [DropControl keyword](DropControl%20keyword.md).
+
+## Syntax
+
+TakeControl \[fixture-list\]
+
+TakeControl \[channel-list\]
+
+TakeControl \[sequence-list\]
+
+## Example
+
+Take the exclusive control of fixture 1 through 10 for the current user profile. All other fixtures are not controllable from playbacks anymore.
+
+\[Channel\]> TakeControl Fixture 1 Thru 10
+
+Part of [000 Keyword Index](../000%20Keyword%20Index.md) · [000 Map of Content](../000%20Map%20of%20Content.md)

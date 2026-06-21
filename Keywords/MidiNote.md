@@ -1,0 +1,74 @@
+---
+type: "keyword"
+cssclasses:
+  - "gma2-keyword"
+keyword: "MidiNote"
+slug: "key_keyword_midinote"
+url: "https://help.malighting.com/grandMA2/en/help/key_keyword_midinote.html"
+keyword_type: "unknown"
+tags:
+  - "type/keyword"
+summary: "With the MidiNote command, you send MIDI Note messages via the Midi Out port at the back of the console."
+---
+
+# MidiNote
+
+> [!source]- Source
+> [MA Lighting Help – MidiNote](https://help.malighting.com/grandMA2/en/help/key_keyword_midinote.html)
+
+Version 3.9
+
+# MidiNote Keyword
+
+To use to the MidiNote keyword, type **MidiNote** or the shortcut **Mn** in the command line.
+
+## Description
+
+With the MidiNote command, you send MIDI Note messages via the Midi Out port at the back of the console. For more information, see [Device Overview](../Sections/Device%20Overview.md).
+
+If a MIDI channel is entered in the command, the entered MIDI channel will be used.  
+If no MIDI channel is entered, the MIDI channel in the **Setup -> Midi Show Control** is used.
+
+If a velocity is entered in the command, the entered velocity will be used.  
+If no velocity is entered, a velocity full (127) will be used.
+
+If the Off command is used, a MidiNote Off is sent.
+
+For more information on the configuration of MIDI Remotes see [Remote Inputs Setup](../Pages/Remote%20Control/Remote%20Inputs.md). 
+
+## Syntax
+
+**MidiNote** \[note\]
+
+**MidiNote** \[midichannel\] . \[note\]
+
+**MidiNote** \[note\] \[velocity\]
+
+**MidiNote** \[midichannel\] . \[note\] \[velocity\]
+
+**MidiNote** \[note\] **Off**
+
+**MidiNote** \[midichannel\] . \[note\] **Off**
+
+**MidiNote** \[note\] \[velocity\] **Off**
+
+**MidiNote** \[midichannel\] . \[note\] \[velocity\] **Off**
+
+## Example
+
+Let´s assume, you will send a MIDI note on a specific cue to trigger a sound station.
+
+**Requirements:**
+
+*   Connected sound station device e.g. computer on the MIDI Out connector.
+*   Stored cue in a sequence on an executor.
+
+Open the sequence executor sheet and type in the CMD (= command) column the following syntax: MidiNote 12
+
+![](../../img/window_sequence-sheet-midi-cmd_v3-2.png)
+
+_Sequence Sheet with MidiNote command_
+
+The MIDI note will be send if the cue is executed and will trigger the connected sound station.
+
+Part of [000 Keyword Index](../000%20Keyword%20Index.md) · [000 Map of Content](../000%20Map%20of%20Content.md)

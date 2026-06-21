@@ -1,0 +1,76 @@
+---
+type: "page"
+cssclasses:
+  - "gma2-page"
+title_str: "Message center"
+slug: "key_message_center"
+url: "https://help.malighting.com/grandMA2/en/help/key_message_center.html"
+section: "Other System Tools"
+ma2_section: "key_ost"
+section_ref: "[Sections/Other System Tools](../../Sections/Other%20System%20Tools.md)"
+next_page: "[Pages/Other System Tools/Help](Help.md)"
+depth: 2
+tags:
+  - "type/page"
+  - "section/message"
+summary: "To access the Message Center window, tap on an empty part of a screen."
+---
+
+# Message center
+
+> [!source]- Source
+> [MA Lighting Help – Message center](https://help.malighting.com/grandMA2/en/help/key_message_center.html)
+
+Version 3.9
+
+# Message center
+
+To access the **Message Center** window, tap on an empty part of a screen. This must be at least 4 columns wide and 3 rows high. Tap System and then Message Center.
+
+This will open the **Message Center** window.
+
+![](../../img/window_message-center_v3_3.png)
+
+_Message center window_
+
+The **Message Center** is a great help, to debug the system. It is an activity log of different messages from the system. If there are any unstable devices or an error on the network, this window will be a great help.
+
+It is possible to filter the information by **Category**, **Subcategory**, **Type** or **Sender**. This will give the opportunity to only display messages about power or network for example, or only display errors. It is also possible to filter which device sent the message.
+
+It is possible to export the messages to an xlm file. Read more about export in the [Export Keyword](../../Keywords/Export.md) topic.
+
+All the messages that are written in green are new. They will become gray, if you scroll up the window.
+
+**Hint:**  
+The messages are a part of the show file, and all messages will be stored into the file.
+
+To clear the messages, use the command line and type
+
+\[Channel\] > Delete Messages
+
+**Important:**  
+**Messages** and **Message** is two different keywords. Read more about keywords in the [All Keyword](../Command%20Syntax%20and%20Keywords/All%20keywords.md) topic
+
+## Icons on the Command Line
+
+Another part of the Message Center are the icons on the right side of the **Command Line**. These could look like this:
+
+![](../../img/img_commandline_3_2.png)
+
+_Command line icons_
+
+These will display important information about the console and the network. Tap the icons to get the description of what they mean.
+
+It could look like this:
+
+![](../../img/popup_message-center_v3_3.png)
+
+_Message center pop-up_
+
+Tap Show All in the upper right corner to get a list over all the icons that can be displayed.
+
+Tap ![](../../img/icon_yellow-ball_3_2.png) in the upper left corner to manage the messages icons on the **Command Line**. Here, it is possible to select which information that must display a status icon and which that must give an information pop-up.
+
+[Help](Help.md) →
+
+Part of [Other System Tools](../../Sections/Other%20System%20Tools.md) · [000 Map of Content](../../000%20Map%20of%20Content.md)

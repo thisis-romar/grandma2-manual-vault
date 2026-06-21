@@ -1,0 +1,48 @@
+---
+type: "page"
+cssclasses:
+  - "gma2-page"
+title_str: "Disable bitmap for fixtures"
+slug: "key_bitmapfixture_disable"
+url: "https://help.malighting.com/grandMA2/en/help/key_bitmapfixture_disable.html"
+section: "Bitmap Fixture"
+ma2_section: "key_bitmapfixture"
+section_ref: "[Sections/Bitmap Fixture](../../Sections/Bitmap%20Fixture.md)"
+prev_page: "[Pages/Bitmap Fixture/Priorities for bitmap effects](Priorities%20for%20bitmap%20effects.md)"
+depth: 2
+tags:
+  - "type/page"
+  - "section/bitmapfixture"
+summary: "To disable the bitmap visualization for specific fixtures, follow the steps below."
+---
+
+# Disable bitmap for fixtures
+
+> [!source]- Source
+> [MA Lighting Help – Disable bitmap for fixtures](https://help.malighting.com/grandMA2/en/help/key_bitmapfixture_disable.html)
+
+Version 3.9
+
+# Disable bitmap for fixtures
+
+To disable the bitmap visualization for specific fixtures, follow the steps below.
+
+1.  Press Setup and tap at Patch & Fixture Schedule.  
+    The **Edit Setup** opens.
+2.  Tap at the layer in the which the fixture is.
+3.  Tap at the fixture and scroll to the column **Bitmap Disable**.
+4.  Press the screen encoder until **Yes** is displayed in the cell.
+    
+    ![](../../img/menu_edit-setup_bitmap-disable_v3_2.png)
+    
+    _Edit Setup - Disable Bitmap_
+    
+5.  To leave the **Edit Setup**, tap the **yellow** ![](../../img/icon_close_v3-2.png) in the upper right corner.  
+    A warning asks if you want to save the changes.
+6.  Tap Yes.
+
+The bitmap visualization is disabled for the fixture.
+
+← [Priorities for bitmap effects](Priorities%20for%20bitmap%20effects.md)
+
+Part of [Bitmap Fixture](../../Sections/Bitmap%20Fixture.md) · [000 Map of Content](../../000%20Map%20of%20Content.md)

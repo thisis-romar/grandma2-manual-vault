@@ -1,0 +1,58 @@
+---
+type: "keyword"
+cssclasses:
+  - "gma2-keyword"
+keyword: "User"
+slug: "key_keyword_user"
+url: "https://help.malighting.com/grandMA2/en/help/key_keyword_user.html"
+keyword_type: "unknown"
+tags:
+  - "type/keyword"
+summary: "The User keyword displays user details in the command line feedback window."
+---
+
+# User
+
+> [!source]- Source
+> [MA Lighting Help – User](https://help.malighting.com/grandMA2/en/help/key_keyword_user.html)
+
+Version 3.9
+
+# User Keyword
+
+To use to the User keyword, type **User** the shortcut **Us** in the command line**.**
+
+## Description
+
+The User keyword displays user details in the  command line feedback window.
+
+*   Name
+*   Password
+*   UserProfile
+*   Rights
+*   LoggedIn
+*   Info
+
+![](../../img/window_commandline-feedback_user_v3-2.png)
+
+_Command Line Feedback List User_
+
+The User keyword is an object keyword.
+
+For more information, see [create user profiles and user](../Pages/Single%20and%20Multi%20User%20Systems/Create%20user%20profiles%20and%20users.md).
+
+## Syntax
+
+User \[ID\]
+
+## Example
+
+*   List user details of user 1.
+
+\[Channel\]> List User 1
+
+*   List all user details.
+
+\[Channel\]> List User
+
+Part of [000 Keyword Index](../000%20Keyword%20Index.md) · [000 Map of Content](../000%20Map%20of%20Content.md)

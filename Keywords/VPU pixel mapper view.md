@@ -1,0 +1,29 @@
+---
+type: "keyword"
+cssclasses:
+  - "gma2-keyword"
+keyword: "VPU pixel mapper view"
+slug: "key_keyword_vpupixelmapperview"
+url: "https://help.malighting.com/grandMA2/en/help/key_keyword_vpupixelmapperview.html"
+keyword_type: "unknown"
+tags:
+  - "type/keyword"
+summary: "To access the VPU Pixel Mapper View, tap on an empty part of a screen."
+---
+
+# VPU pixel mapper view
+
+> [!source]- Source
+> [MA Lighting Help – VPU pixel mapper view](https://help.malighting.com/grandMA2/en/help/key_keyword_vpupixelmapperview.html)
+
+Version 3.9
+
+# VPU pixel mapper view
+
+To access the **VPU Pixel Mapper View**, tap on an empty part of a screen. This must be at least 4 columns wide and 4 rows high. Tap Other and then VPU Pixel Mapper View.
+
+The VPU pixel mapper view is described in the manual for the VPU. For more information about pixelmapping, see the Pixelmapper topic.
+
+For more information about the view, see the Console - VPU Pixel Mapper View
+
+Part of [000 Keyword Index](../000%20Keyword%20Index.md) · [000 Map of Content](../000%20Map%20of%20Content.md)

@@ -1,0 +1,61 @@
+---
+type: "keyword"
+cssclasses:
+  - "gma2-keyword"
+keyword: "Dollar $ Character"
+slug: "key_keyword_dollar"
+url: "https://help.malighting.com/grandMA2/en/help/key_keyword_dollar.html"
+keyword_type: "unknown"
+tags:
+  - "type/keyword"
+summary: "The $ character indicates variables in the command line."
+---
+
+# Dollar $ Character
+
+> [!source]- Source
+> [MA Lighting Help – Dollar $ Character](https://help.malighting.com/grandMA2/en/help/key_keyword_dollar.html)
+
+Version 3.9
+
+# Dollar $ Character
+
+To get the $ character in the command line, press and hold Shift + 4.
+
+## Description
+
+The $ character indicates variables in the command line. For more information about variables, see [use variables](../Pages/Macros/Use%20variables%20in%20macros.md).
+
+## Examples
+
+Create and use a variable to turn the chaser executor off.
+
+1\. To create the variable enter in the command line:
+
+ \[Channel\]> SetVar $mychasers = "Executor 11 Thru 15"
+
+2\. To use the variables $mychasers to turn executor 11 through 15 off, enter in the command line:
+
+ \[Channel\]> Off $mychasers
+
+ 3. Press Please.
+
+Executor 11 trough 15 are turned off by using the variable $mychasers.
+
+For more information to the SetVar keyword, see [SetVar keyword](SetVar.md).
+
+* * *
+
+Create and use a variable to login into a user profile.
+
+1\. To create the variable enter in the command line:
+
+ \[Channel\]> SetVar $myname = "Ben Dover"
+
+2\. To use the variable to login into the user profile, enter in the command line:
+
+\[Channel\]> Login $"myname"
+
+You are logged in.
+
+Part of [000 Keyword Index](../000%20Keyword%20Index.md) · [000 Map of Content](../000%20Map%20of%20Content.md)

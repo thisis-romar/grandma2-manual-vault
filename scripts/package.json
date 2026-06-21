@@ -1,0 +1,27 @@
+{
+  "name": "grandma2-manual-extractor",
+  "version": "1.0.0",
+  "description": "Scrapes the grandMA2 User Manual and generates an Obsidian knowledge vault",
+  "type": "module",
+  "scripts": {
+    "obsidian": "node extract.js",
+    "extract": "node extract.js",
+    "links": "node convert-links.js",
+    "audit": "node audit.js",
+    "stats": "node stats.js",
+    "migrate:links": "node migrate-internal-links.js",
+    "alias:sublinks": "node alias-sublinks.js",
+    "summaries": "node derive-summaries.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "gray-matter": "^4.0.3",
+    "p-limit": "^6.1.0",
+    "slugify": "^1.6.6",
+    "turndown": "^7.2.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

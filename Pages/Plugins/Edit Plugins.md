@@ -1,0 +1,86 @@
+---
+type: "page"
+cssclasses:
+  - "gma2-page"
+title_str: "Edit Plugins"
+slug: "key_plugins_edit"
+url: "https://help.malighting.com/grandMA2/en/help/key_plugins_edit.html"
+section: "Plugins"
+ma2_section: "key_plugins"
+section_ref: "[Sections/Plugins](../../Sections/Plugins.md)"
+prev_page: "[Pages/Plugins/What is Lua](What%20is%20Lua.md)"
+depth: 2
+tags:
+  - "type/page"
+  - "section/plugins"
+summary: "-To view the specific Lua commands and their structure, import plugin\\1.lua into the plugin pool or follow this path on the grandMA2 onPC:"
+---
+
+# Edit Plugins
+
+> [!source]- Source
+> [MA Lighting Help – Edit Plugins](https://help.malighting.com/grandMA2/en/help/key_plugins_edit.html)
+
+Version 3.9
+
+# Edit Plugins
+
+**Hint:**  
+\-To view the specific Lua commands and their structure, import plugin\_1.lua into the plugin pool or follow this path on the grandMA2 onPC:  
+**C:\\ProgramData\\MA Lighting Technologies\\grandma\\gma2\_V\_x.x.x\\plugins\\plugin\_1.lua**  
+\-A plugin has always two files – an .xml and a .lua file.
+
+Open the plugin pool:
+
+1.  Tap System in **Create Basic Window**. For more information on how to open a basic window see [Manage windows](../Windows/Create%20and%20Manage%20Basic%20Windows.md).
+2.  Tap Plugin and the plugin pool opens.
+
+![](../../img/window_plugin-pool_v3-3.png)
+
+_Open the plugin pool_
+
+3.  Open the editor:  
+    \-Press Edit and tap an empty object in the pool.  
+    \-The **window Edit Plugin** opens.
+    
+    ![](../../img/window_plugin-editor_v3-3.png)
+    
+    _Open the plugin editor_
+    
+
+4.  To import the .xml file from the drive, tap Import and the **pop-up Import Plugins** opens.
+    
+    ![](../../img/popup_import-plugins_v3-3.png)
+    
+    _Import plugins_
+    
+      
+    \-Select the file and tap Import.  
+    \-To cancel the process, tap Cancel.
+
+**Hint:**  
+It is also possible to write the Lua code directly in the editor.
+
+5.  Label the plugin:  
+    \-Tap Label and type the name of the plugin in the calculator.  
+    \-Press Please.
+6.  To save the plugin, tap Save.
+7.  To export the plugin created, tap Export.
+8.  To reload the plugin engine, tap Reload.  
+    \-A confirmation pop-up opens.
+    
+    ![](../../img/popup_reload-plugin-engine_v3-3.png)
+    
+    _Reload the plugin engine_
+    
+      
+    \-To reload the engine, tap Ok.  
+    \-To cancel the process, tap Cancel.
+9.  To enable execution on load, tap Execute on Load.  
+    \-The button is highlighted in a yellow font.
+
+The Lua code is applied.
+
+← [What is Lua](What%20is%20Lua.md)
+
+Part of [Plugins](../../Sections/Plugins.md) · [000 Map of Content](../../000%20Map%20of%20Content.md)

@@ -1,0 +1,30 @@
+/*
+ * note-types.css — grandMA2 Manual Vault
+ * Per-note-type accents in reading + live-preview view, keyed off the
+ * `cssclasses` frontmatter each note carries (gma2-<type>). Colors match the
+ * graph-view color system documented in CLAUDE.md.
+ *
+ * Enable via Settings → Appearance → CSS snippets (auto-enabled by
+ * .obsidian/appearance.json).
+ */
+
+.gma2-keyword     { --gma2-accent: #E15759; } /* Keywords   */
+.gma2-key         { --gma2-accent: #F28E2B; } /* Keys       */
+.gma2-section     { --gma2-accent: #4E79A7; } /* Sections   */
+.gma2-page        { --gma2-accent: #76B7B2; } /* Pages      */
+.gma2-quick-start { --gma2-accent: #59A14F; } /* QuickStart */
+.gma2-moc         { --gma2-accent: #F97316; } /* MOC        */
+
+/* Left accent border on the note body (reading + live preview) */
+.markdown-preview-view[class*="gma2-"] .markdown-preview-sizer,
+.markdown-source-view.mod-cm6[class*="gma2-"] .cm-sizer {
+  border-left: 4px solid var(--gma2-accent, transparent);
+  padding-left: 14px;
+}
+
+/* Tint the inline title to match the type */
+.markdown-preview-view[class*="gma2-"] .inline-title,
+.markdown-source-view.mod-cm6[class*="gma2-"] .inline-title,
+.markdown-preview-view[class*="gma2-"] h1 {
+  color: var(--gma2-accent, inherit);
+}

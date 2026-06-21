@@ -1,0 +1,33 @@
+---
+type: "key"
+cssclasses:
+  - "gma2-key"
+key_label: "Freeze Key"
+slug: "key_key_freeze"
+url: "https://help.malighting.com/grandMA2/en/help/key_key_freeze.html"
+related_keyword: "[Keywords/Freeze](../Keywords/Freeze.md)"
+tags:
+  - "type/key"
+summary: "The key Freeze is located in the command area on the right of the key Blind."
+---
+
+# Freeze Key
+
+> [!source]- Source
+> [MA Lighting Help – Freeze Key](https://help.malighting.com/grandMA2/en/help/key_key_freeze.html)
+
+Version 3.9
+
+# Freeze Key
+
+The key Freeze is located in the command area on the right of the key Blind.
+
+![](../../img/img_freeze-key_v3-2.png)
+
+_Location k__ey_ _Freeze_ 
+
+Pressing Freeze executes the [Freeze keyword](../Keywords/Freeze.md) and turns on or off the freeze mode.
+
+The command line stays unaffected.
+
+Part of [000 Key Index](../000%20Key%20Index.md) · [000 Map of Content](../000%20Map%20of%20Content.md)

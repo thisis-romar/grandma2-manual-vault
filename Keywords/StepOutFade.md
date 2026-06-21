@@ -1,0 +1,49 @@
+---
+type: "keyword"
+cssclasses:
+  - "gma2-keyword"
+keyword: "StepOutFade"
+slug: "key_keyword_stepoutfade"
+url: "https://help.malighting.com/grandMA2/en/help/key_keyword_stepoutfade.html"
+keyword_type: "unknown"
+tags:
+  - "type/keyword"
+summary: "With the StepOutFade keyword, you assign executors as a step out fader."
+---
+
+# StepOutFade
+
+> [!source]- Source
+> [MA Lighting Help – StepOutFade](https://help.malighting.com/grandMA2/en/help/key_keyword_stepoutfade.html)
+
+Version 3.9
+
+# StepOutFade Keyword
+
+To get the StepOutFade keyword, type **StepOutFade** or the shortcut **StepO** in the command line.
+
+## Description
+
+With the StepOutFade keyword, you assign executors as a step out fader. A step out fader controls the step out time of each step of a chaser.
+
+For more information, see [executors - assign a function](../Pages/Executors/Assign%20a%20function.md).
+
+The StepOutFade keyword is a function keyword.
+
+## Syntax
+
+StepOutFade \[Executor-list\]
+
+StepOutFade \[Percent\]
+
+## Examples
+
+*   Assign executor 28 as a step out fader.
+
+\[Channel\]> Assign StepOutFade Exec 28
+
+*   Set the step out fader level to 50 % on executor 3.
+
+\[Channel\]> StepOutFade 50 Exec 3
+
+Part of [000 Keyword Index](../000%20Keyword%20Index.md) · [000 Map of Content](../000%20Map%20of%20Content.md)

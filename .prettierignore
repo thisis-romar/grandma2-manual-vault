@@ -1,0 +1,16 @@
+# Dependencies / build / generated output
+node_modules
+scripts/node_modules
+_quartz
+analytics
+package-lock.json
+
+# Vault content is authored/generated markdown — not Prettier-managed
+# (Prettier would reflow callouts, frontmatter, and nav footers).
+Sections
+Pages
+Keywords
+Keys
+QuickStart
+*.md
+.obsidian

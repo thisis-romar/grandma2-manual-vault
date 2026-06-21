@@ -1,0 +1,82 @@
+---
+type: "page"
+cssclasses:
+  - "gma2-page"
+title_str: "Executor Pages"
+slug: "key_adv_exec_pages"
+url: "https://help.malighting.com/grandMA2/en/help/key_adv_exec_pages.html"
+section: "Advanced Executor Functionality"
+ma2_section: "key_adv_exec"
+section_ref: "[Sections/Advanced Executor Functionality](../../Sections/Advanced%20Executor%20Functionality.md)"
+next_page: "[Pages/Advanced Executor Functionality/Channel Pages](Channel%20Pages.md)"
+depth: 2
+tags:
+  - "type/page"
+  - "section/adv"
+summary: "The Executors are arranged in pages."
+---
+
+# Executor Pages
+
+> [!source]- Source
+> [MA Lighting Help – Executor Pages](https://help.malighting.com/grandMA2/en/help/key_adv_exec_pages.html)
+
+Version 3.9
+
+# Executor Pages
+
+The Executors are arranged in pages.
+
+The pages gives access to several sets of Executors. Changing the page does not remove or turn off the Executors. It is just another set of Executors.
+
+The pages are arranged in a pool. For more general information about pools please read the [Pools in General section](../../Sections/Pools.md).
+
+The Executor pool could look like this:
+
+![](../../img/window_exec-pool_v3-3.png)
+
+_Executor pool - pool style_
+
+It can be changed to Sheet Style in the options, then it looks like this:
+
+![](../../img/window_exec-pool_sheet-style_v3-3.png)
+
+_Executor pool - sheet style_
+
+The pool show the different executor pages. The pool can be used to name the pages. The pool offers a visual indication of the currently active page for the Fader Executors and the Button Executors. Notice that they can be on two different pages. Their current page is indicated by an **F** and a **B**. If the **F** is gray, then a Channel page is currently active - Read more in the [Channel Pages topic](Channel%20Pages.md).
+
+Pages that have something assigned will have a white label text when the pool is in pool style. Pages that have been accessed but is empty will have a gray text color. Pages that has not been accessed and does not have anything stored are empty in the pool.
+
+## Change page
+
+Pages can be access by tapping the pool objects. This will make both the Fader Executors and the Button Executors jump to this page.
+
+Pages can also be changed using the dedicated Fd Pg + and Fd Pg - keys to change the page for the Fader Executors. Read about the keys in the [Fd Pg+](../../Keys/Fd%20Pg%20+%20%28Fader%20Page%29%20Key.md) and [Fd Pg-](../../Keys/Fd%20Pg%20-%20%28Fader%20Page%29%20Key.md) topics. Keeping the Fd Pg - key pressed for 2 seconds will jump to page 1 for the faders.
+
+The Button Executor pages can be changed using the Bt Pg + and Bt Pg - keys. Read about the keys in the [Bt Pg+](../../Keys/Bt%20Pg%20+%20%28Button%20Page%29%20Key.md) and [Bt Pg-](../../Keys/Bt%20Pg%20-%20%28Button%20Page%29%20Key.md) topics. Keeping the Bt Pg - key pressed for 2 seconds will jump to page 1 for the buttons.
+
+In **Setup ->  User -> Grand Master & Misc Keys** there is a setting called **Link Fader & Button Page**. If this is active then there is no separation between the Fader and Button page changes. Chaining pages using any the four keys mentioned above will change page for both Faders and Buttons at the same time.
+
+Pages can also be changed using the command line. There are three different relevant commands: [FaderPage](../../Keywords/FaderPage.md), [ButtonPage](../../Keywords/ButtonPage%20keyword.md), and [Page](../../Keywords/Page.md). Click them to read the details about the commands.
+
+There are three different commands to make it possible to change the Fader Executors and Button Executors independently using each of the two commands. But it is also possible to change both at the same time using the **Page** command.
+
+Pages can be changed by using the page number or page name.
+
+### Examples
+
+Change the Fader Executors to page 5:
+
+\[Channel\]> FaderPage 5
+
+Change the Button Executors to page 20:
+
+\[Channel\]> ButtonPage 20
+
+Change both faders and buttons to a page called **Rainbow**:
+
+\[Channel\]> Page Rainbow
+
+[Channel Pages](Channel%20Pages.md) →
+
+Part of [Advanced Executor Functionality](../../Sections/Advanced%20Executor%20Functionality.md) · [000 Map of Content](../../000%20Map%20of%20Content.md)

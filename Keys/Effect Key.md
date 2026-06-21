@@ -1,0 +1,55 @@
+---
+type: "key"
+cssclasses:
+  - "gma2-key"
+key_label: "Effect Key"
+slug: "key_key_effect"
+url: "https://help.malighting.com/grandMA2/en/help/key_key_effect.html"
+related_keyword: "[Keywords/Effect keyword](../Keywords/Effect%20keyword.md)"
+tags:
+  - "type/key"
+summary: "The key Effect is located on the right of the key View."
+---
+
+# Effect Key
+
+> [!source]- Source
+> [MA Lighting Help – Effect Key](https://help.malighting.com/grandMA2/en/help/key_key_effect.html)
+
+Version 3.9
+
+# Effect Key
+
+The key Effect is located on the right of the key View.
+
+![](../../img/img_effect-key_v3-2.png)
+
+_Location k__ey_ _Effect_ 
+
+*   Pressing Effect enters the [Effect keyword](../Keywords/Effect%20keyword.md) into the command line.
+
+\[Channel\]> Effect
+
+*   If a function keyword such as Store is already in the command line, pressing Effect Effect enters the [Form keyword](../Keywords/Form.md) into the command line.
+
+\[Channel\]>Form
+
+*   Pressing and holding Effect for about 2 seconds opens the pop-up Running Effects.  
+     
+    
+    ![](../../img/popup_running-effects_v3-2.png)
+    
+    _Pop-up Running Effects_
+    
+      
+     
+*   Pressing ![ma](../../img/ma_1.png) + Effect executes the [SyncEffects](../Keywords/SyncEffects.md) command.  
+     
+*   Pressing and holding List + Effect opens the temporary effect pool.  
+     
+    
+    ![](../../img/window_temp-effect-pool_v3-2.png)
+    
+    _Temporary effect pool_
+
+Part of [000 Key Index](../000%20Key%20Index.md) · [000 Map of Content](../000%20Map%20of%20Content.md)
