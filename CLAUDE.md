@@ -187,3 +187,17 @@ Both `github-browse` and `gh-pages` update automatically when `main` is pushed.
   and on PRs — the quality gate that keeps broken links / frontmatter off `main`.
 - **`npm run stats` / `npm run moc`** write live note counts into `README.md` and
   `000 Map of Content.md` (no longer placeholder `—`).
+
+### Dependency advisories (accepted)
+
+Tracked here so an `npm audit` hit in CI/local doesn't get mistaken for a regression.
+
+- **`js-yaml ≤4.1.1` (moderate) — GHSA-h67p-54hq-rp68**, pulled in transitively by
+  `gray-matter@^4.0.3` (`scripts/`). Quadratic-complexity DoS via repeated YAML merge-key
+  aliases. **Accepted / monitor — no functional risk here:** `gray-matter` only ever parses the
+  vault's *own* self-generated frontmatter (`scripts/audit.js`), never attacker-controlled input,
+  so the DoS vector is not reachable in this build pipeline. The advisory's `npm audit fix --force`
+  is a **breaking downgrade** to `gray-matter@2` and is intentionally **not** applied. Root
+  (vault-level) deps report **0 vulnerabilities**. Revisit if `gray-matter` ships a fixed `js-yaml`
+  range, or if frontmatter ever starts being parsed from untrusted input.
+  _(Reviewed 2026-06-21.)_
