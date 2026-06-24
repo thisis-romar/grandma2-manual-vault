@@ -3,6 +3,10 @@
 
 # grandMA2 Manual Vault
 
+[![CI](https://github.com/thisis-romar/grandma2-manual-vault/actions/workflows/ci.yml/badge.svg)](https://github.com/thisis-romar/grandma2-manual-vault/actions/workflows/ci.yml)
+[![Sync Branches](https://github.com/thisis-romar/grandma2-manual-vault/actions/workflows/sync.yml/badge.svg)](https://github.com/thisis-romar/grandma2-manual-vault/actions/workflows/sync.yml)
+[![Quartz site](https://img.shields.io/website?url=https%3A%2F%2Fthisis-romar.github.io%2Fgrandma2-manual-vault&label=Quartz%20site&up_message=live&down_message=down)](https://thisis-romar.github.io/grandma2-manual-vault)
+
 A standalone, self-contained Obsidian knowledge vault: the complete
 [grandMA2 User Manual](https://help.malighting.com/grandMA2/en/help/) as interlinked notes —
 browsable on GitHub and publishable as a static site. The scripts only build, link, and validate
@@ -55,11 +59,21 @@ This repo serves the same vault through three surfaces. **You only ever edit `ma
 two are regenerated automatically on every push by
 [`.github/workflows/sync.yml`](.github/workflows/sync.yml).
 
-| Branch | Audience & context | Link format | Edit here? |
-|---|---|---|---|
-| **`main`** | Source of truth — clone & open in **Obsidian** | `[[wikilinks]]` | ✅ yes |
-| **`github-browse`** | Read clickable on **GitHub** (auto-generated mirror) | relative `.md` links | ❌ no — overwritten each sync |
-| **`gh-pages`** | The published **Quartz website** (search + graph) | rendered HTML | ❌ no — built from `main` |
+```mermaid
+flowchart LR
+    main(["main<br/>source of truth · [[wikilinks]]<br/>✏️ edit here"])
+    gb(["github-browse<br/>relative .md links<br/>🔒 auto · do not edit"])
+    ghp(["gh-pages<br/>Quartz website<br/>🔒 auto · do not edit"])
+    main -->|"sync.yml · convert-links.js"| gb
+    main -->|"sync.yml · Quartz build"| ghp
+    click ghp "https://thisis-romar.github.io/grandma2-manual-vault" _blank
+```
+
+| Branch | Audience & context | Link format | Edit here? | Status |
+|---|---|---|---|---|
+| [**`main`**](https://github.com/thisis-romar/grandma2-manual-vault/tree/main) | Source of truth — clone & open in **Obsidian** | `[[wikilinks]]` | ✅ yes | [![CI](https://github.com/thisis-romar/grandma2-manual-vault/actions/workflows/ci.yml/badge.svg)](https://github.com/thisis-romar/grandma2-manual-vault/actions/workflows/ci.yml) |
+| [**`github-browse`**](https://github.com/thisis-romar/grandma2-manual-vault/tree/github-browse) | Read clickable on **GitHub** (auto-generated mirror) | relative `.md` links | ❌ no — overwritten each sync | [![Sync Branches](https://github.com/thisis-romar/grandma2-manual-vault/actions/workflows/sync.yml/badge.svg)](https://github.com/thisis-romar/grandma2-manual-vault/actions/workflows/sync.yml) |
+| [**`gh-pages`**](https://github.com/thisis-romar/grandma2-manual-vault/tree/gh-pages) | The published **Quartz website** (search + graph) | rendered HTML | ❌ no — built from `main` | [site ↗](https://thisis-romar.github.io/grandma2-manual-vault) |
 
 ---
 
