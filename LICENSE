@@ -1,0 +1,45 @@
+grandMA2 Manual Vault — Licensing & Attribution
+================================================
+
+Two distinct rights layers apply to this repository. Read both.
+
+
+1. Original vault work — Creative Commons Attribution 4.0 (CC BY 4.0)
+--------------------------------------------------------------------
+
+The original, copyrightable contributions of this repository — its note
+structure, wikilink graph, frontmatter taxonomy, the `.brain/manifest.yaml`
+vault spec, the `scripts/` tooling, and the curation and organization of the
+material — are licensed by the repository owner under the Creative Commons
+Attribution 4.0 International License (CC BY 4.0).
+
+You are free to share and adapt this original work, for any purpose, provided
+you give appropriate credit, link to the license, and indicate if changes were
+made.
+
+  Full legal code:        https://creativecommons.org/licenses/by/4.0/legalcode
+  Human-readable summary: https://creativecommons.org/licenses/by/4.0/
+
+  Attribution: "grandMA2 Manual Vault" by thisis-romar (Emblem Projects) —
+  https://github.com/thisis-romar/grandma2-manual-vault
+
+
+2. grandMA2 User Manual content — © MA Lighting, NOT sublicensed here
+---------------------------------------------------------------------
+
+The note *content* in this vault is extracted and reformatted from the grandMA2
+User Manual published at https://help.malighting.com/grandMA2/en/help/. That
+underlying manual text, imagery, and command reference are the copyright of
+MA Lighting Technology GmbH and/or its licensors.
+
+Those rights are NOT granted by this repository and are NOT covered by the
+CC BY 4.0 license in section 1 above. This vault reproduces and reorganizes that
+material as a reference and study aid only; it claims no ownership of the
+manual's content and grants no rights in it.
+
+"grandMA2" and "MA Lighting" are trademarks of MA Lighting Technology GmbH.
+This project is an independent, unofficial resource and is not affiliated with,
+endorsed by, or sponsored by MA Lighting Technology GmbH.
+
+If you are a rights holder with concerns about this reproduction, please open an
+issue and we will respond promptly.

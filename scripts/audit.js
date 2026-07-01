@@ -24,7 +24,7 @@ const VAULT_ROOT = process.argv[2]
 
 const IGNORE_DIRS = new Set(['.git', '.github', 'node_modules', 'scripts', '.obsidian', '_quartz']);
 // Root-level docs that are not vault notes:
-const NON_NOTES = new Set(['README.md', 'CLAUDE.md']);
+const NON_NOTES = new Set(['README.md', 'CLAUDE.md', 'CONTRIBUTING.md']);
 
 const REQUIRED_FOLDERS = ['Sections', 'Pages', 'Keywords', 'Keys', 'QuickStart'];
 const REQUIRED_MOC = ['000 Map of Content.md', '000 Keyword Index.md', '000 Key Index.md'];
