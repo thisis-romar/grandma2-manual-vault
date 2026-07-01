@@ -36,5 +36,11 @@
     "husky": "^9.1.7",
     "lint-staged": "^17.0.7",
     "prettier": "^3.8.4"
+  },
+  "dependencies": {
+    "cheerio": "^1.2.0",
+    "gray-matter": "^4.0.3",
+    "p-limit": "^7.3.0",
+    "turndown": "^7.2.4"
   }
 }
